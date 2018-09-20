@@ -10,4 +10,4 @@ pre = "<b>2. </b>"
 
 # Erste Schritte
 
-In diesem Kapitel gibt es wertvolle Tipps zum einfachen Einstieg ins Spiel.
+In diesem Kapitel gibt es wertvolle Tipps zum einfachen Einstieg ins Spiel...

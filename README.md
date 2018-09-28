@@ -57,7 +57,7 @@ Use the fork button to create your own fork of the documentation:
 
 Now you can checkout your copy using the URL provided by GitHub:
 
-![clone](static/images/contribute/fork.png)
+![clone](static/images/contribute/clone.png)
 
 ### Build and run the documentation
 

@@ -1,6 +1,5 @@
----
-title: "Willkommen"
-date: 2018-09-18T17:06:00+02:00
+﻿---
+title: "Handbuch"
 ---
 
 # Willkommen im AirlineSim wiki!

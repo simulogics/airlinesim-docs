@@ -1,6 +1,6 @@
 baseURL = "https://airlinesim.aero/wiki"
 languageCode = "en-us"
-title = "AirlineSim Wiki"
+title = "AirlineSim Handbook"
 theme = "learn"
 
 [frontmatter]
@@ -46,17 +46,17 @@ defaultContentLanguageInSubdir= true
 
 [Languages]
 [Languages.en]
-title = "AirlineSim Wiki"
+title = "AirlineSim Handbook"
 weight = 1
 languageName = "English"
 
 [Languages.de]
-title = "AirlineSim Wiki"
+title = "AirlineSim Handbuch"
 weight = 2
 languageName = "Deutsch"
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-edit'></i> How to contribute"
+name = "<i class='fas fa-edit'></i> Contribute!"
 url = "/contribute"
 weight = 99
 

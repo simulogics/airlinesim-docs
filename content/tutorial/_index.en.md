@@ -1,12 +1,10 @@
-+++
+﻿+++
 title = "Tutorial"
 weight = 10
 chapter = true
 pre = "<b>1. </b>"
 +++
 
-### Chapter 2
+### First steps in AirlineSim
 
-# First Steps
-
-Lorem Ipsum. Schalalala
+We are currently creating a new tutorial for AirlineSim.

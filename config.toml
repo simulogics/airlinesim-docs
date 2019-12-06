@@ -57,10 +57,10 @@ languageName = "Deutsch"
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-edit'></i> Contribute!"
-url = "/contribute"
+url = "https://github.com/simulogics/airlinesim-docs#how-to-contribute-to-the-documentation"
 weight = 99
 
 [[Languages.de.menu.shortcuts]]
 name = "<i class='fas fa-edit'></i> Mitmachen!"
-url = "/contribute"
+url = "https://github.com/simulogics/airlinesim-docs#how-to-contribute-to-the-documentation"
 weight = 99

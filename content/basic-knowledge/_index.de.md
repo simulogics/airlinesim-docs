@@ -5,8 +5,5 @@ chapter = true
 pre = "<b>3. </b>"
 +++
 
-### Kapitel 1
 
-# Allgemeines
-
-Dieses Kapitel enthält Allgemeines rund ums Spiel, insbesondere die Spielregeln!
+Dieses Kapitel enthält Informationen und Erklärungen zu den einzelnen Spielfunktionen.

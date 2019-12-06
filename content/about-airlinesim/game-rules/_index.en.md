@@ -1,9 +1,13 @@
----
+﻿---
 title: "Game rules"
+weight: 20
+pre: "<b>2.2 </b>"
 ---
 
 
 AirlineSim is an aviation-related, strategic online business simulation, built to entertain and play against other real life players. Each player is doing this in their spare time, to be entertained and to compete with other players in a fair and friendly competition.
+
+## General Rules
 
 1 Introduction
 1.1 Definitions In Context of the Rules
@@ -74,7 +78,7 @@ Ticket prices must be at least the same as the direct cost, it is prohibited to 
 
 
 
-AirlineSim Company Naming Rules
+## Company Naming Rules
 At AirlineSim, we strive for an authentic and realistic gaming experience. We ask our players to support us in achieving this goal by choosing appropriate names for their holdings and enterprises within the game.
 
 The naming rules are split into two parts:
@@ -110,14 +114,3 @@ Use correct spelling. We reserve the right to correct misspelled names.
 Avoid names which are similar to existing companies of other players in the same game world.
 Avoid silly/gibberish names, abbreviations or deterministic composite names (such as GermanInternationalOutOfFrankfurtOnlyToSouthernItalyAirlines).
 Consider the language of the home country of your business when choosing a name and avoid the mixing of different languages.
-
-
-
-
-
-Forbidden Routes
-On certain routes it is not allowed to operate flights in AirlineSim. This is typically due to one of these reasons:
-
-Between countries: Political restrictions apply in the real world and are modelled in-game as well.
-Between airports: Flights within the same city (so-called intra-city flights) are prohibited in AirlineSim.
-You can find all affected routes in the lists below.

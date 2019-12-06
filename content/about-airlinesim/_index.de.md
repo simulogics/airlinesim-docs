@@ -1,5 +1,5 @@
 ﻿+++
-title = "Über AirlineSim"
+title = "Uber AirlineSim"
 weight = 20
 chapter = true
 pre = "<b>2. </b>"
@@ -7,6 +7,4 @@ pre = "<b>2. </b>"
 
 ### Über AirlineSim
 
-# Allgemeines
-
-Hier gibt es grundsätzliche Informationen zu Bezahlung, Support und Spielwelten.
+In diesem Kapitel finden Sie einen Überblick über die Zahlungsweise, die Spielregeln, die Spielwelten und andere grundlegende Informationen über AirlineSim.

@@ -1,12 +1,10 @@
-+++
+﻿+++
 title = "About AirlineSim"
 weight = 20
 chapter = true
 pre = "<b>2. </b>"
 +++
 
-### Chapter 1
+### About AirlineSim
 
-# General
-
-Lorem Ipsum.
+In this chapter, you will find an overview of payment, game rules, game worlds and other basic information about AirlineSim.

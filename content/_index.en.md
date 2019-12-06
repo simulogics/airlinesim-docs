@@ -1,9 +1,10 @@
----
+﻿---
 title: "Handbook"
 ---
 
-# Welcome to the AirlineSim wiki!
+# Welcome to the new AirlineSim Handbook!
 
-### About this wiki
+Here we are building the replacement for our old wiki, to provide you with up-to-date information about the game and offer a new tutorial as well.
+All content will be added gratually and is still work in progress at the moment.
 
-### Contributions are welcome
+You are welcome to contribute to this project!

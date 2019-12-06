@@ -1,12 +1,11 @@
-+++
+﻿+++
 title = "Tutorial"
 weight = 10
 chapter = true
 pre = "<b>1. </b>"
 +++
 
-### Kapitel 2
 
-# Erste Schritte
+### Erste Schritte in AirlineSim
 
-In diesem Kapitel gibt es wertvolle Tipps zum einfachen Einstieg ins Spiel...
+An dieser Stelle entsteht ein neues Tutorial für AirlineSim.

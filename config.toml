@@ -1,4 +1,4 @@
-baseURL = "https://airlinesim.aero/wiki"
+baseURL = "https://handbook.airlinesim.aero/"
 languageCode = "en-us"
 title = "AirlineSim Handbook"
 theme = "learn"
@@ -20,7 +20,7 @@ home = [ "HTML", "RSS", "JSON"]
   # Author of the site, will be used in meta information
   author = ""
   # Description of the site, will be used in meta information
-  description = "AirlineSim Wiki"
+  description = "AirlineSim Handbook"
   # Shows a checkmark for visited pages on the menu
   showVisitedLinks = false
   # Disable search function. It will hide search bar

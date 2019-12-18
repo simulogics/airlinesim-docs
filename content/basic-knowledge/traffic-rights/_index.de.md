@@ -33,64 +33,64 @@ Hier ist eine vollständige Liste der verschiedenen Listen, die verwendet werden
 
 | Country | List A | List B | List C |
 | --- | --- | --- | --- |
-| Angola | included | included | included |
-| Argentina | included | included | not included |
-| Azerbaijan | included | included | included |
-| Bahamas | included | included | included |
-| Barbados | included | included | included |
-| Benin | included | included | included |
-| Cambodia | included | included | included |
-| Cameroon | included | included | included |
-| Chad | included | included | included |
-| Colombia | included | included | not included |
-| Costa Rica | included | included | not included |
-| Djibouti | included | included | included |
-| Dominica | included | included | included |
-| Dominican Republic | included | included | not included |
-| Ecuador | included | included | not included |
-| Gambia | included | included | included |
-| Georgia | included | included | included |
-| Grenada | included | included | included |
-| Guatemala | included | included | included |
-| Guinea-Bissau | included | included | included |
-| Honduras | included | included | included |
-| Iraq | included | included | included |
-| Ivory Coast | included | included | included |
-| Kazakhstan | included | included | not included |
-| Kenya | included | included | not included |
-| Kyrgyzstan | included | included | included |
-| Kuwait | included | included | included |
-| Laos | included | included | included |
-| Lebanon* | included | included | included |
-| Moldova | included | included | included |
-| Mongolia | included | included | included |
-| New Zealand | included | not included | not included |
-| Niger | included | included | included |
-| Pakistan | included | included | not included |
-| Panama | included | included | not included |
-| Papua New Guinea | included | included | included |
-| Paraguay | included | included | included |
-| Qatar | included | included | not included |
-| Solomon Islands | included | included | included |
-| Samoa | included | included | included |
-| Senegal | included | included | included |
-| Sao Tome and Principe | included | included | included |
-| Sierra Leone | included | included | included |
-| Somalia | included | included | included |
-| St. Kitts and Nevis | included | included | included |
-| St. Lucia | included | included | included |
-| St. Vincent | included | included | included |
-| Sudan | included | included | included |
-| Swaziland | included | included | included |
-| Tanzania | included | included | not included |
-| Togo | included | included | included |
-| Tonga | included | included | included |
-| Trinidad and Tobago | included | included | included |
-| Tuvalu | included | included | included |
-| Uganda | included | included | included |
-| Ukraine | included | included | not included |
-| Uzbekistan | included | included | included |
-| Zambia | included | included | included |
+| Angola | enthalten | enthalten | enthalten |
+| Argentina | enthalten | enthalten | nicht enthalten |
+| Azerbaijan | enthalten | enthalten | enthalten |
+| Bahamas | enthalten | enthalten | enthalten |
+| Barbados | enthalten | enthalten | enthalten |
+| Benin | enthalten | enthalten | enthalten |
+| Cambodia | enthalten | enthalten | enthalten |
+| Cameroon | enthalten | enthalten | enthalten |
+| Chad | enthalten | enthalten | enthalten |
+| Colombia | enthalten | enthalten | nicht enthalten |
+| Costa Rica | enthalten | enthalten | nicht enthalten |
+| Djibouti | enthalten | enthalten | enthalten |
+| Dominica | enthalten | enthalten | enthalten |
+| Dominican Republic | enthalten | enthalten | nicht enthalten |
+| Ecuador | enthalten | enthalten | nicht enthalten |
+| Gambia | enthalten | enthalten | enthalten |
+| Georgia | enthalten | enthalten | enthalten |
+| Grenada | enthalten | enthalten | enthalten |
+| Guatemala | enthalten | enthalten | enthalten |
+| Guinea-Bissau | enthalten | enthalten | enthalten |
+| Honduras | enthalten | enthalten | enthalten |
+| Iraq | enthalten | enthalten | enthalten |
+| Ivory Coast | enthalten | enthalten | enthalten |
+| Kazakhstan | enthalten | enthalten | nicht enthalten |
+| Kenya | enthalten | enthalten | nicht enthalten |
+| Kyrgyzstan | enthalten | enthalten | enthalten |
+| Kuwait | enthalten | enthalten | enthalten |
+| Laos | enthalten | enthalten | enthalten |
+| Lebanon* | enthalten | enthalten | enthalten |
+| Moldova | enthalten | enthalten | enthalten |
+| Mongolia | enthalten | enthalten | enthalten |
+| New Zealand | enthalten | nicht enthalten | nicht enthalten |
+| Niger | enthalten | enthalten | enthalten |
+| Pakistan | enthalten | enthalten | nicht enthalten |
+| Panama | enthalten | enthalten | nicht enthalten |
+| Papua New Guinea | enthalten | enthalten | enthalten |
+| Paraguay | enthalten | enthalten | enthalten |
+| Qatar | enthalten | enthalten | nicht enthalten |
+| Solomon Islands | enthalten | enthalten | enthalten |
+| Samoa | enthalten | enthalten | enthalten |
+| Senegal | enthalten | enthalten | enthalten |
+| Sao Tome and Principe | enthalten | enthalten | enthalten |
+| Sierra Leone | enthalten | enthalten | enthalten |
+| Somalia | enthalten | enthalten | enthalten |
+| St. Kitts and Nevis | enthalten | enthalten | enthalten |
+| St. Lucia | enthalten | enthalten | enthalten |
+| St. Vincent | enthalten | enthalten | enthalten |
+| Sudan | enthalten | enthalten | enthalten |
+| Swaziland | enthalten | enthalten | enthalten |
+| Tanzania | enthalten | enthalten | nicht enthalten |
+| Togo | enthalten | enthalten | enthalten |
+| Tonga | enthalten | enthalten | enthalten |
+| Trinidad and Tobago | enthalten | enthalten | enthalten |
+| Tuvalu | enthalten | enthalten | enthalten |
+| Uganda | enthalten | enthalten | enthalten |
+| Ukraine | enthalten | enthalten | nicht enthalten |
+| Uzbekistan | enthalten | enthalten | enthalten |
+| Zambia | enthalten | enthalten | enthalten |
 
 *Gilt nicht für Holdinggesellschaften mit Sitz in Israel.
 
@@ -102,5 +102,5 @@ Andere Strecken zwischen bestimmten Flughäfen, die die gleiche Region bedienen,
 
 Gehe zu **Datenbank > Verbotene Routen** auf deiner Spielwelt, um eine Liste aller Einschränkungen zu finden.
 
-Bitte beachten Sie für unsere Spielwelt **Devau**, dass dort Einschränkungen zwischen Flughäfen aufgrund einer speziellen Konfiguration der Spielwelt ohne Bodennetze nicht gelten.
+Bitte beachte für unsere Spielwelt **Devau**, dass dort Einschränkungen zwischen Flughäfen aufgrund einer speziellen Konfiguration der Spielwelt ohne Verkehrsverbünde nicht gelten.
 

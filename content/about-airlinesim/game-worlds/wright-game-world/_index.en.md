@@ -8,7 +8,7 @@ pre: "<b>2.3.1 </b>"
 1990 to 2002.
 
 ## Aircraft types
-We have only included start or end dates for aircraft production, if the are in the relevant 1990 to 2002 time frame.
+We have only included start or end years for aircraft production, if the are in the relevant 1990 to 2002 time frame.
 
 | Code | Aircraft type                               | Start      | End      |
 |------|---------------------------------------------|------------|----------|

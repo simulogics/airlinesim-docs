@@ -10,7 +10,7 @@ pre: "<b>2.3.1 </b>"
 ## Flugzeugtypen
 Wir haben nur Start- und Endjahre für die Flugzeugproduktion aufgelistet, sofern diese auch in den relevanten Zeitraum von 1990 bis 2002 fallen.
 
-| Code | Aircraft type                               | Start      | End      |
+| Code | Flugzeugytp                                 | Start      | Ende     |
 |------|---------------------------------------------|------------|----------|
 | AB6  | Airbus A300-600                             | --         | --       |
 | ABY  | Airbus A300-600F                            | --         | --       |

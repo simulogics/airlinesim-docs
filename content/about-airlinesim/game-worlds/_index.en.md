@@ -43,4 +43,4 @@ Here you can find all the configurations details about our game worlds.
 | Idlewild | Oct 2007 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | -- |
 | Kaitak | Aug 2007 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | -- |
 
-*Please be reminded, that multiple holdings being allowed in a game world, still requires your to use **only one user account**. Otherwise you'd be acting against the game rules.
+*Please be reminded, that multiple holdings being allowed in a game world, still requires you to use **only one user account**. Otherwise you'd be acting against the game rules.

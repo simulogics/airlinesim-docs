@@ -4,8 +4,11 @@ weight: 30
 pre: "<b>2.3.1 </b>"
 ---
 
-## Allgemein
-1990 bis 2002.
+## Allgemeine Informationen
+Diese Spielwelt führt durch die Zeitspanne von 1990 bis 2002. Der Zeitverlauf ist beschleunigt, so dass vier Wochen Echtzeit einem Jahr Zeitforschritt im Spiel entsprechen. Die normalen Abläufe im Spiel laufen allerdings weiterhin in Echtzeit (wie auf anderen Spielwelten).
+
+Der Zeitverlauf beeinflusst die Verfügbarkeit von Flugzeugtypen sowie die Alterung und damit die Wartungskosten.
+
 
 ## Flugzeugtypen
 Wir haben nur Start- und Endjahre für die Flugzeugproduktion aufgelistet, sofern diese auch in den relevanten Zeitraum von 1990 bis 2002 fallen.

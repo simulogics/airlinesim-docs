@@ -4,8 +4,11 @@ weight: 30
 pre: "<b>2.3.1 </b>"
 ---
 
-## General
-1990 to 2002.
+## General information
+This game world plays through the time span of 1990 to 2002. The time progression is accelatrated, so that four weeks of real time equal one year of time advancement in-game. The standard game routine still runs in real time, though (as on other game worlds).
+
+The time progression affects aircraft availability and ageing and thereby maintencance ccosts.
+
 
 ## Aircraft types
 We have only included start or end years for aircraft production, if the are in the relevant 1990 to 2002 time frame.

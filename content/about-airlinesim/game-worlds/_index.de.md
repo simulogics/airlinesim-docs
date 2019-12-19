@@ -44,3 +44,4 @@ Hier findest du alle Konfigurationsdetails zu unseren Spielwelten.
 | Idlewild | Okt 2007 | -- | 6 Credits | 4 Credits | Ver. 1 | statisch | Ver. 1 | -- |
 | Kaitak | Aug 2007 | -- | 6 Credits | 4 Credits | Ver. 1 | statisch | Ver. 1 | -- |
 
+*Bitte denkt daran, dass die Möglichkeit weiterer Holdings auf der gleichen Spielwelt trotzdem bedeutet, dass **nur ein Account** verwendet werden darf. Andernfalls wäre dies ein Verstoß gegen die Spielregeln.

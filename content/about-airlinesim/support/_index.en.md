@@ -1,7 +1,7 @@
 ﻿---
 title: "Support"
 weight: 50
-pre: "<b>2.4 </b>"
+pre: "<b>2.5 </b>"
 ---
 
 There are various channels available to you, in case you need help or have want to send us information.

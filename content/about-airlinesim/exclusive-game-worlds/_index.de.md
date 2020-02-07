@@ -1,5 +1,5 @@
 ﻿---
-title: "Exlusive Spielwelten"
+title: "Exklusive Spielwelten"
 weight: 40
 pre: "<b>2.4 </b>"
 ---

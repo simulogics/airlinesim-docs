@@ -22,6 +22,7 @@ Here you can find all the configurations details about our game worlds.
 
 | Game World | Opened | Ends | First Holding | Additional Holding | Standard pricing formula | Turnarounds | ORS Version | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Domination VI | Mar 2020 | 20th Sept 2020 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | Worldwide traffic rights, new relative demand data |
 | Otto VI | Feb 2020 | 7th Dec 2020 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | New relative demand data |
 | Wright | Dec 2019 | 17th Dec 2020 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | Historic game world, new relative demand data |
 | Yeager III | Dec 2019 | 6th Oct 2020 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | New relative demand data |

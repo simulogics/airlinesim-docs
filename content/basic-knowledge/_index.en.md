@@ -6,4 +6,4 @@ pre = "<b>3. </b>"
 +++
 
 
-This capter contains information and explanations about the different game features.
+This chapter contains information and explanations about the different game features.

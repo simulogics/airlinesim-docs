@@ -10,12 +10,14 @@ AirlineSim is an aviation-related, strategic online business simulation, built t
 ## General Rules
 
 1 Introduction
+
 1.1 Definitions In Context of the Rules
 AirlineSim website - All areas of the website ending in airlinesim.aero, this includes forums, game worlds, private messages and in-game message.
 Account - The account/username set up on joining.
 Holding - Your primary company in a game world, this will define your traffic rights.
 Enterprise - Subsidiary of a holding.
 Holiday Replacement - A user allows another user to access their account for the purposes of looking after it while unavailable
+
 1.2 Breach Of Rules (ie. Cheating)
 Any player in breach of the rules laid out below may be punished. Punishments can, but are not limited to, removal of in game resources (cash, aircraft, equity etc), removal of accounts, or banning from game worlds.
 

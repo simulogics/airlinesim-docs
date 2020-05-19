@@ -12,7 +12,7 @@ This is the main place for communication between players of AirlineSim. Go brows
 
 ## Discord
 Our Discord channel is the easiest place for you to find quick help from other users for any game-play questions you may have.
-There are both Englisch and German text and voice channles available.
+There are both English, German and French text and voice channles available.
 
 
 ## Support tickets

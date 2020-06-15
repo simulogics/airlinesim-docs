@@ -1,4 +1,4 @@
----
+﻿---
 title: "Spielwelten"
 weight: 30
 pre: "<b>2.3 </b>"
@@ -23,6 +23,7 @@ Hier findest du alle Konfigurationsdetails zu unseren Spielwelten.
 
 | Spielwelt | Gestartet | Endet | Erste Holding | Weitere Holding | Standardpreisformel | Turnarounds | ORS-Version | Anmerkungen |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bleriot| Apr 2020 | 23. Feb 2021 | 4 Credits | 2 Credits| Ver.3 | dynamisch | Ver.2 | Neue Flughafendaten, neue relative Aufkommensdaten |
 | Domination | Mär 2020 | 20. Sept 2020 | 4 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Weltweite Verkehrsrechte, neue relative Aufkommensdaten |
 | Otto VI | Feb 2020 | 7. Dez 2020 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Neue relative Aufkommensdaten |
 | Wright | Dez 2019 | 17. Dez 2020 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Historische Spielwelt, neue relative Aufkommensdaten |

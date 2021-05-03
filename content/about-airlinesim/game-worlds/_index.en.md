@@ -22,14 +22,13 @@ Here you can find all the configurations details about our game worlds.
 
 | Game World | Opened | Ends | First Holding | Additional Holding | Standard pricing formula | Turnarounds | ORS Version | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Quimby XI | Apr 2021 | 25th Feb 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | -- |
+| Bleriot II | Feb 2021 | 20th Dec 2021 | 4 credits | 2 credits | Ver.3 | dynamic | Ver.2 | -- |
 | Otto VII | Dec 2020 | 7th Dec 2021 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | -- |
 | Limatambo | Dec 2020 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 2 | -- |
 | Domination II | Nov 2020 | 5th Nov 2021 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | Global investments allowed with full traffic rights |
 | Yeager IV | Oct 2020 | 6th Aug 2021 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | -- |
 | Junkers | Aug 2020 | 25th Jun 2021 | 4 credits | 2 credits | Ver.3 | dynamic | Ver.2 | -- |
-| Quimby X | Jun 2020 | 30th Apr 2021 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | -- |
-| Bleriot | Apr 2020 | 23rd Feb 2021 | 4 credits | 2 credits | Ver.3 | dynamic | Ver.2 | -- |
-| Wright | Dec 2019 | 17th Dec 2020 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | Historic game world (ended) |
 | Xiguan | Dec 2018 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 1 | -- |
 | Hoover | Dec 2017 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 1 | -- |
 | Riem | Feb 2015 | -- | 6 credits | 4 credits | Ver. 2 | static | Ver. 1 | Reduced demand |

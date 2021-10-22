@@ -78,7 +78,7 @@ Hier ist eine vollständige Liste der verschiedenen Listen, die verwendet werden
 | Sierra Leone | enthalten | enthalten | enthalten |
 | Somalia | enthalten | enthalten | enthalten |
 | St. Kitts and Nevis | enthalten | enthalten | enthalten |
-| St. Lucia | enthalten | enthalten | enthalten |
+| St. Lucia | enthalten | enthalten | nicht enthalten |
 | St. Vincent | enthalten | enthalten | enthalten |
 | Sudan | enthalten | enthalten | enthalten |
 | Swaziland | enthalten | enthalten | enthalten |

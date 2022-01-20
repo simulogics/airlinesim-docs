@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Traffic rights"
 weight: 51
 pre: "<b>3.1 </b>"

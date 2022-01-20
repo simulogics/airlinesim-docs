@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Traffic rights"
 weight: 55
 pre: "<b>3.1 </b>"
@@ -77,7 +77,7 @@ Here is a complete list of the different lists that are in use. Any new game wor
 | Sierra Leone | included | included | included |
 | Somalia | included | included | included |
 | St. Kitts and Nevis | included | included | included |
-| St. Lucia | included | included | included |
+| St. Lucia | included | included | not included |
 | St. Vincent | included | included | included |
 | Sudan | included | included | included |
 | Swaziland | included | included | included |

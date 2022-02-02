@@ -1,5 +1,6 @@
 ---
 title: "Game Concept"
+weight: 1
 ---
 
 # Game Concept

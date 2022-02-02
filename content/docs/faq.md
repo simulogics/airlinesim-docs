@@ -1,6 +1,5 @@
 ---
 title: "AirlineSim FAQ"
-bookFlatSection: true
 weight: 1
 ---
 

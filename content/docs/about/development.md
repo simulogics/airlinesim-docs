@@ -1,5 +1,6 @@
 ---
 title: "Game Development"
+weight: 2
 ---
 
 # Game Development

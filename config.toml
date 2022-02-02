@@ -1,7 +1,7 @@
 baseURL = "https://handbook.airlinesim.aero/"
 languageCode = "en-us"
 title = "AirlineSim Handbook"
-theme = "relearn"
+theme = "hugo-book"
 
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]

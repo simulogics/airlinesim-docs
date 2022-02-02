@@ -63,3 +63,5 @@ fabric.properties
 
 .idea/
 public/
+/.hugo_build.lock
+/resources/_gen/

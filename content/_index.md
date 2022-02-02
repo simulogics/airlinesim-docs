@@ -1,5 +1,6 @@
 ﻿---
 title: "Handbook"
+type: "docs"
 ---
 
 # Welcome to the new AirlineSim Handbook!

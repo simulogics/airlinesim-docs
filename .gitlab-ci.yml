@@ -38,3 +38,21 @@ deploy:
     - public
   only:
   - master
+
+deploy_preview:
+  stage: deploy
+  before_script:
+  - apk add rsync openssh
+  - mkdir "${HOME}/.ssh"
+  - echo "${SSH_PRIVATE_KEY}" > "${HOME}/.ssh/id_rsa"
+  - chmod 700 "${HOME}/.ssh/id_rsa"
+  - echo "${SSH_HOST_KEY}" > "${HOME}/.ssh/known_hosts"
+  script:
+  - hugo -b "https://handbook.preview.airlinesim.aero/" -D
+  - rsync -a --delete -e ssh public/ gitlab@handbook.preview.airlinesim.aero:/opt/gitlab/handbook.preview.airlinesim.aero/
+  artifacts:
+    paths:
+    - public
+  except:
+    - master
+    - staging

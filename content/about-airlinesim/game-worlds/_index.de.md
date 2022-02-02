@@ -1,4 +1,4 @@
----
+﻿---
 title: "Spielwelten"
 weight: 30
 pre: "<b>2.3 </b>"
@@ -23,11 +23,13 @@ Hier findest du alle Konfigurationsdetails zu unseren Spielwelten.
 
 | Spielwelt | Gestartet | Endet | Erste Holding | Weitere Holding | Standardpreisformel | Turnarounds | ORS-Version | Anmerkungen |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Domination | Mär 2020 | 20. Sept 2020 | 4 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Weltweite Verkehrsrechte, neue relative Aufkommensdaten |
-| Otto VI | Feb 2020 | 7. Dez 2020 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Neue relative Aufkommensdaten |
-| Wright | Dez 2019 | 17. Dez 2020 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Historische Spielwelt, neue relative Aufkommensdaten |
-| Yeager III | Dez 2019 | 6. Okt 2020 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Neue relative Aufkommensdaten |
-| Quimby IX | Aug 2019 | 30. Jun 2020 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Neue relative Aufkommensdaten |
+| Quimby XI | Apr 2021 | 25. Feb 2022 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | -- |
+| Bleriot II | Feb 2021 | 20. Dez 2021 | 4 Credits | 2 Credits | Ver.3 | dynamisch | Ver.2 | -- |
+| Otto VII | Dez 2020 | 7th Dec 2021 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | -- |
+| Limatambo | Dez 2020 | -- | 6 credits | -- | Ver. 3 | dynamisch | Ver. 2 | -- |
+| Domination II | Nov 2020 | 5. Nov 2021 | 4 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Weltweite Investments mit vollen Verkehrsrechten möglich |
+| Yeager IV | Okt 2020 | 6. Aug 2021 | 4 Credits | 2 Credits | Ver. 3 | dynamic | Ver. 2 | -- |
+| Junkers | Aug 2020 | 25. Jun 2021 | 4 Credits | 2 Credits | Ver.3 | dynamisch | Ver.2 | -- |
 | Xiguan | Dez 2018 | -- | 6 Credits | -- | Ver. 3 | dynamisch | Ver. 1 | -- |
 | Hoover | Dez 2017 | -- | 6 Credits | -- | Ver. 3 | dynamisch | Ver. 1 | -- |
 | Riem | Feb 2015 | -- | 6 Credits | 4 Credits | Ver. 2 | statisch | Ver. 1 | Reduziertes Aufkommen |

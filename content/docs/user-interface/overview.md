@@ -5,7 +5,7 @@ weight: 1
 
 # Overview (Dashboard)
 
-Clicking on your company's name at the top left of the screen and selecting "Overview" will lead you to your dashboard.
+Clicking on your company's name at the top left of the screen and selecting *Overview* will lead you to your dashboard.
 
 ## Dashboard
 
@@ -13,13 +13,13 @@ The dashboard is separated into seven parts (also called widgets) - Company, Upc
 
 ### Company
 
-The Company widget displays the logo (if you uploaded one) as well as the most important information about the enterprise, such as its name, code, hub, home country, airline rating, fleet size and number of employees. By clicking on "Info page", you'll get to your company's Enterprise page.
+The Company widget displays the logo (if you uploaded one) as well as the most important information about the enterprise, such as its name, code, hub, home country, airline rating, fleet size and number of employees. By clicking on *Info page*, you'll get to your company's [Enterprise page](#enterprise).
 
 ### Upcoming Events
 
 In the Upcoming Events widget, you can see your fixed expenses and income of the next three days based on contracts and terminated events like aircraft deliveries. The week-end closing is the time when your financial period resets and when staff are paid.
 
-Please note that these events don't belong to the direct costs of a flight. To extend the list, click on "View complete financial schedule" or select "Cash Flow" in the Management tab.
+Please note that these events don't belong to the direct costs of a flight. To extend the list, click on *View complete financial schedule* or select *Cash Flow* in the Management tab.
 
 ### Notepad
 
@@ -27,7 +27,7 @@ This widget allows you to write down notes regarding your enterprise. You can se
 
 ### Stock
 
-If an enterprise makes an IPO, the Stock widget displays information such as the stock quote and an overview of the shareholders. Clicking on "IPO information" will lead you to a page showing the stock data in detail (which can also be accessed via "Corporate Finance" in the Management tab).
+If an enterprise makes an IPO, the Stock widget displays information such as the stock quote and an overview of the shareholders. Clicking on *IPO information* will lead you to a page showing the stock data in detail (which can also be accessed via *Corporate Finance* in the Management tab).
 
 ### Financial Rating
 
@@ -39,13 +39,13 @@ This widget displays your airline's current image regarding the three booking cl
 
 ### Subsidiaries
 
-In this widget, you'll find a list of all the subsidiaries you are controlling as the main shareholder. Further details on stocks can also be reviewed via "Subsidiaries & Portfolio" in the Management tab.
+In this widget, you'll find a list of all the subsidiaries you are controlling as the main shareholder. Further details on stocks can also be reviewed via *Subsidiaries & Portfolio* in the Management tab.
 
 ## Settings (General)
 
 ![General Settings](general_settings_01.png "General Settings")
 
-If you click on "Settings" right below the Overview option, you can edit the following details:
+If you click on *Settings* right below the Overview option, you can edit the following details:
 
 ### Public Information 
 

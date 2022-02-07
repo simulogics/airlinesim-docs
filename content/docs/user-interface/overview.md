@@ -3,11 +3,11 @@ title: "Company Overview"
 weight: 1
 ---
 
-# Overview (Dashboard)
+# Company Overview
 
-Clicking on your company's name at the top left of the screen and selecting *Overview* will lead you to your dashboard.
+Hovering over your company's name at the top left of the screen will provide you with several options regarding your enterprise.
 
-## Dashboard
+## Overview
 
 The dashboard is separated into seven parts (also called widgets) - Company, Upcoming Events, Notepad, Stock, Financial Rating, Image and Subsidiaries - and is a handy tool to look up some quick information regarding your company.
 
@@ -97,7 +97,7 @@ Use this menu to choose whether or not you want to receive email notifications w
 
 In this section, you can adjust the game's visuals by choosing between a Dark, Light and Classic theme. You can also define settings regarding color blindness accessibility as well as some other interface related options.
 
-## Creating and Removing Enterprises
+## Company Setup and Liquidation
 
 Underneath the settings, you have the option to create a new enterprise or to liquidate / reset your current one. If you choose a liquidation, all data of your enterprise will be irreversibly removed: All assets will be sold, buildings will be demolished, existing minority stakes will go to AirlineSim and majority stakes will lead to the deletion of the daughter enterprise. The shareholder will receive the remaining values divided by their share. Keep in mind that a reset is only possible for holdings (i.e. enterprises which belong to your account directly).
 

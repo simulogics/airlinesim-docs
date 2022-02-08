@@ -5,15 +5,15 @@ weight: 1
 
 # Company Overview
 
-Hovering over your company's name at the top left of the screen will provide you with several options regarding your enterprise.
+Hovering over your company's name at the top left of the screen provides you with several options regarding your enterprise.
 
 ## Overview
 
-The dashboard is separated into seven parts (also called widgets) - Company, Upcoming Events, Notepad, Stock, Financial Rating, Image and Subsidiaries - and is a handy tool to look up some quick information regarding your company.
+The dashboard is separated into seven parts (also called widgets) - Company, Upcoming Events, Notepad, Stock, Financial Rating, Image and Subsidiaries - and is a handy tool to look up quick information about your company.
 
 ### Company
 
-The Company widget displays the logo (if you uploaded one) as well as the most important information about the enterprise, such as its name, code, hub, home country, airline rating, fleet size and number of employees. By clicking on Info Page, you'll get to your company's [Enterprise page](#enterprise).
+The Company widget displays the logo (if you uploaded one) as well as the most important information about the enterprise, such as its name, code, hub, home country, airline rating, fleet size and number of employees. By clicking on Info Page, you can access your company's [Enterprise page](#enterprise).
 
 ### Upcoming Events
 
@@ -30,11 +30,11 @@ This widget allows you to write down notes regarding your enterprise. You can se
 
 ### Stock
 
-If an enterprise makes an IPO, the Stock widget displays information such as the stock quote and an overview of the shareholders. Clicking on IPO Information will lead you to a page showing the stock data in detail (which can also be accessed via Corporate Finance in the Management tab).
+If an enterprise makes an IPO, the Stock widget displays information like the stock quote and an overview of the shareholders. Clicking on IPO Information leads you to a page showing the stock data in detail (which can also be accessed via Corporate Finance in the Management tab).
 
 ### Financial Rating
 
-This section shows a simplified version of your airline's economics: The cash flow indicates how much money the airline is making; the profit margin represents the amount of profit you earn in relation to the revenue. All the listed factors are summed up in the overall rating.
+This section shows a simplified version of your airline's economics: The Cash Flow indicates how much money the airline is making; the Profit Margin represents the amount of profit you earn in relation to the revenue. All the listed factors are summed up in the Overall Rating.
 
 ### Image
 
@@ -42,7 +42,7 @@ This widget displays your airline's current image regarding the three booking cl
 
 ### Subsidiaries
 
-In this widget, you'll find a list of all the subsidiaries you are controlling as the main shareholder. Further details on stocks can also be reviewed via Subsidiaries & Portfolio in the Management tab.
+In this widget, you'll find a list of all the subsidiaries you are controlling as the main shareholder. Further details on stocks can also be reviewed on the Subsidiaries & Portfolio page in the Management tab.
 
 ## Settings (General)
 
@@ -66,7 +66,7 @@ You can add a smaller version of your logo which will be displayed throughout th
 
 ![Game Settings](game_settings_01.png "Game Settings")
 
-Next to the general settings, you'll find another tab with game settings. This allows you to personalize AirlineSim by overwriting some of its global settings. A similar menu is available in the Settings tab on the top right of the screen.
+Next to the General Settings, you'll find another tab with Game Settings. This allows you to personalize AirlineSim by overwriting some of its global settings. A similar menu is available in the Settings tab on the top right of the screen.
 
 ### Time and Time Zones
 
@@ -74,7 +74,7 @@ You can choose whether the times in AirlineSim should be shown as the hub time, 
 
 ### Comfort Functions    
             
-The comfort functions allow you to determine whether the game should handle some tasks automatically. These can include:
+The Comfort Functions allow you to determine whether the game should handle some tasks automatically. These can include:
 
 * Picking a maintenance provider when a new enterprise is founded,
 * creating a default service profile when a new enterprise is founded,

@@ -36,7 +36,7 @@ Except for pilots, all employees are hired automatically when needed. However, y
 
 If you need to dismiss employees, enter the number of staff members into the text field of the Redundant personnel column.
 
-{{< hint danger >}}
+{{< hint warning >}}
 **Important**  
 Canceling work contracts requires you to make a redundancy payment equal to several weeks of default salary.
 {{< /hint >}}
@@ -85,7 +85,7 @@ The income statement lists all revenues and expenses of your company as well as 
 
 * EBITDA: Earnings before interest, taxes, depreciation and amortization. In AirlineSim, this includes all expenses from your regular operations, while mostly imputed costs like depreciation of flight equipment or purely financial figures like the cost of capital are not. There is also an Adjusted EBITDA which excludes irregular expenses.
 * EBIT: Earnings before interest and taxes. This is also called the Operative Result because it takes the depreciation of the equipment required to run your operations (like buildings and aircraft) into account and gives you an idea of how well the company did after subtracting all operative costs from the revenue.
-* EBT: Last but not least, these are the earnings before taxes. Since there are no taxes in AirlineSim (yet), this can be seen as the final result. It differs from the EBIT in that it also adds / subtracts the costs of capital (like interest) or earnings from asset deals (like stock trades). Therefore, it is also called the Financial Result.
+* EBT: Last but not least, these are the earnings before taxes. Since there are no taxes in AirlineSim (yet), this can be seen as the final result. It differs from the EBIT in that it also adds or subtracts the costs of capital (like interest) or earnings from asset deals (like stock trades). Therefore, it is also called the Financial Result.
 
 The balance sheet displays two tables: At the top, you get a profit and loss statement which is divided into an Expenses and an Earnings section. Both show the respective accounts (e.g. aircraft handling fees or leasing revenue) and their associated balance values. 
 

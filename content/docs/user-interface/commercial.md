@@ -34,7 +34,7 @@ This page offers an overview of the current market situation for the selected ai
 The market share section shows, quite simply, the market share of passenger and cargo transport you and competing airlines control. Above the chart, you can switch between the data for different weeks.
 
 {{< hint info >}}
-**Tip**  
+**Load Monitoring**  
 The primary purpose of the Market Analysis page is to keep an eye on the competition and to evaluate new markets. To monitor your own loads, use the Inventory or more specific tools like Load Monitoring.
 {{< /hint >}}
 

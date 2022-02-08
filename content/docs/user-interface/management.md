@@ -32,9 +32,9 @@ With the help of this menu, you can review and manage your employed staff. The p
 
 ![Employee Overview](employees_01.png "Employee Overview")
 
-Except for pilots, all employees are hired automatically when needed. However, you're able to change their salaries by typing the desired amount into the text field of the Next week's salary column. Be careful: The wages you pay affect your staff's friendliness and customer orientation and, ultimately, your company's image.
+Except for pilots, all employees are hired automatically when needed. However, you're able to change their salaries by typing the desired amount into the text field of the Next Week's Salary column. Be careful: The wages you pay affect your staff's friendliness and customer orientation and, ultimately, your company's image.
 
-If you need to dismiss employees, enter the number of staff members into the text field of the Redundant personnel column.
+If you need to dismiss employees, enter the number of staff members into the text field of the Redundant Personnel column.
 
 {{< hint warning >}}
 **Important**  
@@ -79,21 +79,20 @@ This menu provides information on your company's equity and debt. The Equity tab
 
 ### Accounting
 
-The accounting sheet is divided into three tabs: The income statement, the balance sheet and the bank account.
+The accounting sheet is divided into three tabs: The Income Statement, the Balance Sheet and the Bank Account.
 
-The income statement lists all revenues and expenses of your company as well as the final earnings. To provide more insight into your current financial situation, it structures the data into the following accounting measures:
+The Income Statement lists all revenues and expenses of your company as well as the final earnings. To provide more insight into your current financial situation, it structures the data into the following accounting measures:
 
 * EBITDA: Earnings before interest, taxes, depreciation and amortization. In AirlineSim, this includes all expenses from your regular operations, while mostly imputed costs like depreciation of flight equipment or purely financial figures like the cost of capital are not. There is also an Adjusted EBITDA which excludes irregular expenses.
 * EBIT: Earnings before interest and taxes. This is also called the Operative Result because it takes the depreciation of the equipment required to run your operations (like buildings and aircraft) into account and gives you an idea of how well the company did after subtracting all operative costs from the revenue.
 * EBT: Last but not least, these are the earnings before taxes. Since there are no taxes in AirlineSim (yet), this can be seen as the final result. It differs from the EBIT in that it also adds or subtracts the costs of capital (like interest) or earnings from asset deals (like stock trades). Therefore, it is also called the Financial Result.
 
-The balance sheet displays two tables: At the top, you get a profit and loss statement which is divided into an Expenses and an Earnings section. Both show the respective accounts (e.g. aircraft handling fees or leasing revenue) and their associated balance values. 
+The Balance Sheet displays two tables: At the top, you get a profit and loss statement which is divided into an Expenses and an Earnings section. Both show the respective accounts (e.g. aircraft handling fees or leasing revenue) and their associated balance values. Underneath, you can see your company's Assets (such as buildings or flight equipment) and Liabilities (like equity or loans).
 
-Underneath, you can see the balance sheet which is divided into Assets (such as buildings or flight equipment) and Liabilities (like equity or loans). Just like the statement above, it shows the associated accounts and balance data.
-
-The bank account tab lists your earnings and expenses along with their date, time and value.
+The Bank Account tab lists your earnings and expenses along with their date, time and value.
 
 ### Cash Flow
+
 On this page, you'll find an overview of your company's financial schedule which shows all earnings and expenses related to contracts, such as
 
 * leasing payments,
@@ -103,7 +102,7 @@ On this page, you'll find an overview of your company's financial schedule which
 * and dividends (if there was a successful IPO).
 
 The list also provides the next date and time for a payment. If it continues in the next period, only the first payment will be displayed.
-Earnings and expenses related to flights and maintenance won’t be included here since they will be paid once the services are done and don't have a fixed amount or time associated with them.
+Earnings and expenses related to flights and maintenance won't be included here since they will be paid once the services are done and don't have a fixed amount or time associated with them.
 
 ### Asset Management
 

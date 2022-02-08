@@ -17,7 +17,7 @@ The Fleet Management page shows your acquired aircraft and lets you organize the
 
 A new fleet can be created by using the button on the top right. On the left, you get a list of your existing fleets as well as the option to delete them. If a fleet is deleted, all its aircraft will be transferred to the standard fleet.
 
-By selecting the box next to an aircraft model, the *Actions* menu pops up. Here, you can assign cabin configurations and crew, transfer the aircraft, select which fleet it belongs to and activate, lock or delete its flight plan.
+By selecting the box next to an aircraft model, the Actions menu pops up. Here, you can assign cabin configurations and crew, transfer the aircraft, select which fleet it belongs to and activate, lock or delete its flight plan.
 
 The green book icon next to an aircraft model lets you view its contract or, if desired, offer it for sale or lease.
 

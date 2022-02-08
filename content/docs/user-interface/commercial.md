@@ -19,7 +19,7 @@ In the text field below the page title, you can quickly switch to another airpor
 
 ### Flight Numbers
 
-In this menu, you can review your airline's flight numbers, organize them in groups or create new ones. If you want to set up a new flight number, choose an origin and a destination in the menu on the left. Routes may also include a stopover (technical stop) known as a VIA flight which can be added in the *Via* section.
+In this menu, you can review your airline's flight numbers, organize them in groups or create new ones. If you want to set up a new flight number, choose an origin and a destination in the menu on the left. Routes may also include a stopover (technical stop) known as a VIA flight which can be added in the Via section.
 
 ### Route Evaluation
 
@@ -45,7 +45,7 @@ In the text field below the page title, you can quickly switch to another airpor
 
 ![Changing Ticket Prices](pricing_01.png "Changing Ticket Prices")
 
-Using this menu, you can easily adjust your ticket prices. Just select a route, a service profile and a class, enter the percentage of the price change and click on *Change price*. You can add or subtract a percentage of the standard or current price. Please keep in mind that your price has to be between 50% and 200% of the default price.
+Using this menu, you can easily adjust your ticket prices. Just select a route, a service profile and a class, enter the percentage of the price change and click on Change Price. You can add or subtract a percentage of the standard or current price. Please keep in mind that your price has to be between 50% and 200% of the default price.
 
 ### Inventory
 
@@ -87,10 +87,10 @@ The menu on the right allows you to create new service profiles and decide which
 
 The Interlining menu lets you set up interlining agreements with other enterprises. In order to do so, enter your partner company's name in the field on the right and click the button to send an offer.
 
-The administrative effort to maintain a network comes with a price, though. In the *Internal network* section, you can choose to either maintain a network and its associated cost, or to run your enterprise without any networking administration. Keep in mind that the latter may result in a demand and usage drop for some unpopular routes.
+The administrative effort to maintain a network comes with a price, though. In the Internal Network section, you can choose to either maintain a network and its associated cost, or to run your enterprise without any networking administration. Keep in mind that the latter may result in a demand and usage drop for some unpopular routes.
 
 ### New Alliance
 
 ![Founding Alliances](alliance_01.png "Founding Alliances")
 
-In order to create a new alliance, three founding members are needed - yourself and two other players. In the *New Alliance* tab, enter the name of the alliance, its headquarters and the names of your partners. An alliance is formed once all the founding members have agreed.
+In order to create a new alliance, three founding members are needed - yourself and two other players. In the New Alliance tab, enter the name of the alliance, its headquarters and the names of your partners. An alliance is formed once all the founding members have agreed.

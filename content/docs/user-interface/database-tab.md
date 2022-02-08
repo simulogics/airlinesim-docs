@@ -1,9 +1,9 @@
 ---
-title: "Database"
+title: "Database Tab"
 weight: 5
 ---
 
-# Database
+# Database Tab
 
 The database tab lets you access important game resources like different directories, the Online Reservation System (ORS) and the game rules.
 

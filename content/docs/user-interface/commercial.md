@@ -31,11 +31,11 @@ The Route Evaluation tool provides information regarding a route of your choice.
 
 This page offers an overview of the current market situation for the selected airport pair. That is, currently bookable flights (primarily of other airlines), seat capacity and price developments as well as the market shares of competing carriers. 
 
-The market share section shows, quite simply, the market share of passenger and cargo transport you and competing airlines control. Above the chart, you can switch between the data for different weeks.
+The Market Share section shows, quite simply, the market share of passenger and cargo transport you and competing airlines control. Above the chart, you can switch between the data for different weeks.
 
 {{< hint info >}}
 **Info**  
-The primary purpose of the Market Analysis page is to keep an eye on the competition and to evaluate new markets. To monitor your own loads, use the Inventory or more specific tools like Load Monitoring.
+The primary purpose of the Market Analysis page is to keep an eye on the competition and to evaluate new markets. To monitor your own loads, you can use the Inventory or Load Monitoring page.
 {{< /hint >}}
 
 Keep in mind that the flight availability of other airlines will only contain values up to 9: If the remaining capacity of the respective flight and class is higher than 9, 9 will be displayed. Otherwise, the value will represent the actual remaining capacity.
@@ -80,7 +80,7 @@ You can create as many configurations as you like. In order to set up a new cabi
 
 Here, you can manage the on-board service that is offered during your flights.
 
-The menu on the right allows you to create new service profiles and decide which food and non-food services you want to provide. On the left, you get a summary of your existing service profiles along with options to edit them or use them as default profiles.
+The menu on the right allows you to create new service profiles and decide which food and non-food services you want to provide. On the left, you get a summary of your existing service profiles along with the option to edit them or use them as default profiles.
 
 ## Business Development
 
@@ -90,7 +90,7 @@ The menu on the right allows you to create new service profiles and decide which
 
 The Interlining menu lets you set up interlining agreements with other enterprises. In order to do so, enter your partner company's name in the field on the right and click the button to send an offer.
 
-The administrative effort to maintain a network comes with a price, though. In the Internal Network section, you can choose to either maintain a network and its associated cost, or to run your enterprise without any networking administration. Keep in mind that the latter may result in a demand and usage drop for some unpopular routes.
+The administrative effort to maintain a network comes with a price, though. In the Internal Network section, you can choose to either maintain a network and its associated cost or to run your enterprise without any networking administration. Keep in mind that the latter may result in a demand and usage drop for some unpopular routes.
 
 ### New Alliance
 

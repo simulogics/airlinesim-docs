@@ -72,7 +72,7 @@ On a technical level, exclusive game worlds are identical to their public counte
 
 ### What exactly can I configure?
 
-Unless stated otherwise, exclusive game worlds have a maximum capacity of 25 accounts which are specified by the game world's owner and approved by support. The number of holdings is not limited, though. The support team can also provide any amount of money to the game world’s airlines, allowing them to have a faster start, for example.
+Unless stated otherwise, exclusive game worlds have a maximum capacity of 25 accounts which are specified by the game world's owner and approved by support. The number of holdings is not limited, though. The support team can also provide any amount of money to the game world's airlines, allowing them to have a faster start, for example.
 
 Additionally, the support staff can adjust the following settings according to your wishes:
 
@@ -107,6 +107,6 @@ An exclusive game world costs 360€ (including VAT) per 30 days. We require a n
 
 ![Ordering a Custom Server](exclusive_01.png "Ordering a Custom Server")
 
-You can place your order directly by logging into your account, navigating to the Dashboard and selecting 'Exclusive Game Worlds'.
+You can place your order directly by logging into your account, navigating to the Dashboard and selecting Exclusive Game Worlds.
 
 Once your purchase has been completed, we will set up your game world within 5 business days. If you have any questions concerning your order, please contact support.

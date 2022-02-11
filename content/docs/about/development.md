@@ -1,9 +1,9 @@
 ---
-title: "Game Development"
+title: "Development"
 weight: 2
 ---
 
-# Game Development
+# Development
 
 ## AirlineSim
 

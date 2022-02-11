@@ -15,6 +15,6 @@ In order to change your login email address, enter your new mail address in the 
 
 In case you want to change your account password, simply select Request Password Reset and you will receive an email with a password reset link.
 
-## Changing Notification Settings
+## Adjusting Notifications
 
 In the notification settings, you are able to select which types of email notifications you want to receive from us.

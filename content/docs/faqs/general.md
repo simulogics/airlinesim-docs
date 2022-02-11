@@ -1,9 +1,9 @@
 ---
-title: "AirlineSim FAQ"
+title: "General"
 weight: 1
 ---
 
-# AirlineSim FAQ
+# General
 
 ## What is AirlineSim about?
 

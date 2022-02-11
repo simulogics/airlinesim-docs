@@ -5,7 +5,7 @@ weight: 2
 
 # Deactivating an Account
 
-If you ever decide to close your account, please send a [support ticket]({{< ref "content/docs/about/support.md" >}} "Support") via email so we can deactivate the account for you.
+If you ever decide to close your account, please send a [support ticket]({{< ref "/builds/airlinesim/airlinesim-docs/content/docs/about/support.md" >}} "Support") via email so we can deactivate the account for you.
 
 {{< hint danger >}}
 **Warning**  

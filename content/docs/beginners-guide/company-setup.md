@@ -25,9 +25,9 @@ You will also be prompted to enter a code for your company. The code must contai
 
 ## Choosing a Country
 
-![Headquarters Selection](headquarters_01.png "Headquarters Selection")
-
 Next, let's determine your airline's headquarters. Keep in mind that the country you pick will influence the traffic rights that apply to your enterprise, so choose carefully. It may also affect your aircraft fleet: If you start an airline in a remote location, you will need big and expensive planes to connect your hub to the world unless you don’t mind limiting yourself to more regional routes. 
+
+![Headquarters Selection](headquarters_01.png "Headquarters Selection")
 
 In the beginning, it's recommendable to select a country with little competition so that your planes are easier to fill. If you're unsure about the situation in a specific country, review some of its existing companies by checking their ratings and general activity in the game. In regards to the city, it can be helpful to select a country's capital as it is usually a popular destination for passengers.
 

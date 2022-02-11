@@ -70,7 +70,7 @@ If you want to create another enterprise, just hover over the drop-down menu tha
 
 Next, you can specify if you want to found another holding or if you'd like create a subsidiary of your existing holding.
 
-{{< hint [info|warning|danger] >}}
+{{< hint warning >}}
 **Multiple Holdings**  
 Please note: Not every game world supports running multiple holdings. In doubt, check out the world's configuration here or on our blog. If multiple holdings are allowed, keep in mind that cooperation between them is forbidden by our game rules.
 {{< /hint >}}

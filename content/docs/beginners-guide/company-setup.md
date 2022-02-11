@@ -29,11 +29,18 @@ You will also be prompted to enter a code for your company. The code must contai
 
 Next, let's determine your airline's headquarters. Keep in mind that the country you pick will influence the traffic rights that apply to your enterprise, so choose carefully. It may also affect your aircraft fleet: If you start an airline in a remote location, you will need big and expensive planes to connect your hub to the world unless you don’t mind limiting yourself to more regional routes. 
 
-In the beginning, it's also recommendable to select a country with little competition so that your planes are easier to fill. If you're unsure about the situation in a specific country, review some of its existing companies by checking their ratings and general activity in the game. In regards to the city, it can be helpful to select a country's capital as it is usually a popular destination for passengers.
+In the beginning, it's recommendable to select a country with little competition so that your planes are easier to fill. If you're unsure about the situation in a specific country, review some of its existing companies by checking their ratings and general activity in the game. In regards to the city, it can be helpful to select a country's capital as it is usually a popular destination for passengers.
 
-When joining a game world that has already been running for some time, it can't hurt to take a look at the available slots of your desired airport. If you see a lot of orange and red, you may want to find another hub since slots are needed for landing and take off and play an important role in creating your flight schedule.
+When joining a game world that has already been running for some time, it can't hurt to take a look at the available slots of your desired airport. 
 
-Here are a few examples of different countries and their potential characteristics as hub locations:
+{{< hint info >}}
+**Airport Slots**  
+You can look up the slot distribution for a specific airport by typing its name into the game's search bar and navigating to the Slots tab of the airport's info page.
+{{< /hint >}}
+
+If you see a lot of orange and red, you may want to find another hub since slots are needed for landing and take off and play an important role in creating your flight schedule.
+
+To help you with your decision, here are a few examples of different countries and their potential characteristics as hub locations.
 
 ### Spain
 
@@ -51,12 +58,12 @@ Mexico provides a decent domestic market as it has many airports and only Mexica
 
 This is an example for a country that can be open to foreign investors.
 
+![Unrestricted Market Access](investment_open_01.png "Unrestricted Market Access")
+
 {{< hint info >}}
 **Investment-Open Countries**  
 Whether or not a country accepts foreign investments actually depends on the game world. You can check by navigating to the Countries section of the Database tab, selecting a country and looking at what it says under Unrestricted Market Access.
 {{< /hint >}}
-
-![Unrestricted Market Access](investment_open_01.png "Unrestricted Market Access")
 
 So, with Pakistan, you may think you found a country with a good domestic market and little local competition. However, if it's open to investors, every airline in the world can use it to create a subsidiary. What seemed like a quiet place at first may become more competitive as big airlines start looking for places to expand their business.
 
@@ -64,7 +71,7 @@ So, with Pakistan, you may think you found a country with a good domestic market
 
 Once you're happy with your company's name and headquarters, you can click on Found Enterprise. Congrats, you've just launched your first business!
 
-![Options for the New Enterprise](found_enterprise_01.png "Options for the New Enterprise")
+![Enterprise Options](found_enterprise_01.png "Enterprise Options")
 
 If you want to create another enterprise, just hover over the drop-down menu that has your airline's name on it and select Create New Enterprise. 
 

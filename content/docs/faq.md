@@ -9,7 +9,7 @@ weight: 1
 
 AirlineSim is a browser-based business simulation in which you can create your own virtual airline and compete for passengers in a market that operates in real time. See Game Concept for more details.
 
-## How much does AirlineSim cost?
+## How much does it cost?
 
 The game employs a pay-to-play payment system that requires the purchase of credits. If this is your first time playing AirlineSim, your new account will be equipped with 60 credits that cover a trial period of about two weeks. This way, you can try out the game for free! For more information on prices, visit Payment System.
 

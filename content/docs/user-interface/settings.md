@@ -1,6 +1,6 @@
 ---
 title: "Settings Tab"
-weight: 9
+weight: 5
 ---
 
 # Settings Tab

@@ -1,6 +1,6 @@
 ---
 title: "Community Tab"
-weight: 7
+weight: 3
 ---
 
 # Community Tab

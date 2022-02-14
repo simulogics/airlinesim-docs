@@ -1,2 +1,2 @@
 title: "Resources"
-weight: 1
+weight: 3

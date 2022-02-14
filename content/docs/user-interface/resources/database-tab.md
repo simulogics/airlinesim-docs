@@ -1,6 +1,6 @@
 ---
 title: "Database Tab"
-weight: 5
+weight: 1
 ---
 
 # Database Tab

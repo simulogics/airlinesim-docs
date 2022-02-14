@@ -1,6 +1,6 @@
 ---
 title: "Private Messages Tab"
-weight: 4
+weight: 5
 ---
 
 # Private Messages Tab

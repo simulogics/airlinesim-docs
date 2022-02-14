@@ -1,6 +1,6 @@
 ---
 title: "Management Tab"
-weight: 4
+weight: 3
 ---
 
 # Management Tab

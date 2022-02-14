@@ -1,2 +1,2 @@
 title: "Gameplay"
-weight: 1
+weight: 2

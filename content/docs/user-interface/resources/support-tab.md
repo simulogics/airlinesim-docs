@@ -1,6 +1,6 @@
 ---
 title: "Support Tab"
-weight: 6
+weight: 2
 ---
 
 # Support Tab

@@ -1,6 +1,6 @@
 ---
 title: "Operations Tab"
-weight: 3
+weight: 2
 ---
 
 # Operations Tab

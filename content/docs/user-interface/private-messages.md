@@ -1,8 +1,8 @@
 ---
-title: "Private Messages Tab"
+title: "Private Messages"
 weight: 5
 ---
 
-# Private Messages Tab
+# Private Messages
 
 Use this tab to access the in-game messages you have sent and received.

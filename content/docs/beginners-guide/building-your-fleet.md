@@ -114,7 +114,12 @@ If you want to order used machines, select Check Out Used Aircraft Offers at the
 
 The used market allows you to make an immediate purchase or place a bid using either cash, a credit or leasing as your financing type. Even though it may take a while, bidding is often advised as it is usually much cheaper.
 
-Each aircraft on the market is listed with some additional information:
+{{< hint warning >}}
+**Important**  
+If you place a bid, your money will remain tied up until the auction is finished. Keep in mind that the auction timer resets every time another bid is placed.
+{{< /hint >}}
+
+Each aircraft on the market is listed with additional information:
 
 * Owner: This shows you who owns the aircraft and who you will be leasing or buying it from. Oftentimes it will be the Aircraft Trade and Leasing Organization, a company run by the game itself.
 * Registration: The registration code of the aircraft.

@@ -53,16 +53,18 @@ The enterprise launching the IPO will always keep 80% of all shares, so 20% are 
 
 {{< details "Scenario A" open >}}
 **100% are signed, all by you:**
+
 If we continue with the example from above, you receive 25,000 shares at 100 AS$ per share in this scenario. The enterprise performing the IPO gets 2.5 million AS$, so you own 20% in the enterprise. The new overall book value for the enterprise will be 12.5 million AS$.
 {{< /details >}}
 
 {{< details "Scenario B" open >}}
 **200% are signed, by you and another company (B):**
+
 In this case, you receive 12,500 shares at 200 AS$ per share. So does B. The enterprise performing the IPO receives 5 million AS$ and you own 10% in the enterprise. The new overall book value for the enterprise will be 15 million AS$.
 {{< /details >}}
 
 {{< details "Scenario C" open >}}
-**250% are signed, by you (100%) and two other companies (B signs 100% and C 50%):**
+**250% are signed, by you and two other companies (you sign 100%, B 100% and C 50%):**
 
 You receive 10,000 shares (25,000 divided by 100% + 100% + 50%) at 200 AS$ and pay 2 million AS$ accordingly. The difference (500,000 AS$) will be refunded to your bank account.
 

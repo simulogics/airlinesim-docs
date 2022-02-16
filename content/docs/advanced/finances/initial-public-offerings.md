@@ -51,9 +51,10 @@ If the base share capital is 10 million AS$ (divided by 100 = 100,000 AS$ shares
 
 The enterprise launching the IPO will always keep 80% of all shares, so 20% are always to be distributed.
 
-Scenario A: 100% are signed, all by you:
-
+{{< details "Scenario A: 100% are signed, all by you:" open >}}
+## Title
 If we continue with the example from above, you receive 25,000 shares at 100 AS$ per share in this scenario. The enterprise performing the IPO gets 2.5 million AS$, so you own 20% in the enterprise. The new overall book value for the enterprise will be 12.5 million AS$.
+{{< /details >}}
 
 Scenario B: 200% are signed, by you and another holding or enterprise (B):
 

@@ -7,7 +7,7 @@ weight: 2
       
 Fuel isn't cheap. As in-game fuel follows real world prices, it's gradually getting more expensive. Every dollar you pay for fuel reduces your profit, so it's important to use the right plane for the right route.
 
-![Fuel Graph (Markets & Exchanges)](fuel_01.png "Fuel Graph")
+![Fuel Graph (Markets and Exchanges page)](fuel_01.png "Fuel Graph")
 
 In the game, the two main factors regarding fuel consumption are fuel per flight and fuel per kilometer.
 

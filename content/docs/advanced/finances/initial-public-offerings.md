@@ -63,6 +63,7 @@ In this case, you receive 12,500 shares at 200 AS$ per share. So does B. The ent
 
 {{< details "Scenario C" open >}}
 **250% are signed, by you (100%) and two other companies (B signs 100% and C 50%):**
+
 You receive 10,000 shares (25,000 divided by 100% + 100% + 50%) at 200 AS$ and pay 2 million AS$ accordingly. The difference (500,000 AS$) will be refunded to your bank account.
 
 The same goes for B, while C receives 5,000 shares at 200 AS$, paying 1 million AS$, getting a refund of 250,000 AS$. Your share in the new enterprise will be 8%. B also owns 8%, while C receives a share of 4%. The new overall book value for the enterprise will be 15 million AS$.

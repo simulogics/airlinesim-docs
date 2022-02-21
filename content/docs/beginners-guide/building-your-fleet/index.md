@@ -9,7 +9,7 @@ With your company set up, you probably want to start leasing or buying your firs
 
 ## Choosing Planes
     
-![An Airbus A350 XWB](plane-g205b04a8a_1920.jpg "An Airbus A350 XWB")
+![An Airbus A350 XWB](plane.jpg "An Airbus A350 XWB")
  
 First, it can be helpful to decide where you want your aircraft to fly to. With some possible routes in mind, you can get a better idea of what your fleet is going to look like.
 
@@ -47,8 +47,6 @@ Passenger preference: Older aircraft (especially if they are more than 20 years 
 
 ### Looking Up Aircraft
 
-![Aircraft Manufacturers](manufacturers_01.png "Aircraft Manufacturers")
-
 After giving the possible aircraft types some thought, you can start looking into their details by navigating to the Management tab and selecting Aircraft Manufacturers. This page shows you all the available aircraft types grouped by manufacturer.
 
 Selecting a type opens an overview of the related aircraft variants and their general data, displaying values like speed, range and maximum passengers. If you want to know more about one of the models, just click on it and its aircraft fact sheet will give you all of the relevant specifications.
@@ -63,7 +61,7 @@ Let's look at some of the sheet's data in detail:
 
 ### Performance Check Tool
 
-![Performance Check Tool](pct.png "Performance Check Tool")
+![Performance Check Tool](performance_check_tool.png "Performance Check Tool")
 
 If you want to see how an aircraft performs on a specific route, have a look at the Performance Check Tool at the bottom of the sheet's Technical Specification section. 
 
@@ -81,8 +79,6 @@ Speaking of fuel: Remember that fuel consumption is not linear - it takes a lot 
 ### Comparing Aircraft Types
 
 If you want to compare different aircraft types at once, click on the link below the Performance Check Tool. This lets you check the details of up to 4 aircraft models simultaneously.
-
-![Aircraft Type Evaluation](ate.png "Aircraft Type Evaluation")
 
 For a comparison between an unlimited number of aircraft types on a selected route, navigate to the Operations tab and click on Aircraft Type Evaluation. Here, you can review the fuel consumption, the amount of available seats as well as the route's costs.
 

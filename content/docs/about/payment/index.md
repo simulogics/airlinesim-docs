@@ -11,7 +11,7 @@ This article covers everything you need to know about credits, credit consumptio
 
 ## Credits
 
-![Choosing Package Sizes](credits.png "Choosing Package Sizes")
+![Choosing Package Sizes](credits_03.png "Choosing Package Sizes")
 
 After signing up for AirlineSim, your account is equipped with 60 free credits that cover a trial period of about two weeks. If you want to continue playing once the trial ends and use the game's premium features, you will have to purchase credits.
 

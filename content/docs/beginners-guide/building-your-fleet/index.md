@@ -131,7 +131,7 @@ In the end, it's up to you: You could start an airline using leased planes or yo
 
 ### Terminating a Lease
 
-![Canceling Contracts](cancel_contract_01.png "Canceling Contracts")
+![Canceling Contracts](cancel_contract_02.png "Canceling Contracts")
 
 Both you and the lessor have the ability to cancel the leasing contract at any time. If you wish to cancel a lease, go to the Operations tab and choose Fleet Management, navigate to the aircraft in question and click on the small book icon saying Contract Details.
 

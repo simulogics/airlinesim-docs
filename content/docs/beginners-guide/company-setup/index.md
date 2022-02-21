@@ -21,6 +21,8 @@ Now that you have a general idea of your company's structure, let's set it up in
 
 All you have to do is click on the blue bar saying No Airline Yet? and enter a name for your new enterprise. Make sure to follow the naming conventions in order to keep the game enjoyable for everyone.
 
+![Enterprise Options](found_enterprise_01.png "Enterprise Options")
+
 You will also be prompted to enter a code for your company. The code must contain two or three letters or digits but shouldn't be a number. Since it can't be used by another enterprise, the interface will show a warning if a code is already taken.
 
 ## Choosing a Country
@@ -58,20 +60,18 @@ Mexico provides a decent domestic market as it has many airports and only Mexica
 
 This is an example for a country that can be open to foreign investors.
 
-![Unrestricted Market Access](investment_open_01.png "Unrestricted Market Access")
-
 {{< hint info >}}
 **Investment-Open Countries**  
 Whether or not a country accepts foreign investments actually depends on the game world. You can check by navigating to the Countries section of the Database tab, selecting a country and looking at what it says under Unrestricted Market Access.
 {{< /hint >}}
+
+![Unrestricted Market Access](investment_open_01.png "Unrestricted Market Access")
 
 So, with Pakistan, you may think you found a country with a good domestic market and little local competition. However, if it's open to investors, every airline in the world can use it to create a subsidiary. What seemed like a quiet place at first may become more competitive as big airlines start looking for places to expand their business.
 
 ## Creating Holdings and Subsidiaries
 
 Once you're happy with your company's name and headquarters, you can click on Found Enterprise. Congrats, you've just launched your first business!
-
-![Enterprise Options](found_enterprise_01.png "Enterprise Options")
 
 If you want to create another enterprise, just hover over the drop-down menu that has your airline's name on it and select Create New Enterprise. 
 

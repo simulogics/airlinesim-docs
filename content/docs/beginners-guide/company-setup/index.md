@@ -63,8 +63,6 @@ This is an example for a country that can be open to foreign investors.
 Whether or not a country accepts foreign investments actually depends on the game world. You can check by navigating to the Countries section of the Database tab, selecting a country and looking at what it says under Unrestricted Market Access.
 {{< /hint >}}
 
-![Unrestricted Market Access](investment_open_01.png "Unrestricted Market Access")
-
 So, with Pakistan, you may think you found a country with a good domestic market and little local competition. However, if it's open to investors, every airline in the world can use it to create a subsidiary. What seemed like a quiet place at first may become more competitive as big airlines start looking for places to expand their business.
 
 ## Creating Holdings and Subsidiaries

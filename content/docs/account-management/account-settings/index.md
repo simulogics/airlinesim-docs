@@ -9,7 +9,7 @@ In order to access the settings, log in via the [AirlineSim website](https://www
 
 ## Changing an Email Address
 
-![Updating the Email Address](account_settings_01.png "Updating the Email Address")
+![Updating Your Email](account_settings_01.png "Updating Your Email")
 
 In order to change your login email address, enter your new mail address in the required fields and click on Change Address. Since we require a valid email address, changes have to be confirmed by entering a code that will be sent to your new address.
 

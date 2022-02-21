@@ -17,9 +17,7 @@ Click here to find out more about the differences between holdings and subsidiar
 
 Now that you have a general idea of your company's structure, let's set it up in the game!
 
-![Founding a New Company](no_airline_01.png "Founding a New Company")
-
-All you have to do is click on the blue bar saying No Airline Yet? and enter a name for your new enterprise. Make sure to follow the naming conventions in order to keep the game enjoyable for everyone.
+All you have to do is click on the blue bar saying No Airline Yet? at the top of your screen and enter a name for your new enterprise on the following page. Make sure to follow the naming conventions in order to keep the game enjoyable for everyone.
 
 ![Enterprise Options](found_enterprise_01.png "Enterprise Options")
 

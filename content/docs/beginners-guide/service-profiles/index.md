@@ -27,7 +27,7 @@ Each service option can be viewed together with its associated costs. You'll als
 
 There's no recipe regarding the best and most economical settings. The choice of on-board service depends on your airline concept: If you're planning on running a low-cost carrier, your passengers probably won't be sleeping on a bed of roses, so keep your business plan in mind when setting up service profiles.
 
-![Choosing Service Options](service_01.png "Choosing Service Options")
+![Choosing Service Options](service_03.png "Choosing Service Options")
 
 Once you're finished, you can go back to the overview and make one of the available service profiles your default. This will automatically apply it to any new flights you create, assuming that no distance restrictions apply to them.
 

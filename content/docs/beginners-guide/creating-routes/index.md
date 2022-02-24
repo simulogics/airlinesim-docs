@@ -9,7 +9,7 @@ You've successfully acquired your first aircraft, so let's start planning your a
 
 ## Finding Airport Information
 
-![Airport Details](airport_2.png "Airport Details")
+![Airport Details](airport_02.png "Airport Details")
 
 If you're interested in a specific airport, you can search for it by typing its name or IATA code into the bar at the top of the screen. The airport's page offers lots of details, but for now, we'll focus on the Information tab.
 

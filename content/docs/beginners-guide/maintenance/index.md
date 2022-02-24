@@ -9,8 +9,6 @@ weight: 10
 
 Okay, you have your aircraft, routes, service, staff and cabins all figured out - time to start flying? Not just yet, you still need a maintenance provider! Without repairs, your aircraft won't be flying for very long…
 
-![Maintenance Menu](maintenance_04.png "Maintenance Menu")
-
 In the Operations tab, select Maintenance and choose a maintenance company servicing your aircraft. There are several options with certain advantages and disadvantages. Every provider has different values regarding price, quality and the duration of maintenance.
 
 * Price: This represents the relative cost of performing the same amount of maintenance on an aircraft.

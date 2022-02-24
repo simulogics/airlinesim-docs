@@ -56,14 +56,12 @@ Mexico provides a decent domestic market as it has many airports and only Mexica
 
 ### Pakistan
 
-This is an example for a country that can be open to foreign investors.
+This is an example for a country that can be open to foreign investors. At first, you may think you found a country with a good domestic market and little local competition. However, if it's open to investors, every airline in the world can use it to create a subsidiary. What seemed like a quiet place in the beginning may become more competitive as big airlines start looking for places to expand their business.
 
 {{< hint info >}}
-**Investment-Open Countries**  
-Whether or not a country accepts foreign investments actually depends on the game world. You can check by navigating to the Countries section of the Database tab, selecting a country and looking at what it says under Unrestricted Market Access.
+**Info**  
+Whether or not a country accepts foreign investments depends on the game world. You can check by navigating to the Countries section of the Database tab, selecting a country and reviewing what it says under Unrestricted Market Access.
 {{< /hint >}}
-
-So, with Pakistan, you may think you found a country with a good domestic market and little local competition. However, if it's open to investors, every airline in the world can use it to create a subsidiary. What seemed like a quiet place at first may become more competitive as big airlines start looking for places to expand their business.
 
 ## Creating Holdings and Subsidiaries
 

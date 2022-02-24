@@ -7,8 +7,6 @@ weight: 9
 
 Now that you've set up cabins and hired staff, it's time to assign them to your aircraft.
 
-![Managing Your Fleet](fleet_02.png "Managing Your Fleet")
-
 In the Operations tab, click on Fleet Management and pick the fleet that your aircraft is assigned to. Right now, this will probably be the default fleet which all of your purchased and leased aircraft are added to.
 
 ![Assigning Seating and Crew](fleet_03.png "Assigning Seating and Crew")

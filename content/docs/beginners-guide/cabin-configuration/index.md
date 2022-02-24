@@ -5,8 +5,6 @@ weight: 8
 
 # Configuring the Cabins
 
-![Cabin Configurations](cabin_03.png "Cabin Configurations")
-
 Before you can hit the skies, you need to equip your aircraft with a cabin and configure its seat layout - regardless of whether you own new or used machines. Let's see how it's done!
 
 {{< hint info >}}
@@ -18,7 +16,7 @@ Please note: This step does not apply if you want to operate cargo aircraft. Tho
 
 Go to the Commercial tab and select Cabin Configurations. This page shows all of your existing setups. In order to create a new one, pick a name, choose which aircraft type it should apply to and click on Create New configuration.
 
-![Adjusting the Cabin](cabin_01.png "Adjusting the Cabin")
+![Adjusting the Cabin](cabin_04.png "Adjusting the Cabin")
 
 The cabin editor shows information regarding the plane type, its passenger capacity and the configuration status. Next to that, you'll find the Save Configuration button. Never forget to save your configuration or you will have to start all over again!
 
@@ -46,4 +44,8 @@ Additional flight attendants: The number of additional flight attendants is up t
 
 ## What do passengers expect ?
 
-It all depends on your route and marketing strategy: If you want to run a low-cost airline, stuff your planes with narrow seats and sell cheaper tickets. If you're establishing more of an average airline, equip your planes with slightly better seats. Most planes have 80% economy and 20% business class seats, but of course you're free to distribute seats as you prefer. On short-haul routes, passengers should be okay with basic seating. On medium-haul flights, you could equip some classes with more advanced seats. If passengers are scarce and competition is hard, you can try using better seats for economy passengers.
+![Aircraft Cabin](cabin_05.png "Aircraft Cabin")
+
+It all depends on your route and marketing strategy: If you want to run a low-cost airline, stuff your planes with narrow seats and sell cheaper tickets. If you're establishing more of an average airline, equip your planes with slightly better seats. Most planes have 80% economy and 20% business class seats, but of course you're free to distribute seats as you prefer.
+
+On short-haul routes, passengers should be okay with basic seating. On medium-haul flights, you could equip some classes with more advanced seats. If passengers are scarce and competition is hard, you can try using better seats for economy passengers.

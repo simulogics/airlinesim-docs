@@ -56,7 +56,9 @@ Mexico provides a decent domestic market as it has many airports and only Mexica
 
 ### Pakistan
 
-This is an example for a country that can be open to foreign investors. At first, you may think you found a country with a good domestic market and little local competition. However, if it's open to investors, every airline in the world can use it to create a subsidiary. What seemed like a quiet place in the beginning may become more competitive as big airlines start looking for places to expand their business.
+This is an example for a country that can be open to foreign investors. At first, you may think you found a country with a good domestic market and little local competition.
+
+However, if it's open to investors, every airline in the world can use it to create a subsidiary. What seemed like a quiet place in the beginning may become more competitive as big airlines start looking for places to expand their business.
 
 {{< hint info >}}
 **Info**  

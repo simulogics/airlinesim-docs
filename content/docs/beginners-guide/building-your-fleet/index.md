@@ -92,7 +92,7 @@ The aircraft fact sheet of your chosen model gives you the option to order new a
 
 ### Ordering New Aircraft
 
-![Purchase Options](purchase_new_01.png "Purchase Options")
+![Purchase Options](purchase_new_02.png "Purchase Options")
 
 If you want to order new aircraft, just enter the desired amount and hit Request Quotation. On the following page, you'll have the choice between various payment options:
 

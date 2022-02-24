@@ -44,7 +44,7 @@ Additional flight attendants: The number of additional flight attendants is up t
 
 ## What do passengers expect ?
 
-![Aircraft Cabin](cabin_05.png "Aircraft Cabin")
+![Aircraft Cabin](cabin_05.jpg "Aircraft Cabin")
 
 It all depends on your route and marketing strategy: If you want to run a low-cost airline, stuff your planes with narrow seats and sell cheaper tickets. If you're establishing more of an average airline, equip your planes with slightly better seats. Most planes have 80% economy and 20% business class seats, but of course you're free to distribute seats as you prefer.
 

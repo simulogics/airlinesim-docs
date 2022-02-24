@@ -9,20 +9,20 @@ weight: 10
 
 Okay, you have your aircraft, routes, service, staff and cabins all figured out - time to start flying? Not just yet, you still need a maintenance provider! Without repairs, your aircraft won't be flying for very long…
 
+![Choosing a Contractor](maintenance_03.png "Choosing a Contractor")
+
 In the Operations tab, select Maintenance and choose a maintenance company servicing your aircraft. There are several options with certain advantages and disadvantages. Every provider has different values regarding price, quality and the duration of maintenance.
 
 * Price: This represents the relative cost of performing the same amount of maintenance on an aircraft.
 * Quality: This indicates the maintenance standard. Be careful: A low-quality provider may never get your aircraft to 100% condition.
 * Efficiency: This stands for the amount of maintenance that is achieved in a specific time span. A very efficient provider will get more work done in less time compared to an inefficient one; still, it may not be worth the price, especially if your aircraft spends a long time on the ground.
 
-![Choosing a Contractor](maintenance_03.png "Choosing a Contractor")
-
-When thinking about maintenance, try to avoid looking at the price first. Instead, choose a provider that suits your planned operations. You can also select a maintenance provider later, but if you're going to prepare flight plans soon, it's probably best to pick one now. Changing providers afterwards will affect the amount of time your aircraft can spend in the air and determine how long they have to stay on the ground per day, so you may have to change your flight plans accordingly.
-
 {{< hint warning >}}
 **Important**  
 Once you have selected a maintenance company, you won't be able to change it for two weeks.
 {{< /hint >}}
+
+When thinking about maintenance, try to avoid looking at the price first. Instead, choose a provider that suits your planned operations. You can also select a maintenance provider later, but if you're going to prepare flight plans soon, it's probably best to pick one now. Changing providers afterwards will affect the amount of time your aircraft can spend in the air and determine how long they have to stay on the ground per day, so you may have to change your flight plans accordingly.
 
 ## Additional Tips
 

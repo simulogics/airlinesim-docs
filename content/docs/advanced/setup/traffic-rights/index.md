@@ -31,7 +31,12 @@ In addition to these universal rules, there are a couple of special cases:
 * Australia and New Zealand: Similarly, any airline whose holding is based in either Australia or New Zealand may transport passengers between any two points within both Australia and New Zealand; however, again, this rule does not apply to flights which either begin or end outside Australia and New Zealand.
 * Yamoussoukro Decision: Any airline whose holding is based in a country party to the Yamoussoukro Decision may transport passengers between a second and a third country if - and only if - the flight in question is a continuation of a flight from the holding's country of origin, using the game's via function.
 
+## EU Treaty & Oceanic Open Skies
+
 ![EU Treaty & Oceanic Open Skies](traffic_rights_01.png "EU Treaty & Oceanic Open Skies")
+
+## Yamoussoukro Decision & Caricom 5th Freedom
+
 ![Yamoussoukro Decision & Caricom 5th Freedom](traffic_rights_02.png "Yamoussoukro Decision & Caricom 5th Freedom")
 
 ## What about cargo flights?

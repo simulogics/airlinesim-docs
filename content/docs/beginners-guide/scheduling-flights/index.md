@@ -67,6 +67,8 @@ Each aircraft is listed with three symbols: The little book on the left shows yo
 
 ![Flight Scheduling](fleet_04.png "Flight Scheduling")
 
+![Creating a New Flight Number](scheduling_05.png "Creating a New Flight Number") 
+
 Clicking on the scheduling symbol leads you to a page with your empty schedule. To add a new flight:
 
 * Enter a new flight number (without the airline code).
@@ -82,7 +84,7 @@ If the departure or arrival airport of your choice isn't listed, make sure you o
 
 After creating a new flight number, the flight planning section will appear.
 
-![Controlling the Settings](scheduling_05.png "Controlling the Settings") 
+![Controlling the Settings](scheduling_06.png "Controlling the Settings") 
 
 For each day of the week, it informs you whether your desired connection is possible or not. If not, you'll see a red cross in which case you can try changing the departure time. For a flight to be scheduled, all fields must have green check marks.
 

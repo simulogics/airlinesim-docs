@@ -67,9 +67,11 @@ Each aircraft is listed with three symbols: The little book on the left shows yo
 
 ![Flight Scheduling](fleet_04.png "Flight Scheduling")
 
+Clicking on the scheduling symbol leads you to a page with your empty schedule. Here you'll be able to create your first flight number.
+
 ![Creating a New Flight Number](scheduling_05.png "Creating a New Flight Number") 
 
-Clicking on the scheduling symbol leads you to a page with your empty schedule. To add a new flight:
+To add a new flight:
 
 * Enter a new flight number (without the airline code).
 * Select a departure airport and time.

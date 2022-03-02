@@ -94,7 +94,7 @@ By default, the flights will be scheduled for every day of the week (you can cha
 
 Once every check is green, click on Apply Schedule Settings to create the flight and assign it to your aircraft. 
 
-![The First Flight](scheduling_06.png "The First Flight") 
+![The First Flight](scheduling_07.png "The First Flight") 
 
 ## Scheduling the Return Flight           
 

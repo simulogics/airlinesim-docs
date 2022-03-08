@@ -21,6 +21,6 @@ After accepting the Terms and Conditions and our Privacy Statement, all that's l
 Once you've been successfully logged in, you're good to go! Just remember to keep your login and account data safe. If you need help changing your password or email address in the future, have a look at our [Account Settings article]({{< relref "docs/account-management/account-settings/index.md" >}}).
 
 {{< hint warning >}}
-**Multi-Accounting**  
+**Important**  
 Please note that you may only set up one account. Registering multiple acccounts is forbidden. For more information, check out our game rules.
 {{< /hint >}}

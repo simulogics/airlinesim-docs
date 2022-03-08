@@ -21,4 +21,4 @@ Which ones are available to you can depend on your country as well as the credit
 
 ## Unable to Redeem a Voucher Code
 
-If you enter a voucher code during checkout and receive an error that prevents you from redeeming it, please contact the AirlineSim support team.
+If you enter a voucher code during checkout and receive an error that prevents you from redeeming it, please contact the [AirlineSim support team](https://www.airlinesim.aero/blog/pages/support/).

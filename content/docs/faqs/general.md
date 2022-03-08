@@ -7,7 +7,7 @@ weight: 1
 
 ## What is AirlineSim about?
 
-AirlineSim is a browser-based business simulation in which you can create your own virtual airline and compete for passengers in a market that operates in real time. See [Game Concept](content/docs/about/concept.md) for more details.
+AirlineSim is a browser-based business simulation in which you can create your own virtual airline and compete for passengers in a market that operates in real time. See [Game Concept](docs/about/concept) for more details.
 
 ## How much does it cost?
 

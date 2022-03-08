@@ -8,7 +8,7 @@ weight: 1
 Before accessing the game, you need to set up an account by selecting the Login button on the [AirlineSim website](https://www.airlinesim.aero/en/). Next, just hit Sign Up Now and choose a display name (no special characters or spaces), a valid permanent email address and a password for your account.
 
 {{< hint info >}}
-**Email Addresses**  
+**Info**  
 Sometimes, problems may occur when sending registration emails to Hotmail or MSN addresses. Try to use an alternative email address for registration, if possible. In case you already used a Hotmail or MSN address to register with AirlineSim, please contact [support](https://www.airlinesim.aero/blog/pages/support/).
 {{< /hint >}}
 

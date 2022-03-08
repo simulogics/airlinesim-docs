@@ -11,4 +11,4 @@ Use a set of comprehensive management tools to set up an aircraft fleet, create 
 
 It's not all about competition, though: From forming alliances to signing interline agreements and leasing out aircraft – in AirlineSim, you have many ways of interacting with other players and forming connections that last.
 
-Ready to dive right in? Check out our tutorial to get your new airline up and running in no time!
+Ready to dive right in? Check out our [Beginner's Guide]({{< relref "docs/beginners-guide/introduction/index.md" >}}) to get your new airline up and running in no time!

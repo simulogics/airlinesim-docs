@@ -9,7 +9,7 @@ Before accessing the game, you need to set up an account by selecting the Login 
 
 {{< hint info >}}
 **Email Addresses**  
-Sometimes, problems may occur when sending registration emails to Hotmail or MSN addresses. Try to use an alternative email address for registration, if possible. In case you already used a Hotmail or MSN address to register with AirlineSim, please contact [support](content/docs/about/support.md).
+Sometimes, problems may occur when sending registration emails to Hotmail or MSN addresses. Try to use an alternative email address for registration, if possible. In case you already used a Hotmail or MSN address to register with AirlineSim, please contact [support](https://www.airlinesim.aero/blog/pages/support/).
 {{< /hint >}}
 
 It’s also possible to play AirlineSim by signing up using Facebook.
@@ -18,7 +18,7 @@ It’s also possible to play AirlineSim by signing up using Facebook.
 
 After accepting the Terms and Conditions and our Privacy Statement, all that's left to do is clicking on Register. Soon, you'll receive an email with a confirmation code that you need to enter in order to complete your registration. If you don't receive the confirmation email, please check your spam folder. 
 
-Once you've been successfully logged in, you're good to go! Just remember to keep your login and account data safe. If you need help changing your password or email address in the future, have a look at (link to articles).
+Once you've been successfully logged in, you're good to go! Just remember to keep your login and account data safe. If you need help changing your password or email address in the future, have a look at our [Account Settings article]({{< relref "docs/account-management/account-settings/index.md" >}}).
 
 {{< hint warning >}}
 **Multi-Accounting**  

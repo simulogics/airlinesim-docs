@@ -5,7 +5,7 @@ weight: 3
 
 # Game Worlds
 
-After logging into your account, the Dashboard will show a variety of game worlds for you to choose from. The amount of game worlds that you can join isn't limited, so feel free to try out as many as you like. Keep in mind that credits will be deducted from your account for every active game world.
+After logging into your account, the Dashboard will show a variety of game worlds for you to choose from. The amount of game worlds that you can join isn't limited, so feel free to try out as many as you like. Keep in mind that [credits]({{< relref "docs/about/payment/index.md" >}}) will be deducted from your account for every active game world.
 
 ## Short-Term Game Worlds
 

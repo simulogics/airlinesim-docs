@@ -15,7 +15,10 @@ In December 2021, the team announced a project called the AirlineSim Technology 
 
 The prototype will focus on enhancing one of the game's core features, the Online Reservation System (ORS), and developing it into a Distribution System (DS) that simulates real-life concepts such as interlining, booking classes and fare codes. This should enable players to run different types of airlines and set their companies apart from the competition.
 
+{{< hint info >}}
+**Info**  
 Since the ASTD is a prototype, many of the game's current features will not be available. Still, players with premium accounts will be able to try it out as soon as the project moves into its open development phase which is currently scheduled for mid 2022.
+{{< /hint >}}
 
 The overall project is made possible in part by the game development funding program of the Federal Ministry of Transport and Digital Infrastructure and is planned to run until mid 2023.
 

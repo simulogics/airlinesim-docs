@@ -32,7 +32,7 @@ There's no recipe regarding the best and most economical settings. The choice of
 Once you're finished, you can go back to the overview and make one of the available service profiles your default. This will automatically apply it to any new flights you create, assuming that no distance restrictions apply to them.
 
 {{< hint info >}}
-**Short-Haul vs. Long-Haul Flights**  
+**Info**  
 Some meals require flights to have a range of at least 800 or 1,500 km, so if your default service profile includes any of these, it will not be applied to shorter flights and the game will leave them blank instead. Therefore, it may be necessary to create different service profiles for short-haul and long-haul flights.
 {{< /hint >}}
 

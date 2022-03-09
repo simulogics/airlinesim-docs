@@ -11,8 +11,6 @@ With the routes set up, let's move on to your staff!
 
 An aircraft needs pilots to fly, so we have to hire or train them first. Some crew members will already be added by default, but let's find out how to employ pilots manually.
 
-![Crew Management](crew_02.png "Crew Management")
-
 First, select the Management tab and go to Crew Management. On the left, you'll see a list of the employed and required pilots, grouped together by aircraft category. As pilots can't work the whole day, the number of required pilots is higher than actually necessary for a flight. For example, if your plane flies 20 hours per day, you need three crews to operate it and a fourth crew to replace pilots on sick leave or holiday. 
 
 ![Details on Pilots](crew_01.png "Details on Pilots")

@@ -22,7 +22,9 @@ In the Operations tab, select Maintenance and choose a maintenance company servi
 Once you have selected a maintenance company, you won't be able to change it for two weeks.
 {{< /hint >}}
 
-When thinking about maintenance, try to avoid looking at the price first. Instead, choose a provider that suits your planned operations. You can also select a maintenance provider later, but if you're going to prepare flight plans soon, it's probably best to pick one now. Changing providers afterwards will affect the amount of time your aircraft can spend in the air and determine how long they have to stay on the ground per day, so you may have to change your flight plans accordingly.
+When thinking about maintenance, try to avoid looking at the price first. Instead, choose a provider that suits your planned operations.
+
+You can also select a maintenance provider later, but if you're going to prepare flight plans soon, it's probably best to pick one now. Changing providers afterwards will affect the amount of time your aircraft can spend in the air and determine how long they have to stay on the ground per day, so you may have to change your flight plans accordingly.
 
 ## Additional Tips
 

@@ -8,8 +8,8 @@ weight: 8
 Before you can hit the skies, you need to equip your aircraft with a cabin and configure its seat layout - regardless of whether you own new or used machines. Let's see how it's done!
 
 {{< hint info >}}
-**Cargo Airlines**  
-Please note: This step does not apply if you want to operate cargo aircraft. Though it's not the best, there is a default configuration already installed in all of your new aircraft.
+**Info**  
+This step does not apply if you want to operate cargo aircraft. Though it's not the best, there is a default configuration already installed in all of your new aircraft.
 {{< /hint >}}
 
 ## Using the Cabin Editor

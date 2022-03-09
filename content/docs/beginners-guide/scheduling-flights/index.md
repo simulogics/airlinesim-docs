@@ -45,7 +45,7 @@ Every airport that offers transfers has a minimum transfer time, which can be ch
 When you look at your flight schedule, you can see that it displays both flight and turnaround times. The turnaround consists of all the activities that take place after a plane has arrived and before it's ready for departure again. The exact duration for a specific route can be viewed using the Performance Check Tool.
 
 {{< hint info >}}
-**Tip**  
+**Info**  
 Incomplete turnarounds due to a lack of time between flights will lead to delays in your flight operations. It also can't hurt to leave some extra buffer between flights so your operations become less prone to cascading delays caused by random disturbances affecting flight and ground operations.
 {{< /hint >}}
 
@@ -60,8 +60,6 @@ Once you're happy with the schedule, we can set it up in-game!
 ## Creating Your First Connection
 
 First, select Fleet Management in the Operations tab and choose the fleet your aircraft is assigned to. If you didn't change the fleet assignment, you'll find the aircraft in the default fleet.
-
-![Fleet Management](fleet_02.png "Fleet Management")
 
 Each aircraft is listed with three symbols: The little book on the left shows your aircraft's contract details, the second icon takes you to scheduling and the third one displays your current flights.
 
@@ -80,7 +78,7 @@ To add a new flight:
 * Click on Create New Flight Number.
 
 {{< hint info >}}
-**Tip**  
+**Info**  
 If the departure or arrival airport of your choice isn't listed, make sure you open a station (branch office) at this airport.
 {{< /hint >}}
 
@@ -123,7 +121,7 @@ Once you've successfully scheduled the return trip, your flights turn yellow. Th
 
 ## Activating the Schedule
 
-Now that your first schedule is ready, it's time to allow the Online Reservation System (ORS) to add passengers and freight to your flights.
+Now that your first schedule is ready, it's time to allow the [Online Reservation System (ORS)]({{< relref "docs/advanced/bookings/online-reservation-system/index.md" >}}) to add passengers and freight to your flights.
 
 Remember those yellow flight plan boxes? That means you have successfully blocked the slots, but no one can book the connections yet. In order to get bookings, your flights need to be activated first!
 

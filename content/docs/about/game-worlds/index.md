@@ -38,7 +38,7 @@ Here is a list of all currently available short-term and long-term game worlds a
 | Otto VIII         | Oct 2021 | 18 Aug 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | -- |
 | Yeager V          | Aug 2021 | 20 Jun 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | double slots, nighttime bans off |
 | Junkers II        | Jun 2021 | 25 Apr 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | -- |
-| Quimby XI         | Apr 2021 | 25 Feb 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | double slots, nighttime bans off |
+| Quimby XII        | Feb 2022 | 25 Nov 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | -- |
 
 ### Long-Term Game Worlds
 

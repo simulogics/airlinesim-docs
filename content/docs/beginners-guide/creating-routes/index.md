@@ -51,7 +51,7 @@ When deciding on routes, it can help to check the range of your aircraft. Each p
 
 ## Using Your Geographical Position
 
-Last but not least, think about how your geographical position influences your choice of routes. While it can be a limiting factor, it also gives you advantages: If you are based in the Middle East, for example, your routes can connect Europe and Asia. An airline in Mexico can reach most parts of the US and half of South America with medium sized jets like the 737. Africa doesn't have that many major airports, but several African countries have signed the Yamoussoukro agreement which makes via-flights interesting (see [Traffic Rights]({{< relref "docs/advanced/setup/traffic-rights/index.md" >}}) for more information). 
+Last but not least, think about how your geographical position influences your choice of routes. While it can be a limiting factor, it also gives you advantages: If you are based in the Middle East, for example, your routes can connect Europe and Asia. An airline in Mexico can reach most parts of the US and half of South America with medium sized jets like the 737. Africa doesn't have that many major airports, but several African countries have signed the Yamoussoukro agreement which makes via-flights interesting (see [Traffic Rights]({{< relref "docs/advanced/setup/traffic-rights/index.md" >}})). 
 
 ## Opening Stations
 

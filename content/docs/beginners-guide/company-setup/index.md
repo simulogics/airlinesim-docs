@@ -7,11 +7,11 @@ weight: 2
 
 ## Planning the Company Structure
 
-After creating your AirlineSim account and picking a game world, it can be helpful to think about how you want to structure your company, especially if the world supports IPOs. 
+After creating your AirlineSim account and picking a game world, it can be helpful to think about how you want to structure your company, especially if the world supports [Initial Public Offerings (IPOs)]({{< relref "docs/advanced/finances/initial-public-offerings/index.md" >}}).
 
 While you can use the first holding you establish as a regular airline, you won't be able to perform a stock market launch with it. In case you're interested in starting an IPO, you need to create another enterprise as the daughter of your existing holding. The subsidiary can then be traded on the stock market once you go public. 
 
-Click here to find out more about the differences between holdings and subsidiaries.
+Click [here]({{< relref "docs/advanced/setup/holdings-vs-subsidiaries.md" >}}) to find out more about the differences between holdings and subsidiaries. 
 
 ## Naming Your Enterprise
 
@@ -21,7 +21,7 @@ All you have to do is click on the blue bar saying No Airline Yet? at the top of
 
 ![Enterprise Options](found_enterprise_01.png "Enterprise Options")
 
-You will also be prompted to enter a code for your company. The code must contain two or three letters or digits but shouldn't be a number. Since it can't be used by another enterprise, the interface will show a warning if a code is already taken.
+You will also be prompted to enter a code for your company. The code must contain two or three letters or digits but shouldn't be a number. Since it can't be used by another enterprise, the interface will show a warning if a code is already taken. Keep in mind that this code can't be changed later on.
 
 ## Choosing a Country
 
@@ -34,7 +34,7 @@ In the beginning, it's recommendable to select a country with little competition
 When joining a game world that has already been running for some time, it can't hurt to take a look at the available slots of your desired airport. 
 
 {{< hint info >}}
-**Airport Slots**  
+**Info**  
 You can look up the slot distribution for a specific airport by typing its name into the game's search bar and navigating to the Slots tab of the airport's info page.
 {{< /hint >}}
 
@@ -44,7 +44,7 @@ To help you with your decision, here are a few examples of different countries a
 
 ### Spain
 
-As a member of the EU, all of Europe is your domestic market, meaning you can transport passengers between any two airports within the EU (see Traffic Rights). The only issue: Every other European airline has the same advantage. All in all, Europe is a good place if you plan on creating several hubs, want loads of passengers and don't mind the hard competition.
+As a member of the EU, all of Europe is your domestic market, meaning you can transport passengers between any two airports within the EU (see [Traffic Rights]({{< relref "docs/advanced/setup/traffic-rights/index.md" >}})). The only issue: Every other European airline has the same advantage. All in all, Europe is a good place if you plan on creating several hubs, want loads of passengers and don't mind the hard competition.
 
 ### USA
 
@@ -74,8 +74,8 @@ If you want to create another enterprise, just hover over the drop-down menu tha
 Next, you can specify if you want to found another holding or if you'd like create a subsidiary of your existing holding.
 
 {{< hint warning >}}
-**Multiple Holdings**  
-Please note: Not every game world supports running multiple holdings. In doubt, check out the world's configuration here or on our blog. If multiple holdings are allowed, keep in mind that cooperation between them is forbidden by our game rules.
+**Important**  
+Please note: Not every game world supports running multiple holdings. In doubt, check out the world's configuration here or on our [blog](https://www.airlinesim.aero/blog/). If multiple holdings are allowed, keep in mind that cooperation between them is forbidden by our game rules.
 {{< /hint >}}
 
 When setting up a subsidiary, you have to decide how much starting capital it will receive from your holding, the minimum being 3 million AS$. Consider how much you want to invest as you will not have the opportunity to transfer any more money from the holding to the company or vice versa, except through a dividend paid to your holding and outside investors after an IPO.

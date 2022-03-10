@@ -3,7 +3,7 @@ title: "Settings Tab"
 weight: 1
 ---
 
-# Settings
+# Settings Tab
 
 ## Account
 

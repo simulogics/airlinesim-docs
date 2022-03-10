@@ -13,7 +13,7 @@ The development of the original game began back in January 2002. Five years late
 
 In December 2021, the team announced a project called the AirlineSim Technology Demonstrator (ASTD). The ASTD is a prototype that is meant to explore what the game can look like given today's technological possibilities, making it a foundation for the future development of AirlineSim.
 
-The prototype will focus on enhancing one of the game's core features, the Online Reservation System (ORS), and developing it into a Distribution System (DS) that simulates real-life concepts such as interlining, booking classes and fare codes. This should enable players to run different types of airlines and set their companies apart from the competition.
+The prototype will focus on enhancing one of the game's core features, the [Online Reservation System (ORS)]({{< relref "docs/advanced/bookings/online-reservation-system/index.md" >}}), and developing it into a Distribution System (DS) that simulates real-life concepts such as interlining, booking classes and fare codes. This should enable players to run different types of airlines and set their companies apart from the competition.
 
 {{< hint info >}}
 **Info**  

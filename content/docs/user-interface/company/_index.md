@@ -1,4 +1,5 @@
 ---
+{{< section >}}
 title: "Company Setup"
-weight: 1
+weight: 1 
 ---

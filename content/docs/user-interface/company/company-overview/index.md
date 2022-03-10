@@ -30,7 +30,7 @@ This widget allows you to write down notes regarding your enterprise. You can se
 
 ### Stock
 
-If an enterprise makes an IPO, the Stock widget displays information like the stock quote and an overview of the shareholders. Clicking on IPO Information leads you to a page showing the stock data in detail (which can also be accessed via Corporate Finance in the Management tab).
+If an enterprise makes an [Initial Public Offering (IPO)]({{< relref "docs/advanced/finances/initial-public-offerings/index.md" >}}), the Stock widget displays information like the stock quote and an overview of the shareholders. Clicking on IPO Information leads you to a page showing the stock data in detail (which can also be accessed via Corporate Finance in the Management tab).
 
 ### Financial Rating
 
@@ -60,7 +60,7 @@ Here, you can upload a logo for your company. The logo will appear in your airli
 
 ### Small Logo
 
-You can add a smaller version of your logo which will be displayed throughout the game (on arrival and departure billboards, for example). This image must have a size of 120 x 23 pixels. Please make sure it also complies with our Logo Guidelines.
+You can add a smaller version of your logo which will be displayed throughout the game (on arrival and departure billboards, for example). This image must have a size of 120 x 23 pixels. Please make sure it also complies with our logo guidelines (available under Database > Naming Rules in any game world).
 
 ## Settings (Game)
 
@@ -77,9 +77,13 @@ You can choose whether the times in AirlineSim should be shown as the hub time, 
 The Comfort Functions allow you to determine whether the game should handle some tasks automatically. These can include:
 
 * Picking a maintenance provider when a new enterprise is founded,
+
 * creating a default service profile when a new enterprise is founded,
+
 * assigning a default seating configuration to new aircraft (only if defined),
+
 * creating a standardized seating configuration if no default has been specified
+
 * and assigning crew to new aircraft.
 
 As these settings affect your gameplay, it's recommended to adjust them to your liking.
@@ -106,7 +110,11 @@ Underneath the settings, you have the option to create a new enterprise or to li
 
 {{< hint danger >}}
 **Warning**
-If you choose a liquidation, all data of your enterprise will be irreversibly removed: All assets will be sold, buildings will be demolished, existing minority stakes will go to AirlineSim and majority stakes will lead to the deletion of the daughter enterprise. The shareholder will receive the remaining values divided by their share.
+If you choose a liquidation, all data of your enterprise will be irreversibly removed.
+
+All assets will be sold, buildings will be demolished, existing minority stakes will go to AirlineSim and majority stakes will lead to the deletion of the daughter enterprise.
+
+The shareholder will receive the remaining values divided by their share.
 {{< /hint >}}
 
 Keep in mind that a reset is only possible for holdings (i.e. enterprises which belong to your account directly).

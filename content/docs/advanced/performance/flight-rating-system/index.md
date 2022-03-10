@@ -33,7 +33,7 @@ Just like before, the Flight Rating tab will show green bars if you have a good 
 
 The overall Flight Rating derives from evaluating both of the above-mentioned factors. This rating is then set against the price of the flight to produce a value called the Price-Performance Ratio (PPR). This only directly affects passengers flying between the two evaluated destinations - a positive PPR will, generally speaking, attract at least some traffic, whereas a negative PPR will not.
 
-Bear in mind, however, that connection options at either end of the flight may improve the PPR of two flights combined sufficiently for passengers to book a sector with a negative PPR. Keep in mind that factors such as the time spent transferring between flights and the total flight time will be taken into account when calculating connections.
+Bear in mind, however, that connection options at either end of the flight may improve the PPR of two flights combined sufficiently for passengers to book a sector with a negative PPR. Factors such as the time spent transferring between flights and the total flight time will be taken into account when calculating connections.
 
 ## Ground Connections
 

@@ -23,9 +23,11 @@ Or perhaps the other airline also offers a connection from A to B through their 
 
 In case you're still a bit unsure about your ticket prices, you can always rely on the game's tools for guidance.
 
-* The Market Analysis page shows you a list of all bookable flights on a certain route. It tells you how much your competitors charge for a ticket and whether their flights are fully booked or not.
-* The Fleet List of a country displays details regarding your competitors' cabin configurations. The number of seats for each class can be viewed in the config. column and may give you an idea of the seat types that they are using. If a player employs standard seats, they can afford to drop their prices; if they offer pricier seats, they can sell more expensive tickets and still be an attractive choice.
-* The [Online Reservation System (ORS)]({{< relref "docs/advanced/bookings/online-reservation-system/index.md" >}}) tells you which flights have the highest ratings. Obviously pricing is important, but the total time of a journey is taken into account as well. A short transfer time can make your flights more appealing to customers.
+* The **Market Analysis** page shows you a list of all bookable flights on a certain route. It tells you how much your competitors charge for a ticket and whether their flights are fully booked or not.
+
+* The **Fleet List** of a country displays details regarding your competitors' cabin configurations. The number of seats for each class can be viewed in the config. column and may give you an idea of the seat types that they are using. If a player employs standard seats, they can afford to drop their prices; if they offer pricier seats, they can sell more expensive tickets and still be an attractive choice.
+
+* The [**Online Reservation System**]({{< relref "docs/advanced/bookings/online-reservation-system/index.md" >}}) tells you which flights have the highest ratings. Obviously pricing is important, but the total time of a journey is taken into account as well. A short transfer time can make your flights more appealing to customers.
 
 ## Analyzing the Competition
 

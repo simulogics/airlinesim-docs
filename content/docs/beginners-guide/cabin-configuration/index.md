@@ -30,7 +30,7 @@ Once the classes are set up, you can equip each one with seats and deploy additi
 
 * **Extra pitch**: If you want to give your passengers more leg room, don’t remove seat rows - just increase the extra pitch value and you're good to go!
 
-* **Additional F/As**: Here, you can add additional flight attendants for each class. You should already have a base number of staff but you can assign more employees to increase ratings. Tip: Aircraft with fewer than 20 seats don't necessarily need a flight attendant. By default, one attendant is responsible for 50 passengers per class. More flight attendants have a positive effect on the evaluation of your flights.
+* **Additional F / As**: Here, you can add additional flight attendants for each class. You should already have a base number of staff but you can assign more employees to increase ratings. Tip: Aircraft with fewer than 20 seats don't necessarily need a flight attendant. By default, one attendant is responsible for 50 passengers per class. More flight attendants have a positive effect on the evaluation of your flights.
 
 If you’re unsure how your current configuration affects your passengers ratings, just save it and switch to the Ratings tab. And remember: Each aircraft type requires its own cabin layout!
 

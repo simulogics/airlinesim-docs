@@ -70,33 +70,33 @@ The game evaluates each enterprise in matters of creditworthiness. The resulting
 
 Your rating (i.e. creditworthiness) influences three important parts of the game.
 
-* Financed purchases from AirlineSim: If you want to lease an aircraft from an AS enterprise or purchase an aircraft financed by the AS-Bank, your rating must be at least B or better. Sometimes, even a rating of BB isn't sufficient. However, if an aircraft is leased from another lessor (i.e. another user), your rating doesn't matter, so you could lease a plane even with a CCC rating.
+* **Financed purchases from AirlineSim**: If you want to lease an aircraft from an AS enterprise or purchase an aircraft financed by the AS-Bank, your rating must be at least B or better. Sometimes, even a rating of BB isn't sufficient. However, if an aircraft is leased from another lessor (i.e. another user), your rating doesn't matter, so you could lease a plane even with a CCC rating.
 
-* Interest and loans: The lower your rating, the lower the maximal sum of loans you're offered and the more the interest differs from the prime rate. Most of the time, the AS-Bank won't offer any new loans when your rating is CCC or lower. Depending on the debt-to-equity ratio, you're usually not even offered new loans with a B rating.
+* **Interest and loans**: The lower your rating, the lower the maximal sum of loans you're offered and the more the interest differs from the prime rate. Most of the time, the AS-Bank won't offer any new loans when your rating is CCC or lower. Depending on the debt-to-equity ratio, you're usually not even offered new loans with a B rating.
 
-* [IPOs (Initial Public Offerings)]({{< relref "docs/advanced/finances/initial-public-offerings/index.md" >}}): An IPO isn't possible if your rating is BBB or lower. Remember that potential investors will take a look at your rating, so an IPO with a minimum rating of A or marginally better might frighten them off. The better your rating, the better your impression.
+* [**IPOs (Initial Public Offerings)**]({{< relref "docs/advanced/finances/initial-public-offerings/index.md" >}}): An IPO isn't possible if your rating is BBB or lower. Remember that potential investors will take a look at your rating, so an IPO with a minimum rating of A or marginally better might frighten them off. The better your rating, the better your impression.
 
 ### Rating Evaluation
 
 Ratings are calculated from several financial parameters of the evaluated enterprise, such as the equity-to-debt ratio (your loans) and predicted cash flow. The exact formula is confidential, but here is an overview of some of the evaluated factors.
 
-* Cash flow: This describes the net gain in a fixed period. In AirlineSim, this is simplified as the profit from your Profit and Loss Statement, minus write-offs (you can find the statement by going to the Management tab, selecting Accounting and navigating to the Balance Sheet).
+* **Cash flow**: This describes the net gain in a fixed period. In AirlineSim, this is simplified as the profit from your Profit and Loss Statement, minus write-offs (you can find the statement by going to the Management tab, selecting Accounting and navigating to the Balance Sheet).
 
-* Cash reserve: This is the amount of freely available capital on your bank account.
+* **Cash reserve**: This is the amount of freely available capital on your bank account.
 
-* Equity-to-fixed-assets ratio: The equity-to-fixed-assets ratio is the ratio between assets (i.e. your flight equipment account, security deposits and optional buildings) and your net equity. In theory, there are three ratios, but the game uses the first one. It's evaluated as follows: Equity-to-Fixed-Assets Ratio = Equity / Assets x 100.
+* **Equity-to-fixed-assets ratio**: The equity-to-fixed-assets ratio is the ratio between assets (i.e. your flight equipment account, security deposits and optional buildings) and your net equity. In theory, there are three ratios, but the game uses the first one. It's evaluated as follows: Equity-to-Fixed-Assets Ratio = Equity / Assets x 100.
 
-* Equity ratio: This represents the amount of your own cash (including that of your shareholders) in your enterprise. Loans are considered debt capital. Example: If a company's balance sheet shows a total asset amount of 100 million AS$ and loans of 35.5 million AS$, it has an equity ratio of 64.5%.
+* **Equity ratio**: This represents the amount of your own cash (including that of your shareholders) in your enterprise. Loans are considered debt capital. Example: If a company's balance sheet shows a total asset amount of 100 million AS$ and loans of 35.5 million AS$, it has an equity ratio of 64.5%.
 
-* Return on equity (ROE): This value refers to the yield of the used capital in a specific timeframe and describes how much money an airline gains from the available net equity. The ratio is calculated as follows: Return on Equity = Profit / Net Equity x 100.
+* **Return on equity (ROE)**: This value refers to the yield of the used capital in a specific timeframe and describes how much money an airline gains from the available net equity. The ratio is calculated as follows: Return on Equity = Profit / Net Equity x 100.
 
-* Cash ratio: The cash ratio describes the short-term ability to meet financial obligations, calculated as follows: Cash Ratio = Liquid Assets (the cash on your bank account) / Short-Term Debts (all regular payments like salaries, leasing rates etc.)
+* **Cash ratio**: The cash ratio describes the short-term ability to meet financial obligations, calculated as follows: Cash Ratio = Liquid Assets (the cash on your bank account) / Short-Term Debts (all regular payments like salaries, leasing rates etc.)
 
-* Current ratio: Same as the cash ratio, but in this case, current assets (liquid assets plus security deposits) are considered liquid assets as well.
+* **Current ratio**: Same as the cash ratio, but in this case, current assets (liquid assets plus security deposits) are considered liquid assets as well.
 
-* Profit margin: This is the percentage of profit from your earnings (per week in AirlineSim). It's calculated as follows: Profit Margin = Profit / Earnings x 100
+* **Profit margin**: This is the percentage of profit from your earnings (per week in AirlineSim). It's calculated as follows: Profit Margin = Profit / Earnings x 100
 
-* Debt ratio: The debt ratio is the part of loans compared to your total assets, so it's somewhat the opposite of your profit margin. It's calculated as follows: Debt Ratio = Loans / Equity x 100
+* **Debt ratio**: The debt ratio is the part of loans compared to your total assets, so it's somewhat the opposite of your profit margin. It's calculated as follows: Debt Ratio = Loans / Equity x 100
 
 ## Prime Rates
 

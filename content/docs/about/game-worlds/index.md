@@ -109,4 +109,4 @@ An exclusive game world costs 360€ (including VAT) per 30 days. We require a n
 
 You can place your order directly by logging into your account, navigating to the Dashboard and selecting Exclusive Game Worlds.
 
-Once your purchase has been completed, we will set up your game world within 5 business days. If you have any questions concerning your order, please contact support.
+Once your purchase has been completed, we will set up your game world within 5 business days. If you have any questions concerning your order, please contact [support](https://www.airlinesim.aero/blog/pages/support/).

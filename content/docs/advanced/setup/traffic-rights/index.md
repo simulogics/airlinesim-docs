@@ -11,7 +11,10 @@ A critical aspect of the game is that airlines are national, not global, entitie
 
 By Traffic Rights we mean the rules that determine whether you can fly passengers between two destinations. Your rights to serve a particular market are determined by the country in which your holding's home base is located. For subsidiaries, the rights are usually based on the location of the holding as well (or the combined amount of shares held if your airline is a listed enterprise).
 
-For example, the daughter enterprises of a holding based in Manila will inherit its right to fly domestically between any airport pair in the Philippines, but will not be allowed to fly domestically in China.
+{{< hint info >}}
+**Example**  
+If your holding is based in Manila, the daughter enterprises will inherit its right to fly domestically between any airport pair in the Philippines, but will not be allowed to fly domestically in China.
+{{< /hint >}}
 
 ## Hold on - I can add Chinese flights just fine!
 
@@ -47,7 +50,10 @@ The global cargo market operates on a completely liberalized basis, reflecting i
 
 There are several countries throughout the world which allow foreign investment; the previously stated rules apply to these countries as they do to any other, but unlike countries which don't allow foreign investment, foreign holdings may - through the establishment of an enterprise based in the investment-open country - operate airlines in them, enjoying all the rights granted to domestic holdings.
 
+{{< hint info >}}
+**Info**  
 Whether or not a country accepts foreign investments depends on the game world. You can check by navigating to the Database tab, choosing Countries and seeing what it says under Unrestricted Market Access on the country's information page.
+{{< /hint >}}
 
 Here is an overview of the different lists that are employed throughout the game. New game worlds are currently using list C.
 
@@ -112,7 +118,7 @@ Here is an overview of the different lists that are employed throughout the game
 | Uzbekistan | included | included | included |
 | Zambia | included | included | included |
 
-*Does not apply to holding enterprises based in Israel
+*does not apply to holding enterprises based in Israel
 
 ## Forbidden Routes
 
@@ -120,4 +126,7 @@ There are certain country pairs which, for political reasons, don't permit trave
 
 As with domestic flights in foreign countries, there is nothing stopping the player from scheduling flights between these airport pairs, but the aircraft themselves will fly empty. 
 
-Please note: On our game world Devau, restrictions between airports do not apply as the game world employs a special configuration without ground networks.
+{{< hint info >}}
+**Info**  
+On our game world Devau, restrictions between airports do not apply as the game world employs a special configuration without ground networks.
+{{< /hint >}}

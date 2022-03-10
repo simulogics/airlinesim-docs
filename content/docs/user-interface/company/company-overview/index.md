@@ -77,13 +77,9 @@ You can choose whether the times in AirlineSim should be shown as the hub time, 
 The Comfort Functions allow you to determine whether the game should handle some tasks automatically. These can include:
 
 * Picking a maintenance provider when a new enterprise is founded,
-
 * creating a default service profile when a new enterprise is founded,
-
 * assigning a default seating configuration to new aircraft (only if defined),
-
 * creating a standardized seating configuration if no default has been specified
-
 * and assigning crew to new aircraft.
 
 As these settings affect your gameplay, it's recommended to adjust them to your liking.

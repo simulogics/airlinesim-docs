@@ -9,9 +9,14 @@ weight: 5
 
 Inability to pay or insolvency means that a natural person or legal entity isn't able to pay for bills through their own cash flow, meaning the regular income isn't sufficient to cover the regular costs. In most cases, the credit limit is used up as well. This often results in giving up the company and ceasing commercial operations.
 
+{{< hint info >}}
+**Info**  
 In AirlineSim, there is no overdraft credit to pay leasing installments or salaries from, so your company's liquidity is determined by the balance of your bank account.
+{{< /hint >}}
 
-If you're unable to pay the leasing rate of an aircraft, your enterprise is considered unable to pay at that specific moment. In that case, the leasing contract will be immediately terminated, the aircraft returned and the security deposit (minus the leasing rate) refunded to your bank account. If you can't pay the salaries of your employees during week-end closing, consequences are more serious as your enterprise will be liquidated.
+If you're unable to pay the leasing rate of an aircraft, your enterprise is considered unable to pay at that specific moment. In that case, the leasing contract will be immediately terminated, the aircraft returned and the security deposit (minus the leasing rate) refunded to your bank account.
+
+If you can't pay the salaries of your employees during week-end closing, consequences are more serious as your enterprise will be liquidated.
 
 So, without enough observation, even a healthy enterprise can become unable to pay. It's important to calculate accurately and build some cash reserves as long as your enterprise is making profit. Additionally, a timetable can help you to monitor fixed costs (leasing rates, ground handling), loans, salaries and predicted dividend payout.
 
@@ -65,17 +70,11 @@ The game evaluates each enterprise in matters of creditworthiness. The resulting
 
 Your rating (i.e. creditworthiness) influences three important parts of the game.
 
-{{< details "Financed Purchases from AirlineSim" open >}}
-If you want to lease an aircraft from an AS enterprise or purchase an aircraft financed by the AS-Bank, your rating must be at least B or better. Sometimes, even a rating of BB isn't sufficient. However, if an aircraft is leased from another lessor (i.e. another user), your rating doesn't matter, so you could lease a plane even with a CCC rating.
-{{< /details >}}
+* Financed purchases from AirlineSim: If you want to lease an aircraft from an AS enterprise or purchase an aircraft financed by the AS-Bank, your rating must be at least B or better. Sometimes, even a rating of BB isn't sufficient. However, if an aircraft is leased from another lessor (i.e. another user), your rating doesn't matter, so you could lease a plane even with a CCC rating.
 
-{{< details "Interest and Loans" open >}}
-The lower your rating, the lower the maximal sum of loans you're offered and the more the interest differs from the prime rate. Most of the time, the AS-Bank won't offer any new loans when your rating is CCC or lower. Depending on the debt-to-equity ratio, you're usually not even offered new loans with a B rating.
-{{< /details >}}
+* Interest and loans: The lower your rating, the lower the maximal sum of loans you're offered and the more the interest differs from the prime rate. Most of the time, the AS-Bank won't offer any new loans when your rating is CCC or lower. Depending on the debt-to-equity ratio, you're usually not even offered new loans with a B rating.
 
-{{< details "Initial Public Offers (IPOs)" open >}}
-An IPO isn't possible if your rating is BBB or lower. Remember that potential investors will take a look at your rating, so an IPO with a minimum rating of A or marginally better might frighten them off. The better your rating, the better your impression.
-{{< /details >}}
+* [IPOs (Initial Public Offerings)({{< relref "docs/advanced/finances/initial-public-offerings/index.md" >}}): An IPO isn't possible if your rating is BBB or lower. Remember that potential investors will take a look at your rating, so an IPO with a minimum rating of A or marginally better might frighten them off. The better your rating, the better your impression.
 
 ### Rating Evaluation
 

@@ -37,11 +37,15 @@ With some potential routes in mind, you can also start thinking about whether yo
 
 Here are a few points to consider:
 
-* Fuel consumption & maintenance: New aircraft are likely to consume less fuel and are cheaper to maintain than their older counterparts.
-* Passenger preference: Older aircraft (especially if > 20 years old) usually aren't very attractive for customers, so choosing new planes should allow you to sell more tickets and charge higher prices. However, age isn't the only factor: Generally, passengers prefer jets to props and large aircraft to smaller ones.
-* Production periods: Remember to check if an aircraft is still in production. Buying aircraft that were only produced in small numbers may complicate your operations down the road with regards to fleet commonality.
-* Delivery times: If you're not using your 10 million AS$ starting capital, new aircraft ordered from the manufacturer may not be delivered instantly as production takes between 6 - 42 hours, depending on the aircraft type. Used aircraft can be available immediately. (If you order several new aircraft from one production line, the orders will be added to your order book. This will not be influenced by other companies except for those belonging to your holding. The delivery date will be displayed in your fleet overview and in the order book.)
-* Price: Used aircraft are cheaper to buy or lease - sometimes significantly so, depending on the age of the aircraft.
+* **Fuel consumption / maintenance**: New aircraft are likely to consume less fuel and are cheaper to maintain than their older counterparts.
+
+* **Passenger preference**: Older aircraft (especially if > 20 years old) usually aren't very attractive for customers, so choosing new planes should allow you to sell more tickets and charge higher prices. However, age isn't the only factor: Generally, passengers prefer jets to props and large aircraft to smaller ones.
+
+* **Production periods**: Remember to check if an aircraft is still in production. Buying aircraft that were only produced in small numbers may complicate your operations down the road with regards to fleet commonality.
+
+* **Delivery times**: If you're not using your 10 million AS$ starting capital, new aircraft ordered from the manufacturer may not be delivered instantly as production takes between 6 - 42 hours, depending on the aircraft type. Used aircraft can be available immediately. (If you order several new aircraft from one production line, the orders will be added to your order book. This will not be influenced by other companies except for those belonging to your holding. The delivery date will be displayed in your fleet overview and in the order book.)
+
+* **Price**: Used aircraft are cheaper to buy or lease - sometimes significantly so, depending on the age of the aircraft.
 
 ## Aircraft Type Evaluation
 
@@ -53,11 +57,15 @@ Selecting a type opens an overview of the related aircraft variants and their ge
 
 Let's look at some of the sheet's data in detail:
 
-* Passengers (max): The maximum passenger capacity of the aircraft. This can only be achieved with a one-class cabin layout using basic seats. If you want to offer more classes or luxurious seating, the aircraft will hold less passengers. Keep in mind to ask yourself how big your plane needs to be. You probably won't require an A380 to fly between two tiny cities, for example. If you’re unsure, you can always check out what the competition is doing.
-* Range: The smaller value shows the range that you can reach with a full payload. The higher value displays the maximum range which can only be accomplished at a minimum load. You can see the payload-range graph for a specific route by using the Performance Check Tool, about which we'll talk in a second. 
-* Ground roll take off / landing: The runway length the aircraft needs. The smaller value is the shortest possible length for take off or landing; the higher value is necessary for a fully-loaded take off or landing.
-* Noise category: This indicates the noise emission level of an aircraft and can range from I (very noisy) to V (very quiet). Noisier aircraft pay higher ground charges and may be banned from certain airports entirely.
-* Maintenance category: Aircraft within the same category have similar requirements regarding maintenance. Keep in mind that maintaining a diverse fleet can become expensive: Once your fleet contains aircraft from more than 3 categories, maintenance will cost an extra 15% for each added category.
+* **Passengers (max)**: The maximum passenger capacity of the aircraft. This can only be achieved with a one-class cabin layout using basic seats. If you want to offer more classes or luxurious seating, the aircraft will hold less passengers. Keep in mind to ask yourself how big your plane needs to be. You probably won't require an A380 to fly between two tiny cities, for example. If you’re unsure, you can always check out what the competition is doing.
+
+* **Range**: The smaller value shows the range that you can reach with a full payload. The higher value displays the maximum range which can only be accomplished at a minimum load. You can see the payload-range graph for a specific route by using the Performance Check Tool, about which we'll talk in a second. 
+
+* **Ground roll take off / landing**: The runway length the aircraft needs. The smaller value is the shortest possible length for take off or landing; the higher value is necessary for a fully-loaded take off or landing.
+
+* **Noise category**: This indicates the noise emission level of an aircraft and can range from I (very noisy) to V (very quiet). Noisier aircraft pay higher ground charges and may be banned from certain airports entirely.
+
+* **Maintenance category**: Aircraft within the same category have similar requirements regarding maintenance. Keep in mind that maintaining a diverse fleet can become expensive: Once your fleet contains aircraft from more than 3 categories, maintenance will cost an extra 15% for each added category.
 
 ### Performance Check Tool
 
@@ -96,9 +104,11 @@ The aircraft fact sheet of your chosen model gives you the option to order new a
 
 If you want to order new aircraft, just enter the desired amount and hit Request Quotation. On the following page, you'll have the choice between various payment options:
 
-* Purchasing aircraft directly by paying the full price right away.
-* Leasing aircraft by putting down a security deposit and paying a weekly fee to the lessor. If you choose this option, your company must have an adequate credit rating. If you can't pay the weekly fee, the aircraft will be returned automatically. 
-* Making a loan purchase by financing the aircraft fully or in part through a credit. The loan and the interest must be paid back according to the game's standard conditions. This payment method depends on your credit rating as well. All available plans will be automatically offered.
+* **Purchasing aircraft** directly by paying the full price right away.
+
+* **Leasing aircraft** by putting down a security deposit and paying a weekly fee to the lessor. If you choose this option, your company must have an adequate credit rating. If you can't pay the weekly fee, the aircraft will be returned automatically. 
+
+* Making a **loan purchase** by financing the aircraft fully or in part through a credit. The loan and the interest must be paid back according to the game's standard conditions. This payment method depends on your credit rating as well. All available plans will be automatically offered.
 
 As you've just founded your first holding, you are equipped with a starting capital of 10 million AS$ that allows you to have aircraft delivered instantly if you lease them. Once you exceed this budget, you will have to wait some time as the aircraft will be delivered one after another. Production times can vary and are displayed on the aircraft fact sheet.
 
@@ -117,11 +127,11 @@ If you place a bid, your money will remain tied up until the auction is finished
 
 Each aircraft on the market is listed with additional information:
 
-* Owner: This shows you who owns the aircraft and who you will be leasing or buying it from. Oftentimes it will be the Aircraft Trade and Leasing Organization, a company run by the game itself.
-* Registration: The registration code of the aircraft.
-* Age: The age of an aircraft is important since older planes have higher maintenance but tend to be cheaper.
-* Condition: The optimal condition of an aircraft lies at around 100% but usually doesn't matter as it can be increased once the machine is purchased.
-* Location: This shows the current location of the aircraft. Keep in mind that you will need to transfer it to your base of operations.
+* **Owner**: This shows you who owns the aircraft and who you will be leasing or buying it from. Oftentimes it will be the Aircraft Trade and Leasing Organization, a company run by the game itself.
+* **Registration**: The registration code of the aircraft.
+* **Age**: The age of an aircraft is important since older planes have higher maintenance but tend to be cheaper.
+* **Condition**: The optimal condition of an aircraft lies at around 100% but usually doesn't matter as it can be increased once the machine is purchased.
+* **Location**: This shows the current location of the aircraft. Keep in mind that you will need to transfer it to your base of operations.
 
 ### Buying or Leasing?
 

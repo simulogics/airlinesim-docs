@@ -22,8 +22,8 @@ If you're looking for ways to increase your load factors, you may be thinking ab
 
 So what are your options if cheaper tickets don't fill your plane?
 
-* Check the flight schedule: Do your planes arrive and leave your hub in waves? Have you taken the minimum transfer times into account? Good connections usually improve your load factors.
-* Optimize your service: Have you assigned a service profile to your flight? Few passengers will board your plane if there is no on-board service.
-* Connect with interlining partners: If you have an interlining partner at the destination airport, make sure to connect your flights with theirs.
+* **Check the flight schedule**: Do your planes arrive and leave your hub in waves? Have you taken the minimum transfer times into account? Good connections usually improve your load factors.
+* **Optimize your service**: Have you assigned a service profile to your flight? Few passengers will board your plane if there is no on-board service.
+* **Connect with interlining partners**: If you have an interlining partner at the destination airport, make sure to connect your flights with theirs.
 
 If the load factors still don't improve, try looking for a more profitable route. Exception: Your plane is only half full but most passengers are transfer passengers. In that case, you better lease a smaller plane to operate that route.

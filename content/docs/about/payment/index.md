@@ -19,7 +19,9 @@ The credit system is a prepaid model and thus completely flexible. Buying credit
 
 ## Credit Consumption
 
-Once you create a holding, credits are deducted from your account on a daily basis. If you're playing on a short-term game world, your first holding costs 4 credits per day and game world. Each additional holding (if allowed) adds 2 more credits to the daily bill. In a long-term game world, your first holding consumes 6 credits per day and game world while each additional holding costs 4 extra credits.
+Once you create a holding, credits are deducted from your account on a daily basis. If you're playing on a short-term game world, your first holding costs 4 credits per day and game world.
+
+Each additional holding (if allowed) adds 2 more credits to the daily bill. In a long-term game world, your first holding consumes 6 credits per day and game world while each additional holding costs 4 extra credits.
 
 If you are out of credits, your account's holdings and companies will be locked until you add more. Credits will still be subtracted at the normal daily rate during this period. The intention here is to prevent companies from gaining an unfair advantage by abandoning accounts and returning to them, several weeks later, having avoided paying for their growth.
 
@@ -69,6 +71,6 @@ The following features are not available during the trial period and are only un
 * Bidding on non-official aircraft offers
 * Player-owned buildings
 * Personnel dismissal
-* Stock exchange functions (IPOs and share trading)
-* The Online Reservation System (ORS)
+* Stock exchange functions ([Initial Public Offerings]({{< relref "docs/advanced/finances/initial-public-offerings/index.md" >}}) and share trading) 
+* [The Online Reservation System (ORS)]({{< relref "docs/advanced/bookings/online-reservation-system/index.md" >}})
 * Integrated flight operations control

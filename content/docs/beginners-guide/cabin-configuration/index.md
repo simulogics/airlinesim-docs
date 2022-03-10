@@ -24,10 +24,13 @@ On the left side of the editor, you'll see the empty deck of your plane. First o
 
 Once the classes are set up, you can equip each one with seats and deploy additional flight attendants:
 
-* Seat types: By clicking on Select next to Seat, you can decide which type of seat you want to put in each class. Better seats result in higher ratings, however they're usually pricey and take up more space, decreasing the maximum number of passengers you can transport. It's always a trade-off between quality and efficiency: If you're the only airline on a route, you can aim to offer as many seats as possible; if a route has many competitors, it's preferable to offer more comfortable seats.
-* Number of seats: You can select the number of seats under Seats/Cabin. If you choose 0, the class won't be used in the cabin configuration. If you already added seats to other classes, you can use the Top Up button to fill up the remaining space with seats for the class that you're currently editing.
-* Extra pitch: If you want to give your passengers more leg room, don’t remove seat rows - just increase the extra pitch value and you're good to go!
-* Additional F / As: Here, you can add additional flight attendants for each class. You should already have a base number of staff but you can assign more employees to increase ratings. Tip: Aircraft with fewer than 20 seats don't necessarily need a flight attendant. By default, one attendant is responsible for 50 passengers per class. More flight attendants have a positive effect on the evaluation of your flights.
+* **Seat types**: By clicking on Select next to Seat, you can decide which type of seat you want to put in each class. Better seats result in higher ratings, however they're usually pricey and take up more space, decreasing the maximum number of passengers you can transport. It's always a trade-off between quality and efficiency: If you're the only airline on a route, you can aim to offer as many seats as possible; if a route has many competitors, it's preferable to offer more comfortable seats.
+
+* **Number of seats**: You can select the number of seats under Seats/Cabin. If you choose 0, the class won't be used in the cabin configuration. If you already added seats to other classes, you can use the Top Up button to fill up the remaining space with seats for the class that you're currently editing.
+
+* **Extra pitch**: If you want to give your passengers more leg room, don’t remove seat rows - just increase the extra pitch value and you're good to go!
+
+* **Additional F / A**: Here, you can add additional flight attendants for each class. You should already have a base number of staff but you can assign more employees to increase ratings. Tip: Aircraft with fewer than 20 seats don't necessarily need a flight attendant. By default, one attendant is responsible for 50 passengers per class. More flight attendants have a positive effect on the evaluation of your flights.
 
 If you’re unsure how your current configuration affects your passengers ratings, just save it and switch to the Ratings tab. And remember: Each aircraft type requires its own cabin layout!
 
@@ -35,12 +38,17 @@ If you’re unsure how your current configuration affects your passengers rating
 
 Here's some general advice to help you with the cabin configuration process:
 
-* One flight attendant per class: Every class needs at least one flight attendant. Even if you only install two first class seats, you still have to assign a flight attendant to your first class. Keep in mind that your staff works 8 hour shifts, so if you're flying for 20 hours a day, one flight attendant equals multiple employees on your payroll.
-Additional flight attendants: The number of additional flight attendants is up to you, but passengers appreciate the attention. A higher rating may be worth the extra salaries.
-* Economy vs. Business: As the business class usually has bigger seats, better service and less passengers per flight attendant, two economy passengers may be more profitable than one business class customer. Just remember to take the costs into account when setting up your cabin.  
-* First Class: If you find it difficult to fill the first class on some routes, you can try offering it only on long-haul routes of 2,000 km and above or even leaving it out entirely in some planes. 
-* Check your configuration: After creating a cabin, double check it. Once we assign it to the aircraft in the next step, you can't even add a flight attendant without completely refurbishing your plane.
-* Changing cabins: If you change the cabin configuration of an aircraft, the new setup will be used after 3 days.
+* **One flight attendant per class**: Every class needs at least one flight attendant. Even if you only install two first class seats, you still have to assign a flight attendant to your first class. Keep in mind that your staff works 8 hour shifts, so if you're flying for 20 hours a day, one flight attendant equals multiple employees on your payroll.
+
+* **Additional flight attendants**: The number of additional flight attendants is up to you, but passengers appreciate the attention. A higher rating may be worth the extra salaries.
+
+* **Economy vs. Business**: As the business class usually has bigger seats, better service and less passengers per flight attendant, two economy passengers may be more profitable than one business class customer. Just remember to take the costs into account when setting up your cabin.
+
+* **First Class**: If you find it difficult to fill the first class on some routes, you can try offering it only on long-haul routes of 2,000 km and above or even leaving it out entirely in some planes. 
+
+* **Check your configuration**: After creating a cabin, double check it. Once we assign it to the aircraft in the next step, you can't even add a flight attendant without completely refurbishing your plane.
+
+* **Changing cabins**: If you change the cabin configuration of an aircraft, the new setup will be used after 3 days.
 
 ## What do passengers expect ?
 

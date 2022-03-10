@@ -106,11 +106,7 @@ Underneath the settings, you have the option to create a new enterprise or to li
 
 {{< hint danger >}}
 **Warning**
-If you choose a liquidation, all data of your enterprise will be irreversibly removed.
-
-All assets will be sold, buildings will be demolished, existing minority stakes will go to AirlineSim and majority stakes will lead to the deletion of the daughter enterprise.
-
-The shareholder will receive the remaining values divided by their share.
+If you choose a liquidation, all data of your enterprise will be irreversibly removed. All assets will be sold, buildings will be demolished, existing minority stakes will go to AirlineSim and majority stakes will lead to the deletion of the daughter enterprise. The shareholder will receive the remaining values divided by their share.
 {{< /hint >}}
 
 Keep in mind that a reset is only possible for holdings (i.e. enterprises which belong to your account directly).

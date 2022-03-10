@@ -13,7 +13,7 @@ As one of the main community platforms, the [forum](https://forums.airlinesim.ae
 
 ## Discord
 
-Our [Discord channel](https://discord.com/invite/5K2Axks) is another place where you can easily connect with other players and find help in case you have any questions about the game.
+Our [Discord server](https://discord.com/invite/5K2Axks) is another place where you can easily connect with other players and find help in case you have any questions about the game.
 
 ## Support Tickets
 

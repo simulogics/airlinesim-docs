@@ -25,7 +25,7 @@ Yes, many routes with low demand can be served with flights that don't occur eve
 
 ## Do passengers have an exact destination in mind or are they flexible enough to pick nearby airports?
 
-Passengers are generated with a demand to reach a specific airport. However, ground travel can form a component of a trip. See Flight Rating System for more details.
+Passengers are generated with a demand to reach a specific airport. However, ground travel can form a component of a trip. See [Flight Rating System]({{< relref "docs/advanced/performance/flight-rating-system/index.md" >}}) for more details. 
 
 ## Is there any way to translate the green demand blocks for each airport into an exact number of passengers that want to fly between them?
 

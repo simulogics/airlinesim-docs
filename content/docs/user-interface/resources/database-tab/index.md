@@ -39,7 +39,7 @@ On this page, you'll find a selection of statistical details regarding the game 
 
 ![Connection Search](ORS_01.png "Connection Search")
 
-As one of the game's core features, the Online Reservation System (ORS) generates a multitude of daily connections and distributes passengers between the players' flights.
+As one of the game's core features, the [Online Reservation System (ORS)]({{< relref "docs/advanced/bookings/online-reservation-system/index.md" >}}) generates a multitude of daily connections and distributes passengers between the players' flights.
 
 The interface itself lets you search for available connections by entering an origin / destination, the earliest departure / latest arrival time and a payload type (Economy, Business, First Class and Cargo).
 

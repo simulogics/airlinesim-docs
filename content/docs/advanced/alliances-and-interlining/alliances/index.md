@@ -9,7 +9,9 @@ If you're looking for ways to connect with other players in-game, you may consid
 
 Alliances are formal business cooperation agreements between a number of companies. They add a taste of reality to the game and are a great way to enjoy AirlineSim with your fellow players. The goals of an alliance, its membership criteria and other formalities are decided internally by its members.
 
-Some alliances "create" extra hubs by interlining and flying at the same time to the same airport. Others help their members by purchasing shares if they go public, operate their own helpdesk to advise new members or set up rules about interlining. As you can see, the possibilities are endless: From friendly chat to fully realized interlining agreements - a good alliance can offer all of that and more!
+Some alliances "create" extra hubs by interlining and flying at the same time to the same airport. Others help their members by purchasing shares if they go public, operate their own helpdesk to advise new members or set up rules about interlining.
+
+As you can see, the possibilities are endless: From friendly chat to fully realized interlining agreements - a good alliance can offer all of that and more!
 
 ## How can I join?
 

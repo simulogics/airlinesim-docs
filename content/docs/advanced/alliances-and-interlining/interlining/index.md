@@ -20,7 +20,7 @@ To set up an interlining agreement, you can use the Interlining page, accessible
 Once you've received confirmation of the other airline's acceptance, the two route networks will be linked immediately and passengers and freight can transfer between the flights of your companies. 
 
 {{< hint info >}}
-**Tip**  
+**Info**  
 The same transfer rules apply as would to transfers between your own flights, so you should still consider the airports' minimum transfer times and avoid letting passengers wait for more than eight hours (the maximum waiting time depends on the server, so it may be longer on future game worlds).
 {{< /hint >}}
 
@@ -28,15 +28,19 @@ The same transfer rules apply as would to transfers between your own flights, so
 
 Naturally, there are some costs involved in this process. Interlining contracts may allow you to sell more tickets, but also require the employment of a number of extra network planning personnel (with a minimum of one employee per airline per contract and, if large airlines are involved, potentially many more). 
 
-Therefore, it's worth thinking about the value of extra traffic generated versus the value of maintaining an interlining contract, particularly with a very large airline. Before accepting an interlining agreement, it can be helpful to consider where your interlining partner is located, whether their routes fit your network and if their flights appear on the Online Reservation System (ORS).
+Therefore, it's worth thinking about the value of extra traffic generated versus the value of maintaining an interlining contract, particularly with a very large airline.
 
-Ideally, your partner communicates with you, has a good regional and international network and operates flights that get high ratings on the ORS.
+Before accepting an interlining agreement, it can be helpful to consider where your interlining partner is located, whether their routes fit your network and if their flights appear on the [Online Reservation System (ORS)]({{< relref "docs/advanced/bookings/online-reservation-system/index.md" >}}). Ideally, your partner communicates with you, has a good regional and international network and operates flights that get high ratings on the ORS.
 
 Why is this important? Connected flights always get a lower rating than direct flights. If your partner's (or your) flights have low ratings, the combined flights might not even appear on the ORS. In that case, passengers will prefer other ways to fly from A to B to C.
 
 {{< hint info >}}
 **Example**  
-Let's assume you're based in Istanbul and want an interlining partner in London. If you and your partner only fly to major European capitals, you won't gain a single passenger. If your partner operates domestic and regional flights though, you'll get extra passengers on your flights to London who take a connecting flight to Aberdeen or Glasgow. Vice versa, you'll get passengers who use your domestic flights from Ankara to Istanbul and then take a connecting flight to London.
+Let's assume you're based in Istanbul and want an interlining partner in London. If you and your partner only fly to major European capitals, you won't gain a single passenger.
+
+If your partner operates domestic and regional flights though, you'll get extra passengers on your flights to London who take a connecting flight to Aberdeen or Glasgow.
+
+Vice versa, you'll get passengers who use your domestic flights from Ankara to Istanbul and then take a connecting flight to London.
 {{< /hint >}}
 
 Your partner's location is less important, but usually, a hub that's far away from yours offers a lot of different destinations. However, you can also form a contract with companies that use the same hub as you.

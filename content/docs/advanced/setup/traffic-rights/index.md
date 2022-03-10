@@ -25,14 +25,18 @@ Well, even with your holding based in the Philippines, there is nothing physical
 A good question - the answers will vary depending on where your holding is located. The following rules are universal and apply to holdings based in all countries:
 
 * Any airline may transport passengers domestically (that is, between two points in the same country) in the country in which its holding is based.
+
 * Any airline may transport passengers internationally between any point in its home country (the country where its holding is based) and any point in a second country.
+
 * Any airline may transport passengers internationally between any point in one country and any point in another if the trip involves a stop (a take-off and a landing, at least) in the country in which its holding is based.
 
 In addition to these universal rules, there are a couple of special cases:
 
-* European Union: Any airline whose holding is based in the European Union may transport passengers between any two points within the European Union by whatever routing desired; in other words, the European Union's domestic market functions as one large, virtual country. Important: This rule does not apply to flights which either begin or end outside the European Union - any such flights must either begin or end in the country in which the airline's holding is based.
-* Australia and New Zealand: Similarly, any airline whose holding is based in either Australia or New Zealand may transport passengers between any two points within both Australia and New Zealand; however, again, this rule does not apply to flights which either begin or end outside Australia and New Zealand.
-* Yamoussoukro Decision: Any airline whose holding is based in a country party to the Yamoussoukro Decision may transport passengers between a second and a third country if - and only if - the flight in question is a continuation of a flight from the holding's country of origin, using the game's via function.
+* **European Union**: Any airline whose holding is based in the European Union may transport passengers between any two points within the European Union by whatever routing desired; in other words, the European Union's domestic market functions as one large, virtual country. Important: This rule does not apply to flights which either begin or end outside the European Union - any such flights must either begin or end in the country in which the airline's holding is based.
+
+* **Australia and New Zealand**: Similarly, any airline whose holding is based in either Australia or New Zealand may transport passengers between any two points within both Australia and New Zealand; however, again, this rule does not apply to flights which either begin or end outside Australia and New Zealand.
+
+* **Yamoussoukro Decision**: Any airline whose holding is based in a country party to the Yamoussoukro Decision may transport passengers between a second and a third country if - and only if - the flight in question is a continuation of a flight from the holding's country of origin, using the game's via function.
 
 ## EU Treaty & Oceanic Open Skies
 

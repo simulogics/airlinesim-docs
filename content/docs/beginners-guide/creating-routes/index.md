@@ -47,7 +47,7 @@ If your flights arrive and depart in waves, you can create countless possible co
 
 ## Extending the Range
 
-When deciding on routes, it can help to check the range of your aircraft. Each plane can fly a certain distance with a full load. It can fly further, but then it'll carry more fuel and less passengers. If you want to extend the range, equip your plane with better seats. This will get you a higher rating on the Online Reservation System (ORS) and you'll still be able to fly a full load (i.e. less passengers at a higher ticket price).
+When deciding on routes, it can help to check the range of your aircraft. Each plane can fly a certain distance with a full load. It can fly further, but then it'll carry more fuel and less passengers. If you want to extend the range, equip your plane with better seats. This will get you a higher rating on the [Online Reservation System (ORS)]({{< relref "docs/advanced/bookings/online-reservation-system/index.md" >}}) and you'll still be able to fly a full load (i.e. less passengers at a higher ticket price).
 
 ## Using Your Geographical Position
 
@@ -67,11 +67,11 @@ Opening or closing a station doesn't cost anything as long as it's not actively 
 
 However, there are staffing costs involved in handling passengers once you start scheduling flights to the airport, with the employees in question being hired automatically based on the number of passengers you expect to handle at the station.
 
-* Station Managers: Currently not in use, won't be hired.
-* Check-In Agents: Take care of passenger handling. Will not be needed or hired if the airport is only used for cargo.
-* Ramp Agents: Coordinate the handling of the actual aircraft on the ground.
-* Cargo Controllers: Take care of the cargo handling. Will not be needed or hired if the airport does not handle cargo.
+* **Station Managers**: Currently not in use, won't be hired.
+* **Check-In Agents**: Take care of passenger handling. Will not be needed or hired if the airport is only used for cargo.
+* **Ramp Agents**: Coordinate the handling of the actual aircraft on the ground.
+* **Cargo Controllers**: Take care of the cargo handling. Will not be needed or hired if the airport does not handle cargo.
 
 If you reduce the handled amount of passengers or cargo to the point where staffing demands are reduced, personnel will become available for other stations.
 
-Available employees can either be fired (although you'll have to pay them a settlement) or used to open up other stations in case they require additional personnel later on. This is done automatically - idle staff will be moved wherever it's needed before new people are hired.
+Available employees can either be fired (although you'll have to pay them a settlement) or used to open up other stations in case they require additional personnel later on. This is done automatically: Idle staff will be moved wherever it's needed before new people are hired.

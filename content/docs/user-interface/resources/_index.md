@@ -1,2 +1,4 @@
+---
 title: "Resources"
-weight: 3
+weight: 4
+---

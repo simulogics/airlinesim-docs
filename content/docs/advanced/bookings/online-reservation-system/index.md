@@ -12,7 +12,7 @@ As one of the game's core features, the Online Reservation System (ORS) generate
 Flights are put into the ORS three days before they take off. Let's say you activate a flight plan on Monday morning and the first flight is scheduled to take off at 11 o'clock. In that case, you'll have to wait until 11 o'clock before your first flight appears on the flight list. If you activated your flight plan with a three day delay, it won't appear until Thursday morning.
 
 After that, new flights will be added to the list as time progresses. One flight at the time, and always three days ahead.
-Every airport calculates its passenger demand once a day (you can find the specific time on the airport's information page under Demand Calculation. When that happens, your flight will be compared to the other available flights and passengers will book tickets.
+Every airport calculates its passenger demand once a day (you can find the specific time on the airport's information page under Demand Calculation). When that happens, your flight will be compared to the other available flights and passengers will book tickets.
 
 ![Daily Demand Calculation](demand_calculation_01.png "Daily Demand Calculation")
 

@@ -15,7 +15,11 @@ Before we jump in, let's think about how you want to set up your schedule by hav
 
 ### Staying Profitable
 
-If you're leasing an aircraft, you'll have to pay the weekly leasing rate plus the salaries for pilots and cabin crew - even if it doesn't take off. If your plane makes one return flight per day (from A to B and B to A), the leasing cost per flight equals the weekly leasing cost divided by 14. If your plane makes three return flights per day, the leasing cost per flight equals the weekly leasing cost divided by 42. So in order to stay profitable, your plane has to fly as much as possible.
+If you're leasing an aircraft, you'll have to pay the weekly leasing rate plus the salaries for pilots and cabin crew - even if it doesn't take off.
+
+If your plane makes one return flight per day (from A to B and B to A), the leasing cost per flight equals the weekly leasing cost divided by 14. If your plane makes three return flights per day, the leasing cost per flight equals the weekly leasing cost divided by 42.
+
+So in order to stay profitable, your plane has to fly as much as possible.
 
 ### Maintenance Ratios
 

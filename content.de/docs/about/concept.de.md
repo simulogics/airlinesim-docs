@@ -5,5 +5,5 @@ weight: 1
 
 # Spielkonzept
 
-{{% coming-soon-de.md %}}
+{{% coming-soon-de %}}
 

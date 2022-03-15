@@ -5,5 +5,5 @@ weight: 1
 
 # Spielkonzept
 
-{{ partial "layouts/partials/coming-soon.html" . }}
+{{ partial "coming-soon.html" . }}
 

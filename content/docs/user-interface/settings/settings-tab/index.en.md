@@ -1,9 +1,9 @@
 ---
-title: "Settings Tab"
+title: "Settings"
 weight: 1
 ---
 
-# Settings Tab
+# Settings
 
 ## Account
 

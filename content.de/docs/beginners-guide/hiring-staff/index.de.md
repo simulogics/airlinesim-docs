@@ -1,8 +1,8 @@
 ---
-title: "Personal anstellen"
+title: "Verwaltung von Personal"
 weight: 6
 ---
 
-# Personal anstellen
+# Verwaltung von Personal
 
 {{% coming-soon-de %}}

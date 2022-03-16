@@ -1,8 +1,8 @@
 ---
-title: "Einrichtung der Airline"
+title: "Firmengründung"
 weight: 2
 ---
 
-# Einrichtung der Airline
+# Gründung einer neuen Airline
 
 {{% coming-soon-de %}}

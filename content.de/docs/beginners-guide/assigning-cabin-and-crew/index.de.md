@@ -1,8 +1,8 @@
 ---
-title: "Kabine und Crew zuweisen"
+title: "Zuweisung von Kabine und Crew"
 weight: 9
 ---
 
-# Kabine und Crew zuweisen
+# Zuweisung von Kabine und Crew
 
 {{% coming-soon-de %}}

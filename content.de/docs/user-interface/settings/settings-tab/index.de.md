@@ -1,8 +1,8 @@
 ---
-title: "Einstellungen"
+title: "Einstellungen-Tab"
 weight: 1
 ---
 
-# Einstellungen
+# Einstellungen-Tab
 
 {{% coming-soon-de %}}

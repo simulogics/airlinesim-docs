@@ -1,6 +1,6 @@
 ---
 title: "Game World"
-weight: 1
+weight: 2
 ---
 
 # Settings

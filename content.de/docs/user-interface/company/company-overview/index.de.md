@@ -1,8 +1,8 @@
 ---
-title: "Firmenübersicht"
+title: "Übersicht"
 weight: 1
 ---
 
-# Firmenübersicht
+# Übersicht
 
 {{% coming-soon-de %}}

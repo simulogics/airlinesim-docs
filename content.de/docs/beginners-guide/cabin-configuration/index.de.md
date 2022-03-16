@@ -1,8 +1,8 @@
 ---
-title: "Konfiguration der Kabine"
+title: "Kabinenkonfiguration"
 weight: 8
 ---
 
-# Konfiguration der Kabine
+# Kabinenkonfiguration
 
 {{% coming-soon-de %}}

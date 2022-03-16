@@ -1,8 +1,8 @@
 ---
-title: "Flugbewertungssystem"
+title: "Flugbewertung"
 weight: 1
 ---
 
-# Flugbewertungssystem
+# Flugbewertung
 
 {{% coming-soon-de %}}

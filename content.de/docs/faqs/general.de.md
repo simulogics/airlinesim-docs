@@ -1,8 +1,8 @@
 ---
-title: "Allgemeines"
+title: "Allgemein"
 weight: 1
 ---
 
-# Allgemeines
+# Allgemein
 
 {{% coming-soon-de %}}

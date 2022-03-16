@@ -1,9 +1,9 @@
 ---
-title: "Routen anlegen"
+title: "Routen erstellen"
 weight: 5
 ---
 
-# Routen anlegen
+# Routen erstellen
 
 {{% coming-soon-de %}}
 

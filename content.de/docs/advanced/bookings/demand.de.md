@@ -1,8 +1,8 @@
 ---
-title: "Aufkommensberechnung"
+title: "Aufkommen"
 weight: 2
 ---
 
-# Aufkommensberechnung
+# Aufkommen
 
 {{% coming-soon-de %}}

@@ -1,8 +1,8 @@
 ---
-title: "Verwaltung von Personal"
+title: "Personalverwaltung"
 weight: 6
 ---
 
-# Verwaltung von Personal
+# Personalverwaltung
 
 {{% coming-soon-de %}}

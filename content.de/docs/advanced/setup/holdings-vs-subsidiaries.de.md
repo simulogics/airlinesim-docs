@@ -1,8 +1,8 @@
 ---
-title: "Holdings & Tochterunternehmen"
+title: "Holdings und Tochterunternehmen"
 weight: 1
 ---
 
-# Holdings & Tochterunternehmen
+# Holdings und Tochterunternehmen
 
 {{% coming-soon-de %}}

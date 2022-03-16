@@ -1,9 +1,9 @@
 ---
-title: "Kontoerstellung"
+title: "Erstellung eines Kontos"
 weight: 1
 ---
 
-# Kontoerstellung
+# Erstellung eines Kontos
 
 {{% coming-soon-de %}}
 

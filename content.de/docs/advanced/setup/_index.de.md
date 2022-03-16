@@ -1,4 +1,4 @@
 ---
-title: "Firmensetup"
+title: "Einrichtung der Firma"
 weight: 1
 ---

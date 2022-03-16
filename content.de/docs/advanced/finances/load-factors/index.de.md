@@ -1,8 +1,8 @@
 ---
-title: "Auslastungsfaktoren"
+title: "Ladefaktoren"
 weight: 1
 ---
 
-# Auslastungsfaktoren
+# Ladefaktoren
 
 {{% coming-soon-de %}}

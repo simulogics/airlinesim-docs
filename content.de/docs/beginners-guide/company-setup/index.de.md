@@ -3,6 +3,6 @@ title: "Firmengründung"
 weight: 2
 ---
 
-# Gründung einer neuen Airline
+# Einrichtung des Unternehmens
 
 {{% coming-soon-de %}}

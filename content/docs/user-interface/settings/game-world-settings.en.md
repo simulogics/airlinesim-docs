@@ -3,11 +3,13 @@ title: "Game World"
 weight: 2
 ---
 
-# Settings
+# Game World Settings
+
+## Settings
 
 The settings that show up here are quite similar to the options you get in the Game Settings. However, this menu also lets you pick an interface language as well as a language for email notifications. Additionally, you can choose whether your online status should be shared with others or not.
 
-# Deactivation
+## Deactivation
 
 ![Leaving a Game World](deactivation_01.png "Leaving a Game World")
 

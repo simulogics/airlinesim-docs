@@ -1,8 +1,8 @@
 ---
-title: "Flugzeugleasing und -verkauf"
+title: "Verleasen und Verkaufen"
 weight: 3
 ---
 
-# Flugzeugleasing und -verkauf
+# Verleasen und Verkaufen
 
 {{% coming-soon-de %}}

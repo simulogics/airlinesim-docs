@@ -1,4 +1,5 @@
 ---
+next: /beginners-guide/company-setup
 title: "Introduction"
 weight: 1
 ---

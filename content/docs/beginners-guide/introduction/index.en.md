@@ -11,5 +11,3 @@ You're new to the game and want to know how to get started with your business ve
 This tutorial is here to guide you through your first steps in the game, covering everything from setting up your new company and building your fleet to configuring aircraft cabins and activating flight schedules.
 
 Ready? Then let's get your airline off the ground!
-
-{{ partial "pagination.html" . }}

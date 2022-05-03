@@ -1,4 +1,4 @@
-baseURL = "https://handbook.airlinesim.aero/"
+baseURL = "https://simulogics.github.io/airlinesim-docs/"
 languageCode = "en-us"
 title = "AirlineSim Handbook"
 theme = "relearn"

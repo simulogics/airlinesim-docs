@@ -33,34 +33,34 @@ Here is a list of all currently available short-term and long-term game worlds a
 
 | Game World | Opened | Ends | First Holding | Additional Holding | Standard pricing formula | Turnarounds | ORS Version | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bleriot III | Dec 2021 | 20 Sep 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | double slots, nighttime bans off |
-| Domination III | Nov 2021 | 19 Jul 2022 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | global traffic rights, double slots, nighttime bans off |
-| Otto VIII         | Oct 2021 | 18 Aug 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | -- |
-| Yeager V          | Aug 2021 | 20 Jun 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | double slots, nighttime bans off |
-| Junkers II        | Jun 2021 | 25 Apr 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | -- |
-| Quimby XII        | Feb 2022 | 25 Nov 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | -- |
+| Bleriot III | Dec 2021 | 20 Sep 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, double slots |
+| Domination IV | Jul 2022 | 20 Mar 2023 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | all countries open for investment, doubled starting funds, all aircraft, double slots |
+| Otto VIII | Oct 2021 | 18 Aug 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, standard slots |
+| Yeager VI | Jun 2022 | 20 Dec 2022 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | all aircraft, double slots |
+| Junkers III | Apr 2022 | 27 Jan 2023 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, standard slots |
+| Quimby XII | Feb 2022 | 25 Nov 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | all aircraft, standard slots |
 
 ### Long-Term Game Worlds
 
 | Game World | Opened | Ends | First Holding | Additional Holding | Standard pricing formula | Turnarounds | ORS Version | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Limatambo | Dec 2020 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 2 | -- |
-| Xiguan | Dec 2018 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 1 | -- |
-| Hoover | Dec 2017 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 1 | -- |
-| Riem | Mar 2015 | -- | 6 credits | 4 credits | Ver. 2 | static | Ver. 1 | IPOs possible, advanced game world due to reduced demand |
-| Ellinikon | Aug 2014 | -- | 6 credits | 4 credits | Ver. 2 | static | Ver. 1 | IPOs possible |
-| Aspern | Nov 2013 | -- | 6 credits | -- | Ver. 1 | static | Ver. 1 | IPOs possible |
-| Gatow | Feb 2013 | -- | 6 credits | -- | Ver. 1 | static | Ver. 1 | IPOs possible |
-| Pearls | Jun 2012 | -- | 6 credits | -- | Ver. 1 | static | Ver. 1 | IPOs possible |
-| Meigs | Mar 2012 | -- | 6 credits | -- | Ver. 1 | static | Ver. 1 | IPOs possible |
-| Stapleton | Jul 2011 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible |
-| Fornebu | Sep 2010 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible |
-| Tempelhof | Aug 2010 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible |
-| Croydon | Nov 2009 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible |
-| Nicosia | Aug 2009 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible |
-| Devau | Feb 2008 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible |
-| Idlewild | Oct 2007 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible |
-| Kaitak | Aug 2007 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible |
+| Limatambo | Dec 2020 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 2 | only current aircraft, standard slots |
+| Xiguan | Dec 2018 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 1 | only current aircraft, standard slots |
+| Hoover | Dec 2017 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 1 | only current aircraft, standard slots |
+| Riem | Mar 2015 | -- | 6 credits | 4 credits | Ver. 2 | static | Ver. 1 | advanced game world due to reduced demand, IPOs possible, standard slots |
+| Ellinikon | Aug 2014 | -- | 6 credits | 4 credits | Ver. 2 | static | Ver. 1 | IPOs possible, standard slots |
+| Aspern | Nov 2013 | -- | 6 credits | -- | Ver. 1 | static | Ver. 1 | IPOs possible, only current aircraft, standard slots |
+| Gatow | Feb 2013 | -- | 6 credits | -- | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
+| Pearls | Jun 2012 | -- | 6 credits | -- | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
+| Meigs | Mar 2012 | -- | 6 credits | -- | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
+| Stapleton | Jul 2011 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
+| Fornebu | Sep 2010 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
+| Tempelhof | Aug 2010 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
+| Croydon | Nov 2009 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
+| Nicosia | Aug 2009 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
+| Devau | Feb 2008 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
+| Idlewild | Oct 2007 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
+| Kaitak | Aug 2007 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
 
 ## Exclusive Game Worlds
 

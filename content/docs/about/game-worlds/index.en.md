@@ -27,7 +27,7 @@ Long-term game worlds consume 6 credits per day for your first holding and 4 cre
 
 ## Detailed Configurations
 
-Here is a list of all currently available short-term and long-term game worlds along with their configuration details. Please remember that even if a game world allows having multiple holdings, you must only use one account (more information on that can be found in our game rules).
+Here is a list of all currently available short-term and long-term game worlds along with some of their configuration details. Please remember that even if a game world allows having multiple holdings, you must only use one account (more information on that can be found in our game rules).
 
 ### Short-Term Game Worlds
 

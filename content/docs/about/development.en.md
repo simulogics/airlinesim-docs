@@ -17,7 +17,7 @@ The prototype will focus on enhancing one of the game's core features, the [Onli
 
 {{< hint info >}}
 **Info**  
-Since the ASTD is a prototype, many of the game's current features will not be available. Still, players with premium accounts will be able to try it out as soon as the project moves into its open development phase which is currently scheduled for mid 2022.
+Since the ASTD is a prototype, many of the game's current features will not be available. Still, players with premium accounts will be able to try it out as soon as the project moves into its open development phase.
 {{< /hint >}}
 
 The overall project is made possible in part by the game development funding program of the Federal Ministry of Transport and Digital Infrastructure and is planned to run until mid 2023.

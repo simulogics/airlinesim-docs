@@ -77,6 +77,7 @@ Unless stated otherwise, exclusive game worlds have a maximum capacity of 25 acc
 Additionally, the support staff can adjust the following settings according to your wishes:
 
 * Holding starting capital
+* Amount of holdings per account
 * Nighttime bans on / off
 * Ground networks on / off
 * Single / double slots

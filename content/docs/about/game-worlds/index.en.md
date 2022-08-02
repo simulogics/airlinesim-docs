@@ -18,7 +18,7 @@ Short-term game worlds consume 4 credits per day for your first holding and 2 cr
 
 ## Long-Term Game Worlds
 
-On the other hand, long-term game worlds run continuously with no end date. The currently active servers can be found in the table down below as well.
+On the other hand, long-term game worlds run continuously with no specific end date. The currently active servers can be found in the table down below as well.
 
 {{< hint info >}}
 **Info**  

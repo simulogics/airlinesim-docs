@@ -21,7 +21,7 @@ Keep in mind that smaller aircraft can be cheap but at the same time at a disadv
 
 ### Medium Routes
 
-The majority of planes will do fine on routes between 1,000 and 2,000 km. You could go for a Boeing 737 model or the Airbus 318-321 family, for example. Both offer several types with different payloads and ranges. If you want to save fuel, you could pick a 737-700 BGW as it has the lowest fuel consumption on medium range routes.
+The majority of planes will do fine on routes between 1,000 and 2,000 km. You could go for a Boeing 737 or the Airbus 318-321 family, for example. Both offer several types with different payloads and ranges. If you want to save fuel, you could pick a 737-700 BGW as it has the lowest fuel consumption on medium range routes.
 
 Once you hire a crew, you'll see that one pilot can operate both an A318 and an A320. The same goes for the engineer who does the aircraft's maintenance.
 

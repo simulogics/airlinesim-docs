@@ -25,7 +25,7 @@ You will also be prompted to enter a code for your company. The code must contai
 
 ## Choosing a Country
 
-Next, let's determine your airline's headquarters. Keep in mind that the country you pick will influence the traffic rights that apply to your enterprise, so choose carefully. It may also affect your aircraft fleet: If you start an airline in a remote location, you will need big and expensive planes to connect your hub to the world unless you don’t mind limiting yourself to more regional routes. 
+Next, let's determine your airline's headquarters. Keep in mind that the country you pick will influence the traffic rights that apply to your holding and its subsidiaries, so choose carefully. It may also affect your aircraft fleet: If you start an airline in a remote location, you will need big and expensive planes to connect your hub to the world unless you don’t mind limiting yourself to more regional routes. 
 
 ![Headquarters Selection](headquarters_01.png "Headquarters Selection")
 

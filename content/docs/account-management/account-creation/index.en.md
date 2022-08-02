@@ -18,7 +18,7 @@ It’s also possible to play AirlineSim by signing up using Facebook.
 
 After accepting the Terms and Conditions and our Privacy Statement, all that's left to do is clicking on Register. Soon, you'll receive an email with a confirmation code that you need to enter in order to complete your registration. If you don't receive the confirmation email, please check your spam folder. 
 
-Once you've been successfully logged in, you're good to go! Just remember to keep your login and account data safe. If you need help changing your password or email address in the future, have a look at [Account Settings]({{< relref "docs/account-management/account-settings/index.md" >}}).
+Once you've been successfully logged in, you're good to go! Just remember to keep your login and account data safe. If you ever need help changing your password or email address, have a look at [Account Settings]({{< relref "docs/account-management/account-settings/index.md" >}}).
 
 {{< hint warning >}}
 **Important**  

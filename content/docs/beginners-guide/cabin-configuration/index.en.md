@@ -14,7 +14,7 @@ This step does not apply if you want to operate cargo aircraft. Though it's not 
 
 ## Using the Cabin Editor
 
-Go to the Commercial tab and select Cabin Configurations. This page shows all of your existing setups. In order to create a new one, pick a name, choose which aircraft type it should apply to and click on Create New configuration.
+Go to the Commercial tab and select Cabin Configurations. This page shows all of your existing setups. In order to create a new one, pick a name, choose which aircraft type it should apply to and click on Create New Configuration.
 
 ![Adjusting the Cabin](cabin_04.png "Adjusting the Cabin")
 

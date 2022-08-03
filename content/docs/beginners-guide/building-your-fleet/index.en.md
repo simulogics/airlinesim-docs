@@ -130,7 +130,7 @@ Each aircraft on the market is listed with additional information:
 * **Owner**: This shows you who owns the aircraft and who you will be leasing or buying it from. Oftentimes it will be the Aircraft Trade and Leasing Organization, a company run by the game.
 * **Registration**: The registration code of the aircraft.
 * **Age**: The age of an aircraft. This is important since older planes have higher maintenance but tend to be cheaper.
-* **Condition**: The optimal condition of an aircraft lies at around 100% but usually doesn't matter as it can be increased once the machine is purchased.
+* **Condition**: The optimal condition of an aircraft lies at around 100% but the value usually doesn't matter as it can be increased once the machine is purchased.
 * **Location**: This shows the current location of the aircraft. Keep in mind that you will need to transfer it to your base of operations.
 
 ### Buying or Leasing?

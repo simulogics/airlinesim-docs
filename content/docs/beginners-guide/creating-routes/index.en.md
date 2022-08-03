@@ -19,7 +19,7 @@ As the demand affects your connections, let's see how you can take it into accou
 
 ## Considering Demand
 
-An airport's demand is displayed by two green bars: One indicating passenger demand, the other representing cargo demand. Naturally, more passengers will fly between two major cities than between two smaller ones, so keep the demand levels in mind when planning your routes. It can also be helpful to consider domestic and real life demand.
+An airport's demand is displayed by two green bars: One indicating passenger demand, the other representing cargo demand. Naturally, more passengers will fly between two major cities than between two smaller ones, so keep the demand levels in mind when planning your routes.
 
 ### Domestic Demand
 

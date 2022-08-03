@@ -135,9 +135,7 @@ Each aircraft on the market is listed with additional information:
 
 ### Buying or Leasing?
 
-Most new companies begin their operations with leased aircraft. With the exception of very small or old machines, a direct purchase is often not financially viable for beginners. Additionally, leasing provides you with the flexibility to return aircraft you may find unsuitable for your routes.
-
-In the end, it's up to you: You could start an airline using leased planes or you could buy your own planes and avoid the weekly leasing fee. The bank will easily give you a loan if you have assets (in this case planes) to cover the risk.
+Most new companies begin their operations with leased aircraft. With the exception of very small or old machines, a direct purchase is often not financially viable for beginners. Additionally, leasing provides you with the flexibility to return aircraft you may find unsuitable for your routes. On the other hand, purchasing a plane allows you to avoid the weekly leasing fee. The bank will easily give you a loan if you have assets (in this case planes) to cover the risk.
 
 ### Terminating a Lease
 

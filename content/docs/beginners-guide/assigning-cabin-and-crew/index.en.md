@@ -15,4 +15,4 @@ Next, select the aircraft in question. This opens an Actions window in which you
 
 Under Crew Assignment, you may find that No Action is selected, which indicates that the cockpit crew has already been assigned. Keep in mind that you can hire pilots manually, but cabin crews will be recruited automatically if needed.
 
-Just like before, you can perform actions related to crews for multiple aircraft at the same time. Please note that without a linked cabin configuration, it is not possible to assign a cabin crew.
+Just like with cabins, you can perform actions related to crews for multiple aircraft at the same time. Please note that without a linked cabin configuration, it is not possible to assign a cabin crew.

@@ -17,7 +17,7 @@ Of course service profiles aren't mandatory. Once you've equipped your aircraft 
 
 ## Creating & Assigning Service Profiles
 
-If you want to set up service profiles, navigate to the Commercial tab and select Service Profiles. You can create a new one by entering a name on the right side of the screen and clicking on Create Profile.
+If you want to set up service profiles, navigate to the Commercial tab and select Service Profiles. You can create a new one by entering a name on the right and clicking on Create Profile.
 
 ![On-Board Service Profiles](service_02.png "On-Board Service Profiles")
 

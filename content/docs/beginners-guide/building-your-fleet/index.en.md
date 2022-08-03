@@ -96,7 +96,7 @@ Keep an eye on the displayed number of flights, though: As an example, the tool 
 
 Now that you've decided on an aircraft type, it's time to acquire your first machine!
 
-The aircraft fact sheet of your chosen model gives you the option to order new aircraft (if they are still in production) or to check out used aircraft offers.
+The aircraft fact sheet of your chosen model gives you the option to order new aircraft (if they are still in production) or check out used aircraft offers.
 
 ### Ordering New Aircraft
 

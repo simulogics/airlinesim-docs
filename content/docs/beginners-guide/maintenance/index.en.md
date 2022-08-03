@@ -34,6 +34,6 @@ Here is some advice on maintenance and its integration into your flight schedule
 
 * **Price, quality or efficiency?** Symmetric flight schedules with daily maintenance windows allow you to go for a maintenance contractor that is efficient and cheap. However, asymmetric schedules may shift your focus from the price towards a contractor offering higher quality maintenance in order to slow down the deterioration of your aircrafts' condition.
 
-* **Owned planes**: Owning aircraft allows your flight plans to be less tight. Instead of cramping the schedule, you can leave gaps for connecting flight waves. Going for a cheaper provider may be worth sacrificing quality and / or efficiency in some cases and reduce maintenance costs for every single flight. Seems odd? No! A popular real life example for this strategy is [Allegiant Air](http://en.wikipedia.org/wiki/Allegiant_Air#Costs).
+* **Owned planes**: Owning aircraft allows your flight plans to be less tight. Instead of cramping the schedule, you can leave gaps for connecting flight waves. Going for a cheaper provider may be worth sacrificing quality and / or efficiency in some cases and reduce maintenance costs for every single flight. Seems odd? No! A real life example for this strategy is [Allegiant Air](http://en.wikipedia.org/wiki/Allegiant_Air#Costs).
 
 * **Aircraft age**: The age of your aircraft doesn't affect the amount of time required for maintenance, but does influence the costs. The older your plane, the more spare parts will be used during maintenance, as failures and wear take their toll.

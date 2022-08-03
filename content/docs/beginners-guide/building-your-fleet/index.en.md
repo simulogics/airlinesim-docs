@@ -27,7 +27,7 @@ Once you hire a crew, you'll see that one pilot can operate both an A318 and an 
 
 ### Long-Haul Routes
 
-As a new airline, it's not advised to start by operating long-haul routes. You only have 10 million AS$ to start with and it can be difficult to run a profitable airline with only two (big and expensive) planes and a network that consists of only 4 destinations.
+As a new airline, it's not advised to start by operating long-haul routes. Usually, you only have 10 million AS$ to start with and it can be difficult to run a profitable airline with only two (big and expensive) planes and a network that consists of only 4 destinations.
 
 Instead, you could begin by offering short- and medium-haul flights. Your starting capital should cover 1 or 2 medium sized jets and 3 or 4 turboprop planes, leaving you with a little reserve. Every plane can then fly 3 or 4 return trips per day, allowing you to create a small network from the start.
 

@@ -43,7 +43,7 @@ Here are a few points to consider:
 
 * **Production periods**: Remember to check if an aircraft is still in production. Buying aircraft that were only produced in small numbers may complicate your operations down the road with regards to fleet commonality.
 
-* **Delivery times**: If you're not using your 10 million AS$ starting capital, new aircraft ordered from the manufacturer may not be delivered instantly as production takes between 6 - 42 hours, depending on the aircraft type. Used aircraft can be available immediately. (If you order several new aircraft from one production line, the orders will be added to your order book. This will not be influenced by other companies except for those belonging to your holding. The delivery date will be displayed in your fleet overview and in the order book.)
+* **Delivery times**: If you're not using your 10 million AS$ starting capital, new aircraft ordered from the manufacturer may not be delivered instantly as production takes between 6 - 42 hours, depending on the aircraft type. Used aircraft can be available immediately. (If you order several new aircraft from one production line, the orders will be added to your order book. This will not be influenced by other companies except for those belonging to your holding. The delivery date will be displayed in your fleet overview and in the order book. You can access the order book by navigating to the Operators section on the aircraft's page.)
 
 * **Price**: Used aircraft are cheaper to buy or lease - sometimes significantly so, depending on the age of the aircraft.
 

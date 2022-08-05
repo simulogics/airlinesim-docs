@@ -134,7 +134,7 @@ Remember those yellow flight plan boxes? That means you have successfully blocke
 Without activation, the flights will be deleted after a few days to prevent slot blocking.
 {{< /hint >}}
 
-You can activate your flight plan by navigating to the Select Flight Plan Operation menu below your schedule. You can choose between activating the flight plan straight away or applying a three day delay.
+You can activate your flight plan by navigating to the Select Flight Plan Operation menu below your schedule. You can choose between activating the flight plan right away or applying a three day delay.
 
 ![Activation Menu](scheduling_10.png "Activation Menu")   
 

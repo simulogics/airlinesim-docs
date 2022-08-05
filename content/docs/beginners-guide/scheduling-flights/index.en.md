@@ -102,7 +102,7 @@ Once every check is green, click on Apply Schedule Settings to create the flight
 
 After saving your flight, you can click on it in the flight plan section to view details on the flight number. Here, you can edit your prices and on-board service, either for that particular flight or for the route as a whole.
 
-You'll also notice that the schedule shows a series of worryingly red boxes, but don't worry - this is because we only planned one direction so far. Without a return flight, the aircraft will be stuck at the destination airport and might not be able to operate further flights.
+You'll also notice that the schedule shows a series of alarmingly red boxes, but don't worry - this is because we only planned one direction so far. Without a return flight, the aircraft will be stuck at the destination airport and might not be able to operate further flights.
 
 However, you don't need to return to the same destination immediately and round trips (e.g. airport A to B to C to A) are possible as well.
 

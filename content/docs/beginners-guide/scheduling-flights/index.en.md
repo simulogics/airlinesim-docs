@@ -65,7 +65,7 @@ Once you're happy with the schedule, we can set it up in-game!
 
 First, select Fleet Management in the Operations tab and choose the fleet your aircraft is assigned to. If you didn't change the fleet assignment, you'll find the aircraft in the default fleet.
 
-Each aircraft is listed with three symbols: The little book on the left shows your aircraft's contract details, the second icon takes you to scheduling and the third one displays its current flights.
+Each aircraft is listed with three symbols: The little book on the left shows your aircraft's contract details, the second icon takes you to scheduling and the third one displays the plane's current flights.
 
 ![Flight Scheduling](fleet_04.png "Flight Scheduling")
 

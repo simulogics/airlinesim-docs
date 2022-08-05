@@ -150,7 +150,7 @@ To operate these flights, your aircraft has to be at the first departure airport
 
 ![Transfer Flight Setup](transfer_01.png "Transfer Flight Setup") 
 
-Here, you can select your desired airport. The aircraft will then be relocated to the new destination and the transfer flight appears in the list - there is no need to look for slots. After the transfer has been completed, it will disappear. Keep in mind that transfer flights are free of charge but need some time to be completed.
+Here, you can select your desired airport. The aircraft will then be relocated to the new destination and the transfer flight appears on the list - there is no need to look for slots. After the transfer has been completed, it will disappear. Keep in mind that transfer flights are free of charge but need some time to be completed.
 
 Instead of booking a transfer, you can also cancel any out-of-place flights. There is no cancellation penalty as long as your flights are empty. If you cancel flights that already have bookings, however, you'll have to refund the tickets.
 

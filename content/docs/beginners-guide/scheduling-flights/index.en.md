@@ -140,7 +140,7 @@ You can activate your flight plan by navigating to the Select Flight Plan Operat
 
 The delay is useful to avoid mix-ups when changing existing flight schedules. Already booked flights of the old schedule will be completed before booking the new schedule in the ORS. It can also be helpful if you're unsure whether your plane will be fully booked within one day.
 
-After deciding for an option, your scheduled flights turn green, which means that your flight plan is now successfully activated!
+After deciding for an option, your scheduled flights turn green, which means that your flight plan has now been successfully activated!
 
 ## Transferring Aircraft
 

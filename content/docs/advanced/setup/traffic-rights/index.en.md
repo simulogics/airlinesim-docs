@@ -48,7 +48,7 @@ In addition to these universal rules, there are a couple of special cases:
 
 ## What about cargo flights?
 
-The global cargo market operates on a completely liberalized basis, reflecting its somewhat more challenging nature. Airlines may transport cargo between any two points in the world, regardless of where their holding is based (unless there are political restrictions in place).
+The global cargo market operates on a completely liberalized basis, reflecting its somewhat more challenging nature. Airlines may transport cargo between any two points in the world, regardless of where their holding is based (unless there are political restrictions).
 
 ## What if I outgrow my domestic market?
 

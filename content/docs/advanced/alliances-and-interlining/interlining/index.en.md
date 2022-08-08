@@ -26,7 +26,7 @@ The same transfer rules apply as would to transfers between your own flights, so
 
 ## Choosing a Partner
 
-Naturally, there are some costs involved in this process. Interlining contracts may allow you to sell more tickets, but also require the employment of a number of extra network planning personnel (with a minimum of one employee per airline and contract; if large airlines are involved, potentially many more). 
+Naturally, there are some costs involved in this process. Interlining contracts may allow you to sell more tickets, but also require the employment of a number of extra network planning personnel (with a minimum of one employee per airline and contract and, if large airlines are involved, potentially many more). 
 
 Therefore, it's worth thinking about the value of extra traffic generated versus the value of maintaining an interlining contract, particularly with a very large airline.
 

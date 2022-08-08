@@ -5,7 +5,7 @@ weight: 3
 
 # Flight Rating System
 
-As its name suggests, the Flight Rating System (FRS) is designed to provide airlines with a detailed quality evaluation of individual flights. The ratings it provides are also used to calculate the influence a flight has on the airline's image.
+The Flight Rating System (FRS) is designed to provide airlines with a detailed quality evaluation of individual flights. The ratings it provides are also used to calculate the influence a flight has on the airline's image.
 
 The evaluation can be accessed via the Inventory or Flight Numbers page in the Commercial tab. Just click on the small white arrow next to a flight and you'll see its Flight Information page. 
 

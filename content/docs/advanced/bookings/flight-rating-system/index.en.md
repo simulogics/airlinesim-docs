@@ -23,7 +23,7 @@ In the Flight Rating tab, you'll see the list of factors along with colored bars
 
 ## Image Factors
 
-Image factors include a bit less tangible aspects than product factors, such as the type of seats an aircraft is equipped with. Each completed flight affects your airline's image - how exactly depends on the "soft" factors of the flight like the amount of room, the aircraft's condition and the staff's mood, which makes investment (or lack of it!) in these areas a significant factor in differentiating airlines.
+Image factors include a bit less tangible aspects than product factors. Each completed flight affects your airline's image - how exactly depends on the "soft" factors of the flight like the amount of room, the aircraft's condition and the staff's mood, which makes investment (or lack of it!) in these areas a significant factor in differentiating airlines.
 
 The image is formed over time, based on the subjective experiences of passengers after they've completed their flights. This is why decisions have long-term effects: An airline that transitions from flying ancient, uncomfortable aircraft to comfortable, modern aircraft overnight will not see an immediate change in the average passenger's opinion of them.
 

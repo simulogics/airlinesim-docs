@@ -25,7 +25,7 @@ In case you're still a bit unsure about your ticket prices, you can always rely 
 
 * The **Market Analysis** page shows you a list of all bookable flights on a certain route. It tells you how much your competitors charge for a ticket and whether their flights are fully booked or not.
 
-* The **Fleet List** of a country displays details regarding your competitors' cabin configurations. The number of seats for each class can be viewed in the config. column and may give you an idea of the seat types that they are using. If a player employs standard seats, they can afford to drop their prices; if they offer pricier seats, they can sell more expensive tickets and still be an attractive choice.
+* The **Fleet List** of a country (available in the Database tab) displays details regarding your competitors' cabin configurations. The number of seats for each class can be viewed in the config. column and may give you an idea of the seat types that they are using. If a player employs standard seats, they can afford to drop their prices; if they offer pricier seats, they can sell more expensive tickets and still be an attractive choice.
 
 * The [**Online Reservation System**]({{< relref "docs/advanced/bookings/online-reservation-system/index.md" >}}) tells you which flights have the highest ratings. Obviously pricing is important, but the total time of a journey is taken into account as well. A short transfer time can make your flights more appealing to customers.
 

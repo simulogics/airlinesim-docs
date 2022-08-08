@@ -32,7 +32,7 @@ Here is a list of all currently available short-term and long-term game worlds a
 ### Short-Term Game Worlds
 
 | Game World | Opened | Ends | First Holding | Additional Holding | Standard pricing formula | Turnarounds | ORS Version | Remarks |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | Bleriot III | Dec 2021 | 20 Sep 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, double slots |
 | Domination IV | Jul 2022 | 20 Mar 2023 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | all countries open for investment, doubled starting funds, all aircraft, double slots |
 | Otto VIII | Oct 2021 | 18 Aug 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, standard slots |
@@ -43,7 +43,7 @@ Here is a list of all currently available short-term and long-term game worlds a
 ### Long-Term Game Worlds
 
 | Game World | Opened | Ends | First Holding | Additional Holding | Standard pricing formula | Turnarounds | ORS Version | Remarks |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | Limatambo | Dec 2020 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 2 | only current aircraft, standard slots |
 | Xiguan | Dec 2018 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 1 | only current aircraft, standard slots |
 | Hoover | Dec 2017 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 1 | only current aircraft, standard slots |

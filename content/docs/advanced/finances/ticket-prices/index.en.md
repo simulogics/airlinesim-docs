@@ -11,7 +11,7 @@ Actually, the answer is fairly simple: If you're the only airline in the area, p
 
 ![Pricing Menu (Commercial Tab)](pricing_01.png "Pricing Menu")
 
-If you're offering decent seats and on-board service, you can try selling tickets that lie 25% above the default price. Depending on the type of plane, that should result in a profit margin of around 30%.
+If you're offering decent seats and on-board service, you can try selling tickets at 25% above the default price. Depending on the type of plane, that should result in a profit margin of around 30%.
 
 You can also consider selling domestic flight tickets for a little more, especially if you are on speaking terms with your competitors. Internationally, the competition is often too complicated to negotiate pricing strategies. In that case, it comes down to trial and error and taking the time to check your routes.
 

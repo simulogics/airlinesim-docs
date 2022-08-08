@@ -11,13 +11,11 @@ Actually, the answer is fairly simple: If you're the only airline in the area, p
 
 ![Pricing Menu (Commercial Tab)](pricing_01.png "Pricing Menu")
 
-First off, if you're offering decent seats and on-board service, you can try selling tickets that lie 25% above the default price. Depending on the type of plane, that should result in a profit margin of around 30%.
+If you're offering decent seats and on-board service, you can try selling tickets that lie 25% above the default price. Depending on the type of plane, that should result in a profit margin of around 30%.
 
 You can also consider selling domestic flight tickets for a little more, especially if you are on speaking terms with your competitors. Internationally, the competition is often too complicated to negotiate pricing strategies. In that case, it comes down to trial and error and taking the time to check your routes.
 
-Last but not least, don't ignore the invisible competition: You may have loads of passengers on a route from airport A to your hub, but suddenly, their numbers go down although you see no competition. This can happen if some of your passengers were only flying to your hub in order to catch a connecting flight to airport B. If another airline starts flying between airport A and B, passengers prefer a direct flight.
-
-Or perhaps the other airline also offers a connection from A to B through their hub, but at a cheaper price. As you can see, there are many possibilities, so try to keep an eye on the market.
+Another tip is to look out for invisible competition: You may have loads of passengers on a route from airport A to your hub, but suddenly, their numbers go down although you see no competition. This can happen if some of your passengers were only flying to your hub in order to catch a connecting flight to airport B. If another airline starts flying between airport A and B, passengers prefer a direct flight. Or perhaps the other airline also offers a connection from A to B through their hub, but at a cheaper price. As you can see, there are many possibilities, so try to keep an eye on the market.
 
 ## Helpful Tools
 

@@ -25,7 +25,7 @@ In this menu, you can review your airline's flight numbers, organize them in gro
 
 ![Information on Routes](route_01.png "Information on Routes")
 
-The Route Evaluation tool provides information regarding a route of your choice. Just enter an origin and a destination on the left and you'll get details on the runway lengths, slot availability, airport sizes, noise restrictions, demand levels and the route's distance. You also have the option to create a new flight number.
+The Route Evaluation tool provides information regarding a route of your choice. Just enter an origin and a destination on the left and you'll get details on runway lengths, slot availability, airport sizes, noise restrictions, demand levels and the route's distance. You also have the option to create a new flight number.
 
 ### Market Analysis
 

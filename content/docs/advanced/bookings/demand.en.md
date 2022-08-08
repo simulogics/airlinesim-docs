@@ -7,7 +7,7 @@ weight: 2
 
 To help you get a better understanding of how demand works in AirlineSim, here is a general Q&A.
 
-## Do passengers care about the time of day when it comes to flights?
+## Does the time of day matter when it comes to flights?
 
 No, passengers will treat all flight departure and arrival times equally. Total travel time does affect the flight rating, though.
 
@@ -21,7 +21,7 @@ Passengers book flights only within the next three days, but will book any of th
 
 ## Can I increase load factors by scheduling flights less often than once a day?
 
-Yes, many routes with low demand can be served with flights that don't occur everyday. This won't help additionally if you plan further than 3 days ahead, however, as passengers don't consider flights that lie more than 3 days in the future.
+Yes, many routes with low demand can be served with flights that don't occur everyday. This won't work if you plan further than 3 days ahead, however, as passengers don't consider flights that lie more than 3 days in the future.
 
 ## Do passengers have an exact destination in mind or are they flexible enough to pick nearby airports?
 

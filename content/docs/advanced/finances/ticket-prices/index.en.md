@@ -31,7 +31,7 @@ In case you're still a bit unsure about your ticket prices, you can always rely 
 
 ## Analyzing the Competition
 
-If you want to see how competing companies are doing, you can check out their stock market information (if they have gone public) or have a look at their weekly turn-over and profit margin.
+If you want to see how competing companies are doing, you can check out their stock market information (if they have gone public) and have a look at their weekly turn-over and profit margin.
 
 The Statistics page may also be a useful source of information: Divide the number of passengers an airline transported last week by the number of seats they offered and you get their load factor.
 

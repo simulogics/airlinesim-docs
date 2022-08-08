@@ -61,70 +61,8 @@ Whether or not a country accepts foreign investments depends on the game world. 
 
 Here is an overview of the different lists that are employed throughout the game. New game worlds are currently using list C.
 
-{{<table “table table-striped table-bordered">}}
-|———-|———-|———-|
-| Angola | included | included | included |
-| Argentina | included | included | not included |
-| Azerbaijan | included | included | included |
-| Bahamas | included | included | included |
-| Barbados | included | included | included |
-| Benin | included | included | included |
-| Cambodia | included | included | included |
-| Cameroon | included | included | included |
-| Chad | included | included | included |
-| Colombia | included | included | not included |
-| Costa Rica | included | included | not included |
-| Djibouti | included | included | included |
-| Dominica | included | included | included |
-| Dominican Republic | included | included | not included |
-| Ecuador | included | included | not included |
-| Gambia | included | included | included |
-| Georgia | included | included | included |
-| Grenada | included | included | included |
-| Guatemala | included | included | included |
-| Guinea-Bissau | included | included | included |
-| Honduras | included | included | included |
-| Iraq | included | included | included |
-| Ivory Coast | included | included | included |
-| Kazakhstan | included | included | not included |
-| Kenya | included | included | not included |
-| Kyrgyzstan | included | included | included |
-| Kuwait | included | included | included |
-| Laos | included | included | included |
-| Lebanon* | included | included | included |
-| Moldova | included | included | included |
-| Mongolia | included | included | included |
-| New Zealand | included | not included | not included |
-| Niger | included | included | included |
-| Pakistan | included | included | not included |
-| Panama | included | included | not included |
-| Papua New Guinea | included | included | included |
-| Paraguay | included | included | included |
-| Qatar | included | included | not included |
-| Solomon Islands | included | included | included |
-| Samoa | included | included | included |
-| Senegal | included | included | included |
-| Sao Tome and Principe | included | included | included |
-| Sierra Leone | included | included | included |
-| Somalia | included | included | included |
-| St. Kitts and Nevis | included | included | included |
-| St. Lucia | included | included | not included |
-| St. Vincent | included | included | included |
-| Sudan | included | included | included |
-| Swaziland | included | included | included |
-| Tanzania | included | included | not included |
-| Togo | included | included | included |
-| Tonga | included | included | included |
-| Trinidad and Tobago | included | included | included |
-| Tuvalu | included | included | included |
-| Uganda | included | included | included |
-| Ukraine | included | included | not included |
-| Uzbekistan | included | included | included |
-| Zambia | included | included | included |
-{{</table>}}
-
 | Country | List A | List B | List C |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | Angola | included | included | included |
 | Argentina | included | included | not included |
 | Azerbaijan | included | included | included |

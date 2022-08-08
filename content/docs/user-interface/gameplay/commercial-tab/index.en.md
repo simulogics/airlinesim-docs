@@ -38,7 +38,7 @@ The Market Share section shows, quite simply, the market share of passenger and 
 The primary purpose of the Market Analysis page is to keep an eye on the competition and to evaluate new markets. To monitor your own loads, you can use the [Inventory](#inventory) or [Load Monitoring](#load-monitoring) page.
 {{< /hint >}}
 
-Keep in mind that the flight availability of other airlines will only contain values up to 9: If the remaining capacity of the respective flight and class is higher than 9, 9 will be displayed. Otherwise, the value will represent the actual remaining capacity.
+Keep in mind that the flight availability of other airlines will only contain values up to 9: If the remaining capacity of the respective flight and class is higher than 9, 9 will be displayed. Otherwise, the value represents the actual remaining capacity.
 
 In the text field below the page title, you can quickly switch to another airport pair. The code has to have the format AAABBB, with AAA and BBB being the IATA airport codes of the respective airports.
 

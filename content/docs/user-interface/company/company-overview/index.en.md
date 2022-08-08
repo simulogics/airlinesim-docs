@@ -9,7 +9,7 @@ Hovering over your company's name at the top left of the screen provides you wit
 
 ## Overview
 
-The dashboard is separated into seven parts (also called widgets) - Company, Upcoming Events, Notepad, Stock, Financial Rating, Image and Subsidiaries - and is a handy tool to look up quick information about your company.
+The dashboard is separated into seven parts (also called widgets) - Company, Upcoming Events, Notepad, Stock, Financial Rating, Image and Subsidiaries - and is handy to look up quick information about your company.
 
 ### Company
 

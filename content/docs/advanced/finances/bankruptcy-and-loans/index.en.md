@@ -18,7 +18,7 @@ If you're unable to pay the leasing rate of an aircraft, your enterprise is cons
 
 If you can't pay the salaries of your employees during week-end closing, consequences are more serious as your enterprise will be liquidated.
 
-So, without enough observation, even a healthy enterprise can become unable to pay. It's important to calculate accurately and build some cash reserves as long as your enterprise is making profit. Additionally, a timetable can help you to monitor fixed costs (leasing rates, ground handling), loans, salaries and predicted dividend payout.
+So, without enough observation, even a healthy enterprise can run into financial difficulties. It's important to calculate accurately and build some cash reserves as long as your enterprise is making profit. A timetable can help monitoring fixed costs (leasing rates, ground handling), loans, salaries and predicted dividend payout.
 
 ## Company Liquidation
 

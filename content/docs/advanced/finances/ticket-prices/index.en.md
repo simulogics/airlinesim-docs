@@ -5,7 +5,7 @@ weight: 2
 
 # Ticket Prices
 
-## How Much Will Passengers Pay?
+## How much will passengers pay?
 
 Actually, the answer is fairly simple: If you're the only airline in the area, passengers will pay through the nose to board your planes. They may hate you for it, but they will pay. However, you're rarely the only available airline, so here are a few rules of thumb to guide through the process of choosing ticket prices.
 

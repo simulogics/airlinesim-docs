@@ -50,7 +50,7 @@ Here's some general advice to help you with the cabin configuration process:
 
 * **Changing cabins**: If you change the cabin configuration of an aircraft, the new setup will be used after 3 days.
 
-## What do passengers expect ?
+## What do passengers expect?
 
 ![Aircraft Cabin](cabin_05.jpg "Aircraft Cabin")
 

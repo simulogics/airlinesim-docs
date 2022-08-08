@@ -27,8 +27,6 @@ Image factors include a bit less tangible aspects than product factors. Each com
 
 The image is formed over time, based on the subjective experiences of passengers after they've completed their flights. This is why decisions have long-term effects: An airline that transitions from flying ancient, uncomfortable aircraft to comfortable, modern aircraft overnight will not see an immediate change in the average passenger's opinion of them.
 
-Just like before, the Flight Rating tab will show green bars if you have a good or excellent image and red bars if your image is poor or lousy.
-
 ## Flight Rating
 
 The overall Flight Rating derives from evaluating both of the above-mentioned factors. This rating is then set against the price of the flight to produce a value called the Price-Performance Ratio (PPR). This only directly affects passengers flying between the two evaluated destinations - a positive PPR will, generally speaking, attract at least some traffic, whereas a negative PPR will not.

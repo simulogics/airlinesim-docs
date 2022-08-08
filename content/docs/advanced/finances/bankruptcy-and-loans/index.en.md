@@ -24,7 +24,7 @@ So, without enough observation, even a healthy enterprise can run into financial
 
 If an enterprise is liquidated due to inability to pay at the time of week-end closing or if the enterprise is given up in the meantime, it'll be dissolved as follows:
 
-* Aircraft are returned to the lessor (security deposit is refunded minus the leasing costs) or marketed (15% of its book value).
+* Aircraft are returned to the lessor (security deposit is refunded minus the leasing costs) or marketed (at 15% of its book value).
 * Employees are laid off (salaries plus compensation are paid).
 * Loans are paid off (interests are calculated pro rata).
 * Buildings are demolished (for a fee).

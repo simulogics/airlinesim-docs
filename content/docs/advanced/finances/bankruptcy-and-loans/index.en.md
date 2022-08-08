@@ -76,7 +76,7 @@ Your rating (i.e. creditworthiness) influences three important parts of the game
 
 * [**IPOs (Initial Public Offerings)**]({{< relref "docs/advanced/finances/initial-public-offerings/index.md" >}}): An IPO isn't possible if your rating is BBB or lower. Remember that potential investors will take a look at your rating, so an IPO with a minimum rating of A or marginally better might frighten them off. The better your rating, the better your impression.
 
-### Rating Parameters
+### Evaluated Parameters
 
 Ratings are calculated from several financial parameters of the evaluated enterprise, such as the equity-to-debt ratio (your loans) and predicted cash flow. The exact formula is confidential, but here is an overview of some of the evaluated factors.
 

@@ -31,6 +31,6 @@ Passengers are generated with a demand to reach a specific airport. However, gro
 
 Nope! You'll have to try it and see.
 
-## If two flights have different ratings for the same route, will all passengers book the higher flight or are they allocated proportionally?
+## If two flights have different ratings for the same route, will all passengers book the higher rated flight or are they allocated proportionally?
 
 They are choosing the flights proportionally to the total rating for the given connections between two airports.

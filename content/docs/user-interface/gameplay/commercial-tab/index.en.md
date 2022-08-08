@@ -29,7 +29,7 @@ The Route Evaluation tool provides information regarding a route of your choice.
 
 ### Market Analysis
 
-This page offers an overview of the current market situation for the selected airport pair. That is, currently bookable flights (primarily of other airlines), seat capacity and price developments as well as the market shares of competing carriers. 
+This page offers an overview of the current market situation for the selected airport pair. That is, currently bookable flights, seat capacity and price developments as well as the market shares of competing carriers. 
 
 The Market Share section shows, quite simply, the market share of passenger and cargo transport you and competing airlines control. Above the chart, you can switch between the data for different weeks.
 

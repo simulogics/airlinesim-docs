@@ -19,7 +19,7 @@ In the text field below the page title, you can quickly switch to another airpor
 
 ### Flight Numbers
 
-In this menu, you can review your airline's flight numbers, organize them in groups or create new ones. If you want to set up a new flight number, choose an origin and a destination in the menu on the left. Routes may also include a stopover (technical stop) known as a VIA flight which can be added in the Via section.
+In this menu, you can review your airline's flight numbers, organize them in groups or create new ones. If you want to set up a new flight number, choose an origin and a destination in the menu on the left. Routes may also include a stopover (technical stop) known as a via flight which can be added in the respective section.
 
 ### Route Evaluation
 

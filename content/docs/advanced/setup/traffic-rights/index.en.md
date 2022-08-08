@@ -62,7 +62,7 @@ Whether or not a country accepts foreign investments depends on the game world. 
 Here is an overview of the different lists that are employed throughout the game. New game worlds are currently using list C.
 
 | Country | List A | List B | List C |
-| --- | --- | --- | --- |
+| -------- | -------- | -------- | -------- |
 | Angola | included | included | included |
 | Argentina | included | included | not included |
 | Azerbaijan | included | included | included |

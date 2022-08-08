@@ -60,7 +60,7 @@ Here, you can upload a logo for your company. The logo will appear in your airli
 
 ### Small Logo
 
-You can add a smaller version of your logo which will be displayed throughout the game (on arrival and departure billboards, for example). This image must have a size of 120 x 23 pixels. Please make sure it also complies with our logo guidelines (available under Database > Naming Rules in any game world) and keep in mind that the design will need to be approved by two out of three moderators before being activated.
+You can add a smaller version of your logo which will be displayed throughout the game (on arrival and departure billboards, for example). This image must have a size of 120 x 23 pixels. Please make sure it also complies with our logo guidelines (available under Database > Naming Rules in any game world) and keep in mind that the design will need to be approved by multiple moderators before being activated.
 
 ## Settings (Game)
 

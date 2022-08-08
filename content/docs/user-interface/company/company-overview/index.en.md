@@ -74,7 +74,7 @@ You can choose whether the times in AirlineSim should be shown as the hub time, 
 
 ### Comfort Functions    
             
-The Comfort Functions allow you to determine whether the game should handle some tasks automatically. These can include:
+The Comfort Functions allow you to determine whether the game should handle certain tasks automatically. These can include:
 
 * Picking a maintenance provider when a new enterprise is founded,
 * creating a default service profile when a new enterprise is founded,

@@ -127,7 +127,7 @@ In this tab, you'll find information about the airline's business relations (lea
 
 ### Facts and Figures
 
-Here, you get a summary of the company's statistics, such as the number of operated flights, the achieved revenue or the amount of transported passengers and cargo.
+The Facts and Figures tab provides a summary of the company's statistics, such as the number of operated flights and served airports. If you're a shareholder, you can also see values like the achieved revenue.
 
 ### Flight Schedule
 

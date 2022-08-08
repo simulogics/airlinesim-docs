@@ -19,6 +19,6 @@ Right now, AirlineSim offers five different payment methods during checkout:
 
 Which ones are available to you can depend on your country as well as the credit package you picked. If a payment method doesn't show up, try selecting another package size.
 
-## Unable to Redeem a Voucher Code
+## Voucher Code Not Redeemable
 
 If you enter a voucher code during checkout and receive an error that prevents you from redeeming it, please contact the [AirlineSim support team](https://www.airlinesim.aero/blog/pages/support/).

@@ -18,7 +18,7 @@ If your holding is based in Manila, the daughter enterprises will inherit its ri
 
 ## Hold on - I can add Chinese flights just fine!
 
-Well, even with your holding based in the Philippines, there is nothing physically stopping our hypothetical airline from scheduling domestic flights in China; you may want the aircraft to depart from another airport on its return journey, for example. However, any flights scheduled in such a way will not receive passenger bookings.
+Even with your holding based in the Philippines, there is nothing physically stopping our hypothetical airline from scheduling domestic flights in China; you may want the aircraft to depart from another airport on its return journey, for example. However, any flights scheduled in such a way will not receive passenger bookings.
 
 ## Well, where can I fly?
 

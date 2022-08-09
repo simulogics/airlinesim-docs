@@ -1,5 +1,5 @@
 ---
-title: "Erstellung eines Kontos"
+title: "Erstellung"
 weight: 1
 ---
 

@@ -3,7 +3,7 @@ title: "Hiring Staff"
 weight: 6
 ---
 
-# Hiring & Managing Staff
+# Hiring Staff
 
 With the routes set up, let's move on to your staff!
 

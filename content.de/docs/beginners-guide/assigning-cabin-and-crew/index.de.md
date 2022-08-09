@@ -1,5 +1,5 @@
 ---
-title: "Zuweisung von Kabine und Crew"
+title: "Kabinen- und Crew-Zuweisung"
 weight: 9
 ---
 

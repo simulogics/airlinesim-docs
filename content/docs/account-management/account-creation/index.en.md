@@ -1,9 +1,9 @@
 ---
-title: "Creating an Account"
+title: "Account Creation"
 weight: 1
 ---
 
-# Creating an Account
+# Account Creation
 
 Before accessing the game, you need to set up an account by selecting the Login button on the [AirlineSim website](https://www.airlinesim.aero/en/). Next, just hit Sign Up Now and choose a display name (no special characters or spaces), a valid permanent email address and a password for your account.
 

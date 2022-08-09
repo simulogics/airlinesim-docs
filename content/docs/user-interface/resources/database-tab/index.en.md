@@ -33,7 +33,7 @@ Using the Fleet Lists page, you can search each country for its registered enter
 
 ![Statistical Information](statistics_01.png "Statistical Information")
 
-On this page, you'll find a selection of statistical details regarding the game world. The general statistics include values like the number of enterprises and flights per week. In the weekly capacities menu, you get a list of the transported passenger / cargo amount. The detailed statistics section contains links to a variety of rankings.
+On this page, you'll find a selection of statistical details regarding the game world. The general statistics include values like the number of enterprises or flights per week. In the weekly capacities menu, you get a list of the transported passenger / cargo amount. The detailed statistics section contains links to a variety of rankings.
 
 ### Online Reservation System
 

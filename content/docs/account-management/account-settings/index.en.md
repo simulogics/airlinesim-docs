@@ -1,9 +1,9 @@
 ---
-title: "Account Settings"
+title: "Settings"
 weight: 3
 ---
 
-# Account Settings
+# Settings
 
 In order to access the settings, log in via the [AirlineSim website](https://www.airlinesim.aero/en/) and select Account Settings. Here, you can adjust your account's email address, password and notifications.
 

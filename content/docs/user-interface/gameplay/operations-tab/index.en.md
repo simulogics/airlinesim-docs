@@ -25,7 +25,7 @@ The green book icon next to an aircraft lets you view its contract or, if desire
 
 ![Comparing Aircraft](aircraft_evaluation_01.png "Comparing Aircraft")
 
-This tool allows you to compare different aircraft on a route of your choice in order to evaluate their potential efficiency. The resulting list will display the aircraft's number of possible flights per week, available seats, fuel consumption, fixed costs, costs per seat and most importantly - profit / loss at various load factors. You can adjust evaluation parameters such as the aircraft's age, service class, seats and price at the bottom right of the page.
+This tool allows you to compare different aircraft on a route of your choice in order to evaluate their potential efficiency. The resulting list will display their possible flights per week, available seats, fuel consumption, fixed costs, costs per seat and most importantly - the associated profit / loss at various load factors. You can adjust evaluation parameters such as the aircraft's age, service class, seats and price at the bottom right of the page.
 
 ### Maintenance
 

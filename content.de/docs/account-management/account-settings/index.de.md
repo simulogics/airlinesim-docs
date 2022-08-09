@@ -1,8 +1,8 @@
 ---
-title: "Kontoeinstellungen"
+title: "Einstellungen"
 weight: 3
 ---
 
-# Kontoeinstellungen
+# Einstellungen
 
 {{% coming-soon-de %}}

@@ -1,5 +1,5 @@
 ---
-title: "Einstellungen"
+title: "Kontoeinstellungen"
 weight: 3
 ---
 

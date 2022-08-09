@@ -1,9 +1,9 @@
 ---
-title: "Erstellung"
+title: "Kontoerstellung"
 weight: 1
 ---
 
-# Erstellung
+# Kontoerstellung
 
 {{% coming-soon-de %}}
 

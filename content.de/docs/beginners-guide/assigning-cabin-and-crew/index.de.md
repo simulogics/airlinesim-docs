@@ -3,6 +3,6 @@ title: "Kabinen- und Crew-Zuweisung"
 weight: 9
 ---
 
-# Zuweisung von Kabine und Crew
+# Kabinen- und Crew-Zuweisung
 
 {{% coming-soon-de %}}

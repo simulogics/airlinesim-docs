@@ -1,8 +1,8 @@
 ---
-title: "Deaktivierung"
+title: "Kontodeaktivierung"
 weight: 2
 ---
 
-# Deaktivierung des Kontos
+# Kontodeaktivierung
 
 {{% coming-soon-de %}}

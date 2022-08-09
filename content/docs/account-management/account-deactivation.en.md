@@ -1,9 +1,9 @@
 ---
-title: "Account Deactivation"
+title: "Deactivation"
 weight: 2
 ---
 
-# Account Deactivation
+# Deactivation
 
 If you ever decide to close your account, please send a [support ticket](https://www.airlinesim.aero/blog/pages/support/) via email so we can deactivate the account for you.
 

@@ -3,6 +3,6 @@ title: "Firmengründung"
 weight: 2
 ---
 
-# Einrichtung des Unternehmens
+# Firmengründung
 
 {{% coming-soon-de %}}

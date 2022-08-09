@@ -41,7 +41,7 @@ On this page, you'll find a selection of statistical details regarding the game 
 
 As one of the game's core features, the [Online Reservation System (ORS)]({{< relref "docs/advanced/bookings/online-reservation-system/index.md" >}}) generates a multitude of daily connections and distributes passengers between the players' flights.
 
-The interface itself lets you search for available connections by entering an origin / destination, the earliest departure / latest arrival time and a payload type (Economy, Business, First Class and Cargo).
+The interface lets you search for available connections by entering an origin / destination, the earliest departure / latest arrival time and a payload type (Economy, Business, First Class and Cargo).
 
 The search results are listed with their date, departure and arrival time, additional stops (if applicable), flight number, price and, most importantly, their rating. The ORS will also indicate whether a flight is already full or if it's still bookable.
 

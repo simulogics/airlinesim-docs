@@ -1,8 +1,8 @@
 ---
-title: "Support-Tab"
+title: "Commercial-Tab"
 weight: 2
 ---
 
-# Support-Tab
+# Commercial-Tab
 
 {{% coming-soon-de %}}

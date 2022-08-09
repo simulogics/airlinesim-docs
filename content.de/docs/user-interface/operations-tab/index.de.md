@@ -1,8 +1,8 @@
 ---
-title: "Management-Tab"
+title: "Operations-Tab"
 weight: 3
 ---
 
-# Management-Tab
+# Operations-Tab
 
 {{% coming-soon-de %}}

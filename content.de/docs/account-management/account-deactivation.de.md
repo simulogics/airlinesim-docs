@@ -1,5 +1,5 @@
 ---
-title: "Deaktivierung des Kontos"
+title: "Deaktivierung"
 weight: 2
 ---
 

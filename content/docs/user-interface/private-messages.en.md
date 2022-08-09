@@ -1,6 +1,6 @@
 ---
 title: "Private Messages"
-weight: 1
+weight: 8
 ---
 
 # Private Messages

@@ -1,66 +1,77 @@
 baseURL = "https://handbook.airlinesim.aero/"
 languageCode = "en-us"
 title = "AirlineSim Handbook"
-theme = "relearn"
-
-[frontmatter]
-date = ["date", "publishDate", "lastmod"]
-lastmod = [":git", "lastmod", "date", "publishDate"]
-publishDate = ["publishDate", "date"]
-expiryDate = ["expiryDate"]
-
-# For search functionality
-[outputs]
-home = [ "HTML", "RSS", "JSON"]
-
-[params]
-  # Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page.
-  # Useful to give opportunity to people to create merge request for your doc.
-  editURL = "https://github.com/simulogics/airlinesim-docs/edit/master/content/"
-  # Author of the site, will be used in meta information
-  author = ""
-  # Description of the site, will be used in meta information
-  description = "AirlineSim Handbook"
-  # Shows a checkmark for visited pages on the menu
-  showVisitedLinks = false
-  # Disable search function. It will hide search bar
-  disableSearch = false
-  # Javascript and CSS cache are automatically busted when new version of site is generated.
-  # Set this to true to disable this behavior (some proxies don't handle well this optimization)
-  disableAssetsBusting = false
-  # Set this to true to disable copy-to-clipboard button for inline code.
-  disableInlineCopyToClipBoard = false
-  # A title for shortcuts in menu is set by default. Set this to true to disable it.
-  disableShortcutsTitle = false
-  # When using mulitlingual website, disable the switch language button.
-  disableLanguageSwitchingButton = false
-  # Order sections in menu by "weight" or "title". Default to "weight"
-  ordersectionsby = "weight"
-  # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "blue"
+theme = "hugo-book"
 
 # English is the default language
 defaultContentLanguage = "en"
-# Force to have /en/my-page and /fr/my-page routes, even for default language.
-defaultContentLanguageInSubdir= true
 
-[Languages]
-[Languages.en]
+# Force to have /en/my-page and /fr/my-page routes, even for default language.
+defaultContentLanguageInSubdir = true
+
+[languages]
+[languages.en]
+languageName = "English"
 title = "AirlineSim Handbook"
 weight = 1
-languageName = "English"
+contentDir = 'content'
 
-[Languages.de]
+[languages.de]
+languageName = "Deutsch"
 title = "AirlineSim Handbuch"
 weight = 2
-languageName = "Deutsch"
+contentDir = 'content.de'
 
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-edit'></i> Contribute!"
-url = "https://github.com/simulogics/airlinesim-docs#how-to-contribute-to-the-documentation"
-weight = 99
+# (Optional) Theme is intended for documentation use, therefore it doesn't render taxonomy.
+# You can remove related files with config below
+disableKinds = ['taxonomy', 'taxonomyTerm']
 
-[[Languages.de.menu.shortcuts]]
-name = "<i class='fas fa-edit'></i> Mitmachen!"
-url = "https://github.com/simulogics/airlinesim-docs#how-to-contribute-to-the-documentation"
-weight = 99
+[params]
+# (Optional, default light) Sets color theme: light, dark or auto.
+# Theme 'auto' switches between dark and light modes based on browser/os preferences
+BookTheme = 'light'
+
+# (Optional, default true) Controls table of contents visibility on right side of pages.
+# Start and end levels can be controlled with markup.tableOfContents setting.
+# You can also specify this parameter per page in front matter.
+BookToC = true
+
+# (Optional, default none) Set the path to a logo for the book. If the logo is
+# /static/logo.png then the path would be 'logo.png'
+#BookLogo = 'logo.png'
+
+# (Optional, default docs) Specify section of content to render as menu
+# You can also set value to "*" to render all sections to menu
+BookSection = 'docs'
+
+# Set source repository location.
+# Used for 'Last Modified' and 'Edit this page' links.
+BookRepo = 'https://github.com/simulogics/airlinesim-docs'
+
+# Specifies commit portion of the link to the page's last modified commit hash for 'doc' page
+# type.
+# Required if 'BookRepo' param is set.
+# Value used to construct a URL consisting of BookRepo/BookCommitPath/<commit-hash>
+# Github uses 'commit', Bitbucket uses 'commits'
+BookCommitPath = 'commit'
+
+# Enable 'Edit this page' links for 'doc' page type.
+# Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
+# Path must point to the site directory.
+BookEditPath = 'edit/master'
+
+# (Optional, default January 2, 2006) Configure the date format used on the pages
+# - In git information
+# - In blog posts
+BookDateFormat = 'Jan 2, 2006'
+
+# (Optional, default true) Enables search function with flexsearch,
+# Index is built on fly, therefore it might slowdown your website.
+# Configuration for indexing can be adjusted in i18n folder per language.
+BookSearch = true
+
+# (Optional, default true) Enables comments template on pages
+# By default partials/docs/comments.html includes Disqus template
+# See https://gohugo.io/content-management/comments/#configure-disqus
+# Can be overwritten by same param in page frontmatter
+BookComments = false

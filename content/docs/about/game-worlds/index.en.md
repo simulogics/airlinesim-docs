@@ -38,7 +38,7 @@ Here is a list of all currently available short-term and long-term game worlds a
 | Otto IX | Aug 2022 | 18 Apr 2023 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, double slots |
 | Yeager VI | Jun 2022 | 20 Dec 2022 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | all aircraft, double slots |
 | Junkers III | Apr 2022 | 27 Jan 2023 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, standard slots |
-| Quimby XII | Feb 2022 | 25 Nov 2022 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | all aircraft, standard slots |
+| Quimby XIII | Nov 2022 | 29 Jul 2023 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, double slots |
 
 ### Long-Term Game Worlds
 

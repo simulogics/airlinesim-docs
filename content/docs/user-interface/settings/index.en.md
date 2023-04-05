@@ -9,7 +9,7 @@ weight: 9
 
 ### Your Profile
 
-The Your Profile section provides data such as the account's username and status. On the right, you'll find a list of your holdings and subsidiaries in the game world.
+The Your Profile section provides data such as the account's username and status (trial period / premium). On the right, you'll find a list of your holdings and subsidiaries in the game world.
 
 ### Your Holdings
 

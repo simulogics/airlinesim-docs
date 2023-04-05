@@ -5,7 +5,7 @@ weight: 1
 
 # Registrierung
 
-Bevor ihr loslegt, müsst ihr ein Konto anlegen. Besucht dazu einfach die [AirlineSim-Website](https://www.airlinesim.aero/de) und klickt auf die Login-Schaltfläche. Anschließend geht ihr auf Jetzt Registrieren und wählt einen Anzeigenamen (ohne Sonder- / Leerzeichen), gebt eine gültige E-Mail-Adresse ein und erstellt ein Passwort für euer Konto.
+Bevor ihr loslegt, müsst ihr ein Konto anlegen. Besucht dazu einfach die [AirlineSim-Website](https://www.airlinesim.aero/de) und klickt auf die Login-Schaltfläche. Anschließend geht ihr auf "Jetzt registrieren" und wählt einen Anzeigenamen (ohne Sonder- / Leerzeichen), gebt eine gültige E-Mail-Adresse ein und erstellt ein Passwort für euer Konto.
 
 {{< hint info >}}
 **Info**  

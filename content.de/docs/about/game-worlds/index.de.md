@@ -20,7 +20,7 @@ Auf Kurzzeit-Spielwelten verbraucht die erste Holding 4 Credits am Tag. Für jed
 
 Im Gegensatz zu zeitlich begrenzten Servern haben Langzeit-Spielwelten kein bestimmtes Enddatum. Die aktuell verfügbaren Welten befinden sich ebenfalls in der Tabelle weiter unten.
 
-{{< /hint info >}}
+{{< hint info >}}
 **Info**  
 Auf Langzeit-Spielwelten verbraucht die erste Holding 6 Credits am Tag. Jede weitere Holding kostet 4 Credits am Tag.
 {{< /hint >}}

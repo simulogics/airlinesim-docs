@@ -94,6 +94,8 @@ Standardmäßig werden die Flüge für jeden Tag der Woche geplant (ihr könnt d
 
 Sobald alle Häkchen grün sind, klickt auf “Planungsdaten übernehmen”, um den Flug zu erstellen und eurem Flugzeug zuzuweisen.
 
+![Der erste Flug](flugplanung_07.PNG "Der erste Flug") 
+
 ## Planung des Rückflugs
 
 Nachdem ihr euren Hinflug gespeichert habt, könnt ihr ihn im Flugplan (unter dem Abschnitt zur Flugplanung) anklicken, um Details zur Flugnummer anzuzeigen. Hier habt ihr nochmal die Möglichkeit, die Preise und den Bordservice zu bearbeiten, entweder für den ausgewählten Flug oder für die gesamte Strecke.

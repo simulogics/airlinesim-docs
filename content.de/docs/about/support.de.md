@@ -13,7 +13,7 @@ Als eine der wichtigsten Community-Plattformen bietet das [Forum](https://forums
 
 ## Discord
 
-Auch auf unserem [Discord-Server](https://discord.com/invite/5K2Axks) könnt ihr mit anderen Spielerinnen und Spielern in Kontakt treten und eure Fragen loswerden.
+Auch auf unserem [Discord-Server](https://discord.com/invite/5K2Axks) könnt ihr mit anderen Mitgliedern der Community in Kontakt treten und eure Fragen loswerden.
 
 ## Support-Tickets
 
@@ -23,4 +23,4 @@ Wenn ihr euch per E-Mail an den Support wendet oder eine Airline direkt im Spiel
 
 ## Blog
 
-Wenn ihr über das Spiel auf dem Laufenden bleiben möchtet, ist der [AirlineSim-Blog](hhttps://www.airlinesim.aero/blog/de/) immer eine gute Anlaufstelle. Hier erhaltet ihr alle Neuigkeiten rund um AirlineSim - von der Veröffentlichung neuer Spielwelten und Gutscheincodes bis hin zu Ankündigungen von Patches und Community-Events!
+Wenn ihr über das Spiel auf dem Laufenden bleiben möchtet, ist der [AirlineSim-Blog](https://www.airlinesim.aero/blog/de/) immer eine gute Anlaufstelle. Hier erhaltet ihr alle Neuigkeiten rund um AirlineSim - von der Veröffentlichung neuer Spielwelten und Gutscheincodes bis hin zu Ankündigungen von Patches und Community-Events!

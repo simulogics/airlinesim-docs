@@ -34,7 +34,7 @@ Anbei noch ein paar Ratschläge zur Wartung und wie ihr sie in euren Flugplan (d
 
 * **Preis, Qualität oder Effizienz?**: Symmetrische Flugpläne mit täglichen Wartungsfenstern ermöglichen es euch, einen effizienten und kostengünstigen Wartungsdienstleister zu wählen. Bei asymmetrischen Flugplänen sind für euch wahrscheinlich eher Firmen interessant, die eine qualitativ hochwertige Wartung anbieten, um so der Verschlechterung des Flugzeugzustands entgegenzuwirken.
 
-* **Eigene Flugzeuge**: Wenn ihr Flugzeuge besitzt, könnt ihr eure Flugpläne weniger eng gestalten. Stattdessen könnt ihr Platz für Anschlussflüge lassen. Manchmal kann es sich lohnen, einen billigeren Anbieter zu wählen und Abstriche bei der Qualität und / oder Effizienz zu machen, um die Wartungskosten pro Flug zu senken. Klingt seltsam? Nein! Ein Beispiel für diese Strategie ist die Fluggesellschaft Allegiant Air.
+* **Eigene Flugzeuge**: Wenn ihr Flugzeuge besitzt, könnt ihr eure Flugpläne weniger eng gestalten. Stattdessen könnt ihr Platz für Anschlussflüge lassen. Manchmal kann es sich lohnen, einen billigeren Anbieter zu wählen und Abstriche bei der Qualität und / oder Effizienz zu machen, um die Wartungskosten pro Flug zu senken. Klingt seltsam? Nein! Ein Beispiel für diese Strategie ist die Fluggesellschaft [Allegiant Air](http://en.wikipedia.org/wiki/Allegiant_Air#Costs).
 
 * **Alter des Flugzeugs**: Das Alter eures Flugzeugs hat keinen Einfluss auf die Dauer der Wartungsarbeiten, wohl aber auf die Kosten. Je älter das Flugzeug ist, desto mehr Ersatzteile werden bei der Wartung verbraucht, da Ausfälle und Verschleiß ihren Tribut fordern.
 

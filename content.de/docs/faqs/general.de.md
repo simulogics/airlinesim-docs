@@ -31,7 +31,7 @@ In AirlineSim steht euch eine Vielzahl an Flugzeugen zur Verfügung. Die genauen
 
 ## Kann ich mit anderen Airlines zusammenarbeiten?
 
-Wenn ihr euch mit anderen Spielerinnen und Spielern zusammenschließen möchtet, habt ihr verschiedene Optionen - vom Flugzeugleasing über Interline-Abkommen bis hin zur Gründung von Allianzen ist alles möglich!
+Wenn ihr euch mit anderen Airlines zusammenschließen möchtet, habt ihr verschiedene Optionen - vom Flugzeugleasing über Interline-Abkommen bis hin zur Gründung von Allianzen ist alles möglich!
 
 ## Kann ich eine eigene Spielwelt bestellen?
 
@@ -39,4 +39,4 @@ Ja! AirlineSim bietet [exklusive Spielwelten]({{< relref "docs/about/game-worlds
 
 ## Ich habe Fragen zum Spiel!
 
-Bei Fragen rund um AirlineSim habt ihr die Wahl zwischen verschiedenen Anlaufstellen. Eine Übersicht über die vorhandenen Kanäle  findet ihr in unserem [Support-Artikel]({{< relref "docs/about/support.de.md" >}}).
+Bei Fragen rund um AirlineSim stehen euch verschiedene Anlaufstellen zur Verfügung. Eine Übersicht über die vorhandenen Kanäle  findet ihr in unserem [Support-Artikel]({{< relref "docs/about/support.de.md" >}}).

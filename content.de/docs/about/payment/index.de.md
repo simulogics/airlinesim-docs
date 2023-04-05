@@ -5,7 +5,7 @@ weight: 4
 
 # Zahlungssystem
 
-AirlineSim verwendet ein Pay-to-Play-Bezahlsystem, bei dem Credits gekauft werden, um Zugang zum Spiel zu erhalten. Durch dieses Modell werden In-Game-Käufe vermieden, was wiederum der Fairness und Immersion zugutekommt.
+AirlineSim verwendet ein Pay-to-Play-Bezahlsystem, bei dem Credits gekauft werden, um Zugang zum Spiel zu erhalten. Durch dieses Modell werden In-Game-Käufe vermieden, was  Fairness und Immersion fördern soll.
 
 Hier erfahrt ihr alles, was ihr über Credits, Preise, Zahlungsmethoden sowie die Premium-Features des Spiels wissen müsst. Bei Fragen zum Zahlungsvorgang werft gerne einen Blick auf unsere [Zahlungs-FAQ]({{< relref "docs/faqs/payments.de.md" >}}).
 

@@ -30,7 +30,7 @@ Natürlich ist Interlining auch mit Kosten verbunden. Interlining-Abkommen ermö
 
 Es lohnt sich daher, den Wert des zusätzlich erzeugten Aufkommens gegen den Aufwand zur Aufrechterhaltung des Interlining-Vertrags abzuwägen, insbesondere wenn die Partner-Airline sehr groß ist.
 
-Bevor ihr eine Interlining-Vereinbarung annehmt, solltet ihr prüfen, wo eure Partner-Firma ansässig ist, ob ihre Strecken zu eurem Streckennetz passen und ob ihre Flüge im Online Reservation System (ORS) erscheinen. Im Idealfall kommuniziert die andere Airline mit euch, verfügt über ein gutes regionales und internationales Streckennetz und führt Flüge durch, die im ORS gut bewertet werden.
+Bevor ihr eine Interlining-Vereinbarung annehmt, solltet ihr prüfen, wo eure Partner-Firma ansässig ist, ob ihre Strecken zu eurem Streckennetz passen und ob ihre Flüge im [Online Reservation System (ORS)]({{< relref "docs/advanced/bookings/online-reservation-system/index.de.md" >}}) erscheinen. Im Idealfall kommuniziert die andere Airline mit euch, verfügt über ein gutes regionales und internationales Streckennetz und führt Flüge durch, die im ORS gut bewertet werden.
 
 Warum ist das wichtig? Routen mit Anschlussflügen erhalten immer eine niedrigere Bewertung als Direktflüge. Wenn die Flüge der Partner-Airline (oder eure eigenen) eine niedrige Bewertung haben, werden die kombinierten Flüge möglicherweise gar nicht im ORS angezeigt. In diesem Fall werden die Fluggäste andere Wege bevorzugen, um von A nach B nach C zu fliegen.
 

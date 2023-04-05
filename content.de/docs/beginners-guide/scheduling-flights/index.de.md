@@ -134,7 +134,7 @@ Ohne Aktivierung werden die Flüge nach ein paar Tagen gelöscht, um eine Blocki
 
 Die Aktivierung eures Flugplans könnt ihr im Dropdown-Menü “Flugplanaktion auswählen” unterhalb des Flugplans vornehmen. Hier könnt ihr auswählen, ob der Flugplan sofort freigegeben werden soll oder mit einer Verzögerung von drei Tagen.
 
-![Freigabe des Flugplans](flugplanung_10.PNG "Freigabe des Flugplans")
+![Freigabe des Flugplans](flugplanung_10.png "Freigabe des Flugplans")
 
 Die Auswahl einer Verzögerung ist sinnvoll, um Probleme beim Ändern bestehender Flugpläne zu vermeiden. Bereits gebuchte Flüge des alten Flugplans werden somit erst abgeschlossen, bevor der neue Flugplan im ORS auftaucht. Zudem kann eine Verzögerung hilfreich sein, wenn ihr nicht wisst, ob euer Flugzeug innerhalb eines Tages schon ausgebucht sein wird.
 

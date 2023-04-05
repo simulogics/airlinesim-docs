@@ -9,7 +9,7 @@ Zu Beginn des Spiels erstellt ihr eine Holding in einem Land eurer Wahl und erha
 
 Die Holding fungiert als übergeordnete Investmentgesellschaft für eure unternehmerischen Vorhaben und schränkt eure Transportrechte ein, je nach Land, in dem sie gegründet wurde. Sie bleibt immer euer Eigentum, d. h. ihr könnt sie weder verkaufen noch Anteile veräußern.
 
-Gründet ihr eine Tochtergesellschaft, könnt ihr mit dieser an die Börse gehen und Anteile an eurer Airline verkaufen. Ein Börsengang (IPO / Initial Public Offering) erlaubt es euch, frisches Kapital anzuziehen, wobei euch danach immer noch 80% der Tochtergesellschaft gehören.
+Gründet ihr eine Tochtergesellschaft, könnt ihr mit dieser an die Börse gehen und Anteile an eurer Airline verkaufen. Ein [Börsengang (IPO / Initial Public Offering)]({{< relref "docs/advanced/finances/initial-public-offerings/index.de.md" >}}) erlaubt es euch, frisches Kapital anzuziehen, wobei euch danach immer noch 80% der Tochtergesellschaft gehören.
 
 Zwar ermöglicht euch eine solche Kapitalspritze ein schnelleres Wachstum, allerdings müsst ihr anschließend eine wöchentliche Dividende in Höhe von 15% eures Gewinns an die Aktionärinnen und Aktionäre zahlen (geht ihr nicht an die Börse, bleibt die Tochtergesellschaft in eurem Besitz und es wird keine Dividende gezahlt).
 

@@ -53,7 +53,7 @@ You can cancel the interlining contract at any time. In that case, it will run u
 
 We've talked about the costs associated with interlining, however maintaining connections between your own flights isn't free either! They are handled in the same way as external connections and require a number of staff to keep them running smoothly.
 
-The Interlining page offers an option to turn networking administration off by unchecking the Networking Enabled box. 
+The Interlining page offers an option to turn networking administration on or off by checking or unchecking the Networking Enabled box. 
 
 ![Enabling Networking](interlining_02.png "Enabling Networking")
 

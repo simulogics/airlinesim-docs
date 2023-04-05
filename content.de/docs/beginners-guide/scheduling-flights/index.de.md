@@ -123,7 +123,7 @@ Sobald ihr den Rückflug erfolgreich eingeplant habt, werden die Flüge gelb. Da
 
 ## Aktivierung des Flugplans
 
-Wenn ihr mit euren geplanten Routen zufrieden seid, ist es an der Zeit, dem Online Reservation System (ORS) zu erlauben, euren Flügen Passagiere und Fracht hinzuzufügen.
+Wenn ihr mit euren geplanten Routen zufrieden seid, ist es an der Zeit, dem [Online Reservation System (ORS)]({{< relref "docs/advanced/bookings/online-reservation-system/index.de.md" >}}) zu erlauben, euren Flügen Passagiere und Fracht hinzuzufügen.
 
 Erinnert ihr euch an die gelben Flüge im Flugplan? Das bedeutet, dass ihr die Slots erfolgreich blockiert habt, aber noch niemand die Verbindungen buchen kann. Um Buchungen zu erhalten, müssen eure Flüge zuerst aktiviert werden!
 

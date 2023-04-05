@@ -110,7 +110,7 @@ Standardmäßig ist das Menü zur Einrichtung der Flugnummer nun bereits mit ein
 
 Wenn ihr mit den Einstellungen zufrieden seid, klickt einfach auf “Neue Flugnummer anlegen” und schon habt ihr einen Rückflug angelegt!
 
-![Hin- und Rückflug erfolgreich eingeplant](flupglanung_09.PNG "Hin- und Rückflug erfolgreich eingeplant")
+![Hin- und Rückflug erfolgreich eingeplant](flugplanung_09.PNG "Hin- und Rückflug erfolgreich eingeplant")
 
 Wie zuvor erscheint das Menü zur Flugplanung. Wenn alle Felder mit grünen Häkchen versehen sind, könnt ihr die Planungsdaten übernehmen.
 

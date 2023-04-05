@@ -5,11 +5,11 @@ weight: 1
 
 # Allianzen
 
-Ihr möchtet im Spiel Verbindungen zu anderen Spieler*innen aufbauen, wisst aber nicht genau wie? Dann kommt vielleicht eine Allianz für euch infrage. Was es damit auf sich hat, fragt ihr euch?
+Ihr möchtet im Spiel Verbindungen zu anderen Mitgliedern der Community aufbauen, wisst aber nicht genau wie? Dann kommt vielleicht eine Allianz für euch infrage. Was es damit auf sich hat, fragt ihr euch?
 
-Allianzen sind geschäftliche Kooperationsvereinbarungen zwischen einer Reihe von Unternehmen. Sie verleihen dem Spiel einen Hauch von Realität und bieten euch eine großartige Möglichkeit, AirlineSim zusammen mit anderen Nutzer*innen zu genießen. Die Ziele einer Allianz, ihre Mitgliedschaftskriterien und andere Formalitäten werden von ihren Mitglieder*innen intern festgelegt.
+Allianzen sind geschäftliche Kooperationsvereinbarungen zwischen einer Reihe von Unternehmen. Sie verleihen dem Spiel einen Hauch von Realität und bieten euch eine großartige Möglichkeit, AirlineSim zusammen mit anderen zu genießen. Die Ziele einer Allianz, ihre Mitgliedschaftskriterien und andere Formalitäten werden von ihren Mitgliedern intern festgelegt.
 
-Einige Allianzen "schaffen" zusätzliche Drehkreuze, indem sie Interlining betreiben und zur gleichen Zeit den gleichen Flughafen anfliegen. Andere unterstützen ihre Mitglieder*innen durch den Kauf von Aktien, wenn sie an die Börse gehen, stehen neuen Mitglieder*innen beratend zur Seite oder legen bestimmte Regeln fest.
+Einige Allianzen "schaffen" zusätzliche Hubs, indem sie Interlining betreiben und zur gleichen Zeit den gleichen Flughafen anfliegen. Andere unterstützen ihre Mitglieder durch den Kauf von Aktien, wenn sie an die Börse gehen, stehen neuen Mitgliedern beratend zur Seite oder legen bestimmte Regeln fest.
 
 Wie ihr sehen könnt, sind die Möglichkeiten endlos: Vom freundlichen Austausch bis hin zu kompletten Interlining-Vereinbarungen - eine gute Allianz bietet all das und noch mehr!
 
@@ -19,9 +19,9 @@ Wenn ihr Teil einer Allianz werden möchtet, habt ihr mehrere Optionen: Ihr kön
 
 ### Gründung einer Allianz
 
-Um eine neue Allianz zu gründen, werden drei Gründungsmitglieder benötigt - ihr selbst und zwei weitere. Gebt im Menü “Neue Allianz” (Commercial-Tab) den Namen eurer Allianz, ihren Hauptsitz und den Namen des zweiten und dritten Gründungsmitglieds ein.
+Um eine neue Allianz zu gründen, werden drei Gründungsmitglieder benötigt - ihr selbst und zwei weitere. Gebt im Menü "Neue Allianz" (Commercial-Tab) den Namen eurer Allianz, ihren Hauptsitz und den Namen des zweiten und dritten Gründungsmitglieds ein.
 
-![Allianzneugründung](allianz_01.PNG "Allianzerstellung")
+![Allianzneugründung](allianz_01.PNG "Allianzneugründung")
 
 Das erste Gründungsmitglied ist die Person, die die Allianz einrichtet. Die beiden anderen werden benachrichtigt und können den Antrag annehmen oder ablehnen. Die Allianz wird gebildet, sobald alle Gründungsmitglieder zugestimmt haben.
 
@@ -29,7 +29,7 @@ Das erste Gründungsmitglied ist die Person, die die Allianz einrichtet. Die bei
 
 Wenn ihr einer bestehenden Allianz beitreten möchtet, ruft zunächst deren Informationsseite auf (eine Liste aller verfügbaren Allianzen findet ihr im Datenbank-Tab). Hier findet ihr ein Bewerbungsformular für die Mitgliedschaft (nicht sichtbar, wenn ihr bereits Mitglied einer Allianz seid).
 
-![Antragsformular](allianz_02.PNG "Beitrittsanfrage")
+![Antragsformular](allianz_02.PNG "Antragsformular")
 
 Die Informationen, die ihr hier eingebt, helfen den Allianzmitgliedern, über euren Antrag zu entscheiden. Ihr könnt auch Fragen stellen, etwa zur Tätigkeit der Allianz, was den Mitgliedern an ihr gefällt oder wie man sich gegenseitig hilft. So erfahrt ihr, was euch erwartet, wenn ihr beitretet.
 
@@ -47,8 +47,8 @@ Managementaufgaben können also nur von Managern oder Direktoren durchgeführt w
 
 Alle wichtigen Details zu einer Allianz findet ihr auf deren Informationsseite im Commercial-Tab.
 
-Der Abschnitt “Übersicht” zeigt eine Auflistung aller Allianzmitglieder sowie deren Status und Hubs. Seid ihr Teil der Allianz, werden hier auch alle ausstehenden Mitgliedsanträge angezeigt. Denkt daran, dass jedes Mitglied eine Stimme abgeben kann - je mehr Mitglieder die Allianz hat, desto mehr Stimmen müssen also abgegeben werden.
+Der Abschnitt "Übersicht" zeigt eine Auflistung aller Allianzmitglieder sowie deren Status und Hubs. Seid ihr Teil der Allianz, werden hier auch alle ausstehenden Mitgliedsanträge angezeigt. Denkt daran, dass jedes Mitglied eine Stimme abgeben kann - je mehr Mitglieder die Allianz hat, desto mehr Stimmen müssen also abgegeben werden.
 
-Die Registerkarte “Zahlen und Fakten” bietet euch eine Zusammenfassung der statistischen Informationen aller Allianzmitglieder, z. B. in Bezug auf Einnahmen, beförderte Passagiere und Fracht.
+Die Registerkarte "Zahlen und Fakten" bietet euch eine Zusammenfassung der statistischen Informationen aller Allianzmitglieder, z.B. in Bezug auf Einnahmen, beförderte Passagiere und Fracht.
 
-Der Abschnitt “Flugplan” zeigt die Flugpläne der Mitglieder an.
+Der Abschnitt "Flugplan" zeigt die Flugpläne der Mitglieder an.

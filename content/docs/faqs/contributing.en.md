@@ -1,5 +1,5 @@
 ---
-title: "Contributing to the Handbook"
+title: "Handbook Contributions"
 weight: 3
 ---
 

@@ -29,7 +29,7 @@ Ein gutes Inlandsnetz hat mehrere Vorteile: Es verschafft euch Umsteigepassagier
 
 ### Reale Nachfrage
 
-Oft spiegeln sich Nachfragewerte aus dem echten Leben im Spiel wider: Zwischen Spanien und Lateinamerika sowie dem Vereinigten Königreich und Indien / Australien bestehen immer noch alte Beziehungen, Österreich hatte viele Verbindungen zu ehemals kommunistischen Ländern und die kleinen Kanarischen Inseln ziehen Tausende von Touristen an.
+Oft spiegeln sich Nachfragewerte aus dem echten Leben im Spiel wider: Zwischen Spanien und Lateinamerika sowie dem Vereinigten Königreich und Indien / Australien bestehen immer noch alte Beziehungen, Österreich hatte viele Verbindungen zu ehemals kommunistischen Ländern und die kleinen Kanarischen Inseln ziehen Tausende von Reisenden an.
 
 Wenn ihr verschiedene Routen vergleicht, könnt ihr das zu eurem Vorteil nutzen! Hilfreich können dabei Websites wie [FlightStats](http://www.flightstats.com) sein, auf denen ihr Informationen über echte Flüge erhaltet.
 
@@ -37,17 +37,17 @@ Wenn ihr verschiedene Routen vergleicht, könnt ihr das zu eurem Vorteil nutzen!
 
 Abgesehen von der Nachfrage kann es auch nützlich sein, einen Blick auf die bestehenden Routen im Spiel zu werfen, vor allem, wenn ihr einer Spielwelt beitretet, die schon eine Weile läuft. Wenn mehrere Unternehmen Flüge zwischen zwei Flughäfen anbieten, besteht eine gute Chance, dass ihr dort noch einen zusätzlichen Flug unter bekommt.
 
-## Aus dem Hub einen Hub machen
+## Den Hub zu einem Hub machen
 
 Wir haben uns bereits die Vorteile eines guten Inlandnetzes angeschaut, daher folgen nun noch ein paar allgemeine Ratschläge zur Erstellung von Flugverbindungen zu und von eurem Hub.
 
-Zum Einen ist es empfehlenswert, Routen in verschiedene Richtungen einzurichten, da die Passagiere zu eurem Hub reisen und von dort aus Anschlussflüge nehmen werden. Informiert euch vorher aber über die Mindesttransferzeit des Flughafens, um sicherzustellen, dass die Passagiere die Anschlussflüge auch erreichen können, denkt aber auch daran, dass Reisende nicht länger als 8 Stunden auf einen Umsteigeflug warten werden.
+Zum Einen ist es empfehlenswert, Routen in verschiedene Richtungen einzurichten, da Passagiere zu eurem Hub reisen und von dort aus Anschlussflüge nehmen werden. Informiert euch vorher aber über die Mindesttransferzeit des Flughafens, um sicherzustellen, dass die Passagiere die Anschlussflüge auch erreichen können, denkt aber auch daran, dass Reisende nicht länger als 8 Stunden auf einen Umsteigeflug warten werden.
 
 Wenn eure Flüge in Wellen ankommen und abfliegen, könnt ihr unzählige Anschlussmöglichkeiten schaffen und somit unabhängig von der Größe eures gewählten Landes ein hervorragendes internationales Netz aufbauen!
 
 ## Vergrößerung der Reichweite
 
-Bei der Gestaltung von Flugrouten kann es hilfreich sein, die Reichweite eurer Flugzeuge zu prüfen. Jedes Flugzeug kann bei voller Ladung eine bestimmte Strecke zurücklegen. Soll es weiter fliegen, muss es mehr Treibstoff mitnehmen, wodurch weniger Kapazität für Passagiere bleibt. Wenn ihr die Reichweite erhöhen wollt, rüstet das Flugzeug mit besseren Sitzen aus. Dadurch erhaltet ihr eine bessere Bewertung im Online Reservation System (ORS) und könnt trotzdem mit voller Ladung fliegen (d.h. mit weniger Passagieren zu einem höheren Ticketpreis).
+Bei der Gestaltung von Flugrouten kann es hilfreich sein, die Reichweite eurer Flugzeuge zu prüfen. Jedes Flugzeug kann bei voller Ladung eine bestimmte Strecke zurücklegen. Soll es weiter fliegen, muss es mehr Treibstoff mitnehmen, wodurch weniger Kapazität für Passagiere bleibt. Wenn ihr die Reichweite erhöhen wollt, rüstet das Flugzeug mit besseren Sitzen aus. Dadurch erhaltet ihr eine bessere Bewertung im Online Reservation System (ORS) und könnt trotzdem mit voller Ladung fliegen (d. h. mit weniger Passagieren zu einem höheren Ticketpreis).
 
 ## Nutzung der geografischen Lage
 
@@ -61,20 +61,17 @@ Wenn ihr mit euren geplanten Routen zufrieden seid, könnt ihr sie im Spiel einr
 
 Eure erste Station wurde bereits am Ort eures Firmensitzes eröffnet. Um eine neue Station zu eröffnen, navigiert einfach zur Seite des gewünschten Flughafens und klickt auf die grüne Schaltfläche “Station eröffnen”. Eine Übersicht über alle Flughäfen (und somit möglichen Stationen) eines Landes erhaltet ihr auf dessen Informationsseite, die ihr über die Suchleiste aufrufen könnt.
 
-Eine weitere Möglichkeit zur Eröffnung von Stationen findet ihr im Untermenü “Stationen” (Operations-Tab). Gebt hierzu einfach den Namen oder IATA-Code des Flughafens auf der rechten Seite des Fensters ein und klickt auf den Knopf “Station eröffnen”. Bitte beachtet, dass ihr kein Terminal an einem Flughafen bauen müsst, um Passagiere abzufertigen, da vorausgesetzt wird, dass öffentliche Einrichtungen bereits vorhanden sind.
+Eine weitere Möglichkeit zur Eröffnung von Stationen findet ihr im Untermenü “Stationen” (Operations-Tab). Gebt hierzu einfach den Namen oder IATA-Code des Flughafens auf der rechten Seite des Fensters ein und klickt auf “Station eröffnen”. Bitte beachtet, dass ihr kein Terminal an einem Flughafen bauen müsst, um Passagiere abzufertigen, da vorausgesetzt wird, dass öffentliche Einrichtungen bereits vorhanden sind.
 
 Das Öffnen oder Schließen einer Station kostet nichts, solange sie nicht aktiv genutzt wird.
 
 Allerdings fallen Personalkosten für die Abfertigung der Passagiere an, sobald ihr Flüge zum Flughafen einplant. Die Mitarbeitenden werden automatisch je nach Anzahl der Passagiere eingestellt, die ihr an der Station voraussichtlich abfertigen werdet.
 
 * **Stationsmanager**: Derzeit nicht in Gebrauch, werden nicht eingestellt.
-* **Check-In**: Check-In-Personal kümmert sich um die Passagierabfertigung. Wird nicht benötigt oder eingestellt, wenn der Flughafen nur für Fracht genutzt wird.
-* **Ramp Agents**: Koordinieren die Abfertigung der eigentlichen Flugzeuge am Boden.
+* **Check-In**: Das Check-In-Personal kümmert sich um die Passagierabfertigung. Wird nicht benötigt oder eingestellt, wenn der Flughafen nur für Fracht genutzt wird.
+* **Ramp Agents**: Koordinieren die Abfertigung der Flugzeuge am Boden.
 * **Frachtdisposition**: Kümmert sich um die Frachtabfertigung. Wird nicht benötigt oder eingestellt, wenn der Flughafen keine Fracht abfertigt.
 
 Wenn ihr die Zahl der abgefertigten Passagiere oder Fracht so weit reduziert, dass weniger Personal benötigt wird, wird Personal für andere Stationen frei.
 
 Verfügbare Mitarbeitende können entweder entlassen werden (allerdings müsst ihr dann eine Abfindung zahlen) oder dazu verwendet werden, andere Stationen zu eröffnen, falls diese später zusätzliches Personal benötigen. Dies geschieht automatisch: Untätiges Personal wird dorthin versetzt, wo es gebraucht wird, bevor neue Mitarbeitende eingestellt werden.
-
-
-

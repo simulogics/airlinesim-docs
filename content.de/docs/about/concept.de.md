@@ -11,4 +11,4 @@ Realistische Management-Tools helfen beim Aufbau der Flugzeugflotte, der Einrich
 
 Es geht jedoch nicht nur um den Wettbewerb: Von Allianzen über Interline-Abkommen bis hin zum Verleasen von Flugzeugen bietet das Spiel vielfältige Möglichkeiten, dauerhafte Verbindungen mit anderen Airlines aufzubauen.
 
-Bereit, loszulegen? Hier geht es zu unserem [Tutorial]({{< relref "docs/beginners-guide/introduction/index.de.md" >}}), mit dessen Hilfe ihr eure neue Airline im Handumdrehen abheben lassen könnt!
+Bereit, loszulegen? Hier geht es zu unserem [Tutorial]({{< relref "docs/beginners-guide/introduction/index.de.md" >}}), mit dessen Hilfe ihr eure neue Fluggesellschaft im Handumdrehen abheben lassen könnt!

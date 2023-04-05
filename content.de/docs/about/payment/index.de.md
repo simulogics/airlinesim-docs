@@ -25,14 +25,14 @@ Auf Kurzzeit-Spielwelten kostet die erste Holding 4 Credits pro Tag und Spielwel
 
 Auf Langzeit-Spielwelten verbraucht die erste Holding 6 Credits pro Tag und Spielwelt, während jede weitere Holding 4 zusätzliche Credits kostet.
 
-Sollten die Credits ausgehen, werden die Unternehmen des Kontos gesperrt, bis weitere Credits hinzugefügt werden. Während dieses Zeitraums wird das Konto weiterhin täglich mit Credits belastet. Dadurch soll verhindert werden, dass ein unfairer Vorteil entsteht, wenn Spielerinnen und Spieler ihr Konto aufgeben und erst nach einigen Wochen wieder einsteigen, ohne für das Wachstum ihrer Firma bezahlt zu haben.
+Sollten die Credits ausgehen, werden die Unternehmen des Kontos gesperrt, bis weitere Credits hinzugefügt werden. Während dieses Zeitraums wird das Konto weiterhin täglich mit Credits belastet. Dadurch soll verhindert werden, dass ein unfairer Vorteil entsteht, wenn Spielende ihr Konto aufgeben und erst nach einigen Wochen wieder einsteigen, ohne für das Wachstum ihrer Firma bezahlt zu haben.
 
-{{< hint>}}
+{{< hint info >}}
 **Beispiel**  
 Verfügt ein Spieler über eine Holding auf einem Kurzzeit-Server, liegt 5 Tage nach dem Ausgehen der Credits ein Kontostand von -20 Credits vor. Diese müssen bezahlt werden, bevor der Zugang zum Spiel wiederhergestellt wird.
 {{< /hint >}}
 
-Wird ein negativer Kontostand nicht innerhalb von 28 Tagen beglichen, kommt es zur Löschung der Airlines. Dadurch soll eine Bestrafung aktiver Spielerinnen und Spieler vermieden werden. Das AirlineSim-Konto selbst bleibt jedoch aktiv. Bitte beachtet: Die Frist von 28 Tagen gilt nur für Premium-Accounts, die zuvor bereits Credits erworben haben. Bei Testkonten dauert es 7 Tage nach dem Aufbrauchen der Credits, bis die Airlines gelöscht werden.
+Wird ein negativer Kontostand nicht innerhalb von 28 Tagen beglichen, kommt es zur Löschung der Airlines. Dadurch soll eine Bestrafung aktiver Accounts vermieden werden. Das AirlineSim-Konto selbst bleibt jedoch aktiv. Bitte beachtet: Die Frist von 28 Tagen gilt nur für Premium-Accounts, die zuvor bereits Credits erworben haben. Bei Testkonten dauert es 7 Tage nach dem Aufbrauchen der Credits, bis die Airlines gelöscht werden.
 
 ## Preise
 
@@ -51,7 +51,7 @@ Bei größeren Paketen sind Mengenrabatte verfügbar:
 
 ## Zahlungsmöglichkeiten & Checkout
 
-Um Credits zu erwerben, loggt euch einfach in eurem AirlineSim-Konto ein und klickt auf Credits Kaufen. Anschließend könnt ihr die gewünschte Paketgröße aussuchen, einen Gutscheincode eingeben und die Zahlungsmethode festlegen.
+Um Credits zu erwerben, loggt euch einfach in eurem AirlineSim-Konto ein und klickt auf "Credits kaufen". Anschließend könnt ihr die gewünschte Paketgröße aussuchen, einen Gutscheincode eingeben und die Zahlungsmethode festlegen.
 
 {{< hint info >}}
 **Info**  

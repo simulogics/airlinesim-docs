@@ -27,7 +27,7 @@ Wenn ihr aufgrund eines Flugzeugverkaufs oder eines auslaufenden Leasingvertrags
 
 ## Personal verwalten
 
-![Überblick über das Personal](personalverwaltung_01.png "Überblick über das Personal")
+![Überblick über das Personal](personalverwaltung_01.PNG "Überblick über das Personal")
 
 Einen allgemeinen Überblick über euer Personal findet ihr im Management-Tab unter “Personalverwaltung”. Hier seht ihr die Anzahl der Mitarbeitenden, ihren Beschäftigungsstatus, ihre Stimmung und Details zu ihrem Gehalt.
 

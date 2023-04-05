@@ -5,7 +5,7 @@ weight: 1
 
 # Online Reservation System
 
-Das Online Reservation System (ORS) ist eines der Kernfeatures des Spiels. Es generiert täglich eine Vielzahl von Verbindungen und verteilt die Passagiere auf die Flüge der Spieler*innen.
+Das Online Reservation System (ORS) ist eines der Kernfeatures des Spiels. Es generiert täglich eine Vielzahl von Verbindungen und verteilt die Passagiere auf die Flüge der Spielenden.
 
 ![Verbindungssuche](online_reservation_system_01.PNG "Verbindungssuche")
 

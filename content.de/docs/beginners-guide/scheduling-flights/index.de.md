@@ -36,7 +36,7 @@ Ein Wartungsverhältnis unter 100% bedeutet, dass der Flugplan dem Reparatur-Tea
 
 Um das zu verhindern, solltet ihr wöchentliche Wartungsfenster einplanen (je nach Alter, Modell und Flugplan des Flugzeugs). Für Kurz- und Mittelstreckenflüge solltet ihr tägliche Wartungsfenster vorsehen. Passagiere wissen ein gut gewartetes Flugzeug zu schätzen, sodass ihr auch bessere Bewertungen und mehr Buchungen erhaltet.
 
-![Flugplan mit täglichen Wartungspausen](scheduling_03.png "Flugplan mit täglichen Wartungspausen")
+![Flugplan mit täglichen Wartungspausen](scheduling_03.PNG "Flugplan mit täglichen Wartungspausen")
 
 Wie oben erwähnt, werden Wartungsarbeiten an jedem Flughafen durchgeführt, nicht nur an eurem Hub. Es kann jedoch sinnvoll sein, die Zeit für Wartungsarbeiten an eurem Hub einzuplanen. Auf diese Weise haben die Passagiere genug Zeit, einen Anschlussflug zu erreichen (insofern alle Flugzeuge mehr oder weniger zur gleichen Zeit ankommen und etwa zwei Stunden später wieder abfliegen). Wenn eure restlichen Flüge ankommen, lasst die Flugzeuge am besten nur für die Mindesttransferzeit am Boden.
 
@@ -154,7 +154,7 @@ Anstatt einen Transfer zu buchen, könnt ihr auch alle Flüge stornieren, die ni
 
 Gut gemacht - jetzt sind eure Flüge bereit für die ersten Passagiere!
 
-Ihr könnt nun entweder weitere Flüge für andere Flugzeuge planen oder warten, bis sich eure Flugzeuge füllen. Entsprechend der Ticketnachfrage führt jeder Flughafen einmal pro Tag die Buchungen für die verfügbaren Strecken durch. Die genaue Uhrzeit findet ihr auf der Informationsseite des Flughafens im Abschnitt Aufkommensupdate.
+Ihr könnt nun entweder weitere Flüge für andere Flugzeuge planen oder warten, bis sich eure Flugzeuge füllen. Entsprechend der Ticketnachfrage führt jeder Flughafen einmal pro Tag die Buchungen für die verfügbaren Strecken durch. Die genaue Uhrzeit findet ihr auf der Informationsseite des Flughafens im Abschnitt "Aufkommensupdate".
 
 ![Zeitpunkt der Nachfrageberechnung](aufkommensupdate_01.PNG "Zeitpunkt der Nachfrageberechnung")
 

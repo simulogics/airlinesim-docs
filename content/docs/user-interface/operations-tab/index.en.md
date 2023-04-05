@@ -37,7 +37,7 @@ Here, you can pick a maintenance company for your fleet. The list on the right s
 
 The Operations Control page shows a timeline of your operated flights, sorted by aircraft type. You can select a fleet and time span by entering the desired values into the fields on the left.
 
-## Flight Operations
+## Ground Operations
 
 ### Stations
 

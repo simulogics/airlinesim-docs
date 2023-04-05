@@ -32,11 +32,11 @@ Gute Frage - die Antwort hängt davon ab, wo sich euer Betrieb befindet. Die fol
 
 Zusätzlich zu diesen allgemeinen Regeln gibt es einige Sonderfälle:
 
-* Europäische Union: Jede Airline mit Sitz in der Europäischen Union kann Fluggäste zwischen zwei beliebigen Punkten innerhalb der EU auf jeder beliebigen Strecke befördern. Mit anderen Worten: Der Binnenmarkt der EU fungiert als ein großes, virtuelles Land. Wichtig: Diese Regel gilt nicht für Flüge, die außerhalb der EU beginnen oder enden - solche Flüge müssen in dem Land beginnen oder enden, in dem die Holding ihren Sitz hat.
+* **Europäische Union**: Jede Airline mit Sitz in der Europäischen Union kann Fluggäste zwischen zwei beliebigen Punkten innerhalb der EU auf jeder beliebigen Strecke befördern. Mit anderen Worten: Der Binnenmarkt der EU fungiert als ein großes, virtuelles Land. Wichtig: Diese Regel gilt nicht für Flüge, die außerhalb der EU beginnen oder enden - solche Flüge müssen in dem Land beginnen oder enden, in dem die Holding ihren Sitz hat.
 
-* Australien und Neuseeland: In ähnlicher Weise kann jede Airline mit Sitz in Australien oder Neuseeland Fluggäste zwischen zwei beliebigen Punkten innerhalb Australiens und Neuseelands befördern. Auch hier gilt die Regel nicht für Flüge, die außerhalb Australiens und Neuseelands beginnen oder enden.
+* **Australien und Neuseeland**: In ähnlicher Weise kann jede Airline mit Sitz in Australien oder Neuseeland Fluggäste zwischen zwei beliebigen Punkten innerhalb Australiens und Neuseelands befördern. Auch hier gilt die Regel nicht für Flüge, die außerhalb Australiens und Neuseelands beginnen oder enden.
 
-* Yamoussoukro-Entscheidung: Jede Airline, deren Betriebssitz in einem Land liegt, das Vertragspartei der Yamoussoukro-Entscheidung ist, kann Fluggäste zwischen einem zweiten und einem dritten Land befördern, wenn der betreffende Flug die Fortsetzung eines Fluges aus dem Herkunftsland des Betriebs ist (Verwendung der Via-Funktion des Spiels).
+* **Yamoussoukro-Entscheidung**: Jede Airline, deren Betriebssitz in einem Land liegt, das Vertragspartei der Yamoussoukro-Entscheidung ist, kann Fluggäste zwischen einem zweiten und einem dritten Land befördern, wenn der betreffende Flug die Fortsetzung eines Fluges aus dem Herkunftsland des Betriebs ist (Verwendung der Via-Funktion des Spiels).
 
 ## EU-Abkommen & Oceanic Open Skies
 

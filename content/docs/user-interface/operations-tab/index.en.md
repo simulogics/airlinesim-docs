@@ -19,7 +19,7 @@ A new fleet can be created by using the button on the top right. On the left, yo
 
 By selecting the box next to an aircraft model, the Actions menu pops up. Here, you can assign cabin configurations and crew, transfer the aircraft, select which fleet it belongs to and activate, lock or delete its flight plan.
 
-The green book icon next to an aircraft lets you view its contract or, if desired, offer it for sale or lease. The adjacent calendar icon leads you to the flight planning page and the icon on the far right shows the scheduled flights.
+The book icon next to an aircraft lets you view its contract or, if desired, offer it for sale or lease. The adjacent calendar icon leads you to the flight planning page and the icon on the far right shows the scheduled flights.
 
 ### Aircraft Type Evaluation
 

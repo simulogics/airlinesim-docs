@@ -9,7 +9,7 @@ Das Flight Rating System (FRS) wurde entwickelt, um eine detaillierte Qualitäts
 
 Die Bewertung kann über die Inventory- oder Flugnummern-Seite im Commercial-Tab aufgerufen werden. Um die Übersicht der Fluginformationen aufzurufen, klickt einfach auf den kleinen weißen Pfeil neben dem Flug eurer Wahl.
 
-![FRS-Übersicht](FRS_01.png "FRS-Übersicht")
+![FRS-Übersicht](FRS_01.PNG "FRS-Übersicht")
 
 Die Bewertungen eines Fluges können im Tab “Flugbewertung” überprüft werden und bestehen aus zwei separaten Komponenten, den Produkt- und den Imagefaktoren. Beide sind zusammen mit dem Einfluss, den der Flug auf das Airline-Image haben wird, aufgelistet.
 

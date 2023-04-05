@@ -9,7 +9,7 @@ Wenn ihr Fragen zum Spiel habt, könnt ihr über die folgenden Kanälen Hilfe fi
 
 ## Forum
 
-Als eine der wichtigsten Community-Plattformen bietet das [Forum](https://forums.airlinesim.aero/) eine Vielzahl an Kategorien, in denen ihr Fragen stellen, über das Spiel diskutieren und viele hilfreiche Informationen finden könnt! Wenn ihr einen neuen Post verfasst, schaut am besten zunächst, ob es bereits ähnliche Threads gibt, wählt einen passenden Titel für euren Beitrag und achtet auf einen respektvollen Umgang mit den anderen Spielerinnen und Spielern.
+Als eine der wichtigsten Community-Plattformen bietet das [Forum](https://forums.airlinesim.aero/) eine Vielzahl an Kategorien, in denen ihr Fragen stellen, über das Spiel diskutieren und viele hilfreiche Informationen finden könnt! Wenn ihr einen neuen Post verfasst, schaut am besten zunächst, ob es bereits ähnliche Threads gibt, wählt einen passenden Titel für euren Beitrag und achtet auf einen respektvollen Umgang mit anderen.
 
 ## Discord
 

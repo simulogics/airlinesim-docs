@@ -86,7 +86,7 @@ Additionally, the support staff can adjust the following settings according to y
 * Availability of aircraft (all / only contemporary)
 * Selection of aircraft types
 * Used aircraft at start on / off
-* Global demand for passengers and cargo (1-100%)
+* Global demand for passengers and cargo (1 - 100%)
 * List of countries open for foreign investment
 * Anti-cheating restrictions on / off
 

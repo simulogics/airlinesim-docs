@@ -30,7 +30,7 @@ Sobald die Klassen eingerichtet sind, könnt ihr jede Klasse mit Sitzen ausstatt
 
 * **Zusätzlicher Sitzabstand**: Wenn ihr euren Passagieren etwas mehr Beinfreiheit bieten möchtet, braucht ihr keine Sitzreihen zu entfernen - erhöht einfach den Wert “Zus. Sitzabstand (in)”!
 
-* **Zusätzliche F / As**: Hier könnt ihr jede Klasse mit zusätzlichen Flugbegleiterinnen und Flugbegleitern ausstatten. Zwar sollte bereits ein Grundbestand an Personal vorliegen, jedoch könnt ihr über diesen Menüpunkt weitere Crewmitglieder zuweisen, um die Bewertungen zu erhöhen. Tipp: Flugzeuge mit weniger als 20 Sitzplätzen brauchen nicht unbedingt einen Flugbegleiter. Standardmäßig ist ein Flugbegleiter für 50 Passagiere pro Klasse zuständig. Mehr Flugbegleiter haben einen positiven Einfluss auf die Bewertung eurer Flüge.
+* **Zusätzliche F / As**: Hier könnt ihr jede Klasse mit zusätzlichen Flugbegleiterinnen und Flugbegleitern ausstatten. Zwar sollte bereits ein Grundbestand an Personal vorliegen, jedoch könnt ihr über diesen Menüpunkt weitere Crewmitglieder zuweisen, um die Bewertungen zu erhöhen. Tipp: Flugzeuge mit weniger als 20 Sitzplätzen brauchen nicht unbedingt einen Flugbegleiter / eine Flugbegleiterin. Standardmäßig ist ein Crewmitglied für 50 Passagiere pro Klasse zuständig. Mehr Flugbegleiter / Flugbegleiterinnen haben einen positiven Einfluss auf die Bewertung eurer Flüge.
 
 Wenn ihr euch nicht sicher seid, wie sich die aktuelle Konfiguration auf die Bewertung eurer Passagiere auswirkt, speichert sie einfach ab und wechselt zum Tab “Bewertungen”. Und denkt daran: Jeder Flugzeugtyp benötigt eine eigene Kabinenkonfiguration!
 
@@ -38,15 +38,15 @@ Wenn ihr euch nicht sicher seid, wie sich die aktuelle Konfiguration auf die Bew
 
 Hier noch ein paar allgemeine Ratschläge zur Konfiguration eurer Kabinen:
 
-* **Ein(e) Flugbegleiter(in) pro Klasse**: Jede Klasse braucht mindestens eine Flugbegleiterin oder eine Flugbegleiter. Selbst wenn ihr nur zwei Sitze in der ersten Klasse einbaut, müsst ihr der Klasse dennoch eine Flugbegleiterin oder einen Flugbegleiter zuweisen. Bedenkt dabei, dass euer Personal in 8-Stunden-Schichten arbeitet. Wenn ihr also 20 Stunden am Tag fliegt, entspricht eine Flugbegleiterin  / ein Flugbegleiter mehreren Mitarbeitenden bei der Gehaltsabrechnung.
+* **Ein Flugbegleiter / eine Flugbegleiterin pro Klasse**: Jede Klasse braucht mindestens eine Flugbegleiterin oder eine Flugbegleiter. Selbst wenn ihr nur zwei Sitze in der ersten Klasse einbaut, müsst ihr der Klasse dennoch eine Flugbegleiterin oder einen Flugbegleiter zuweisen. Bedenkt dabei, dass euer Personal in 8-Stunden-Schichten arbeitet. Wenn ihr also 20 Stunden am Tag fliegt, entspricht eine Flugbegleiterin  bzw. ein Flugbegleiter mehreren Mitarbeitenden bei der Gehaltsabrechnung.
 
 * **Zusätzliche F / As**: Die Anzahl der zusätzlichen Flugbegleiterinnen und Flugbegleiter ist euch überlassen, aber die Passagiere wissen diese Aufmerksamkeit zu schätzen. Eine bessere Bewertung kann die zusätzlichen Gehälter wert sein.
 
-* **Economy vs. Business**: Da die Business Class in der Regel über größere Sitze, besseren Service und weniger Passagiere pro Flugbegleiter(in) verfügt, können zwei Economy-Passagiere rentabler sein als ein Gast in der Business Class. Denkt also daran, die Kosten bei der Einrichtung der Kabine zu berücksichtigen.
+* **Economy vs. Business**: Da die Business Class in der Regel über größere Sitze, besseren Service und weniger Passagiere pro Flugbegleiter oder Flugbegleiterin verfügt, können zwei Economy-Passagiere rentabler sein als ein Gast in der Business Class. Denkt also daran, die Kosten bei der Einrichtung der Kabine zu berücksichtigen.
 
 * **First Class**: Wenn ihr auf einigen Strecken Schwierigkeiten habt, die erste Klasse zu füllen, könnt ihr versuchen, sie nur auf Langstreckenflügen ab 2.000 km anzubieten oder sie in einigen Flugzeugen sogar ganz wegzulassen.
 
-* **Überprüfen der Konfiguration**: Denkt daran, eure fertige Konfiguration nochmal zu überprüfen, bevor ihr sie anwendet. Sobald wir die Kabine im nächsten Schritt eurem Flugzeug zuweisen, könnt ihr nicht einmal mehr Flugbegleiter(innen) hinzufügen, ohne das Flugzeug komplett umzurüsten.
+* **Überprüfen der Konfiguration**: Denkt daran, eure fertige Konfiguration nochmal zu überprüfen, bevor ihr sie anwendet. Sobald wir die Kabine im nächsten Schritt eurem Flugzeug zuweisen, könnt ihr nicht einmal mehr einen Flugbegleiter oder eine Flugbegleiterin hinzufügen, ohne das Flugzeug komplett umzurüsten.
 
 * **Austauschen der Kabine**: Wenn ihr die Kabinenkonfiguration eines Flugzeugs ändert, wird die neue Konfiguration nach 3 Tagen verwendet.
 
@@ -56,6 +56,6 @@ Hier noch ein paar allgemeine Ratschläge zur Konfiguration eurer Kabinen:
 
 Die Erwartung der Passagiere hängt von eurer Route sowie eurer Marketingstrategie ab. 
 
-Wenn ihr eine Billigfluggesellschaft betreiben wollt, stattet eure Flugzeuge mit schmaleren Sitzen aus und verkauft günstigere Tickets. Wenn ihr euch eher im Mittelfeld bewegt, könnt ihr etwas bessere Sitze verwenden. Die meisten Flugzeuge sind zu 80 % mit Economy- und zu 20 % mit Business Class-Sitzen ausgestattet, aber es steht euch natürlich frei, die Sitze nach Belieben zu verteilen.
+Wenn ihr eine Billigfluggesellschaft betreiben wollt, stattet eure Flugzeuge mit schmaleren Sitzen aus und verkauft günstigere Tickets. Wenn ihr euch eher im Mittelfeld bewegt, könnt ihr etwas bessere Sitze verwenden. Die meisten Flugzeuge sind zu 80% mit Economy- und zu 20% mit Business Class-Sitzen ausgestattet, aber es steht euch natürlich frei, die Sitze nach Belieben zu verteilen.
 
 Auf Kurzstrecken sollten die Passagiere mit einer einfachen Bestuhlung auskommen. Auf Mittelstreckenflügen könnt ihr einige Klassen mit besseren Sitzen ausstatten. Wenn Passagiere knapp sind und der Wettbewerb hart ist, könnt ihr versuchen, bessere Sitze für Economy-Passagiere zu verwenden.

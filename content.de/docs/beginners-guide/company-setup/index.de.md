@@ -25,7 +25,7 @@ Neben dem Namen könnt ihr auch einen Code für eure Airline vergeben. Der Code 
 
 Als Nächstes sucht ihr den Hauptsitz des Unternehmens aus. Denkt daran, dass das Land eures Firmensitzes Einfluss auf die Verkehrsrechte hat, die für eure Holding und ihre Tochtergesellschaften gelten! Auch der Aufbau eurer Flotte kann vom Hauptsitz beeinflusst werden: Gründet ihr eine Airline an einem abgelegenen Ort, benötigt ihr große und teure Flugzeuge, um Verbindungen zu eurem Hub aufzubauen, es sei denn, ihr beschränkt euch auf regionale Strecken.
 
-[Der Firmenhauptsitz](hauptsitz_01.PNG "Der Firmenhauptsitz")
+![Der Firmenhauptsitz](hauptsitz_01.PNG "Der Firmenhauptsitz")
 
 Am Anfang ist es empfehlenswert, ein Land mit wenig Konkurrenz zu wählen, damit sich die Flugzeuge leichter füllen lassen. Seid ihr euch nicht sicher, wie die Marktsituation in einem bestimmten Land aussieht, könnt ihr euch die Bewertungen und allgemeinen Aktivitäten der dort ansässigen Unternehmen anschauen.
 
@@ -33,7 +33,7 @@ Was die Stadt angeht, kann es sinnvoll sein, die Hauptstadt eines Landes zu wäh
 
 {{< hint info >}}
 **Info**  
-Die Slot-Verteilung eines bestimmten Flughafens findet ihr, wenn ihr den Namen in der Suchleiste am oberen Bildschirmrand eingebt, die Seite des Flughafens aufruft und zum Slotanzeige-Tab wechselt.
+Die Slot-Verteilung eines bestimmten Flughafens findet ihr, wenn ihr dessen Namen in die Suchleiste am oberen Bildschirmrand eingebt, die Seite des Flughafens aufruft und zum Slotanzeige-Tab wechselt.
 {{< /hint >}}
 
 Tauchen in der Slotanzeige viele orangefarbene und rote Felder auf, solltet ihr überlegen, ob ihr euch einen anderen Hub sucht, da Slots für Landungen und Starts benötigt werden und eine wichtige Rolle bei der Erstellung eures Flugplans spielen.
@@ -58,23 +58,23 @@ Pakistan ist ein Beispiel für ein Land, das für ausländische Investitionen of
 
 {{< hint info >}}
 **Info**  
-Ob ein Land ausländische Investitionen akzeptiert oder nicht, hängt von der Spielwelt ab. Was genau für welches Land gilt, findet ihr heraus, indem ihr im Datenbank-Tab zum Abschnitt Länder navigiert, ein Land auswählt und schaut, was bei Politischen Informationen vermerkt ist.
+Ob ein Land ausländische Investitionen akzeptiert oder nicht, hängt von der Spielwelt ab. Was genau für welches Land gilt, findet ihr heraus, indem ihr im Datenbank-Tab zum Abschnitt Länder navigiert, ein Land auswählt und schaut, was bei "Politischen Informationen" vermerkt ist.
 {{< /hint >}}
 
 ## Erstellen von Holdings und Tochtergesellschaften
 
 Wenn ihr mit dem Namen und dem Hauptsitz eures Unternehmens zufrieden seid, könnt ihr auf Unternehmen gründen klicken. Herzlichen Glückwunsch, ihr habt soeben eure erste Firma erstellt!
 
-Wenn ihr ein weiteres Unternehmen gründen möchtet, wechselt einfach zum Dropdown-Menü, das euch links unter dem Namen eurer Firma angezeigt wird und wählt Neues Unternehmen gründen.
+Wenn ihr ein weiteres Unternehmen gründen möchtet, wechselt einfach zum Dropdown-Menü, das euch links unter dem Namen eurer Firma angezeigt wird und wählt "Neues Unternehmen gründen".
 
 Auf der folgenden Seite könnt ihr dann angeben, ob eine weitere Holding oder eine Tochtergesellschaft eurer bestehenden Holding eingerichtet werden soll. 
 
-{{<hint warning>}}
+{{< hint warning >}}
 **Wichtig**  
-Bitte beachtet: Nicht jede Spielwelt unterstützt das Erstellen mehrerer Holdings. Schaut euch im Zweifelsfall nochmal die Konfiguration der Welt an, z.B. hier oder auf unserem [Blog](https://www.airlinesim.aero/blog/de/). Sind mehrere Holdings erlaubt, denkt außerdem bitte daran, dass die Kooperation zwischen euren Holdings nicht zulässig ist.
+Bitte beachtet: Nicht jede Spielwelt unterstützt das Erstellen mehrerer Holdings. Schaut euch im Zweifelsfall nochmal die Konfiguration der Welt an, z. B. hier oder auf unserem [Blog](https://www.airlinesim.aero/blog/de/). Sind mehrere Holdings erlaubt, denkt außerdem bitte daran, dass die Kooperation zwischen euren Holdings nicht zulässig ist.
 {{< /hint >}}
 
-Wenn ihr eine Tochtergesellschaft gründet, müsst ihr entscheiden, wie viel Startkapital sie von der Holding erhalten soll - der Mindestbetrag liegt bei 3 Millionen AS$. Überlegt euch gut, wie viel ihr investieren möchtet, denn ihr werdet nach der Gründung keine Möglichkeit mehr haben, Geld von der Holding an das Tochterunternehmen zu transferieren (und umgekehrt), mit der Ausnahme von Dividenden, die nach einem Börsengang an eure Holding und externe Investoren gezahlt werden.
+Wenn ihr eine Tochtergesellschaft gründet, müsst ihr entscheiden, wie viel Startkapital sie von der Holding erhalten soll - der Mindestbetrag liegt bei 3 Millionen AS$. Überlegt euch gut, wie viel ihr investieren möchtet, denn ihr werdet nach der Gründung keine Möglichkeit mehr haben, Geld von der Holding an das Tochterunternehmen zu transferieren (und umgekehrt), mit der Ausnahme von Dividenden, die nach einem Börsengang an eure Holding und externe Investorinnen und Investoren gezahlt werden.
 
 Zusätzlich zur Höhe des Startkapitals solltet ihr bedenken, dass das Land eurer Holding die Verkehrsrechte der Tochtergesellschaften bestimmt: Befindet sich der Hub der Tochtergesellschaft im gleichen Land wie die Holding, genießt ihr volle Verkehrsrechte, andernfalls können diese eingeschränkt sein.
 

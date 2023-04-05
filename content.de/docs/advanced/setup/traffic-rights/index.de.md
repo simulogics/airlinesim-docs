@@ -40,11 +40,11 @@ Zusätzlich zu diesen allgemeinen Regeln gibt es einige Sonderfälle:
 
 ## EU-Abkommen & Oceanic Open Skies
 
-![EU-Abkommen & Oceanic Open Skies](traffic_rights_01.png "EU-Abkommen & Oceanic Open Skies")
+![EU-Abkommen & Oceanic Open Skies](traffic_rights_01.PNG "EU-Abkommen & Oceanic Open Skies")
 
 ## Yamoussoukro-Entscheidung & Caricom 5th Freedom
 
-![Yamoussoukro-Entscheidung & Caricom 5th Freedom](traffic_rights_02.png "Yamoussoukro-Entscheidung & Caricom 5th Freedom")
+![Yamoussoukro-Entscheidung & Caricom 5th Freedom](traffic_rights_02.PNG "Yamoussoukro-Entscheidung & Caricom 5th Freedom")
 
 ## Was ist mit Frachtflügen?
 
@@ -122,13 +122,14 @@ Hier findet ihr eine Übersicht über die verschiedenen Listen investitionsoffen
 | Ukraine | enhalten | enhalten | nicht enhalten |
 | Usbekistan | enhalten | enhalten | enhalten |
 
-*gilt nicht für Holdinggesellschaften mit Sitz in Israel
+*gilt nicht für Holdings mit Sitz in Israel
 
 ## Verbotene Routen
 
 Es gibt bestimmte Länderpaare, zwischen denen aus politischen Gründen keine Reisen zugelassen sind. Auch Flüge innerhalb der gleichen Stadt sind im Spiel verboten. Eine Liste aller Beschränkungen findet ihr im Menü “Verbotene Routen” (Datenbank-Tab).
 
 Wie bei Inlandsflügen in fremden Ländern können Flüge auf verbotenen Routen zwar eingeplant werden, die Flugzeuge werden aber auch hier leer bleiben.
+
 {{< hint info >}}
 **Info**  
 Auf unserer Spielwelt Devau gibt es keine Beschränkungen zwischen Flughäfen, da die Spielwelt eine spezielle Konfiguration ohne Verkehrsbünde verwendet.

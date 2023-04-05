@@ -20,7 +20,7 @@ Selecting one of the variants opens the aircraft fact sheet with all of the airc
 
 ![Aircraft Market](ac_market_01.png "Aircraft Market")
 
-If you're looking for used aircraft, the Aircraft Market is the right place to go. The available aircraft can be filtered by financing type (cash, credit or leasing), offer type (auction or immediate purchase) as well as aircraft family.
+If you're looking to buy or sell used aircraft, the Aircraft Market is the right place to go. The available aircraft can be filtered by financing type (cash, credit or leasing), offer type (auction or immediate purchase) as well as aircraft family and type.
 
 Each offer provides important information like the plane's owner, its age and condition as well as the available payment options. If you want to get an overview of your existing bids and offers, switch to the Your Bids and Your Offers tabs on the top of the page.
 

@@ -19,7 +19,7 @@ Eine neue Flotte kann über die Schaltfläche “Flotte anlegen” oben rechts e
 
 Wenn ihr das Kästchen neben einem Flugzeugmodell anklickt, öffnet sich das Menü "Aktionen". Hier könnt ihr Kabinenkonfigurationen und Besatzungen zuweisen, einen Transferflug einrichten, die Flottenzugehörigkeit festlegen und den Flugplan freigeben, sperren oder löschen.
 
-Über das grüne oder blaue Buchsymbol neben einem Flugzeug könnt ihr dessen Vertrag einsehen oder es, falls gewünscht, zum Verkauf oder zur Vermietung anbieten. Das nebenstehende Kalendersymbol führt euch zur Flugplanungsseite und das Symbol ganz rechts zeigt die bereits geplanten Flüge an.
+Über das Buchsymbol neben einem Flugzeug könnt ihr dessen Vertrag einsehen oder es, falls gewünscht, zum Verkauf oder zur Vermietung anbieten. Das nebenstehende Kalendersymbol führt euch zur Flugplanungsseite und das Symbol ganz rechts zeigt die bereits geplanten Flüge an.
 
 ### Maschinenevaluierung
 

@@ -49,6 +49,6 @@ Alle wichtigen Details zu einer Allianz findet ihr auf deren Informationsseite i
 
 Der Abschnitt "Übersicht" zeigt eine Auflistung aller Allianzmitglieder sowie deren Status und Hubs. Seid ihr Teil der Allianz, werden hier auch alle ausstehenden Mitgliedsanträge angezeigt. Denkt daran, dass jedes Mitglied eine Stimme abgeben kann - je mehr Mitglieder die Allianz hat, desto mehr Stimmen müssen also abgegeben werden.
 
-Die Registerkarte "Zahlen und Fakten" bietet euch eine Zusammenfassung der statistischen Informationen aller Allianzmitglieder, z.B. in Bezug auf Einnahmen, beförderte Passagiere und Fracht.
+Die Registerkarte "Zahlen und Fakten" bietet euch eine Zusammenfassung der statistischen Informationen aller Allianzmitglieder, z. B. in Bezug auf Einnahmen, beförderte Passagiere und Fracht.
 
 Der Abschnitt "Flugplan" zeigt die Flugpläne der Mitglieder an.

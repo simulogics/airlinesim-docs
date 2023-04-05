@@ -107,7 +107,7 @@ Eine exklusive Spielwelt kostet 360€ (inkl. MwSt.) für 30 Tage. Für die erst
 
 ### Wo kann ich meine eigene Spielwelt bestellen?
 
-[Einen eigenen Server bestellen](exklusiv_01.PNG "Einen eigenen Server bestellen")
+![Einen eigenen Server bestellen](exklusiv_01.PNG "Einen eigenen Server bestellen")
 
 Bestellungen könnt ihr direkt in eurem AirlineSim-Account vornehmen. Nach dem Login stehen unter dem Menüpunkt "Exklusive Spielwelten" alle notwendigen Informationen zur Verfügung.
 

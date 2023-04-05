@@ -5,7 +5,7 @@ weight: 1
 
 # Holdings vs. Tochtergesellschaften
 
-Zu Beginn des Spiels erstellt ihr eine Holding in einem Land eurer Wahl und erhaltet ein Startkapital von (in der Regel) 10 Millionen AS$. Mit diesem Kapital könnt ihr dann Flugzeuge erwerben und mit eurem neuen Unternehmen durchstarten. Ihr könnt das Geld (oder Teile davon) aber auch für die Gründung einer Tochtergesellschaft verwenden. In diesem Fall können Flottenaufbau und Flugbetrieb auch über die Tochtergesellschaft laufen. Worin besteht also der Unterschied?
+Zu Beginn des Spiels erstellt ihr eine Holding in einem Land eurer Wahl und erhaltet ein Startkapital von 10 Millionen AS$ (bitte beachtet, dass die Höhe des Startkapitals je nach Spielwelt variieren kann). Mit diesem Kapital könnt ihr dann Flugzeuge erwerben und mit eurem neuen Unternehmen durchstarten. Ihr könnt das Geld (oder Teile davon) aber auch für die Gründung einer Tochtergesellschaft verwenden. In diesem Fall können Flottenaufbau und Flugbetrieb auch über die Tochtergesellschaft laufen. Worin besteht also der Unterschied?
 
 Die Holding fungiert als übergeordnete Investmentgesellschaft für eure unternehmerischen Vorhaben und schränkt eure Transportrechte ein, je nach Land, in dem sie gegründet wurde. Sie bleibt immer euer Eigentum, d. h. ihr könnt sie weder verkaufen noch Anteile veräußern.
 

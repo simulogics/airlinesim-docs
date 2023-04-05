@@ -7,14 +7,14 @@ weight: 10
 
 ## Wartung buchen
 
-Okay, ihr habt ein Flugzeug, eine erste Routenplanung und Service, Personal sowie die Kabinenkonfiguration stehen auch - Zeit abzuheben? Noch nicht ganz, denn ihr braucht noch einen Wartungsanbieter! Denn ohne Reparaturen wird euer Flugzeug nicht sehr lange fliegen...
+Ihr habt ein Flugzeug und die erste Routenplanung, Service, Personal sowie die Kabinenkonfiguration stehen auch - Zeit abzuheben? Noch nicht ganz, denn ihr braucht noch einen Wartungsanbieter! Ohne Reparaturen wird euer Flugzeug nicht sehr lange fliegen...
 
 ![Auswahl eines Wartungspartners](wartung_03.PNG "Auswahl eines Wartungspartners")
 
 Im Menü “Wartung” (Operations-Tab) habt ihr die Möglichkeit, eine Firma mit der Wartung eures Flugzeugs zu beauftragen. Jede der Optionen hat bestimmte Vor- und Nachteile, da die Anbieter in Bezug auf Preis, Qualität und Geschwindigkeit der Wartung unterschiedlich abschneiden.
 
 * **Preis**: Dieser Wert steht für die relativen Kosten, die aufkommen, wenn die gleiche Menge an Wartungsarbeiten an einem Flugzeug durchgeführt wird.
-* **Qualität**: Hier wird der Wartungsstandard angegeben. Seid vorsichtig: Ein Anbieter von minderwertiger Qualität wird euer Flugzeug möglicherweise nie zu 100 % instand setzen.
+* **Qualität**: Hier wird der Wartungsstandard angegeben. Seid vorsichtig: Ein Anbieter von geringerer Qualität wird euer Flugzeug möglicherweise nie zu 100 % instand setzen.
 * **Effizienz**: Dieser Wert gibt den Umfang der Wartungsarbeiten an, die in einer bestimmten Zeitspanne durchgeführt werden: Ein effizienter Anbieter erledigt mehr Arbeit in kürzerer Zeit als ein ineffizienter. Dennoch kann es sein, dass sich der Preis nicht lohnt, vor allem wenn euer Flugzeug länger am Boden bleibt.
 
 {{< hint warning >}}

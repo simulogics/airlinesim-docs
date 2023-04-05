@@ -5,7 +5,7 @@ weight: 1
 
 # Spielkonzept
 
-Bei AirlineSim handelt es sich um eine browserbasierte Wirtschaftssimulation, die es Spielerinnen und Spielern ermöglicht, ihre eigene Airline zu betreiben und auf einem virtuellen Echtzeitmarkt um Passagiere zu konkurrieren.
+Bei AirlineSim handelt es sich um eine browserbasierte Wirtschaftssimulation, die es Spielenden ermöglicht, ihre eigene Airline zu betreiben und auf einem virtuellen Echtzeitmarkt um Passagiere zu konkurrieren.
 
 Realistische Management-Tools helfen beim Aufbau der Flugzeugflotte, der Einrichtung der Kabinen sowie der Erstellung von Flugplänen. Auch die aktuelle Marktlage lässt sich anhand der Tools analysieren, sodass Preise und Servicelevel bei Bedarf angepasst werden können.
 

@@ -17,7 +17,7 @@ Anbei noch ein paar allgemeine Regeln und Tipps zu Börsengängen und -geschäft
 * Der Börsenkurs folgt einer bestimmten Basisrate, die eng mit dem Unternehmenswert verknüpft ist, und bietet eine grobe Prognose über die Entwicklung der Firma.
 * Änderungen des Aktienkurses durch den Handel sind nur innerhalb von +/- 10% der Basisrate möglich.
 
-## Einreichung eines IPO
+## Einreichung von IPOs
 
 Bei einem Börsengang werden Aktien in Höhe von 25% (vor dem IPO) bzw. 20% (nach dem IPO) des Firmenwertes anderen Unternehmen zur Zeichnung angeboten. Die Aktien werden an der örtlichen Börse unter einem Börsensymbol eurer Wahl gehandelt. 
 

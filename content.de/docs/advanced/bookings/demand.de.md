@@ -25,7 +25,7 @@ Ja, viele Strecken mit geringer Nachfrage können mit Flügen bedient werden, di
 
 ## Haben die Fluggäste ein genaues Ziel vor Augen oder sind sie flexibel genug, um auf nahe gelegene Flughäfen auszuweichen?
 
-Die Fluggäste haben den Wunsch, einen bestimmten Flughafen zu erreichen. Allerdings kann auch der Bodenverkehr Bestandteil einer Reise sein. Siehe [Flightbewertungssystem]({{< relref "docs/advanced/bookings/flight-rating-system/index.de.md" >}}) für weitere Einzelheiten.
+Die Fluggäste haben den Wunsch, einen bestimmten Flughafen zu erreichen. Allerdings kann auch der Bodenverkehr Bestandteil einer Reise sein. Siehe [Flight Rating System]({{< relref "docs/advanced/bookings/flight-rating-system/index.de.md" >}}) für weitere Einzelheiten.
 
 ## Gibt es eine Möglichkeit, den grünen Nachfragebalken eines Flughafens eine genaue Anzahl von Passagieren zuzuordnen, die zwischen zwei Flughäfen fliegen wollen?
 

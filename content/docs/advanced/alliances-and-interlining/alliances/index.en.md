@@ -39,7 +39,7 @@ After submitting your request, all current members will receive a message about 
 
 Once you're part of an alliance, you can contribute as a member, a manager or a director. 
 
-Members are limited to participating in discussions and decisions concerning the admission of new members. Managers can change the information for an alliance. A director has access to a dedicated Director tab and can appoint managers, delegate responsibility, expel members or resign and nominate a successor.
+Members are limited to participating in discussions and decisions concerning the admission of new members. Managers can change the informational text and logo for an alliance. A director has access to a dedicated Director tab and can appoint managers, delegate responsibility, expel members or resign and nominate a successor.
 
 Management tasks can only be performed by managers or directors. They can customize the alliance by adding a company profile as well as a large and small logo. The small logo can have a size of up to 23 x 23 pixels and will be displayed on arrival and departure boards for all flights of the alliance's members.
 

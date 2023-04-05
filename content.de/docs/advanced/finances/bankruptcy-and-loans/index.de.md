@@ -66,15 +66,15 @@ Ihr könnt die Ratings eurer Airline auf der Übersichtsseite / dem Dashboard eu
 
 ### Auswirkung der Ratings
 
-Das Spiel bewertet jedes Unternehmen in Bezug auf seine Kreditwürdigkeit. Das daraus resultierende Rating wird veröffentlicht (d.h. für alle sichtbar) und nach jeder Transaktion, die sich auf die Kreditwürdigkeit auswirken kann, aktualisiert.
+Das Spiel bewertet jedes Unternehmen in Bezug auf seine Kreditwürdigkeit. Das daraus resultierende Rating wird veröffentlicht (d. h. für alle sichtbar) und nach jeder Transaktion, die sich auf die Kreditwürdigkeit auswirken kann, aktualisiert.
 
-Das Rating (d.h. eure Kreditwürdigkeit) beeinflusst drei wichtige Aspekte des Spiels.
+Das Rating (d. h. eure Kreditwürdigkeit) beeinflusst drei wichtige Aspekte des Spiels.
 
-* **Finanzierte Käufe von AirlineSim**: Wenn ihr ein Flugzeug von einem AS-Unternehmen leasen oder ein von der AS-Bank finanziertes Flugzeug kaufen möchtet, muss euer Rating mindestens B oder besser sein. Manchmal reicht auch ein Rating von BB nicht aus. Wenn ein Flugzeug von anderen Nutzer*innen geleast wird, spielt das Rating jedoch keine Rolle, sodass ihr auch mit einem CCC-Rating Flugzeuge leasen könnt.
+* **Finanzierte Käufe von AirlineSim**: Wenn ihr ein Flugzeug von einem AS-Unternehmen leasen oder ein von der AS-Bank finanziertes Flugzeug kaufen möchtet, muss euer Rating mindestens B oder besser sein. Manchmal reicht auch ein Rating von BB nicht aus. Wenn ein Flugzeug von anderen Spielenden geleast wird, spielt das Rating jedoch keine Rolle, sodass ihr auch mit einem CCC-Rating Flugzeuge leasen könnt.
 
 * **Zinsen und Darlehen**: Je niedriger euer Rating ist, desto niedriger ist die maximale Kreditsumme, die euch angeboten wird, und desto mehr weichen die Zinsen vom Leitzins ab. In den meisten Fällen bietet die AS-Bank keine neuen Kredite an, wenn das Rating CCC oder schlechter ist. Je nach Verschuldungsgrad werden euch oft nicht einmal mit einem B-Rating neue Kredite angeboten.
 
-* **Börsengänge (Initial Public Offerings)**: Ein Börsengang ist nicht möglich, wenn euer Rating BBB oder niedriger ist. Denkt jedoch daran, dass potenzielle Investor*innen einen Blick auf euer Rating werfen werden - ein IPO mit einem Mindestrating von A (oder nur etwas darüber) kann sie unter Umständen abschrecken. Daher gilt: Je besser euer Rating, desto besser der Eindruck.
+* **Börsengänge (Initial Public Offerings)**: Ein Börsengang ist nicht möglich, wenn euer Rating BBB oder niedriger ist. Denkt jedoch daran, dass potenzielle Investorinnen und Investoren einen Blick auf euer Rating werfen werden - ein IPO mit einem Mindestrating von A (oder nur etwas darüber) kann sie unter Umständen abschrecken. Daher gilt: Je besser euer Rating, desto besser der Eindruck.
 
 ### Bewertete Parameter
 
@@ -86,7 +86,7 @@ Ratings werden aus verschiedenen finanziellen Parametern des bewerteten Unterneh
 
 * **Anlagendeckung**: Dieser Parameter bezieht sich auf das Verhältnis zwischen euren Aktiva (wie euren Flugzeugen, dem Sperrkonto und den optionalen Gebäuden) und dem Nettoeigenkapital. Theoretisch gibt es drei verschiedene Verhältnisse, im Spiel findet aber nur das erste Anwendung und wird wie folgt berechnet: Anlagendeckung = Eigenkapital / Vermögen x 100.
 
-* **Eigenkapitalquote**: Diese Kennzahl gibt an, wie viel eigenes Geld (einschließlich des Geldes eurer Aktionär*innen) in eurem Unternehmen steckt. Darlehen werden als Fremdkapital betrachtet. Beispiel: Hat das Unternehmen laut Bilanz ein Gesamtvermögen von 100 Millionen AS$ und Darlehen von 35,5 Millionen AS$, beträgt die Eigenkapitalquote 64,5 %.
+* **Eigenkapitalquote**: Diese Kennzahl gibt an, wie viel eigenes Geld (einschließlich des Geldes eurer Aktionärinnen und Aktionäre) in eurem Unternehmen steckt. Darlehen werden als Fremdkapital betrachtet. Beispiel: Hat das Unternehmen laut Bilanz ein Gesamtvermögen von 100 Millionen AS$ und Darlehen von 35,5 Millionen AS$, beträgt die Eigenkapitalquote 64,5 %.
 
 * **Eigenkapitalrentabilität**: Dieser Wert gibt die Rendite des eingesetzten Kapitals in einem bestimmten Zeitraum an und beschreibt, wie viel Geld eine Airline aus dem verfügbaren Nettoeigenkapital gewinnt. Die Kennzahl wird wie folgt berechnet: Eigenkapitalrentabilität = Gewinn / Nettoeigenkapital x 100.
 

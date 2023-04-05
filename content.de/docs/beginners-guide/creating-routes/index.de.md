@@ -47,7 +47,7 @@ Wenn eure Flüge in Wellen ankommen und abfliegen, könnt ihr unzählige Anschlu
 
 ## Vergrößerung der Reichweite
 
-Bei der Gestaltung von Flugrouten kann es hilfreich sein, die Reichweite eurer Flugzeuge zu prüfen. Jedes Flugzeug kann bei voller Ladung eine bestimmte Strecke zurücklegen. Soll es weiter fliegen, muss es mehr Treibstoff mitnehmen, wodurch weniger Kapazität für Passagiere bleibt. Wenn ihr die Reichweite erhöhen wollt, rüstet das Flugzeug mit besseren Sitzen aus. Dadurch erhaltet ihr eine bessere Bewertung im Online Reservation System (ORS) und könnt trotzdem mit voller Ladung fliegen (d. h. mit weniger Passagieren zu einem höheren Ticketpreis).
+Bei der Gestaltung von Flugrouten kann es hilfreich sein, die Reichweite eurer Flugzeuge zu prüfen. Jedes Flugzeug kann bei voller Ladung eine bestimmte Strecke zurücklegen. Soll es weiter fliegen, muss es mehr Treibstoff mitnehmen, wodurch weniger Kapazität für Passagiere bleibt. Wenn ihr die Reichweite erhöhen wollt, rüstet das Flugzeug mit besseren Sitzen aus. Dadurch erhaltet ihr eine bessere Bewertung im [Online Reservation System (ORS)]({{< relref "docs/advanced/bookings/online-reservation-system/index.de.md" >}}) und könnt trotzdem mit voller Ladung fliegen (d. h. mit weniger Passagieren zu einem höheren Ticketpreis).
 
 ## Nutzung der geografischen Lage
 

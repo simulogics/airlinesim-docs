@@ -13,7 +13,7 @@ In der Realität ist dies eine ziemlich komplizierte Angelegenheit, aber in Airl
 
 Damit Passagiere zwischen Flügen von zwei verschiedenen Airlines umsteigen können, muss ein Interlining-Abkommen abgeschlossen werden. Diese Verträge umfassen derzeit das gesamte Streckennetz der beteiligten Fluggesellschaften, es gibt also keine Einschränkungen hinsichtlich bestimmter Flughäfen oder Strecken.
 
-Um ein Interlining-Angebot zu verschicken, könnt ihr entweder das Menü “Interlining” im Commercial-Tab oder den Button “Interlining-Antrag schicken” auf der Übersichtsseite eurer gewünschten Partner-Airline nutzen.
+Um ein Interlining-Angebot zu verschicken, könnt ihr entweder das Menü "Interlining" im Commercial-Tab oder den Button “Interlining-Antrag schicken” auf der Übersichtsseite eurer gewünschten Partner-Airline nutzen.
 
 ![Einrichtung von Interlining-Abkommen](interliningabkommen_01.PNG "Einrichtung von Interlining-Abkommen")
 

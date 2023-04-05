@@ -71,7 +71,7 @@ Auf der folgenden Seite könnt ihr dann angeben, ob eine weitere Holding oder ei
 
 {{<hint warning>}}
 **Wichtig**  
-Bitte beachtet: Nicht jede Spielwelt unterstützt das Erstellen mehrerer Holdings. Schaut euch im Zweifelsfall nochmal die Konfiguration der Welt an, z.B. auf unserem [Blog](https://www.airlinesim.aero/blog/de/). Sind mehrere Holdings erlaubt, denkt außerdem bitte daran, dass die Kooperation zwischen euren Holdings nicht zulässig ist.
+Bitte beachtet: Nicht jede Spielwelt unterstützt das Erstellen mehrerer Holdings. Schaut euch im Zweifelsfall nochmal die Konfiguration der Welt an, z.B. hier oder auf unserem [Blog](https://www.airlinesim.aero/blog/de/). Sind mehrere Holdings erlaubt, denkt außerdem bitte daran, dass die Kooperation zwischen euren Holdings nicht zulässig ist.
 {{< /hint >}}
 
 Wenn ihr eine Tochtergesellschaft gründet, müsst ihr entscheiden, wie viel Startkapital sie von der Holding erhalten soll - der Mindestbetrag liegt bei 3 Millionen AS$. Überlegt euch gut, wie viel ihr investieren möchtet, denn ihr werdet nach der Gründung keine Möglichkeit mehr haben, Geld von der Holding an das Tochterunternehmen zu transferieren (und umgekehrt), mit der Ausnahme von Dividenden, die nach einem Börsengang an eure Holding und externe Investoren gezahlt werden.

@@ -99,7 +99,7 @@ Sind Anti-Cheating-Beschränkungen deaktiviert, können Spielende mit ihren eige
 
 Auf exklusiven Spielwelten findet keine Durchsetzung der Spielregeln durch das AirlineSim-Team statt - auch Firmennamen oder der Börsenhandel werden nicht überprüft. Server-Admins können jedoch selbst die Einhaltung der Regeln kontrollieren, sofern sie das möchten.
 
-Da exklusive Spielwelten technisch gesehen mit den öffentlichen identisch sind, können hartkodierte Beschränkungen (z.B. in Bezug auf Flugzeuge, Börsenhandel oder die Anzahl der Holdings) nicht aufgehoben werden.
+Da exklusive Spielwelten technisch gesehen mit den öffentlichen identisch sind, können hartkodierte Beschränkungen (z. B. in Bezug auf Flugzeuge, Börsenhandel oder die Anzahl der Holdings) nicht aufgehoben werden.
 
 ### Wie viel kostet ein privater Server?
 

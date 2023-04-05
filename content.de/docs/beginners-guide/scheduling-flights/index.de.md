@@ -65,7 +65,7 @@ Um euren ersten Flug zu erstellen, klickt zunächst auf das Menü “Flottenverw
 
 Jedes Flugzeug ist mit drei Symbolen aufgelistet: Das kleine Buch auf der linken Seite zeigt die Vertragsdetails der Maschine an (beispielsweise den zugehörigen Leasingvertrag), das zweite Symbol führt euch zur Flugplanung und das dritte Symbol zeigt die aktuellen Flüge des Flugzeugs an.
 
-![Flugplanung](Flotte_04.png "Flugplanung")
+![Flugplanung](flotte_04.png "Flugplanung")
 
 Über das Symbol für die Flugplanung gelangt ihr zu eurem leeren Flugplan. Hier könnt ihr die erste Flugnummer anlegen.
 

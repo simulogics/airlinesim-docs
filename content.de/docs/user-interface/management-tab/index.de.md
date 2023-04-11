@@ -72,7 +72,7 @@ Hier findet ihr eine Auflistung eurer Kauf- und Verkauforders für Aktien sowie 
 
 ### Unternehmensfinanzierung
 
-In diesem Menü erhaltet ihr Informationen zum Eigenkapital sowie den Schulden eures Unternehmens. Auf der Registerkarte “Eigenkapital” findet ihr Details zu Anteilseigner*innen und Börsengängen (falls die Spielwelt IPOs erlaubt), während die Seite “Fremdkapital” eure bestehenden Kreditverträge sowie Informationen zur Aufnahme neuer Kredite anzeigt.
+In diesem Menü erhaltet ihr Informationen zum Eigenkapital sowie den Schulden eures Unternehmens. Auf der Registerkarte “Eigenkapital” findet ihr Details zu Anteilseignerinnen bzw. Anteilseignern und Börsengängen (falls die Spielwelt [IPOs]({{< relref "docs/advanced/finances/initial-public-offerings/index.de.md" >}}) erlaubt), während die Seite “Fremdkapital” eure bestehenden Kreditverträge sowie Informationen zur Aufnahme neuer Kredite anzeigt.
 
 ![Eigen- und Fremdkapital](fremdkapital_01.PNG "Eigen- und Fremdkapital")
 

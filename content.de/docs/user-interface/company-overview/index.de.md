@@ -42,7 +42,7 @@ In diesem Abschnitt geht es um das aktuelle Image eurer Firma in Bezug auf die d
 
 ### Tochterunternehmen
 
-Hier findet ihr eine Liste aller Tochtergesellschaften, die ihr als Hauptaktionär*in kontrolliert. Weitere Details zu den Aktien könnt ihr auch auf der Seite “Töchter & Portfolio” im Management-Tab einsehen.
+Hier findet ihr eine Liste aller Tochtergesellschaften, die ihr als Hauptaktionärin bzw. Hauptaktionär kontrolliert. Weitere Details zu den Aktien könnt ihr auch auf der Seite “Töchter & Portfolio” im Management-Tab einsehen.
 
 ## Allgemeine Einstellungen
 

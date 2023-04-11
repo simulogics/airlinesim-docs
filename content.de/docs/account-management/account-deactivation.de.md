@@ -8,7 +8,7 @@ weight: 2
 Wenn ihr euer Konto schließen möchtet, sendet uns bitte ein [Support-Ticket](https://www.airlinesim.aero/blog/de/pages/support/) per E-Mail, damit wir das Konto für euch deaktivieren können.
 
 {{< hint danger >}}
-**Wichtig**  
+**Warnung**  
 Eine Kontodeaktivierung betrifft sowohl euer AirlineSim- als auch euer Prosperous Universe-Profil.
 {{< /hint >}}
 

@@ -30,7 +30,7 @@ In diesem Abschnitt könnt ihr Notizen zu eurem Unternehmen machen. Die Notizen 
 
 ### Aktie
 
-Hat euer Unternehmen ein Initial Public Offering (IPO) durchgeführt, zeigt das Aktien-Widget Informationen wie den Aktienkurs und einen Überblick der Aktionär*innen an. Wenn ihr auf “Informationen zum Börsengang” klickt, gelangt ihr auf eine Seite mit weiteren Details (die auch über das Menü “Unternehmensfinanzierung” im Management-Tab aufgerufen werden kann).
+Hat euer Unternehmen ein [Initial Public Offering (IPO)]({{< relref "docs/advanced/finances/initial-public-offerings/index.de.md" >}}) durchgeführt, zeigt das Aktien-Widget Informationen wie den Aktienkurs und einen Überblick der Aktionär*innen an. Wenn ihr auf “Informationen zum Börsengang” klickt, gelangt ihr auf eine Seite mit weiteren Details (die auch über das Menü “Unternehmensfinanzierung” im Management-Tab aufgerufen werden kann).
 
 ### Finanzrating
 

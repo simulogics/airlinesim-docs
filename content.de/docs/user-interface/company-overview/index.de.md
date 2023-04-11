@@ -13,7 +13,7 @@ Das Dashboard ist in sieben Abschnitte (auch Widgets genannt) unterteilt - Unter
 
 ### Unternehmen
 
-Das Widget “Unternehmen” zeigt das Logo (falls ihr eins hochgeladen habt) sowie die wichtigsten Informationen zu eurer Firma an (Name, Code, Hauptsitz, Land, Airline-Rating, Flottengröße und Anzahl der Angestellten). Mit einem Klick auf “Infoseite” gelangt ihr zur Unternehmensseite der Firma.
+Das Widget “Unternehmen” zeigt das Logo (falls ihr eins hochgeladen habt) sowie die wichtigsten Informationen zu eurer Firma an (Name, Code, Hauptsitz, Land, Airline-Rating, Flottengröße und Anzahl der Angestellten). Mit einem Klick auf “Infoseite” gelangt ihr zur [Unternehmensseite der Firma](#Unternehmen).
 
 ### Anstehende Termine
 

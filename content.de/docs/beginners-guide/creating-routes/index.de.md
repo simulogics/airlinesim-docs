@@ -51,7 +51,7 @@ Bei der Gestaltung von Flugrouten kann es hilfreich sein, die Reichweite eurer F
 
 ## Nutzung der geografischen Lage
 
-Zu guter Letzt solltet ihr darüber nachdenken, wie eure geografische Lage die Routenwahl beeinflusst. Sie kann ein einschränkender Faktor sein, euch aber auch Vorteile verschaffen: Seid ihr zum Beispiel im Mittleren Osten ansässig, können eure Routen Europa und Asien verbinden. Eine Fluggesellschaft in Mexiko kann mit mittelgroßen Jets wie der 737 die meisten Teile der USA und halb Südamerika erreichen. In Afrika gibt es nicht so viele große Flughäfen, aber mehrere afrikanische Länder haben das Yamoussoukro-Abkommen unterzeichnet, das Via-Flüge interessant macht (siehe see [Verkehrsrechte]({{< relref "docs/advanced/setup/traffic-rights/index.de.md" >}})).
+Zu guter Letzt solltet ihr darüber nachdenken, wie eure geografische Lage die Routenwahl beeinflusst. Sie kann ein einschränkender Faktor sein, euch aber auch Vorteile verschaffen: Seid ihr zum Beispiel im Mittleren Osten ansässig, können eure Routen Europa und Asien verbinden. Eine Fluggesellschaft in Mexiko kann mit mittelgroßen Jets wie der 737 die meisten Teile der USA und halb Südamerika erreichen. In Afrika gibt es nicht so viele große Flughäfen, aber mehrere afrikanische Länder haben das Yamoussoukro-Abkommen unterzeichnet, das Via-Flüge interessant macht (siehe [Verkehrsrechte]({{< relref "docs/advanced/setup/traffic-rights/index.de.md" >}})).
 
 ## Stationen eröffnen
 

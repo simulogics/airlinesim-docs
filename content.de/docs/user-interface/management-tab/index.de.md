@@ -86,7 +86,7 @@ In der Gewinn- und Verlustrechnung werden alle Einnahmen und Ausgaben eures Unte
 
 * **EBIT**: Ergebnis vor Zinsen und Steuern (Englisch: Earnings before interest and taxes). Es wird auch als “Operatives Ergebnis” bezeichnet, da es auch den Wertverlust der für den Firmenbetrieb erforderlichen Anlagen (wie Gebäude und Flugzeuge) berücksichtigt und euch eine Vorstellung davon vermittelt, wie erfolgreich das Unternehmen nach Abzug aller operativen Kosten ist.
 
-* **EBT**: Zu guter Letzt gibt es noch den Gewinn vor Steuern (Englisch: Earnings before taxes). Da es in AirlineSim (noch) keine Steuern gibt, kann dies als Endergebnis angesehen werden. Es unterscheidet sich vom EBIT dadurch, dass es auch die Kapitalkosten (z.B. Zinsen) oder Erträge aus Anlagengeschäften (z.B. Aktienhandel) hinzurechnet oder abzieht. Daher wird sie auch als Ergebnis der gewöhnlichen Geschäftstätigkeit bezeichnet.
+* **EBT**: Zu guter Letzt gibt es noch den Gewinn vor Steuern (Englisch: Earnings before taxes). Da es in AirlineSim (noch) keine Steuern gibt, kann dies als Endergebnis angesehen werden. Es unterscheidet sich vom EBIT dadurch, dass es auch die Kapitalkosten (z. B. Zinsen) oder Erträge aus Anlagengeschäften (z. B. Aktienhandel) hinzurechnet oder abzieht. Daher wird der Wert auch als Ergebnis der gewöhnlichen Geschäftstätigkeit bezeichnet.
 
 Die Bilanz beinhaltet zwei Tabellen: Oben findet ihr die Gewinn- und Verlustrechnung, die aus einem Aufwands- und einem Ertragsteil besteht. Beide zeigen die jeweiligen Konten (z. B. Gebühren für Flugzeughandling oder Leasingerlöse) und die dazugehörigen Bilanzwerte. Darunter seht ihr die Aktiva (z. B. Gebäude oder Flugzeuge) und Passiva (z. B. Eigenkapital oder Darlehen) eures Unternehmens.
 

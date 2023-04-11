@@ -9,7 +9,7 @@ Wenn ihr den Mauszeiger über den Namen eures Unternehmens oben links auf dem Bi
 
 ## Übersicht
 
-Das Dashboard ist in sieben Abschnitte (auch Widgets genannt) unterteilt - Unternehmen, anstehende Termine, Notizblock, Aktien, Finanzrating, Image und Tochterunternehmen - und ist daher praktisch, wenn ihr schnell Informationen über eure Firma abrufen wollt.
+Das Dashboard ist in sieben Abschnitte (auch Widgets genannt) unterteilt - Unternehmen, anstehende Termine, Notizblock, Aktien, Finanzrating, Image und Tochterunternehmen - und ist daher praktisch, wenn ihr schnell Informationen zu eurer Firma abrufen wollt.
 
 ### Unternehmen
 

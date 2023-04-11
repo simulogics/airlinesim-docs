@@ -17,7 +17,7 @@ Auf dieser Seite werden euer täglicher Credit-Verbrauch sowie der aktuelle Kont
 
 ### Einstellungen/Spielwelten
 
-Über diesen Menüpunkt gelangt ihr zurück zum Dashboard der Accountverwaltung, das euch auch angezeigt wird, wenn ihr euch über die AirlineSim-Website einloggt. Hier könnt ihr die verfügbaren Spielwelten sehen, Credits kaufen und Accounteinstellungen wie E-Mail-Adresse, Passwort und Benachrichtigungen anpassen.
+Über diesen Menüpunkt gelangt ihr zurück zum Dashboard der Accountverwaltung, das euch auch angezeigt wird, wenn ihr euch über die [AirlineSim-Website](https://www.airlinesim.aero/de/) einloggt. Hier könnt ihr die verfügbaren Spielwelten sehen, Credits kaufen und Accounteinstellungen wie E-Mail-Adresse, Passwort und Benachrichtigungen anpassen.
 
 ## Spielwelt
 

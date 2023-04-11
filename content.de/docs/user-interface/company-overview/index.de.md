@@ -26,7 +26,7 @@ Diese Ereignisse gehören nicht zu den direkten Kosten eines Fluges. Um die List
 
 ### Notizblock
 
-In diesem Abschnitt könnt ihr Notizen zu eurem Unternehmen machen. Die Notizen sind sichtbar, solange ihr bei AirlineSim angemeldet seid. Um eine Notiz hinzuzufügen oder zu bearbeiten, reicht ein Doppelklick. Die Notiz wird nur euch angezeigt - andere Spielende können sie nicht sehen.
+In diesem Abschnitt könnt ihr Notizen zu eurem Unternehmen machen. Die Notizen sind sichtbar, solange ihr bei AirlineSim angemeldet seid. Um eine Notiz hinzuzufügen oder zu bearbeiten, reicht ein Doppelklick. Die Notiz wird nur euch angezeigt - andere Spielerinnen und Spieler können sie nicht sehen.
 
 ### Aktie
 

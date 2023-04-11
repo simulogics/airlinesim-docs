@@ -52,7 +52,7 @@ Wenn ihr direkt unter dem Menüpunkt “Übersicht” auf “Einstellungen” kl
 
 ### Infotext
 
-Dies ist der Text, den andere Benutzer*innen sehen, wenn sie die Übersichtsseite eurer Firma aufrufen. Meist finden sich hier Informationen in Bezug auf Interlining oder zu bestimmten Meilensteinen des Unternehmens.
+Dies ist der Text, den andere sehen, wenn sie die Übersichtsseite eurer Firma aufrufen. Meist finden sich hier Informationen in Bezug auf Interlining oder zu bestimmten Meilensteinen des Unternehmens.
 
 ### Unternehmenslogo
 

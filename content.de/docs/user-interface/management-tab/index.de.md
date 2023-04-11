@@ -31,7 +31,7 @@ Mit Hilfe dieses Menüs könnt ihr euer angestelltes Personal überprüfen und v
 
 ![Personalverwaltung](personalverwaltung_01.PNG "Personalverwaltung")
 
-Mit Ausnahme der Piloten werden alle Crew-Mitglieder bei Bedarf automatisch eingestellt. Ihr könnt jedoch ihre Gehälter ändern, indem ihr den gewünschten Betrag in das Textfeld der Spalte “Nächstes Gehalt” eingebt. Seid jedoch vorsichtig: Die Gehälter, die ihr zahlt, wirken sich auf die Freundlichkeit und Kundenorientierung eurer Angestellten und letztlich auch auf das Image eures Unternehmens aus.
+Mit Ausnahme der Pilotinnen und Piloten werden alle Crew-Mitglieder bei Bedarf automatisch eingestellt. Ihr könnt jedoch ihre Gehälter ändern, indem ihr den gewünschten Betrag in das Textfeld der Spalte “Nächstes Gehalt” eingebt. Seid jedoch vorsichtig: Die Gehälter, die ihr zahlt, wirken sich auf die Freundlichkeit und Kundenorientierung eurer Angestellten und letztlich auch auf das Image eures Unternehmens aus.
 
 Möchtet ihr Personal entlassen, gebt die Anzahl der Angestellten in die Spalte “Personal entlassen” ein.
 
@@ -42,13 +42,13 @@ Wenn ihr Arbeitsverträge kündigt, müsst ihr eine Abfindung in Höhe von mehre
 
 ### Crew Management
 
-Auf dieser Seite könnt ihr eure Piloten verwalten. Im linken Abschnitt seht ihr eine Liste der derzeit beschäftigten und benötigten Piloten für jede Flugzeugkategorie (Regioprops, Regiojets, Narrow- und Widebodies). Die grüne Zahl zeigt die Anzahl der Reservepiloten an, der rote Wert gibt an, wie viele Piloten ihr noch benötigt. Bestellte und noch nicht ausgelieferte Flugzeuge sind in dieser Liste nicht enthalten.
+Auf dieser Seite könnt ihr eure Pilotinnen und Piloten verwalten. Im linken Abschnitt seht ihr eine Liste der derzeit beschäftigten und benötigten Pilotinnen und Piloten für jede Flugzeugkategorie (Regioprops, Regiojets, Narrow- und Widebodies). Die grüne Zahl zeigt die Anzahl der Reservepilotinnen und -piloten, der rote Wert gibt an, wie viele Pilotinnen und Piloten ihr noch benötigt. Bestellte und noch nicht ausgelieferte Flugzeuge sind in dieser Liste nicht enthalten.
 
 ![Piloten und ihre Typeratings](crewverwaltung_01.PNG "Piloten und ihre Typeratings")
 
-Die Flugzeugkategorien zeigen euch, welchen Flugzeugtyp ein Pilot bedienen darf. Wenn ihr den richtigen Piloten für ein bestimmtes Modell finden möchtet, verwendet das Menü auf der rechten Seite. Hier könnt ihr arbeitslose Piloten einstellen oder neue Piloten ausbilden. Denkt daran, dass die Ausbildung eines Piloten das 5- bis 8-fache eines Wochengehalts kostet (je nach Flugzeugkategorie).
+Die Flugzeugkategorien zeigen euch, welchen Flugzeugtyp eine Pilotin bzw. ein Pilot bedienen darf. Wenn ihr die richtige Pilotin bzw. den richtigen Piloten für ein bestimmtes Modell finden möchtet, verwendet das Menü auf der rechten Seite. Hier könnt ihr arbeitslose Pilotinnen und Piloten einstellen oder neue ausbilden. Denkt daran, dass die Ausbildung das 5- bis 8-fache eines Wochengehalts kostet (je nach Flugzeugkategorie).
 
-Wenn ihir über arbeitslose Piloten verfügt, könnt ihr diese über das Menü unten rechts auf einen anderen Flugzeugtyp umschulen. Die Kosten für die Umschulung sind wesentlich geringer als die Ausbildung neuer Piloten, da das vorhandene Personal in der Regel über eine gewisse Flugerfahrung verfügt.
+Wenn ihr über arbeitslose Pilotinnen und Piloten verfügt, könnt ihr diese über das Menü unten rechts auf einen anderen Flugzeugtyp umschulen. Die Kosten für die Umschulung sind wesentlich geringer als die Ausbildung neuer Pilotinnen und Piloten, da das vorhandene Personal in der Regel über eine gewisse Flugerfahrung verfügt.
 
 ## Investments
 
@@ -58,7 +58,7 @@ Die Seite Märkte & Börsen zeigt die Entwicklung des AirlineSim Global Economic
 
 ![AGEX-Trend](maerkte_boersen_01.PNG "AGEX-Trend")
 
-Außerdem findet ihr hier eine Liste der verschiedenen Börsen und Indizes. Beachtet bitte, dass der Inhalt dieser Seite variieren kann, je nachdem, ob eure Spielwelt Börsengänge (IPOs) unterstützt oder nicht.
+Außerdem findet ihr hier eine Liste der verschiedenen Börsen und Indizes. Beachtet bitte, dass der Inhalt dieser Seite variieren kann, je nachdem, ob eure Spielwelt [Börsengänge (IPOs)]({{< relref "docs/advanced/finances/initial-public-offerings/index.de.md" >}}) unterstützt oder nicht.
 
 ### Töchter & Portfolio
 

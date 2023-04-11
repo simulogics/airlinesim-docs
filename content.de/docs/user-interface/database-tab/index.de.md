@@ -39,7 +39,7 @@ Auf dieser Seite findet ihr eine Auswahl an statistischen Informationen über di
 
 ![Verbindungssuche](online_reservation_system_01.PNG "Verbindungssuche")
 
-Das [Online Reservation System (ORS)]({{< relref "docs/advanced/bookings/online-reservation-system/index.md" >}}), eine der Kernfunktionen des Spiels, generiert täglich eine Vielzahl von Verbindungen und verteilt die Passagiere auf die vorhandenen Flüge.
+Das [Online Reservation System (ORS)]({{< relref "docs/advanced/bookings/online-reservation-system/index.de.md" >}}), eine der Kernfunktionen des Spiels, generiert täglich eine Vielzahl von Verbindungen und verteilt die Passagiere auf die vorhandenen Flüge.
 
 Über das Menü könnt ihr nach verfügbaren Verbindungen suchen. Gebt hierfür einfach einen Abflug- und Zielort, die früheste Abflug- bzw. späteste Ankunftszeit sowie die Art des Payloads (Economy, Business, First oder Fracht) ein.
 

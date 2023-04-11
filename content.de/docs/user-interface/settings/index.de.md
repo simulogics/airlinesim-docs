@@ -15,7 +15,7 @@ Dieser Abschnitt enthält Angaben wie den Usernamen, den Status (Testphase / Pre
 
 Auf dieser Seite werden euer täglicher Credit-Verbrauch sowie der aktuelle Kontostand angezeigt. Auf der rechten Seite seht ihr außerdem eine Liste eurer aktiven Holdings.
 
-### Einstellungen/Spielwelten
+### Einstellungen / Spielwelten
 
 Über diesen Menüpunkt gelangt ihr zurück zum Dashboard der Accountverwaltung, das euch auch angezeigt wird, wenn ihr euch über die [AirlineSim-Website](https://www.airlinesim.aero/de/) einloggt. Hier könnt ihr die verfügbaren Spielwelten sehen, Credits kaufen und Accounteinstellungen wie E-Mail-Adresse, Passwort und Benachrichtigungen anpassen.
 

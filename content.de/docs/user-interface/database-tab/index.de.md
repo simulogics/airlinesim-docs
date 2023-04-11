@@ -33,7 +33,7 @@ In diesem Menü erhaltet ihr eine Übersicht der auf eurer Spielwelt vorhandenen
 
 ![Statistische Informationen](statistiken_01.PNG "Statistische Informationen")
 
-Auf dieser Seite findet ihr eine Auswahl an statistischen Informationen über die Spielwelt. Zu den allgemeinen Statistiken gehören Werte wie die Anzahl der Unternehmen oder der Flüge pro Woche. Im Menü “Wöchentliche Kapazitäten” erhaltet ihr eine Auflistung der transportierten Passagier- und Frachtmengen. Der Bereicht “Detailstatistiken” enthält Links zu verschiedenen Ranglisten.
+Auf dieser Seite findet ihr eine Auswahl an statistischen Informationen über die Spielwelt. Zu den allgemeinen Statistiken gehören Werte wie die Anzahl der Unternehmen oder der Flüge pro Woche. Im Menü “Wöchentliche Kapazitäten” erhaltet ihr eine Auflistung der transportierten Passagier- und Frachtmengen. Der Bereich “Detailstatistiken” enthält Links zu verschiedenen Ranglisten.
 
 ### Online Reservation System
 

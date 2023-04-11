@@ -100,7 +100,7 @@ Auf dieser Seite findet ihr eine Übersicht über den Finanzplan eures Unternehm
 * Zahlungen für private Handlingservices,
 * Darlehenszahlungen,
 * Personalgehälter (Wochenabschluss)
-* und Dividenden (im Falle eines erfolgreichen Börsengangs).
+* und Dividenden (im Falle eines erfolgreichen [Börsengangs]({{< relref "docs/advanced/finances/initial-public-offerings/index.de.md" >}})).
 
 Die Liste enthält auch das nächste Datum und die nächste Uhrzeit für eine Zahlung. Wird sie in der nächsten Periode fortgesetzt, wird nur die erste Zahlung angezeigt. Einnahmen und Ausgaben im Zusammenhang mit Flügen und Wartungsarbeiten werden hier nicht aufgeführt, da sie nach Erbringung der Leistungen gezahlt werden und nicht mit einem festen Betrag oder einer festen Uhrzeit verbunden sind.
 

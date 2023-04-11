@@ -29,7 +29,7 @@ Das Tool Routen-Evaluierung liefert Informationen zu einer von euch gewählten S
 
 ### Marktanalyse
 
-Diese Seite bietet einen Überblick über die aktuelle Marktsituation für das ausgewählte Flughafenpaar und zeigt euch aktuell buchbare Flüge, Sitzplatzkapazitäten, Preisentwicklungen sowie die Marktanteile der konkurrierenden Fluggesellschaften an.
+Diese Seite bietet euch einen Überblick zur aktuellen Marktsituation für das ausgewählte Flughafenpaar und zeigt euch aktuell buchbare Flüge, Sitzplatzkapazitäten, Preisentwicklungen sowie die Marktanteile der konkurrierenden Fluggesellschaften.
 
 Der Bereich “Marktanteile” stellt den Marktanteil an Passagier- und Frachtverkehr dar, den ihr und die anderen Airlines kontrolliert. Oberhalb des Diagramms könnt ihr zwischen den Daten verschiedener Kalenderwochen umschalten.
 

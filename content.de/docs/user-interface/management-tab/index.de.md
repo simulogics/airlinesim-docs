@@ -21,7 +21,7 @@ Wählt ihr eine der Varianten aus, öffnet sich das Datenblatt des Flugzeugs, da
 
 Wenn ihr auf der Suche nach gebrauchten Flugzeugen seid (oder vielleicht selbst eins verkaufen möchtet), ist der Flugzeugmarkt die richtige Adresse. Die verfügbaren Flugzeuge können hier nach Finanzierungsart (Barzahlung, Kredit oder Leasing), Angebotstyp (Auktion oder Sofortkauf) sowie nach Flugzeugfamilie und -typ gefiltert werden.
 
-Jedes Angebot enthält wichtige Informationen wie die Besitzer*innen des Flugzeugs, Alter und Zustand des Modells sowie die verfügbaren Zahlungsoptionen. Einen Überblick zu euren platzierten Geboten bzw. Inseraten findet ihr auf den Registerkarten “Ihre Gebote” und “Ihre Angebote”.
+Jedes Angebot enthält wichtige Informationen wie die Besitzerinnen bzw. Besitzern des Flugzeugs, Alter und Zustand des Modells sowie die verfügbaren Zahlungsoptionen. Einen Überblick zu euren platzierten Geboten bzw. Inseraten findet ihr auf den Registerkarten “Ihre Gebote” und “Ihre Angebote”.
 
 ## Human Resources
 

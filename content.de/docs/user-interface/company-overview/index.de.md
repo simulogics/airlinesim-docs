@@ -82,7 +82,7 @@ Hier könnt ihr wählen, ob die Zeiten in AirlineSim als Hubzeit, Lokalzeit oder
 * Anlegen einer Standard-Sitzplatzkonfiguration, wenn kein Default festgelegt wurde
 * und die Zuweisung von Besatzungsmitgliedern zu neuen Flugzeugen.
 
-Da sich diese Einstellungen auf das Spielgeschehen auswirken, empfiehlt es sich, sie nach eigenem Ermessen anzupassen.
+Da sich diese Einstellungen auf das Spielgeschehen auswirken, empfiehlt es sich, sie euren Vorlieben entsprechend anzupassen.
 
 ### Flugplanung und Routenverwaltung
 

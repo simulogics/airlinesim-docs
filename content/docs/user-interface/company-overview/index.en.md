@@ -113,7 +113,7 @@ Keep in mind that a reset is only possible for holdings (i.e. enterprises which 
 
 ## Enterprise        
 
-The Enterprise page provides information regarding a specific company.
+The Enterprise page provides information regarding a specific company. You can access it by using the Info page link on your company's dashboard or by entering the company name into the search bar.
 
 ![Company Info Page](overview_01.png "Company Info Page")
 

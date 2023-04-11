@@ -105,8 +105,8 @@ Im Abschnitt zur Benutzeroberfläche könnt ihr die visuelle Darstellung des Spi
 Unterhalb der Einstellungen habt ihr die Möglichkeit, ein neues Unternehmen zu gründen oder ein bestehendes zu liquidieren.
 
 {{< hint danger >}}
-**Wichtig**
-Achtung: Wenn ihr euch für eine Liquidation entscheidet, werden alle Daten des Unternehmens unwiderruflich gelöscht. Alle Assets werden verkauft, Gebäude werden abgerissen, bestehende Minderheitsbeteiligungen gehen an AirlineSim und Mehrheitsbeteiligungen führen zur Löschung des Tochterunternehmens. Aktionärinnen und Aktionäre erhalten die verbleibenden Werte geteilt durch ihren Anteil.
+**Warnung**
+Wenn ihr euch für eine Liquidation entscheidet, werden alle Daten des Unternehmens unwiderruflich gelöscht. Alle Assets werden verkauft, Gebäude werden abgerissen, bestehende Minderheitsbeteiligungen gehen an AirlineSim und Mehrheitsbeteiligungen führen zur Löschung des Tochterunternehmens. Aktionärinnen und Aktionäre erhalten die verbleibenden Werte geteilt durch ihren Anteil.
 {{< /hint >}}
 
 Bitte beachtet, dass ein Reset nur für Holdings (d. h. Unternehmen, die direkt zu eurem Konto gehören) möglich ist.

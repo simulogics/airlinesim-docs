@@ -22,4 +22,4 @@ Since the ASTD is a prototype, many of the game's current features will not be a
 
 The overall project is made possible in part by the game development funding program of the Federal Ministry of Transport and Digital Infrastructure and is planned to run until mid 2023.
 
-You can find out more about the project's details in our [ASTD FAQ](https://www.airlinesim.aero/en/technology-demonstrator).
+You can find out more about the project's details in the [ASTD FAQ](https://www.airlinesim.aero/en/technology-demonstrator).

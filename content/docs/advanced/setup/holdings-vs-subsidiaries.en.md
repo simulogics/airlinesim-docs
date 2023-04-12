@@ -5,7 +5,7 @@ weight: 1
 
 # Holdings vs. Subsidiaries
 
-When you start out with a new company, you create a holding in the country of your choice and receive a capital of 10 million AS$. Using that, you can acquire planes and become an operational enterprise. However, you can also use your funds (or parts of them) to create a subsidiary. In that case, your subsidiary can lease or buy planes and operate your airline. So what's the difference?
+When you start out with a new company, you create a holding in the country of your choice and receive a capital of 10 million AS$ (please note that the amount of starting capital can vary depending on the game world). Using that, you can acquire planes and become an operational enterprise. However, you can also use your funds (or parts of them) to create a subsidiary. In that case, your subsidiary can lease or buy planes and operate your airline. So what's the difference?
 
 Your holding is the parent investment firm for all of your business ventures and limits your transportation rights (depending on the country where it was founded). It will always remain your property, so you can't sell it or sell shares.
 

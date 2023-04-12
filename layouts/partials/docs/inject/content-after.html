@@ -4,7 +4,7 @@
         <a href="{{ .Permalink }}"
            style="display: flex; flex-direction: column; cursor: pointer; border: 1px solid gray; border-radius: 5px; flex-grow: 1; padding: 1rem; margin-right: 0.25rem;"
            onmouseover="this.style.border='1px solid blue'" onmouseleave="this.style.border='1px solid gray'">
-            <span style="font-size: 0.875rem; color: dimgray; margin-bottom: 0.25rem">Previous</span>
+            <span style="font-size: 0.875rem; color: dimgray; margin-bottom: 0.25rem">{{ i18n "previous" }}</span>
             « {{ .Title }}
         </a>
     </div>
@@ -15,7 +15,7 @@
         <a href="{{ .Permalink }}"
            style="display: flex; flex-direction: column; cursor: pointer; border: 1px solid gray; border-radius: 5px; flex-grow: 1; padding: 1rem"
            onmouseover="this.style.border='1px solid blue'" onmouseleave="this.style.border='1px solid gray'">
-            <span style="font-size: 0.875rem; color: dimgray; margin-bottom: 0.25rem">Next</span>
+            <span style="font-size: 0.875rem; color: dimgray; margin-bottom: 0.25rem">{{ i18n "next" }}</span>
             {{ .Title }} »
         </a>
     </div>

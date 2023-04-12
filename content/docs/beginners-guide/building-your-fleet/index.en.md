@@ -110,7 +110,7 @@ If you want to order new aircraft, just enter the desired amount and hit Request
 
 * Making a **loan purchase** by financing the aircraft fully or in part through a credit. The loan and the interest must be paid back according to the game's standard conditions. This payment method depends on your credit rating as well. All available plans will be automatically offered.
 
-As you've just founded your first holding, you are equipped with a starting capital of 10 million AS$ that allows you to have aircraft delivered instantly if you lease them. Once you exceed this budget, you will have to wait some time as the aircraft will be delivered one after another. Production times can vary and are displayed on the aircraft fact sheet.
+As you've just founded your first holding, you are usually equipped with a starting capital of 10 million AS$ that allows you to have aircraft delivered instantly if you lease them. Once you exceed this budget, you will have to wait some time as the aircraft will be delivered one after another. Production times can vary and are displayed on the aircraft fact sheet.
 
 ### Ordering Used Aircraft
 

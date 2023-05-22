@@ -33,7 +33,7 @@ Die folgende Liste zeigt alle derzeit verfügbaren Kurzzeit- und Langzeit-Spielw
 
 | Spielwelt | Start | Ende | Erste Holding | Zusätzliche Holding | Standard-Preisformel | Turnarounds | ORS-Version | Bemerkungen |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Bleriot IV | Sept. 2022 | 22. Mai 2023 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, Standard-Slots |
+| Bleriot V | Mai 2023 | 22. Jan. 2024 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, doppelte Slots |
 | Domination V | März 2023 | 20. Nov. 2023 | 4 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Alle Länder investitionsoffen, doppeltes Startkapital, Standard-Slots |
 | Otto X | Apr. 2022 | 18. Dez. 2023 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, doppelte Slots |
 | Yeager VII | Dez. 2022 | 21. Aug. 2023 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, Standard-Slots |

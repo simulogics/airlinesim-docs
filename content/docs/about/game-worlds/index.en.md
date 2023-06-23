@@ -44,6 +44,7 @@ Here is a list of all currently available short-term and long-term game worlds a
 
 | Game World | Opened | Ends | First Holding | Additional Holding | Standard pricing formula | Turnarounds | ORS Version | Remarks |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Yeouido | Jun 2023 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 2 | only current aircraft, standard slots |
 | Limatambo | Dec 2020 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 2 | only current aircraft, standard slots |
 | Xiguan | Dec 2018 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 1 | only current aircraft, standard slots |
 | Hoover | Dec 2017 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 1 | only current aircraft, standard slots |

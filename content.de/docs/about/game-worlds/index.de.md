@@ -45,6 +45,7 @@ Die folgende Liste zeigt alle derzeit verfügbaren Kurzzeit- und Langzeit-Spielw
 
 | Spielwelt | Start | Ende | Erste Holding | Zusätzliche Holding | Standard-Preisformel | Turnarounds | ORS-Version | Bemerkungen |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Yeouido | Jun. 2023 | -- | 6 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, Standard-Slots |
 | Limatambo | Dez. 2020 | -- | 6 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, Standard-Slots |
 | Xiguan | Dez. 2018 | -- | 6 Credits | -- | Ver. 3 | dynamisch | Ver. 1 | Nur aktuelle Flugzeugtypen, Standard-Slots |
 | Hoover | Dez. 2017 | -- | 6 Credits | -- | Ver. 3 | dynamisch | Ver. 1 | Nur aktuelle Flugzeugtypen, Standard-Slots |

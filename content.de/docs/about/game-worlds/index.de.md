@@ -40,7 +40,6 @@ Die folgende Liste zeigt alle derzeit verfügbaren Kurzzeit- und Langzeit-Spielw
 | Junkers IV | Jan. 2023 | 27. Sept. 2023 | 4 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, Standard-Slots |
 | Quimby XIV | Juli 2023 | 31. März 2024 | 4 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, Standard-Slots |
 
-
 ### Langzeit-Spielwelten
 
 | Spielwelt | Start | Ende | Erste Holding | Zusätzliche Holding | Standard-Preisformel | Turnarounds | ORS-Version | Bemerkungen |

@@ -37,7 +37,7 @@ Here is a list of all currently available short-term and long-term game worlds a
 | Domination V | Mar 2023 | 20 Nov 2023 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | all countries open for investment, doubled starting funds, single slots |
 | Otto X | Apr 2022 | 18 Dec 2023 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, double slots |
 | Yeager VIII | Aug 2023 | 21 Mar 2024 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, double slots |
-| Junkers IV | Jan 2023 | 27 Sep 2023 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | only current aircraft, standard slots |
+| Junkers V | Sep 2023 | 27 May 2024 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | only current aircraft, double slots |
 | Quimby XIV | Jul 2023 | 31 Mar 2024 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | only current aircraft, single slots |
 
 ### Long-Term Game Worlds

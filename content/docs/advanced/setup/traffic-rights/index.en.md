@@ -40,11 +40,11 @@ In addition to these universal rules, there are a couple of special cases:
 
 ## EU Treaty & Oceanic Open Skies
 
-![EU Treaty & Oceanic Open Skies](traffic_rights_01.png "EU Treaty & Oceanic Open Skies")
+![EU Treaty & Oceanic Open Skies](traffic_rights_01.PNG "EU Treaty & Oceanic Open Skies")
 
 ## Yamoussoukro Decision & Caricom 5th Freedom
 
-![Yamoussoukro Decision & Caricom 5th Freedom](traffic_rights_02.png "Yamoussoukro Decision & Caricom 5th Freedom")
+![Yamoussoukro Decision & Caricom 5th Freedom](traffic_rights_02.PNG "Yamoussoukro Decision & Caricom 5th Freedom")
 
 ## What about cargo flights?
 

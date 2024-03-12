@@ -25,6 +25,15 @@ Im Gegensatz zu zeitlich begrenzten Servern haben Langzeit-Spielwelten kein best
 Auf Langzeit-Spielwelten verbraucht die erste Holding 6 Credits am Tag. Jede weitere Holding kostet 4 Credits am Tag.
 {{< /hint >}}
 
+## Mittelfristige Spielwelten
+
+Bei dieser Art von Spielwelt handelt es sich um eine Mischung aus Kurz- und Langzeitserver, sowohl was die Dauer als auch die Kosten betrifft.
+
+{{< hint info >}}
+**Info**  
+Auf mittelfristigen Spielwelten verbraucht die erste Holding 5 Credits am Tag.
+{{< /hint >}}
+
 ## Spielwelt-Konfigurationen
 
 Die folgende Liste zeigt alle derzeit verfügbaren Kurzzeit- und Langzeit-Spielwelten sowie einige ihrer Konfigurationsdetails. Bitte beachtet, dass nur ein AirlineSim-Konto verwendet werden darf, auch wenn eine Spielwelt das Erstellen mehrerer Holdings erlaubt (weitere Informationen dazu gibt es in unseren Spielregeln).
@@ -62,6 +71,12 @@ Die folgende Liste zeigt alle derzeit verfügbaren Kurzzeit- und Langzeit-Spielw
 | Devau | Feb. 2008 | -- | 6 Credits | 4 Credits | Ver. 1 | statisch | Ver. 1 | IPOs möglich, Standard-Slots |
 | Idlewild | Okt. 2007 | -- | 6 Credits | 4 Credits | Ver. 1 | statisch | Ver. 1 | IPOs möglich, Standard-Slots |
 | Kaitak | Aug. 2007 | -- | 6 Credits | 4 Credits | Ver. 1 | statisch | Ver. 1 | IPOs möglich, Standard-Slots |
+
+### Mittelfristige Spielwelten
+
+| Spielwelt | Start | Ende | Erste Holding | Zusätzliche Holding | Standard-Preisformel | Turnarounds | ORS-Version | Bemerkungen |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Tristar | März 2024 | 15. März 2027 | 5 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, Standard-Slots |
 
 ## Exklusive Spielwelten
 

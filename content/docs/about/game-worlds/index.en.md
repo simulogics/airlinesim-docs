@@ -25,6 +25,15 @@ On the other hand, long-term game worlds run continuously with no specific end d
 Long-term game worlds consume 6 credits per day for your first holding and 4 credits per day for every additional holding.
 {{< /hint >}}
 
+## Medium-Term Game Worlds
+
+This type of game world is a hybdrid between short- and long-term servers, both in terms of duration and costs.
+
+{{< hint info >}}
+**Info**  
+Medium-term game worlds consume 5 credits per day for your first holding.
+{{< /hint >}}
+
 ## Detailed Configurations
 
 Here is a list of all currently available short-term and long-term game worlds along with some of their configuration details. Please remember that even if a game world allows having multiple holdings, you must only use one account (more information on that can be found in our game rules).
@@ -62,6 +71,12 @@ Here is a list of all currently available short-term and long-term game worlds a
 | Devau | Feb 2008 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
 | Idlewild | Oct 2007 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
 | Kaitak | Aug 2007 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
+
+### Medium-Term Game Worlds
+
+| Game World | Opened | Ends | First Holding | Additional Holding | Standard pricing formula | Turnarounds | ORS Version | Remarks |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Tristar | Mar 2024 | 15 Mar 2027 | 5 credits | -- | Ver. 3 | dynamic | Ver. 2 | only current aircraft, single slots |
 
 ## Exclusive Game Worlds
 

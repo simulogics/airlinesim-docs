@@ -5,7 +5,7 @@ weight: 4
 
 # Steam-Release
 
-In diesem Artikel erfahrt ihr alles, was ihr über die Veröffentlichung von AirlineSim auf Steam wissen müsst.
+In diesem Artikel erfahrt ihr alles, was ihr über die Veröffentlichung von AirlineSim auf Steam wissen müsst. Die AirlineSim-Store-Seite auf Steam erreicht ihr [hier](https://store.steampowered.com/app/2715810/AirlineSim/).
 
 ## Warum habt ihr euch dazu entschieden, AirlineSim auf Steam zu veröffentlichen?
 
@@ -37,7 +37,7 @@ Nein, die Veröffentlichung bedeutet nicht, dass ihr ein Steam-Konto erstellen m
 
 ## Worum geht es bei der Wunschliste und warum ist sie so wichtig?
 
-Wenn ihr ein Konto bei Steam habt, könnt ihr das Spiel auf die Wunschliste setzen, indem ihr die Store-Seite von AirlineSim besucht und auf den grünen "Wunschliste"-Button im "Bald verfügbar"-Banner klickt.
+Wenn ihr ein Konto bei Steam habt, könnt ihr das Spiel auf die Wunschliste setzen, indem ihr die [Store-Seite von AirlineSim](https://store.steampowered.com/app/2715810/AirlineSim/) besucht und auf den grünen "Wunschliste"-Button im "Bald verfügbar"-Banner klickt.
 
 Die Wunschlistenfunktion ermöglicht es euch, in Bezug auf das Spiel auf dem Laufenden zu bleiben, und sie hilft uns auch, da sie sich auf die Sichtbarkeit von AirlineSim auf Steam auswirken kann.
 

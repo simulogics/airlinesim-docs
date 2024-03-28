@@ -5,7 +5,7 @@ weight: 4
 
 # Steam Release
 
-In this article, we're covering everything you need to know about AirlineSim’s release on Steam. The AirlineSim store page on steam can be accessed [here](https://store.steampowered.com/app/2715810/AirlineSim/).
+In this article, we're covering everything you need to know about AirlineSim’s release on Steam. The AirlineSim store page on Steam can be accessed [here](https://store.steampowered.com/app/2715810/AirlineSim/).
 
 ## Why did you decide to release AirlineSim on Steam?
 

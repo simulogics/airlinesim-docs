@@ -53,4 +53,4 @@ To do so, follow these steps:
 
 ## Will the game’s payment system change as part of the Steam release?
 
-No, the payment system will remain the same, even on Steam. The game will be listed as free to play with the option of purchasing credits in-game. If you’re running the game on Steam, you will have the option to make payments using your Steam Wallet.
+No, the payment system will remain the same, even on Steam. The game will be listed as free to play with the option of purchasing credits in-game. While running the game through Steam, payments must be made using your Steam Wallet. Outside of Steam, all current non-Steam payment methods will be available as usual.

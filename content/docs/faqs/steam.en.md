@@ -5,7 +5,7 @@ weight: 4
 
 # Steam Release
 
-In this article, we're covering everything you need to know about AirlineSim’s release on Steam.
+In this article, we're covering everything you need to know about AirlineSim’s release on Steam. The AirlineSim store page on steam can be accessed [here](https://store.steampowered.com/app/2715810/AirlineSim/).
 
 ## Why did you decide to release AirlineSim on Steam?
 
@@ -37,7 +37,7 @@ No, the release does not mean that you’ll have to create a Steam account. If y
 
 ## What is wishlisting about and why is it so important?
 
-If you have an account on Steam, you can wishlist the game by visiting the AirlineSim store page and clicking on the green "add to your wishlist" button in the "coming soon" banner.
+If you have an account on Steam, you can wishlist the game by visiting the [AirlineSim store page](https://store.steampowered.com/app/2715810/AirlineSim/) and clicking on the green "add to your wishlist" button in the "coming soon" banner.
 
 The wishlisting feature allows you to keep track of the game and it helps us out a lot, too, as it can impact AirlineSim’s visibility on Steam.
 

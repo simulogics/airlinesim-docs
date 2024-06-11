@@ -37,7 +37,7 @@ Nein, die Veröffentlichung bedeutet nicht, dass ihr ein Steam-Konto erstellen m
 
 ## Worum geht es bei der Wunschliste und warum ist sie so wichtig?
 
-Wenn ihr ein Konto bei Steam habt, könnt ihr das Spiel auf die Wunschliste setzen, indem ihr die [Store-Seite von AirlineSim](https://store.steampowered.com/app/2715810/AirlineSim/) besucht und auf den "Wunschliste"-Button unterhalb des Abschnitts mit dem Spieltrailer und -bildern klickt.
+Wenn ihr ein Konto bei Steam habt, könnt ihr das Spiel auf die Wunschliste setzen, indem ihr die [Store-Seite von AirlineSim](https://store.steampowered.com/app/2715810/AirlineSim/) besucht und auf den "Wunschliste"-Button unterhalb des Abschnitts mit dem Spieltrailer klickt.
 
 Die Wunschlistenfunktion ermöglicht es euch, in Bezug auf das Spiel auf dem Laufenden zu bleiben, und sie hilft uns auch, da sie sich auf die Sichtbarkeit von AirlineSim auf Steam auswirken kann.
 

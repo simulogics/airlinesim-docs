@@ -15,7 +15,7 @@ Ein weiteres Ziel besteht darin, AirlineSim weiterzuentwickeln und zu verbessern
 
 ## Wann wird AirlineSim auf Steam verfügbar sein?
 
-Wir planen derzeit, die erste Early Access-Version Ende April 2024 verfügbar zu machen.
+AirlineSim wurde am 11. Juni 2024 im Early Access veröffentlicht.
 
 ## Warum veröffentlicht ihr das Spiel im Early Access?
 
@@ -37,13 +37,13 @@ Nein, die Veröffentlichung bedeutet nicht, dass ihr ein Steam-Konto erstellen m
 
 ## Worum geht es bei der Wunschliste und warum ist sie so wichtig?
 
-Wenn ihr ein Konto bei Steam habt, könnt ihr das Spiel auf die Wunschliste setzen, indem ihr die [Store-Seite von AirlineSim](https://store.steampowered.com/app/2715810/AirlineSim/) besucht und auf den grünen "Wunschliste"-Button im "Bald verfügbar"-Banner klickt.
+Wenn ihr ein Konto bei Steam habt, könnt ihr das Spiel auf die Wunschliste setzen, indem ihr die [Store-Seite von AirlineSim](https://store.steampowered.com/app/2715810/AirlineSim/) besucht und auf den "Wunschliste"-Button unterhalb des Abschnitts mit dem Spieltrailer und -bildern klickt.
 
 Die Wunschlistenfunktion ermöglicht es euch, in Bezug auf das Spiel auf dem Laufenden zu bleiben, und sie hilft uns auch, da sie sich auf die Sichtbarkeit von AirlineSim auf Steam auswirken kann.
 
 ## Wie kann ich den Steam-Release über die Wunschliste hinaus unterstützen?
 
-Sobald das Spiel auf Steam veröffentlicht wurde, wäre es für uns äußerst hilfreich, wenn ihr eine positive Bewertung für das Spiel hinterlasst! Die Steam-Bewertung ist der wichtigste Faktor, der darüber entscheidet, ob ein Spiel auf der Plattform erfolgreich sein wird!
+Da AirlineSim auf Steam veröffentlicht wurde, wäre es für uns äußerst hilfreich, wenn ihr eine positive Bewertung für das Spiel hinterlasst! Die Steam-Bewertung ist der wichtigste Faktor, der darüber entscheidet, ob ein Spiel auf der Plattform erfolgreich sein wird!
 
 Geht dazu folgendermaßen vor:
 

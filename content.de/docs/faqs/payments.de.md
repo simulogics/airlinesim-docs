@@ -16,6 +16,7 @@ Zurzeit bietet euch AirlineSim fünf verschiedene Zahlungsmöglichkeiten:
 * paysafecard
 * Online-Überweisung
 * Vorkasse
+* Alle von Steam angebotenen Bezahlmethoden (wenn über Steam gespielt wird)
 
 Welche Zahlungsmethoden im individuellen Fall zur Verfügung stehen, hängt von eurem Land und dem gewählten Credit-Paket ab. Wenn eine Zahlungsmethode nicht angezeigt wird, könnt ihr versuchen, eine andere Paketgröße auszuwählen.
 

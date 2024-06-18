@@ -16,6 +16,7 @@ Right now, AirlineSim offers five different payment methods during checkout:
 * paysafecard
 * Online Bank Transfer
 * Prepayment
+* All payment methods offered by Steam (when playing through Steam)
 
 Which ones are available to you can depend on your country as well as the credit package you picked. If a payment method doesn't show up, try selecting another package size.
 

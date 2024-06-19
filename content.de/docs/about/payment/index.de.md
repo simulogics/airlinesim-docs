@@ -57,7 +57,9 @@ Wenn euch die Credits ausgehen, werden die Holdings und Unternehmen eures Kontos
 Wenn ein Konto eine Holding in einer Kurzzeitspielwelt besitzt und die Credits ausgehen, hat es nach 5 Tagen ein Guthaben von -20 Credits. Diese müssen bezahlt werden, bevor der Zugriff auf das Spiel wiederhergestellt wird.
 {{< /hint >}}
 
-Wenn das Guthaben eines Kontos länger als 28 Tage negativ bleibt, werden **alle Holdings und Airlines** dieses Kontos **auf allen Spielwelten** gelöscht, um blockierte Spielressourcen wie Slots und Flugzeuge freizugeben, die sonst für andere Spieler*innen unzugänglich bleiben würden. Das AirlineSim-Konto selbst bleibt jedoch aktiv. Bitte beachtet, dass die Kulanzperiode von 28 Tagen für Premium-Konten gilt, für die zuvor Credits erworben wurden. Bei Testkonten dauert es nach dem Auslaufen der Credits 7 Tage, bis die Airlines gelöscht werden.
+Wenn das Guthaben eines Kontos länger als 28 Tage negativ bleibt, werden **alle Holdings und Airlines** dieses Kontos **auf allen Spielwelten** gelöscht, um blockierte Spielressourcen wie Slots und Flugzeuge freizugeben, die anderen Spieler*innen sonst nicht zugänglich wären. Das AirlineSim-Konto selbst bleibt aktiv und das Guthaben wird automatisch auf die anfänglichen 60 Credits aufgefüllt, wodurch euer Konto effektiv auf seinen ursprünglichen Status zurückgesetzt wird. Wenn es zuvor Premiumstatus hatte, bleibt dieser auch nach dem Zurücksetzen erhalten.
+
+Bitte beachtet, dass die Kulanzperiode von 28 Tagen für Premiumkonten gilt, für die zuvor Credits erworben wurden. Bei Testkonten dauert es nach Auslaufen der Credits 7 Tage, bis die Airlines gelöscht werden.
 
 {{< hint danger >}}
 **Achtung!**

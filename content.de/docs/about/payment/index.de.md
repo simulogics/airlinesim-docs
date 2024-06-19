@@ -27,7 +27,7 @@ Diese Anforderungen schließen die meisten gängigen Zahlungsmodelle aus:
 - Ein **einmaliger Kauf** würde die laufenden Serverkosten nicht decken.
 - Ein obligatorisches **wiederkehrendes Abonnement** verleitet Spieler*innen dazu, auch dann noch zu zahlen, wenn sie das Spiel nicht mehr nutzen, ist nicht sehr flexibel und verursacht einen höheren technischen und administrativen Aufwand.
 - Ein **werbefinanziertes Modell** ist einfach "meh" und würde aufgrund der geringen Zahl an Spieler*innen wahrscheinlich nicht genug Umsatz generieren, um unsere Ausgaben zu decken.
-- Die meisten **Free-2-Play-Modelle** scheiden aus, da sie entweder **Pay-2-Win**-Mechanismen erfordern, die für eine ernsthafte Simulation wie AirlineSim nicht in Frage kommen, und/oder darauf aufbauen, eine Handvoll Spieler*innen für sinnlose kosmetische In-Game-Items auszubeuten, was angesichts der Größe von AirlineSim weder fair noch machbar ist.
+- Die meisten **Free-2-Play-Modelle** scheiden aus, da sie entweder **Pay-2-Win-Mechanismen** erfordern, die für eine ernsthafte Simulation wie AirlineSim nicht in Frage kommen, und/oder darauf aufbauen, eine Handvoll Spieler*innen für sinnlose kosmetische In-Game-Items auszubeuten, was angesichts der Größe von AirlineSim weder fair noch machbar ist.
 
 Aus diesem Grund haben wir ein auf Credits basierendes System implementiert, das uns im Laufe der Jahre sehr gute Dienste geleistet hat.
 

@@ -11,7 +11,7 @@ This article covers everything you need to know about credits, credit consumptio
 
 ## Motivation
 
-AirlineSim is a very niche game (= comparatively few active players). It is also intended to be serious business simulation, and its servers run elaborate simulation models that are very resource-intensive (= high operational costs). 
+AirlineSim is a very niche game (= comparatively few active players). It is also intended to be a serious business simulation, and its servers run elaborate simulation models that are very resource-intensive (= high operational costs). 
 
 With this in mind, there are certain requirements our payment model needs to meet:
 
@@ -19,7 +19,7 @@ With this in mind, there are certain requirements our payment model needs to mee
 2. It has to be flexible enough to account for different usage intensities, like different amounts of active holdings per player or long-running game worlds.
 3. It must not provide any in-game advantages for real-world money besides an initial "anti-cheat unlock" through a single purchase (details below).
 4. It has to generate enough revenue despite a relatively small playerbase.
-5. It still needs to allow for perpetually free game play for player who are unable or do not want to spend money.
+5. It still needs to allow for perpetually free game play for players who are unable or do not want to spend money.
 6. It has to be as fair as possible to players because that is just something we care about.
 
 These requirements rule out most common payment models:
@@ -31,7 +31,7 @@ These requirements rule out most common payment models:
 
 Consequently, we implemented a system based on credits that has served us very well over the years.
 
-## Credits: Our payment model in a nutshell
+## Credits: Our Payment Model in a Nutshell
 
 Our payment model revolves around so-called **credits**. After signing up for AirlineSim, your account starts out with a balance of **60 free credits**.
 
@@ -41,7 +41,7 @@ Once the credits run out, you need to recharge your account to continue playing.
 
 And that's almost it! There's one caveat: There is a difference between free accounts, meaning such that have never completed a payment, and premium accounts, meaning such that have at some point completed at least one payment. But we will touch on that below.
 
-## Credit consumption & running out of credits
+## Credit Consumption & Running out of Credits
 
 Once you create a holding, credits are deducted from your account on a daily basis. In game worlds where you can create more than one holding, discounts apply to every additional holding.
 
@@ -64,7 +64,7 @@ If an account's credits balance stays negative for more than 28 days, **all hold
 Note that automatic deletions due to a negative credit balance affect **all game worlds** an account has holdings in, **including free ones**!
 {{< /hint >}}
 
-## Playing for free: Free vs. Premium accounts
+## Playing for Free: Free vs. Premium Accounts
 
 AirlineSim offers free short-term game worlds, meaning no credits are charged to play there. As such, you could play AirlineSim without paying a cent indefinitely. 
 

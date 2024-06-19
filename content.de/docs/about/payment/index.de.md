@@ -90,7 +90,7 @@ Diese Einschränkungen werden wahrscheinlich wegfallen, sobald diese Features mo
 
 ## Preise
 
-AirlineSim bietet ein gestaffeltes Preismodell mit unterschiedlichen Paketgrößen, sodass ihr für jede Situation die richtige Menge an Credits auswählen könnt: Kauft ihr ein kleines Paket, wenn ihr nur mal reinschnuppern oder günstig den Premium-Status erlangen möchtet. Kauft größere Pakete, wenn ihr länger spielen und von Mengenrabatten profitieren möchtet.
+AirlineSim bietet ein gestaffeltes Preismodell mit unterschiedlichen Paketgrößen, sodass ihr für jede Situation die richtige Menge an Credits auswählen könnt: Kauft ein kleines Paket, wenn ihr nur mal reinschnuppern oder günstig den Premium-Status erlangen möchtet. Kauft größere Pakete, wenn ihr länger spielen und von Mengenrabatten profitieren möchtet.
 
 Zum Zeitpunkt des Verfassens dieses Artikels kostet das kleinste Paket mit 50 Credits 2,49 EUR. Auf dieser Stufe würde ein einfaches Konto mit einem täglichen Verbrauch von 4 Credits also etwa 6 EUR pro Monat kosten. Bei den deutlich gängigeren 500 Credits für 19,10 EUR liegt dieser Preis bereits bei rund 4,60 EUR.
 

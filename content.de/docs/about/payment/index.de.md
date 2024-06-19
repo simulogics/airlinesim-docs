@@ -5,74 +5,106 @@ weight: 4
 
 # Zahlungssystem
 
-AirlineSim verwendet ein Pay-to-Play-Bezahlsystem, bei dem Credits gekauft werden, um Zugang zum Spiel zu erhalten. Durch dieses Modell werden In-Game-Käufe vermieden, was  Fairness und Immersion fördern soll.
+AirlineSim verwendet ein Zahlungsmodell, das auf Fairness, Transparenz und Benutzerfreundlichkeit ausgerichtet ist.
 
-Hier erfahrt ihr alles, was ihr über Credits, Preise, Zahlungsmethoden sowie die Premium-Features des Spiels wissen müsst. Bei Fragen zum Zahlungsvorgang werft gerne einen Blick auf unsere [Zahlungs-FAQ]({{< relref "docs/faqs/payments.de.md" >}}).
+Hier erfahrt ihr alles, was ihr über Credits, Creditverbrauch, Preise, Zahlungsmethoden sowie die Premium-Features des Spiels wissen müsst. Bei Fragen zum Zahlungsvorgang werft gerne einen Blick auf unsere [Zahlungs-FAQ]({{< relref "docs/faqs/payments.de.md" >}}).
 
-## Credits
+## Motivation
 
-![Auswahl der Paketgrößen](creditkauf_03.PNG "Auswahl der Paketgrößen")
+AirlineSim ist ein sehr "nischiges" Spiel (= vergleichsweise wenige aktive Spieler*innen). Zudem soll es eine ernsthafte Wirtschaftssimulation sein, auf deren Servern aufwendige Simulationsmodelle laufen, die sehr ressourcenintensiv sind (= hohe Betriebskosten).
 
-Nach der Registrierung werden eurem AirlineSim-Konto 60 kostenlose Credits gutgeschrieben, die eine Probezeit von etwa zwei Wochen abdecken. Wenn ihr nach Ablauf der Probezeit weiterspielen und die Premium-Funktionen des Spiels nutzen möchtet, werden weitere Credits benötigt.
+Vor diesem Hintergrund gibt es bestimmte Anforderungen, die unser Zahlungsmodell erfüllen muss:
 
-Das Credit-System ist ein Prepaid-Modell und daher völlig flexibel. Der Kauf von Credits stellt kein wiederkehrendes Abonnement dar, sodass ihr Credits erwerben könnt, wann immer ihr möchtet. Falls ihr euch dazu entschließt, nicht weiterzuspielen, lasst ihr die restlichen Credits einfach auslaufen. Bitte beachtet, dass Credits nicht zurückerstattet werden können.
+1. Es muss relativ hohe Kosten pro aktivem Spielerkonto decken.
+2. Es muss flexibel genug sein, um unterschiedliche Nutzungsintensitäten zu berücksichtigen, wie z.B. unterschiedliche Mengen aktiver Holdings pro Spielerkonto oder länger laufende Spielwelten.
+3. Es darf keine In-Game-Vorteile für echtes Geld bieten, außer einem anfänglichen "Anti-Cheat-Unlock" durch einen einzelnen Kauf (Details siehe unten).
+4. Es muss trotz einer relativ kleinen Spielerbasis genügend Umsatz generieren.
+5. Es muss Spieler*innen, die kein Geld ausgeben können oder wollen, immer noch ein dauerhaft kostenloses Spiel ermöglichen.
+6. Es muss Spieler*innen gegenüber so fair wie möglich sein, denn das ist uns wichtig.
 
-## Credit-Verbrauch
+Diese Anforderungen schließen die meisten gängigen Zahlungsmodelle aus:
 
-Nach der Gründung der ersten Holding werden täglich Credits vom AirlineSim-Konto abgezogen.
+- Ein **einmaliger Kauf** würde die laufenden Serverkosten nicht decken.
+- Ein obligatorisches **wiederkehrendes Abonnement** verleitet Spieler*innen dazu, auch dann noch zu zahlen, wenn sie das Spiel nicht mehr nutzen, ist nicht sehr flexibel und verursacht einen höheren technischen und administrativen Aufwand.
+- Ein **werbefinanziertes Modell** ist einfach "meh" und würde aufgrund der geringen Zahl an Spieler*innen wahrscheinlich nicht genug Umsatz generieren, um unsere Ausgaben zu decken.
+- Die meisten **Free-2-Play-Modelle** scheiden aus, da sie entweder **Pay-2-Win**-Mechanismen erfordern, die für eine ernsthafte Simulation wie AirlineSim nicht in Frage kommen, und/oder darauf aufbauen, eine Handvoll Spieler*innen für sinnlose kosmetische In-Game-Items auszubeuten, was angesichts der Größe von AirlineSim weder fair noch machbar ist.
 
-Auf Kurzzeit-Spielwelten kostet die erste Holding 4 Credits pro Tag und Spielwelt, für jede weitere Holding (sofern erlaubt) werden 2 zusätzliche Credits berechnet.
+Aus diesem Grund haben wir ein auf Credits basierendes System implementiert, das uns im Laufe der Jahre sehr gute Dienste geleistet hat.
 
-Auf Langzeit-Spielwelten verbraucht die erste Holding 6 Credits pro Tag und Spielwelt, während jede weitere Holding 4 zusätzliche Credits kostet.
+## Credits: So Funktioniert unser Zahlungsmodell
 
-Sollten die Credits ausgehen, werden die Unternehmen des Kontos gesperrt, bis weitere Credits hinzugefügt werden. Während dieses Zeitraums wird das Konto weiterhin täglich mit Credits belastet. Dadurch soll verhindert werden, dass ein unfairer Vorteil entsteht, wenn Spielende ihr Konto aufgeben und erst nach einigen Wochen wieder einsteigen, ohne für das Wachstum ihrer Firma bezahlt zu haben.
+Unser Zahlungsmodell dreht sich um sogenannte **Credits**. Nach der Anmeldung bei AirlineSim verfügt euer Konto zu Beginn über ein Guthaben von **60 kostenlosen Credits**.
+
+In den meisten Spielwelten wird euch für jede von euch erstellte [Holding]({{< relref "docs/advanced/setup/holdings-vs-subsidiaries.de.md" >}}) eine kleine Menge an Credits berechnet. Dieser Betrag variiert je nach Dauer der Spielwelt. Angesichts der anfänglichen Menge an kostenlosen Credits und der typischen Kosten einer kurzfristigen Spielwelt von 4 Credits/Tag könntet ihr eine solche Spielwelt bis zu 15 Tage lang kostenlos ausprobieren.
+
+Sobald die Credits aufgebraucht sind, müsst ihr euer Konto aufladen, um weiterspielen zu können. Das Creditsystem ist also ein Prepaid-Modell und somit völlig flexibel. Der Kauf von Credits stellt kein wiederkehrendes Abonnement dar. Ihr könnt Credits kaufen, wann immer ihr möchtet. Wenn ihr euch jemals dazu entschließt, nicht weiterzuspielen, müsst ihr nur eure Credits auslaufen lassen.
+
+Und das ist schon fast alles! Mit einer Einschränkung: Es gibt einen Unterschied zwischen kostenlosen Konten (also solchen, die noch nie eine Zahlung abgeschlossen haben) und Premiumkonten (also solchen, die irgendwann mindestens eine Zahlung abgeschlossen haben). Aber darauf werden wir weiter unten eingehen.
+
+## Creditverbrauch & Auslaufen von Credits
+
+Sobald ihr eine Holding erstellt, werden täglich Credits von eurem Konto abgezogen. In Spielwelten, in denen ihr mehr als eine Holding erstellen könnt, gelten für jede zusätzliche Holding Rabatte.
+
+Derzeit betragen die üblichen Kosten:
+* Kurzfristige Spielwelten: 4 Credits/Tag (2 pro zusätzlicher Holding)
+* Mittelfristige Spielwelten: 5 Credits/Tag (3 pro zusätzlicher Holding)
+* Langfristige Spielwelten: 6 Credits/Tag (4 pro zusätzlicher Holding)
+
+Wenn euch die Credits ausgehen, werden die Holdings und Unternehmen eures Kontos gesperrt, bis ihr euer Guthaben auffüllt. Während dieser Zeit werden weiterhin Credits zum normalen Tagessatz abgezogen, was bedeutet, dass euer Guthaben zunehmend negativ wird. Damit soll verhindert werden, dass Unternehmen einen unfairen Vorteil erlangen, indem sie einen Account aufgeben, mehrere Wochen später aber zu ihm zurückkehren, ohne für ihr Wachstum und die in der Zwischenzeit belegten Spielressourcen zahlen zu müssen.
 
 {{< hint info >}}
-**Beispiel**  
-Verfügt ein Spieler über eine Holding auf einem Kurzzeit-Server, liegt 5 Tage nach dem Ausgehen der Credits ein Kontostand von -20 Credits vor. Diese müssen bezahlt werden, bevor der Zugang zum Spiel wiederhergestellt wird.
+**Beispiel**
+Wenn ein Konto eine Holding in einer Kurzzeitspielwelt besitzt und die Credits ausgehen, hat es nach 5 Tagen ein Guthaben von -20 Credits. Diese müssen bezahlt werden, bevor der Zugriff auf das Spiel wiederhergestellt wird.
 {{< /hint >}}
 
-Wird ein negativer Kontostand nicht innerhalb von 28 Tagen beglichen, kommt es zur Löschung der Airlines. Dadurch soll eine Bestrafung aktiver Accounts vermieden werden. Das AirlineSim-Konto selbst bleibt jedoch aktiv. Bitte beachtet: Die Frist von 28 Tagen gilt nur für Premium-Accounts, die zuvor bereits Credits erworben haben. Bei Testkonten dauert es 7 Tage nach dem Aufbrauchen der Credits, bis die Airlines gelöscht werden.
+Wenn das Guthaben eines Kontos länger als 28 Tage negativ bleibt, werden **alle Holdings und Airlines** dieses Kontos **auf allen Spielwelten** gelöscht, um blockierte Spielressourcen wie Slots und Flugzeuge freizugeben, die sonst für andere Spieler*innen unzugänglich bleiben würden. Das AirlineSim-Konto selbst bleibt jedoch aktiv. Bitte beachtet, dass die Kulanzperiode von 28 Tagen für Premium-Konten gilt, für die zuvor Credits erworben wurden. Bei Testkonten dauert es nach dem Auslaufen der Credits 7 Tage, bis die Airlines gelöscht werden.
+
+{{< hint danger >}}
+**Achtung!**
+Bitte beachtet, dass automatische Löschungen aufgrund eines negativen Guthabens **alle Spielwelten** betreffen, in denen ein Konto Holdings hat, **auch kostenlose**!
+{{< /hint >}}
+
+## Kostenlos Spielen: Kostenlose vs. Premium-Konten
+
+AirlineSim bietet kostenlose Kurzzeitspielwelten an, auf denen keine Credits berechnet werden, um zu spielen. Daher könnt ihr AirlineSim unbegrenzt spielen, ohne einen Cent zu bezahlen.
+
+Es gibt jedoch einige Einschränkungen: Sofern ihr nicht mindestens eine Zahlung abgeschlossen habt, bleibt euer Konto im **kostenlosen oder Teststatus**. Dies bedeutet, dass euch einige Funktionen des Spiels auch dann nicht zur Verfügung stehen, wenn ihr auf kostenlosen Spielwelten spielt.
+
+Die meisten dieser Funktionen erfordern eine direkte Interaktion zwischen mehreren Konten, und die Anforderung, mindestens eine Zahlung abzuschließen, ist ein sehr wirksamer Mechanismus gegen Cheating. Features dieser Kategorie sind:
+
+* Erstellen von mehr als einer Holding
+* Mehrere Airlines in einer Holding
+* Anbieten oder Annehmen privater Verträge (z.B. für das Leasing von Flugzeugen oder Interlining)
+* Verkauf von Flugzeugen
+* Bieten auf nicht-offizielle Flugzeugangebote
+* Entlassungen (da entlassenes Personal in einem Pool landet, der anderen Spieler*innen zur Verfügung steht)
+* Börsenfunktionen ([Börsengänge]({{< relref "docs/advanced/finances/initial-public-offerings/index.de.md" >}}) und Aktienhandel)
+* Eigene Gebäude
+
+Es gibt einige Features, die vor allem aus historischen Gründen eingeschränkt sind. Als das AirlineSim der aktuellen Generation auf den Markt kam – etwa 2007 – verursachten diese Funktionen eine höhere Belastung unserer Server und waren daher auf Premium-Konten beschränkt:
+
+* [Das Online Reservation System (ORS)]({{< relref "docs/advanced/bookings/online-reservation-system/index.de.md" >}})
+* Integrierte Flight-Operations-Kontrolle
+
+Diese Einschränkungen werden wahrscheinlich wegfallen, sobald diese Features modernisiert werden.
 
 ## Preise
 
-AirlineSim bietet ein gestaffeltes Preismodell mit verschiedenen Paketgrößen an, sodass die Menge an Credits je nach Bedarf ausgewählt werden kann.
+AirlineSim bietet ein gestaffeltes Preismodell mit unterschiedlichen Paketgrößen, sodass ihr für jede Situation die richtige Menge an Credits auswählen könnt: Kauft ihr ein kleines Paket, wenn ihr nur mal reinschnuppern oder günstig den Premium-Status erlangen möchtet. Kauft größere Pakete, wenn ihr länger spielen und von Mengenrabatten profitieren möchtet.
 
-Das kleinste Paket besteht aus 50 Credits und beginnt bei 1,99€. Ein einfaches Konto, das pro Tag 4 Credits verbraucht, kostet für 30 Tage also etwa 4,78 €.
+Zum Zeitpunkt des Verfassens dieses Artikels kostet das kleinste Paket mit 50 Credits 2,49 EUR. Auf dieser Stufe würde ein einfaches Konto mit einem täglichen Verbrauch von 4 Credits also etwa 6 EUR pro Monat kosten. Bei den deutlich gängigeren 500 Credits für 19,10 EUR liegt dieser Preis bereits bei rund 4,60 EUR.
 
-Bei größeren Paketen sind Mengenrabatte verfügbar:
+Eine vollständige und aktuelle Liste aller Preise und der jeweiligen Mengenrabatte findet ihr auf eurer [Kontoverwaltungsseite](https://accounts.airlinesim.aero/account/credits).
 
-* 100 Credits: 3,60€ (10% Ersparnis im Vergleich zum kleinsten Paket)
-* 250 Credits: 8,60€ (14% Ersparnis im Vergleich zum kleinsten Paket)
-* 500 Credits:16,60€ (17% Ersparnis im Vergleich zum kleinsten Paket)
-* 1000 Credits: 31,70€ (20% Ersparnis im Vergleich zum kleinsten Paket)
-* 2000 Credits: 62,40€ (22% Ersparnis im Vergleich zum kleinsten Paket)
-* 5000 Credits: 149,00€ (25% Ersparnis im Vergleich zum kleinsten Paket)
+## Zahlungsarten & Checkout
 
-## Zahlungsmöglichkeiten & Checkout
-
-Um Credits zu erwerben, loggt euch einfach in eurem AirlineSim-Konto ein und klickt auf "Credits kaufen". Anschließend könnt ihr die gewünschte Paketgröße aussuchen, einen Gutscheincode eingeben und die Zahlungsmethode festlegen.
+Um Credits für AirlineSim zu kaufen, loggt euch einfach in euer Konto ein und klickt auf Credits kaufen. Hier könnt ihr die gewünschte Paketgröße auswählen, optional einen Gutscheincode eingeben (aktuell nur außerhalb von Steam) und eure Zahlungsart auswählen.
 
 {{< hint info >}}
-**Info**  
-Derzeit können folgende Zahlungsarten verwendet werden: Kredit- oder Debitkarte (Visa, MasterCard, American Express), PayPal, paysafecard, Online-Überweisung und Vorkasse.
+**Info**
+Aktuell sind beim Checkout folgende Zahlungsarten möglich: Kredit- oder Debitkarte (Visa, MasterCard, American Express), PayPal, paysafecard, Online-Überweisung und Vorkasse. Beim Spielen über Steam stehen euch alle von Steam angebotenen Zahlungsarten zur Verfügung.
 {{< /hint >}}
 
-Bitte beachtet: Welche Zahlungsmethoden tatsächlich zur Verfügung stehen, hängt sowohl vom Land, in dem ihr seid, als auch von der gewählten Paketgröße ab. Wenn eine Zahlungsmethode fehlt, könnt ihr versuchen, verschiedene Paketgrößen auszuwählen.
+Bitte beachtet: Welche Zahlungsmethoden tatsächlich verfügbar sind, kann sowohl von dem Land abhängen, aus dem ihr bezahlt, als auch von der gewählten Paketgröße.
 
-Sobald die Zahlung bearbeitet wurde, werden die Credits eurem Konto gutgeschrieben.
-
-## Premium-Features
-
-Die folgenden Funktionen sind während des Testzeitraums nicht verfügbar und werden erst freigeschaltet, wenn das Konto durch den Kauf von Credits den Premium-Status erhalten hat:
-
-* Mehrere Holdings
-* Mehrere Fluggesellschaften in einer Holding
-* Anbieten von Verträgen (Verkauf / Leasing von Flugzeugen, Interlining)
-* Verkauf von Flugzeugen
-* Bieten auf nicht-offizielle Flugzeugangebote
-* Eigene Gebäude
-* Entlassung von Personal
-* Börsenfunktionen ([Börsengänge]({{< relref "docs/advanced/finances/initial-public-offerings/index.de.md" >}}) und Aktienhandel)
-* [Das Online Reservation System (ORS)]({{< relref "docs/advanced/bookings/online-reservation-system/index.de.md" >}})
-* Integrierte Flight-Operations-Kontrolle
+Sobald eure Zahlung verarbeitet wurde, werden die Credits eurem Konto gutgeschrieben.

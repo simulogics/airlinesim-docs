@@ -11,7 +11,7 @@ Hier erfahrt ihr alles, was ihr über Credits, Creditverbrauch, Preise, Zahlungs
 
 ## Motivation
 
-AirlineSim ist ein sehr "nischiges" Spiel (= vergleichsweise wenige aktive Spieler*innen). Zudem soll es eine ernsthafte Wirtschaftssimulation sein, auf deren Servern aufwendige Simulationsmodelle laufen, die sehr ressourcenintensiv sind (= hohe Betriebskosten).
+AirlineSim ist ein sehr "nischiges" Spiel (= vergleichsweise wenige aktive Spieler*innen). Zudem ist es als ernsthafte Wirtschaftssimulation gedacht, auf deren Servern aufwendige Simulationsmodelle laufen, die sehr ressourcenintensiv sind (= hohe Betriebskosten).
 
 Vor diesem Hintergrund gibt es bestimmte Anforderungen, die unser Zahlungsmodell erfüllen muss:
 

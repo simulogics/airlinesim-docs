@@ -57,7 +57,9 @@ If you run out of credits, your account's holdings and companies will be locked 
 If an account owns one holding in a short-term game world and runs out of credits, it will have a balance of -20 credits after 5 days. These must be paid before access to the game is restored.
 {{< /hint >}}
 
-If an account's credits balance stays negative for more than 28 days, **all holdings and airlines** of that account will be deleted **in all game worlds** in order to free blocked in-game resources like slots and aircraft that would otherwise remain inaccessible to other players. The AirlineSim account itself will remain active, though. Please keep in mind that the grace period of 28 days applies to premium accounts which have previously purchased credits. For trial accounts, it takes 7 days after running out of credits until the airlines are deleted.
+If an account's credits balance stays negative for more than 28 days, **all holdings and airlines** of that account will be deleted **in all game worlds** in order to free blocked in-game resources like slots and aircraft that would otherwise remain inaccessible to other players. The AirlineSim account itself will remain active and its credit balance will be automatically topped up to the initial 60 credits, effectively resetting your account to its initial state. If it had premium status before, it will keep it beyond the reset. 
+
+Please keep in mind that the grace period of 28 days applies to premium accounts which have previously purchased credits. For trial accounts, it takes 7 days after running out of credits until the airlines are deleted.
 
 {{< hint danger >}}
 **Danger!**  

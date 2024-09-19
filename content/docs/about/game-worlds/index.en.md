@@ -42,7 +42,7 @@ Here is a list of all currently available short-term and long-term game worlds a
 
 | Game World | Opened | Ends | First Holding | Additional Holding | Standard pricing formula | Turnarounds | ORS Version | Remarks |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Bleriot VI | Jan 2024 | 23 Sep 2024 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | only current aircraft, double slots |
+| Bleriot VII | Sep 2024 | 26 May 2025 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, single slots |
 | Domination VII | Jul 2023 | 24 Mar 2025 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | all countries open for investment, doubled starting funds, single slots |
 | Otto XII | Aug 2024 | 21 Apr 2025 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, double slots |
 | Yeager IX | May 2024 | 18 Nov 2024 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, double slots |

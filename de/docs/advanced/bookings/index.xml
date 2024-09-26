@@ -1,7 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Buchungen on AirlineSim Handbuch</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/</link><description>Recent content in Buchungen on AirlineSim Handbuch</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://handbook.airlinesim.aero/de/docs/advanced/bookings/index.xml" rel="self" type="application/rss+xml"/><item><title>Online Reservation System</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/online-reservation-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/bookings/online-reservation-system/</guid><description>Online Reservation System # Das Online Reservation System (ORS) ist eines der Kernfeatures des Spiels. Es generiert täglich eine Vielzahl von Verbindungen und verteilt die Passagiere auf die Flüge der Spielenden.
-Die Flüge werden drei Tage vor ihrem Abflug in das ORS aufgenommen. Nehmen wir mal an, ihr aktiviert einen Flugplan am Montagmorgen und der erste Flug soll um 11 Uhr abheben. In diesem Fall müsst ihr bis 11 Uhr warten, bevor euer erster Flug in der Flugliste erscheint.</description></item><item><title>Aufkommensberechnung</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/demand/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/bookings/demand/</guid><description>Aufkommensberechnung # Damit ihr besser nachvollziehen könnt, wie die Nachfrage in AirlineSim funktioniert, findet ihr hier ein kleines Q&amp;amp;A.
-Spielt die Tageszeit bei Flügen eine Rolle? # Nein, die Passagiere werden alle Abflug- und Ankunftszeiten gleich behandeln. Die Gesamtreisezeit beeinflusst jedoch die Flugbewertung.
-Schwankt die Passagiernachfrage saisonal? # Nein, saisonale Schwankungen spielen für die Nachfrage derzeit keine Rolle.
-Ist es den Fluggästen wichtig, an welchem Tag sie fliegen? # Die Fluggäste buchen nur Flüge innerhalb der nächsten drei Tage, aber sie buchen jeden dieser Tage, wenn einige Tage voll oder nicht verfügbar sind.</description></item><item><title>Flugbewertung</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/flight-rating-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/bookings/flight-rating-system/</guid><description>Flugbewertung # Das Flight Rating System (FRS) wurde entwickelt, um eine detaillierte Qualitätsbewertung einzelner Flüge zu ermöglichen. Außerdem helfen die Bewertungen dabei, den Einfluss eines Fluges auf das Image der Airline zu berechnen.
-Die Bewertung kann über die Inventory- oder Flugnummern-Seite im Commercial-Tab aufgerufen werden. Um die Übersicht der Fluginformationen aufzurufen, klickt einfach auf den kleinen weißen Pfeil neben dem Flug eurer Wahl.
-Die Bewertungen eines Fluges können im Tab “Flugbewertung” überprüft werden und bestehen aus zwei separaten Komponenten, den Produkt- und den Imagefaktoren.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Buchungen on AirlineSim Handbuch</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/</link><description>Recent content in Buchungen on AirlineSim Handbuch</description><generator>Hugo</generator><language>de</language><atom:link href="https://handbook.airlinesim.aero/de/docs/advanced/bookings/index.xml" rel="self" type="application/rss+xml"/><item><title>Online Reservation System</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/online-reservation-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/bookings/online-reservation-system/</guid><description>&lt;h1 id="online-reservation-system">
+ Online Reservation System
+ &lt;a class="anchor" href="#online-reservation-system">#&lt;/a>
+&lt;/h1>
+&lt;p>Das Online Reservation System (ORS) ist eines der Kernfeatures des Spiels. Es generiert täglich eine Vielzahl von Verbindungen und verteilt die Passagiere auf die Flüge der Spielenden.&lt;/p>
+&lt;p>&lt;img src="online_reservation_system_01.PNG" alt="Verbindungssuche" title="Verbindungssuche"/>&lt;/p>
+&lt;p>Die Flüge werden drei Tage vor ihrem Abflug in das ORS aufgenommen. Nehmen wir mal an, ihr aktiviert einen Flugplan am Montagmorgen und der erste Flug soll um 11 Uhr abheben. In diesem Fall müsst ihr bis 11 Uhr warten, bevor euer erster Flug in der Flugliste erscheint. Wenn ihr den Flugplan mit einer dreitägigen Verzögerung aktiviert, erscheint er erst am Donnerstagmorgen.&lt;/p></description></item><item><title>Aufkommensberechnung</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/demand/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/bookings/demand/</guid><description>&lt;h1 id="aufkommensberechnung">
+ Aufkommensberechnung
+ &lt;a class="anchor" href="#aufkommensberechnung">#&lt;/a>
+&lt;/h1>
+&lt;p>Damit ihr besser nachvollziehen könnt, wie die Nachfrage in AirlineSim funktioniert, findet ihr hier ein kleines Q&amp;amp;A.&lt;/p>
+&lt;h2 id="spielt-die-tageszeit-bei-flügen-eine-rolle">
+ Spielt die Tageszeit bei Flügen eine Rolle?
+ &lt;a class="anchor" href="#spielt-die-tageszeit-bei-fl%c3%bcgen-eine-rolle">#&lt;/a>
+&lt;/h2>
+&lt;p>Nein, die Passagiere werden alle Abflug- und Ankunftszeiten gleich behandeln. Die Gesamtreisezeit beeinflusst jedoch die Flugbewertung.&lt;/p>
+&lt;h2 id="schwankt-die-passagiernachfrage-saisonal">
+ Schwankt die Passagiernachfrage saisonal?
+ &lt;a class="anchor" href="#schwankt-die-passagiernachfrage-saisonal">#&lt;/a>
+&lt;/h2>
+&lt;p>Nein, saisonale Schwankungen spielen für die Nachfrage derzeit keine Rolle.&lt;/p>
+&lt;h2 id="ist-es-den-fluggästen-wichtig-an-welchem-tag-sie-fliegen">
+ Ist es den Fluggästen wichtig, an welchem Tag sie fliegen?
+ &lt;a class="anchor" href="#ist-es-den-flugg%c3%a4sten-wichtig-an-welchem-tag-sie-fliegen">#&lt;/a>
+&lt;/h2>
+&lt;p>Die Fluggäste buchen nur Flüge innerhalb der nächsten drei Tage, aber sie buchen jeden dieser Tage, wenn einige Tage voll oder nicht verfügbar sind. Sind keine Flüge verfügbar, nehmen die Passagiere keine Buchung vor - sie müssen dann mit dem Auto fahren oder schwimmen!&lt;/p></description></item><item><title>Flugbewertung</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/flight-rating-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/bookings/flight-rating-system/</guid><description>&lt;h1 id="flugbewertung">
+ Flugbewertung
+ &lt;a class="anchor" href="#flugbewertung">#&lt;/a>
+&lt;/h1>
+&lt;p>Das Flight Rating System (FRS) wurde entwickelt, um eine detaillierte Qualitätsbewertung einzelner Flüge zu ermöglichen. Außerdem helfen die Bewertungen dabei, den Einfluss eines Fluges auf das Image der Airline zu berechnen.&lt;/p>
+&lt;p>Die Bewertung kann über die Inventory- oder Flugnummern-Seite im Commercial-Tab aufgerufen werden. Um die Übersicht der Fluginformationen aufzurufen, klickt einfach auf den kleinen weißen Pfeil neben dem Flug eurer Wahl.&lt;/p>
+&lt;p>&lt;img src="FRS_01.PNG" alt="FRS-Übersicht" title="FRS-Übersicht"/>&lt;/p>
+&lt;p>Die Bewertungen eines Fluges können im Tab “Flugbewertung” überprüft werden und bestehen aus zwei separaten Komponenten, den Produkt- und den Imagefaktoren. Beide sind zusammen mit dem Einfluss, den der Flug auf das Airline-Image haben wird, aufgelistet.&lt;/p></description></item></channel></rss>

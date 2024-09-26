@@ -1,8 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Über AirlineSim on AirlineSim Handbuch</title><link>https://handbook.airlinesim.aero/de/docs/about/</link><description>Recent content in Über AirlineSim on AirlineSim Handbuch</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://handbook.airlinesim.aero/de/docs/about/index.xml" rel="self" type="application/rss+xml"/><item><title>Spielkonzept</title><link>https://handbook.airlinesim.aero/de/docs/about/concept/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/concept/</guid><description>Spielkonzept # Bei AirlineSim handelt es sich um eine browserbasierte Wirtschaftssimulation, die es Spielenden ermöglicht, ihre eigene Airline zu betreiben und auf einem virtuellen Echtzeitmarkt um Passagiere zu konkurrieren.
-Realistische Management-Tools helfen beim Aufbau der Flugzeugflotte, der Einrichtung der Kabinen sowie der Erstellung von Flugplänen. Auch die aktuelle Marktlage lässt sich anhand der Tools analysieren, sodass Preise und Servicelevel bei Bedarf angepasst werden können.
-Es geht jedoch nicht nur um den Wettbewerb: Von Allianzen über Interline-Abkommen bis hin zum Verleasen von Flugzeugen bietet das Spiel vielfältige Möglichkeiten, dauerhafte Verbindungen mit anderen Airlines aufzubauen.</description></item><item><title>Entwicklung</title><link>https://handbook.airlinesim.aero/de/docs/about/development/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/development/</guid><description>Entwicklung # AirlineSim # Die Entwicklung von AirlineSim begann bereits im Januar 2002. Fünf Jahre später wurde simulogics gegründet und was als Hobby begann, entwickelte sich bald zu einem vollwertigen Spielprojekt. Im Laufe der Jahre gab es viele Fortschritte, beispielsweise neue Spielwelten, Verbesserungen im Spiel und nicht zuletzt eine stetig wachsende Community.
-AirlineSim Technology Demonstrator # Im Dezember 2021 kündigte das Team ein Projekt namens AirlineSim Technology Demonstrator (ASTD) an.</description></item><item><title>Spielwelten</title><link>https://handbook.airlinesim.aero/de/docs/about/game-worlds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/game-worlds/</guid><description>Spielwelten # Nach dem Login zeigt das Dashboard eine Liste mit den zur Verfügung stehenden Spielwelten an. Die Anzahl der möglichen Spielwelten pro Konto ist nicht begrenzt, allerdings werden für jeden aktiven Server Credits berechnet.
-Kurzzeit-Spielwelten # Wie der Name schon sagt, haben Kurzzeit-Spielwelten eine begrenzte Laufzeit. Meist stehen sie 8 - 10 Monate zur Verfügung, bevor die nächste Iteration startet. Welche Welten derzeit verfügbar sind, zeigt die untenstehende Tabelle.</description></item><item><title>Zahlungssystem</title><link>https://handbook.airlinesim.aero/de/docs/about/payment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/payment/</guid><description>Zahlungssystem # AirlineSim verwendet ein Zahlungsmodell, das auf Fairness, Transparenz und Benutzerfreundlichkeit ausgerichtet ist.
-Hier erfahrt ihr alles, was ihr über Credits, Creditverbrauch, Preise, Zahlungsmethoden sowie die Premium-Features des Spiels wissen müsst. Bei Fragen zum Zahlungsvorgang werft gerne einen Blick auf unsere Zahlungs-FAQ.
-Motivation # AirlineSim ist ein sehr &amp;ldquo;nischiges&amp;rdquo; Spiel (= vergleichsweise wenige aktive Spieler*innen). Zudem ist es als ernsthafte Wirtschaftssimulation gedacht, auf deren Servern aufwendige Simulationsmodelle laufen, die sehr ressourcenintensiv sind (= hohe Betriebskosten).</description></item><item><title>Support</title><link>https://handbook.airlinesim.aero/de/docs/about/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/support/</guid><description>Support # Wenn ihr Fragen zum Spiel habt, könnt ihr über die folgenden Kanälen Hilfe finden.
-Forum # Als eine der wichtigsten Community-Plattformen bietet das Forum eine Vielzahl an Kategorien, in denen ihr Fragen stellen, über das Spiel diskutieren und viele hilfreiche Informationen finden könnt! Wenn ihr einen neuen Post verfasst, schaut am besten zunächst, ob es bereits ähnliche Threads gibt, wählt einen passenden Titel für euren Beitrag und achtet auf einen respektvollen Umgang mit anderen.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Über AirlineSim on AirlineSim Handbuch</title><link>https://handbook.airlinesim.aero/de/docs/about/</link><description>Recent content in Über AirlineSim on AirlineSim Handbuch</description><generator>Hugo</generator><language>de</language><atom:link href="https://handbook.airlinesim.aero/de/docs/about/index.xml" rel="self" type="application/rss+xml"/><item><title>Spielkonzept</title><link>https://handbook.airlinesim.aero/de/docs/about/concept/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/concept/</guid><description>&lt;h1 id="spielkonzept">
+ Spielkonzept
+ &lt;a class="anchor" href="#spielkonzept">#&lt;/a>
+&lt;/h1>
+&lt;p>Bei AirlineSim handelt es sich um eine browserbasierte Wirtschaftssimulation, die es Spielenden ermöglicht, ihre eigene Airline zu betreiben und auf einem virtuellen Echtzeitmarkt um Passagiere zu konkurrieren.&lt;/p>
+&lt;p>Realistische Management-Tools helfen beim Aufbau der Flugzeugflotte, der Einrichtung der Kabinen sowie der Erstellung von Flugplänen. Auch die aktuelle Marktlage lässt sich anhand der Tools analysieren, sodass Preise und Servicelevel bei Bedarf angepasst werden können.&lt;/p>
+&lt;p>Es geht jedoch nicht nur um den Wettbewerb: Von Allianzen über Interline-Abkommen bis hin zum Verleasen von Flugzeugen bietet das Spiel vielfältige Möglichkeiten, dauerhafte Verbindungen mit anderen Airlines aufzubauen.&lt;/p></description></item><item><title>Entwicklung</title><link>https://handbook.airlinesim.aero/de/docs/about/development/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/development/</guid><description>&lt;h1 id="entwicklung">
+ Entwicklung
+ &lt;a class="anchor" href="#entwicklung">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="airlinesim">
+ AirlineSim
+ &lt;a class="anchor" href="#airlinesim">#&lt;/a>
+&lt;/h2>
+&lt;p>Die Entwicklung von AirlineSim begann bereits im Januar 2002. Fünf Jahre später wurde simulogics gegründet und was als Hobby begann, entwickelte sich bald zu einem vollwertigen Spielprojekt. Im Laufe der Jahre gab es viele Fortschritte, beispielsweise neue Spielwelten, Verbesserungen im Spiel und nicht zuletzt eine stetig wachsende Community.&lt;/p>
+&lt;h2 id="airlinesim-technology-demonstrator">
+ AirlineSim Technology Demonstrator
+ &lt;a class="anchor" href="#airlinesim-technology-demonstrator">#&lt;/a>
+&lt;/h2>
+&lt;p>Im Dezember 2021 kündigte das Team ein Projekt namens AirlineSim Technology Demonstrator (ASTD) an. Dieser Prototyp soll zeigen, wie das Spiel auf Basis der aktuell verfügbaren technologischen Möglichkeiten aussehen könnte und bildet somit die Grundlage für die zukünftige Entwicklung von AirlineSim.&lt;/p></description></item><item><title>Spielwelten</title><link>https://handbook.airlinesim.aero/de/docs/about/game-worlds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/game-worlds/</guid><description>&lt;h1 id="spielwelten">
+ Spielwelten
+ &lt;a class="anchor" href="#spielwelten">#&lt;/a>
+&lt;/h1>
+&lt;p>Nach dem Login zeigt das Dashboard eine Liste mit den zur Verfügung stehenden Spielwelten an. Die Anzahl der möglichen Spielwelten pro Konto ist nicht begrenzt, allerdings werden für jeden aktiven Server &lt;a href="https://handbook.airlinesim.aero/de/docs/about/payment/">Credits&lt;/a> berechnet.&lt;/p>
+&lt;h2 id="kurzzeit-spielwelten">
+ Kurzzeit-Spielwelten
+ &lt;a class="anchor" href="#kurzzeit-spielwelten">#&lt;/a>
+&lt;/h2>
+&lt;p>Wie der Name schon sagt, haben Kurzzeit-Spielwelten eine begrenzte Laufzeit. Meist stehen sie 8 - 10 Monate zur Verfügung, bevor die nächste Iteration startet. Welche Welten derzeit verfügbar sind, zeigt die untenstehende Tabelle.&lt;/p></description></item><item><title>Zahlungssystem</title><link>https://handbook.airlinesim.aero/de/docs/about/payment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/payment/</guid><description>&lt;h1 id="zahlungssystem">
+ Zahlungssystem
+ &lt;a class="anchor" href="#zahlungssystem">#&lt;/a>
+&lt;/h1>
+&lt;p>AirlineSim verwendet ein Zahlungsmodell, das auf Fairness, Transparenz und Benutzerfreundlichkeit ausgerichtet ist.&lt;/p>
+&lt;p>Hier erfahrt ihr alles, was ihr über Credits, Creditverbrauch, Preise, Zahlungsmethoden sowie die Premium-Features des Spiels wissen müsst. Bei Fragen zum Zahlungsvorgang werft gerne einen Blick auf unsere &lt;a href="https://handbook.airlinesim.aero/de/docs/faqs/payments/">Zahlungs-FAQ&lt;/a>.&lt;/p>
+&lt;h2 id="motivation">
+ Motivation
+ &lt;a class="anchor" href="#motivation">#&lt;/a>
+&lt;/h2>
+&lt;p>AirlineSim ist ein sehr &amp;ldquo;nischiges&amp;rdquo; Spiel (= vergleichsweise wenige aktive Spieler*innen). Zudem ist es als ernsthafte Wirtschaftssimulation gedacht, auf deren Servern aufwendige Simulationsmodelle laufen, die sehr ressourcenintensiv sind (= hohe Betriebskosten).&lt;/p></description></item><item><title>Support</title><link>https://handbook.airlinesim.aero/de/docs/about/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/support/</guid><description>&lt;h1 id="support">
+ Support
+ &lt;a class="anchor" href="#support">#&lt;/a>
+&lt;/h1>
+&lt;p>Wenn ihr Fragen zum Spiel habt, könnt ihr über die folgenden Kanälen Hilfe finden.&lt;/p>
+&lt;h2 id="forum">
+ Forum
+ &lt;a class="anchor" href="#forum">#&lt;/a>
+&lt;/h2>
+&lt;p>Als eine der wichtigsten Community-Plattformen bietet das &lt;a href="https://forums.airlinesim.aero/">Forum&lt;/a> eine Vielzahl an Kategorien, in denen ihr Fragen stellen, über das Spiel diskutieren und viele hilfreiche Informationen finden könnt! Wenn ihr einen neuen Post verfasst, schaut am besten zunächst, ob es bereits ähnliche Threads gibt, wählt einen passenden Titel für euren Beitrag und achtet auf einen respektvollen Umgang mit anderen.&lt;/p></description></item></channel></rss>

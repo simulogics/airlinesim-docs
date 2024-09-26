@@ -1,17 +1,111 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Benutzeroberfläche on AirlineSim Handbuch</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/</link><description>Recent content in Benutzeroberfläche on AirlineSim Handbuch</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://handbook.airlinesim.aero/de/docs/user-interface/index.xml" rel="self" type="application/rss+xml"/><item><title>Firmenübersicht</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/company-overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/company-overview/</guid><description>Firmenübersicht # Wenn ihr den Mauszeiger über den Namen eures Unternehmens oben links auf dem Bildschirm bewegt, erhaltet ihr verschiedene Optionen zu eurer Firma.
-Übersicht # Das Dashboard ist in sieben Abschnitte (auch Widgets genannt) unterteilt - Unternehmen, anstehende Termine, Notizblock, Aktien, Finanzrating, Image und Tochterunternehmen - und ist daher praktisch, wenn ihr schnell Informationen zu eurer Firma abrufen wollt.
-Unternehmen # Das Widget “Unternehmen” zeigt das Logo (falls ihr eins hochgeladen habt) sowie die wichtigsten Informationen zu eurer Firma an (Name, Code, Hauptsitz, Land, Airline-Rating, Flottengröße und Anzahl der Angestellten).</description></item><item><title>Commercial-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/commercial-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/commercial-tab/</guid><description>Commercial-Tab # Das Menü des Commercial-Tabs besteht aus den Abschnitten Network Planning, Sales &amp;amp; Distribution, Product &amp;amp; Customer Service sowie Business Development.
-Network Planning # Flugplanung # Auf dieser Seite könnt ihr die Flugpläne für eine bestimmte Strecke verwalten. Nach der Auswahl eines Flughafenpaares auf der linken Seite erhaltet ihr Informationen über zugehörige Flugnummern und Produktbewertungen.
-Im Textfeld unterhalb des Seitentitels könnt ihr schnell zu einem anderen Flughafenpaar wechseln. Der Code muss das Format AAABBB haben, wobei AAA und BBB die IATA-Flughafencodes der jeweiligen Flughäfen sind.</description></item><item><title>Operations-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/operations-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/operations-tab/</guid><description>Operations-Tab # Der Operations-Tab ist in Flug- und Bodenbetrieb unterteilt.
-Flight Operations # Flottenverwaltung # Auf der Seite Flottenmanagement werden eure erworbenen Flugzeuge angezeigt. Ihr könnt sie organisieren, indem ihr sie verschiedenen Flotten zuordnet.
-Eine neue Flotte kann über die Schaltfläche “Flotte anlegen” oben rechts erstellt werden. Auf der linken Seite findet ihr eine Liste eurer bestehenden Flotten sowie die Option, diese zu löschen. Wenn eine Flotte gelöscht wird, werden alle ihre Flugzeuge auf die Standardflotte übertragen.</description></item><item><title>Management-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/management-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/management-tab/</guid><description>Management-Tab # Das Management-Menü setzt sich aus den Abschnitten Einkauf, Human Resources, Investments und Finance zusammen.
-Einkauf # Flugzeughersteller # Auf dieser Seite seht ihr eine Liste aller verfügbaren Flugzeugtypen, gruppiert nach Hersteller und Kategorie (Props, Regio Jets, Narrow- und Wide-Bodies). Wenn ihr auf ein Flugzeugmodell klickt, erhaltet ihr eine Übersicht der zugehörigen Varianten sowie einige allgemeine Informationen wie deren Kapazitäten, Geschwindigkeit und Reichweite.
-Wählt ihr eine der Varianten aus, öffnet sich das Datenblatt des Flugzeugs, das alle relevanten Details des Modells enthält (z.</description></item><item><title>Datenbank-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/database-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/database-tab/</guid><description>Datenbank-Tab # Über die Registerkarte Datenbank könnt ihr auf wichtige Spielressourcen wie verschiedene Verzeichnisse, das Online Reservation System (ORS) und die Spielregeln zugreifen.
-Verzeichnisse # Länder # In diesem Bereich findet ihr eine Liste aller im Spiel verfügbaren Länder. Wählt ihr ein Land aus, gelangt ihr zu dessen Informationsseite, auf der ihr Details zu den unterzeichneten Verträgen, der Möglichkeit für ausländische Investments und den Flughäfen einsehen könnt.
-Unternehmen # Hier könnt ihr alle Unternehmen einsehen, die in eurer Spielwelt registriert sind.</description></item><item><title>Support-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/support-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/support-tab/</guid><description>Support-Tab # Solltet ihr im Zusammenhang mit dem Spiel auf Probleme stoßen oder Ideen für Verbesserungen haben, hilft euch dieser Tab, den richtigen Support-Kanal zu finden. In unserem Support-Artikel findet ihr alle weiteren Details.</description></item><item><title>Community-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/community-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/community-tab/</guid><description>Community-Tab # Ihr möchtet euch mit anderen Mitgliedern der Community austauschen oder euch über die neuesten Spielupdates informieren? Dann findet ihr in diesem Tab alle Links, die ihr braucht.
-Ob über den AirlineSim-Blog, das Forum, unseren Discord-Server oder Twitter und Facebook - es gibt viele Möglichkeiten, um auf dem Laufenden zu bleiben und Teil der Community zu werden!
-Außerdem findet ihr hier einen Link zu unserem zweiten Titel Prosperous Universe, einer browserbasierten Wirtschaftssimulation, bei der ihr euch auf eine Reise ins Weltall begebt…</description></item><item><title>Private Nachrichten</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/private-messages/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/private-messages/</guid><description>Private Nachrichten # Über dieses Menü könnt ihr eure gesendeten sowie empfangenen Nachrichten im Spiel einsehen.
-Die Nachrichten bestehen aus verschiedenen Postfächern, die jeweils ihren eigenen Posteingang und Postausgang haben. Hier könnt ihr auf empfangene Nachrichten antworten, sie als gelesen bzw. ungelesen markieren und löschen.
-Wenn ihr eine neue Nachricht senden möchtet, ruft die entsprechende Firma oder das Profil der Unternehmensleitung auf und klickt auf die Schaltfläche “Nachricht senden / Diesem Benutzer eine Nachricht schicken…” oben rechts.</description></item><item><title>Einstellungen</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/settings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/settings/</guid><description>Einstellungen # Account # Ihr Profil # Dieser Abschnitt enthält Angaben wie den Usernamen, den Status (Testphase / Premium) sowie die Liste der Holdings und Unternehmen in der Spielwelt.
-Ihre Holdings # Auf dieser Seite werden euer täglicher Credit-Verbrauch sowie der aktuelle Kontostand angezeigt. Auf der rechten Seite seht ihr außerdem eine Liste eurer aktiven Holdings.
-Einstellungen / Spielwelten # Über diesen Menüpunkt gelangt ihr zurück zum Dashboard der Accountverwaltung, das euch auch angezeigt wird, wenn ihr euch über die AirlineSim-Website einloggt.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Benutzeroberfläche on AirlineSim Handbuch</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/</link><description>Recent content in Benutzeroberfläche on AirlineSim Handbuch</description><generator>Hugo</generator><language>de</language><atom:link href="https://handbook.airlinesim.aero/de/docs/user-interface/index.xml" rel="self" type="application/rss+xml"/><item><title>Firmenübersicht</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/company-overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/company-overview/</guid><description>&lt;h1 id="firmenübersicht">
+ Firmenübersicht
+ &lt;a class="anchor" href="#firmen%c3%bcbersicht">#&lt;/a>
+&lt;/h1>
+&lt;p>Wenn ihr den Mauszeiger über den Namen eures Unternehmens oben links auf dem Bildschirm bewegt, erhaltet ihr verschiedene Optionen zu eurer Firma.&lt;/p>
+&lt;h2 id="übersicht">
+ Übersicht
+ &lt;a class="anchor" href="#%c3%bcbersicht">#&lt;/a>
+&lt;/h2>
+&lt;p>Das Dashboard ist in sieben Abschnitte (auch Widgets genannt) unterteilt - Unternehmen, anstehende Termine, Notizblock, Aktien, Finanzrating, Image und Tochterunternehmen - und ist daher praktisch, wenn ihr schnell Informationen zu eurer Firma abrufen wollt.&lt;/p>
+&lt;h3 id="unternehmen">
+ Unternehmen
+ &lt;a class="anchor" href="#unternehmen">#&lt;/a>
+&lt;/h3>
+&lt;p>Das Widget “Unternehmen” zeigt das Logo (falls ihr eins hochgeladen habt) sowie die wichtigsten Informationen zu eurer Firma an (Name, Code, Hauptsitz, Land, Airline-Rating, Flottengröße und Anzahl der Angestellten). Mit einem Klick auf “Infoseite” gelangt ihr zur &lt;a href="#unternehmen-1">Unternehmensseite der Firma&lt;/a>.&lt;/p></description></item><item><title>Commercial-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/commercial-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/commercial-tab/</guid><description>&lt;h1 id="commercial-tab">
+ Commercial-Tab
+ &lt;a class="anchor" href="#commercial-tab">#&lt;/a>
+&lt;/h1>
+&lt;p>Das Menü des Commercial-Tabs besteht aus den Abschnitten Network Planning, Sales &amp;amp; Distribution, Product &amp;amp; Customer Service sowie Business Development.&lt;/p>
+&lt;h2 id="network-planning">
+ Network Planning
+ &lt;a class="anchor" href="#network-planning">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="flugplanung">
+ Flugplanung
+ &lt;a class="anchor" href="#flugplanung">#&lt;/a>
+&lt;/h3>
+&lt;p>&lt;img src="flugplanung_02.PNG" alt="Auswahl eines Flughafenpaares" title="Auswahl eines Flughafenpaares"/>&lt;/p>
+&lt;p>Auf dieser Seite könnt ihr die Flugpläne für eine bestimmte Strecke verwalten. Nach der Auswahl eines Flughafenpaares auf der linken Seite erhaltet ihr Informationen über zugehörige Flugnummern und Produktbewertungen.&lt;/p>
+&lt;p>Im Textfeld unterhalb des Seitentitels könnt ihr schnell zu einem anderen Flughafenpaar wechseln. Der Code muss das Format AAABBB haben, wobei AAA und BBB die IATA-Flughafencodes der jeweiligen Flughäfen sind.&lt;/p></description></item><item><title>Operations-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/operations-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/operations-tab/</guid><description>&lt;h1 id="operations-tab">
+ Operations-Tab
+ &lt;a class="anchor" href="#operations-tab">#&lt;/a>
+&lt;/h1>
+&lt;p>Der Operations-Tab ist in Flug- und Bodenbetrieb unterteilt.&lt;/p>
+&lt;h2 id="flight-operations">
+ Flight Operations
+ &lt;a class="anchor" href="#flight-operations">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="flottenverwaltung">
+ Flottenverwaltung
+ &lt;a class="anchor" href="#flottenverwaltung">#&lt;/a>
+&lt;/h3>
+&lt;p>Auf der Seite Flottenmanagement werden eure erworbenen Flugzeuge angezeigt. Ihr könnt sie organisieren, indem ihr sie verschiedenen Flotten zuordnet.&lt;/p>
+&lt;p>&lt;img src="flotte_01.PNG" alt="Flottenliste" title="Flottenliste"/>&lt;/p>
+&lt;p>Eine neue Flotte kann über die Schaltfläche “Flotte anlegen” oben rechts erstellt werden. Auf der linken Seite findet ihr eine Liste eurer bestehenden Flotten sowie die Option, diese zu löschen. Wenn eine Flotte gelöscht wird, werden alle ihre Flugzeuge auf die Standardflotte übertragen.&lt;/p></description></item><item><title>Management-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/management-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/management-tab/</guid><description>&lt;h1 id="management-tab">
+ Management-Tab
+ &lt;a class="anchor" href="#management-tab">#&lt;/a>
+&lt;/h1>
+&lt;p>Das Management-Menü setzt sich aus den Abschnitten Einkauf, Human Resources, Investments und Finance zusammen.&lt;/p>
+&lt;h2 id="einkauf">
+ Einkauf
+ &lt;a class="anchor" href="#einkauf">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="flugzeughersteller">
+ Flugzeughersteller
+ &lt;a class="anchor" href="#flugzeughersteller">#&lt;/a>
+&lt;/h3>
+&lt;p>Auf dieser Seite seht ihr eine Liste aller verfügbaren Flugzeugtypen, gruppiert nach Hersteller und Kategorie (Props, Regio Jets, Narrow- und Wide-Bodies). Wenn ihr auf ein Flugzeugmodell klickt, erhaltet ihr eine Übersicht der zugehörigen Varianten sowie einige allgemeine Informationen wie deren Kapazitäten, Geschwindigkeit und Reichweite.&lt;/p>
+&lt;p>Wählt ihr eine der Varianten aus, öffnet sich das Datenblatt des Flugzeugs, das alle relevanten Details des Modells enthält (z. B. den Neupreis, Produktionszeitraum und -rate sowie die Routenbeschränkungen, Nutzlast, Reichweite, Lärm- und Wartungskategorie, Performance usw.). Außerdem könnt ihr hier Leasing- / Kaufoptionen neuer Flugzeuge prüfen oder Angebote für gebrauchte Flugzeuge einsehen (falls vorhanden).&lt;/p></description></item><item><title>Datenbank-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/database-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/database-tab/</guid><description>&lt;h1 id="datenbank-tab">
+ Datenbank-Tab
+ &lt;a class="anchor" href="#datenbank-tab">#&lt;/a>
+&lt;/h1>
+&lt;p>Über die Registerkarte Datenbank könnt ihr auf wichtige Spielressourcen wie verschiedene Verzeichnisse, das Online Reservation System (ORS) und die Spielregeln zugreifen.&lt;/p>
+&lt;h2 id="verzeichnisse">
+ Verzeichnisse
+ &lt;a class="anchor" href="#verzeichnisse">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="länder">
+ Länder
+ &lt;a class="anchor" href="#l%c3%a4nder">#&lt;/a>
+&lt;/h3>
+&lt;p>&lt;img src="laender_01.PNG" alt="Länder-Quicklinks" title="Länder-Quicklinks"/>&lt;/p>
+&lt;p>In diesem Bereich findet ihr eine Liste aller im Spiel verfügbaren Länder. Wählt ihr ein Land aus, gelangt ihr zu dessen Informationsseite, auf der ihr Details zu den unterzeichneten Verträgen, der Möglichkeit für ausländische Investments und den Flughäfen einsehen könnt.&lt;/p></description></item><item><title>Support-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/support-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/support-tab/</guid><description>&lt;h1 id="support-tab">
+ Support-Tab
+ &lt;a class="anchor" href="#support-tab">#&lt;/a>
+&lt;/h1>
+&lt;p>Solltet ihr im Zusammenhang mit dem Spiel auf Probleme stoßen oder Ideen für Verbesserungen haben, hilft euch dieser Tab, den richtigen Support-Kanal zu finden. In unserem &lt;a href="https://handbook.airlinesim.aero/de/docs/about/support/">Support-Artikel&lt;/a> findet ihr alle weiteren Details.&lt;/p></description></item><item><title>Community-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/community-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/community-tab/</guid><description>&lt;h1 id="community-tab">
+ Community-Tab
+ &lt;a class="anchor" href="#community-tab">#&lt;/a>
+&lt;/h1>
+&lt;p>Ihr möchtet euch mit anderen Mitgliedern der Community austauschen oder euch über die neuesten Spielupdates informieren? Dann findet ihr in diesem Tab alle Links, die ihr braucht.&lt;/p>
+&lt;p>Ob über den &lt;a href="https://www.airlinesim.aero/blog/de/">AirlineSim-Blog&lt;/a>, das &lt;a href="https://forums.airlinesim.aero/">Forum&lt;/a>, unseren &lt;a href="https://discord.com/invite/5K2Axks">Discord-Server&lt;/a> oder &lt;a href="https://twitter.com/airlinesim">Twitter&lt;/a> und &lt;a href="https://www.facebook.com/airlinesim">Facebook&lt;/a> - es gibt viele Möglichkeiten, um auf dem Laufenden zu bleiben und Teil der Community zu werden!&lt;/p>
+&lt;p>Außerdem findet ihr hier einen Link zu unserem zweiten Titel &lt;a href="https://prosperousuniverse.com/">Prosperous Universe&lt;/a>, einer browserbasierten Wirtschaftssimulation, bei der ihr euch auf eine Reise ins Weltall begebt…&lt;/p></description></item><item><title>Private Nachrichten</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/private-messages/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/private-messages/</guid><description>&lt;h1 id="private-nachrichten">
+ Private Nachrichten
+ &lt;a class="anchor" href="#private-nachrichten">#&lt;/a>
+&lt;/h1>
+&lt;p>Über dieses Menü könnt ihr eure gesendeten sowie empfangenen Nachrichten im Spiel einsehen.&lt;/p>
+&lt;p>Die Nachrichten bestehen aus verschiedenen Postfächern, die jeweils ihren eigenen Posteingang und Postausgang haben. Hier könnt ihr auf empfangene Nachrichten antworten, sie als gelesen bzw. ungelesen markieren und löschen.&lt;/p>
+&lt;p>Wenn ihr eine neue Nachricht senden möchtet, ruft die entsprechende Firma oder das Profil der Unternehmensleitung auf und klickt auf die Schaltfläche “Nachricht senden / Diesem Benutzer eine Nachricht schicken…” oben rechts.&lt;/p></description></item><item><title>Einstellungen</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/settings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/settings/</guid><description>&lt;h1 id="einstellungen">
+ Einstellungen
+ &lt;a class="anchor" href="#einstellungen">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="account">
+ Account
+ &lt;a class="anchor" href="#account">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="ihr-profil">
+ Ihr Profil
+ &lt;a class="anchor" href="#ihr-profil">#&lt;/a>
+&lt;/h3>
+&lt;p>Dieser Abschnitt enthält Angaben wie den Usernamen, den Status (Testphase / Premium) sowie die Liste der Holdings und Unternehmen in der Spielwelt.&lt;/p>
+&lt;h3 id="ihre-holdings">
+ Ihre Holdings
+ &lt;a class="anchor" href="#ihre-holdings">#&lt;/a>
+&lt;/h3>
+&lt;p>Auf dieser Seite werden euer täglicher Credit-Verbrauch sowie der aktuelle Kontostand angezeigt. Auf der rechten Seite seht ihr außerdem eine Liste eurer aktiven Holdings.&lt;/p>
+&lt;h3 id="einstellungen--spielwelten">
+ Einstellungen / Spielwelten
+ &lt;a class="anchor" href="#einstellungen--spielwelten">#&lt;/a>
+&lt;/h3>
+&lt;p>Über diesen Menüpunkt gelangt ihr zurück zum Dashboard der Accountverwaltung, das euch auch angezeigt wird, wenn ihr euch über die &lt;a href="https://www.airlinesim.aero/de/">AirlineSim-Website&lt;/a> einloggt. Hier könnt ihr die verfügbaren Spielwelten sehen, Credits kaufen und Accounteinstellungen wie E-Mail-Adresse, Passwort und Benachrichtigungen anpassen.&lt;/p></description></item></channel></rss>

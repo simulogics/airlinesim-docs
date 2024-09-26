@@ -1,5 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FAQs on AirlineSim Handbook</title><link>https://handbook.airlinesim.aero/en/docs/faqs/</link><description>Recent content in FAQs on AirlineSim Handbook</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://handbook.airlinesim.aero/en/docs/faqs/index.xml" rel="self" type="application/rss+xml"/><item><title>General</title><link>https://handbook.airlinesim.aero/en/docs/faqs/general/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/faqs/general/</guid><description>General # What is AirlineSim about? # AirlineSim is a browser-based business simulation in which you can create your own virtual airline and compete for passengers in a market that operates in real time. See Game Concept for more details.
-How much does it cost? # The game employs a pay-to-play payment system that requires the purchase of credits. If this is your first time playing AirlineSim, your new account will be equipped with 60 credits that cover a trial period of about two weeks.</description></item><item><title>Payments</title><link>https://handbook.airlinesim.aero/en/docs/faqs/payments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/faqs/payments/</guid><description>Payments # This article is meant to help you with possible questions regarding the payment process for AirlineSim credits.
-Missing Payment Methods # Right now, AirlineSim offers five different payment methods during checkout:
-Credit or Debit Card (Visa, MasterCard, American Express) PayPal paysafecard Online Bank Transfer Prepayment All payment methods offered by Steam (when playing through Steam) Which ones are available to you can depend on your country as well as the credit package you picked.</description></item><item><title>Handbook Contributions</title><link>https://handbook.airlinesim.aero/en/docs/faqs/contributing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/faqs/contributing/</guid><description>Contributing to the Handbook # If you&amp;rsquo;d like to contribute to the AirlineSim handbook yourself, you can check out the readme document on our GitHub page. If you have any further questions, feel free to contact us!</description></item><item><title>Steam Release</title><link>https://handbook.airlinesim.aero/en/docs/faqs/steam/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/faqs/steam/</guid><description>Steam Release # In this article, we&amp;rsquo;re covering everything you need to know about AirlineSim’s release on Steam. The AirlineSim store page on Steam can be accessed here.
-Why did you decide to release AirlineSim on Steam? # One of our objectives approaching the Steam release was to explore a new platform for AirlineSim, making it available to more players all across the globe and thus creating a solid foundation for the future development of the game.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FAQs on AirlineSim Handbook</title><link>https://handbook.airlinesim.aero/en/docs/faqs/</link><description>Recent content in FAQs on AirlineSim Handbook</description><generator>Hugo</generator><language>en</language><atom:link href="https://handbook.airlinesim.aero/en/docs/faqs/index.xml" rel="self" type="application/rss+xml"/><item><title>General</title><link>https://handbook.airlinesim.aero/en/docs/faqs/general/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/faqs/general/</guid><description>&lt;h1 id="general">
+ General
+ &lt;a class="anchor" href="#general">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="what-is-airlinesim-about">
+ What is AirlineSim about?
+ &lt;a class="anchor" href="#what-is-airlinesim-about">#&lt;/a>
+&lt;/h2>
+&lt;p>AirlineSim is a browser-based business simulation in which you can create your own virtual airline and compete for passengers in a market that operates in real time. See &lt;a href="https://handbook.airlinesim.aero/en/docs/about/concept/">Game Concept&lt;/a> for more details.&lt;/p>
+&lt;h2 id="how-much-does-it-cost">
+ How much does it cost?
+ &lt;a class="anchor" href="#how-much-does-it-cost">#&lt;/a>
+&lt;/h2>
+&lt;p>The game employs a pay-to-play payment system that requires the purchase of credits. If this is your first time playing AirlineSim, your new account will be equipped with 60 credits that cover a trial period of about two weeks. This way, you can try out the game for free! For more information on prices, visit &lt;a href="https://handbook.airlinesim.aero/en/docs/about/payment/">Payment System&lt;/a>.&lt;/p></description></item><item><title>Payments</title><link>https://handbook.airlinesim.aero/en/docs/faqs/payments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/faqs/payments/</guid><description>&lt;h1 id="payments">
+ Payments
+ &lt;a class="anchor" href="#payments">#&lt;/a>
+&lt;/h1>
+&lt;p>This article is meant to help you with possible questions regarding the payment process for AirlineSim credits.&lt;/p>
+&lt;h2 id="missing-payment-methods">
+ Missing Payment Methods
+ &lt;a class="anchor" href="#missing-payment-methods">#&lt;/a>
+&lt;/h2>
+&lt;p>Right now, AirlineSim offers five different payment methods during checkout:&lt;/p>
+&lt;ul>
+&lt;li>Credit or Debit Card (Visa, MasterCard, American Express)&lt;/li>
+&lt;li>PayPal&lt;/li>
+&lt;li>paysafecard&lt;/li>
+&lt;li>Online Bank Transfer&lt;/li>
+&lt;li>Prepayment&lt;/li>
+&lt;li>All payment methods offered by Steam (when playing through Steam)&lt;/li>
+&lt;/ul>
+&lt;p>Which ones are available to you can depend on your country as well as the credit package you picked. If a payment method doesn&amp;rsquo;t show up, try selecting another package size.&lt;/p></description></item><item><title>Handbook Contributions</title><link>https://handbook.airlinesim.aero/en/docs/faqs/contributing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/faqs/contributing/</guid><description>&lt;h1 id="contributing-to-the-handbook">
+ Contributing to the Handbook
+ &lt;a class="anchor" href="#contributing-to-the-handbook">#&lt;/a>
+&lt;/h1>
+&lt;p>If you&amp;rsquo;d like to contribute to the AirlineSim handbook yourself, you can check out the readme document on our &lt;a href="https://github.com/simulogics/airlinesim-docs">GitHub page&lt;/a>. If you have any further questions, feel free to &lt;a href="https://handbook.airlinesim.aero/en/docs/about/support/">contact us&lt;/a>!&lt;/p></description></item><item><title>Steam Release</title><link>https://handbook.airlinesim.aero/en/docs/faqs/steam/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/faqs/steam/</guid><description>&lt;h1 id="steam-release">
+ Steam Release
+ &lt;a class="anchor" href="#steam-release">#&lt;/a>
+&lt;/h1>
+&lt;p>In this article, we&amp;rsquo;re covering everything you need to know about AirlineSim’s release on Steam. The AirlineSim store page on Steam can be accessed &lt;a href="https://store.steampowered.com/app/2715810/AirlineSim/">here&lt;/a>.&lt;/p>
+&lt;h2 id="why-did-you-decide-to-release-airlinesim-on-steam">
+ Why did you decide to release AirlineSim on Steam?
+ &lt;a class="anchor" href="#why-did-you-decide-to-release-airlinesim-on-steam">#&lt;/a>
+&lt;/h2>
+&lt;p>One of our objectives approaching the Steam release was to explore a new platform for AirlineSim, making it available to more players all across the globe and thus creating a solid foundation for the future development of the game.&lt;/p></description></item></channel></rss>

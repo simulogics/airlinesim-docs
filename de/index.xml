@@ -1,69 +1,455 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Handbuch on AirlineSim Handbuch</title><link>https://handbook.airlinesim.aero/de/</link><description>Recent content in Handbuch on AirlineSim Handbuch</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://handbook.airlinesim.aero/de/index.xml" rel="self" type="application/rss+xml"/><item><title>Allgemein</title><link>https://handbook.airlinesim.aero/de/docs/faqs/general/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/faqs/general/</guid><description>Allgemein # Worum geht es bei AirlineSim? # AirlineSim ist eine browserbasierte Wirtschaftssimulation, in der ihr eure eigene Airline gründen und auf einem virtuellen Markt in Echtzeit um Passagiere konkurrieren könnt. Weitere Details findet ihr unter Spielkonzept.
-Wie viel kostet das Spiel? # Für AirlineSim verwenden wir ein Pay-to-Play-Bezahlmodell, das den Kauf von Credits erfordert, um auf das Spiel zuzugreifen. Wenn ihr AirlineSim zum ersten Mal spielt, erhaltet ihr 60 kostenlose Credits, die euch eine Probezeit von etwa zwei Wochen ermöglichen!</description></item><item><title>Allianzen</title><link>https://handbook.airlinesim.aero/de/docs/advanced/alliances-and-interlining/alliances/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/alliances-and-interlining/alliances/</guid><description>Allianzen # Ihr möchtet im Spiel Verbindungen zu anderen Mitgliedern der Community aufbauen, wisst aber nicht genau wie? Dann kommt vielleicht eine Allianz für euch infrage. Was es damit auf sich hat, fragt ihr euch?
-Allianzen sind geschäftliche Kooperationsvereinbarungen zwischen einer Reihe von Unternehmen. Sie verleihen dem Spiel einen Hauch von Realität und bieten euch eine großartige Möglichkeit, AirlineSim zusammen mit anderen zu genießen. Die Ziele einer Allianz, ihre Mitgliedschaftskriterien und andere Formalitäten werden von ihren Mitgliedern intern festgelegt.</description></item><item><title>Einführung</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/introduction/</guid><description>Die erste Airline # Ihr seid neu bei AirlineSim und möchtet wissen, wie ihr am besten durchstartet? Dann seid ihr hier genau richtig!
-Dieses Tutorial begleitet euch auf den ersten Schritten im Spiel - von der Gründung eures neuen Unternehmens und dem Aufbau der Flotte bis hin zur Konfiguration der Flugzeugkabinen und Flugpläne.
-Bereit, loszulegen? Dann auf zur Firmengründung!</description></item><item><title>Firmenübersicht</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/company-overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/company-overview/</guid><description>Firmenübersicht # Wenn ihr den Mauszeiger über den Namen eures Unternehmens oben links auf dem Bildschirm bewegt, erhaltet ihr verschiedene Optionen zu eurer Firma.
-Übersicht # Das Dashboard ist in sieben Abschnitte (auch Widgets genannt) unterteilt - Unternehmen, anstehende Termine, Notizblock, Aktien, Finanzrating, Image und Tochterunternehmen - und ist daher praktisch, wenn ihr schnell Informationen zu eurer Firma abrufen wollt.
-Unternehmen # Das Widget “Unternehmen” zeigt das Logo (falls ihr eins hochgeladen habt) sowie die wichtigsten Informationen zu eurer Firma an (Name, Code, Hauptsitz, Land, Airline-Rating, Flottengröße und Anzahl der Angestellten).</description></item><item><title>Holdings vs. Tochtergesellschaften</title><link>https://handbook.airlinesim.aero/de/docs/advanced/setup/holdings-vs-subsidiaries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/setup/holdings-vs-subsidiaries/</guid><description>Holdings vs. Tochtergesellschaften # Zu Beginn des Spiels erstellt ihr eine Holding in einem Land eurer Wahl und erhaltet ein Startkapital von 10 Millionen AS$ (bitte beachtet, dass die Höhe des Startkapitals je nach Spielwelt variieren kann). Mit diesem Kapital könnt ihr dann Flugzeuge erwerben und mit eurem neuen Unternehmen durchstarten. Ihr könnt das Geld (oder Teile davon) aber auch für die Gründung einer Tochtergesellschaft verwenden. In diesem Fall können Flottenaufbau und Flugbetrieb über die Tochtergesellschaft laufen.</description></item><item><title>Ladefaktoren</title><link>https://handbook.airlinesim.aero/de/docs/advanced/finances/load-factors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/finances/load-factors/</guid><description>Ladefaktoren # Ein Flugzeug, das halb leer fliegt, verliert Geld. Achtet also darauf, eure Flugzeuge so voll wie möglich zu halten. Wenn ihr nicht genug Nutzlast habt, braucht ihr ein weiteres Flugzeug, das Gewinn macht, um die Verluste auszugleichen. Das bedeutet jedoch, dass ihr Geld in zwei Flugzeuge investieren müsst und das Nettoergebnis trotzdem gleich Null ist.
-Beispiel
-Nehmen wir an, ihr habt ein Flugzeug mit 100 Sitzplätzen und der Punkt, ab dem ihr die Kosten decken könnt, liegt bei etwa 70%.</description></item><item><title>Online Reservation System</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/online-reservation-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/bookings/online-reservation-system/</guid><description>Online Reservation System # Das Online Reservation System (ORS) ist eines der Kernfeatures des Spiels. Es generiert täglich eine Vielzahl von Verbindungen und verteilt die Passagiere auf die Flüge der Spielenden.
-Die Flüge werden drei Tage vor ihrem Abflug in das ORS aufgenommen. Nehmen wir mal an, ihr aktiviert einen Flugplan am Montagmorgen und der erste Flug soll um 11 Uhr abheben. In diesem Fall müsst ihr bis 11 Uhr warten, bevor euer erster Flug in der Flugliste erscheint.</description></item><item><title>Registrierung</title><link>https://handbook.airlinesim.aero/de/docs/account-management/account-creation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/account-management/account-creation/</guid><description>Registrierung # Bevor ihr loslegt, müsst ihr ein Konto anlegen. Besucht dazu einfach die AirlineSim-Website und klickt auf die Login-Schaltfläche. Anschließend geht ihr auf &amp;ldquo;Jetzt registrieren&amp;rdquo; und wählt einen Anzeigenamen (ohne Sonder- / Leerzeichen), gebt eine gültige E-Mail-Adresse ein und erstellt ein Passwort für euer Konto.
-Info
-Manchmal kann es zu Problemen kommen, wenn Registrierungs-Mails an Hotmail- oder MSN-Adressen gesendet werden. Versucht, wenn möglich, eine andere E-Mail-Adresse für die Registrierung zu verwenden.</description></item><item><title>Spielkonzept</title><link>https://handbook.airlinesim.aero/de/docs/about/concept/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/concept/</guid><description>Spielkonzept # Bei AirlineSim handelt es sich um eine browserbasierte Wirtschaftssimulation, die es Spielenden ermöglicht, ihre eigene Airline zu betreiben und auf einem virtuellen Echtzeitmarkt um Passagiere zu konkurrieren.
-Realistische Management-Tools helfen beim Aufbau der Flugzeugflotte, der Einrichtung der Kabinen sowie der Erstellung von Flugplänen. Auch die aktuelle Marktlage lässt sich anhand der Tools analysieren, sodass Preise und Servicelevel bei Bedarf angepasst werden können.
-Es geht jedoch nicht nur um den Wettbewerb: Von Allianzen über Interline-Abkommen bis hin zum Verleasen von Flugzeugen bietet das Spiel vielfältige Möglichkeiten, dauerhafte Verbindungen mit anderen Airlines aufzubauen.</description></item><item><title>Wartungskategorien</title><link>https://handbook.airlinesim.aero/de/docs/advanced/fleet/maintenance-categories/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/fleet/maintenance-categories/</guid><description>Wartungskategorien # Jeder Flugzeugtyp in AirlineSim hat eine eigene Wartungskategorie, die angibt, mit welchen anderen Modellen er zusammen gewartet werden kann, z.B. ein Airbus A318 mit einem A319, A320 oder A321. Flugzeuge der gleichen Kategorie haben aufgrund technischer Ähnlichkeiten oft auch ähnliche Anforderungen in Bezug auf die Wartung. Welcher Kategorie ein Flugzeug angehört, könnt ihr überprüfen, indem ihr einen Blick auf dessen Datenblatt werft (Abschnitt “Technische Daten”).
-Während sich ein A320 und ein A318 kaum unterscheiden, ist eine Boeing 737 ein völlig anderes Flugzeug mit anderen Anforderungen.</description></item><item><title>Aufkommensberechnung</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/demand/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/bookings/demand/</guid><description>Aufkommensberechnung # Damit ihr besser nachvollziehen könnt, wie die Nachfrage in AirlineSim funktioniert, findet ihr hier ein kleines Q&amp;amp;A.
-Spielt die Tageszeit bei Flügen eine Rolle? # Nein, die Passagiere werden alle Abflug- und Ankunftszeiten gleich behandeln. Die Gesamtreisezeit beeinflusst jedoch die Flugbewertung.
-Schwankt die Passagiernachfrage saisonal? # Nein, saisonale Schwankungen spielen für die Nachfrage derzeit keine Rolle.
-Ist es den Fluggästen wichtig, an welchem Tag sie fliegen? # Die Fluggäste buchen nur Flüge innerhalb der nächsten drei Tage, aber sie buchen jeden dieser Tage, wenn einige Tage voll oder nicht verfügbar sind.</description></item><item><title>Commercial-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/commercial-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/commercial-tab/</guid><description>Commercial-Tab # Das Menü des Commercial-Tabs besteht aus den Abschnitten Network Planning, Sales &amp;amp; Distribution, Product &amp;amp; Customer Service sowie Business Development.
-Network Planning # Flugplanung # Auf dieser Seite könnt ihr die Flugpläne für eine bestimmte Strecke verwalten. Nach der Auswahl eines Flughafenpaares auf der linken Seite erhaltet ihr Informationen über zugehörige Flugnummern und Produktbewertungen.
-Im Textfeld unterhalb des Seitentitels könnt ihr schnell zu einem anderen Flughafenpaar wechseln. Der Code muss das Format AAABBB haben, wobei AAA und BBB die IATA-Flughafencodes der jeweiligen Flughäfen sind.</description></item><item><title>Deaktivierung</title><link>https://handbook.airlinesim.aero/de/docs/account-management/account-deactivation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/account-management/account-deactivation/</guid><description>Deaktivierung # Wenn ihr euer Konto schließen möchtet, sendet uns bitte ein Support-Ticket per E-Mail, damit wir das Konto für euch deaktivieren können.
-Warnung
-Eine Kontodeaktivierung betrifft sowohl euer AirlineSim- als auch euer Prosperous Universe-Profil. Falls ihr das Konto nur aus einer AirlineSim-Spielwelt entfernen möchtet, klickt einfach auf Einstellungen (oben rechts in eurer aktiven Spielwelt) und wählt die Option &amp;ldquo;Spielwelt deaktivieren&amp;rdquo;. Dadurch werden alle Holdings und Tochtergesellschaften des Kontos unwiderruflich gelöscht.</description></item><item><title>Entwicklung</title><link>https://handbook.airlinesim.aero/de/docs/about/development/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/development/</guid><description>Entwicklung # AirlineSim # Die Entwicklung von AirlineSim begann bereits im Januar 2002. Fünf Jahre später wurde simulogics gegründet und was als Hobby begann, entwickelte sich bald zu einem vollwertigen Spielprojekt. Im Laufe der Jahre gab es viele Fortschritte, beispielsweise neue Spielwelten, Verbesserungen im Spiel und nicht zuletzt eine stetig wachsende Community.
-AirlineSim Technology Demonstrator # Im Dezember 2021 kündigte das Team ein Projekt namens AirlineSim Technology Demonstrator (ASTD) an.</description></item><item><title>Firmengründung</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/company-setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/company-setup/</guid><description>Firmengründung # Planung der Unternehmensstruktur # Nach der Erstellung eures AirlineSim-Kontos und der Auswahl einer Spielwelt kann es zunächst hilfreich sein, die Struktur eures Unternehmens zu planen - insbesondere wenn der Server Börsengänge (IPOs) unterstützt.
-Zwar kann die erste Holding bereits für den regulären Flugbetrieb verwendet werden, für einen Börsengang eignet sie sich jedoch nicht. Möchtet ihr mit eurer Firma an die Börse gehen, müsst ihr zuerst ein Tochterunternehmen gründen.</description></item><item><title>Interlining</title><link>https://handbook.airlinesim.aero/de/docs/advanced/alliances-and-interlining/interlining/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/alliances-and-interlining/interlining/</guid><description>Interlining # Eine weitere Möglichkeit euch mit anderen zu vernetzen ist das Interlining. Hierbei geht es um Vereinbarungen zwischen Airlines in Bezug auf Passagiertransfers, insbesondere die Möglichkeit für Passagiere, zwischen Flügen umzusteigen, die von Fluggesellschaften mit Interlining-Vereinbarungen durchgeführt werden.
-In der Realität ist dies eine ziemlich komplizierte Angelegenheit, aber in AirlineSim wird ein vereinfachtes Modell verwendet.
-Einrichtung von Interlining-Abkommen # Damit Passagiere zwischen Flügen von zwei verschiedenen Airlines umsteigen können, muss ein Interlining-Abkommen abgeschlossen werden.</description></item><item><title>Ticketpreise</title><link>https://handbook.airlinesim.aero/de/docs/advanced/finances/ticket-prices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/finances/ticket-prices/</guid><description>Ticketpreise # Wie viel zahlen Passagiere? # Die Antwort hierauf ist eigentlich recht einfach: Seid ihr die einzige Airline in der Region, werden Passagiere viel Geld bezahlen, um eure Flüge zu buchen. Gefallen wird ihnen das vielleicht nicht, zahlen werden sie aber trotzdem. Da ihr aber wahrscheinlich selten die einzig verfügbare Airline seid, sind hier ein paar Faustregeln, die euch bei der Wahl der Ticketpreise helfen sollen.
-Bietet ihr gute Sitze und guten Service, könnt ihr versuchen, Tickets zu verkaufen, die 25% über dem Standardpreis liegen.</description></item><item><title>Treibstoffverbrauch</title><link>https://handbook.airlinesim.aero/de/docs/advanced/fleet/fuel-consumption/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/fleet/fuel-consumption/</guid><description>Treibstoffverbrauch # Treibstoff ist nicht billig. Jeder Dollar, den ihr für Treibstoff bezahlt, verringert euren Gewinn, daher ist es wichtig, das richtige Flugzeug für die richtige Route auszuwählen.
-Im Spiel sind die beiden wichtigsten Faktoren für den Treibstoffverbrauch der Treibstoff pro Flug und der Treibstoff pro Kilometer.
-Der Treibstoff pro Flug (oder pro Zyklus) wird für das Rollen / Taxiing, den Start, den Aufstieg auf Reiseflughöhe und die Landung verbraucht.</description></item><item><title>Verkehrsrechte</title><link>https://handbook.airlinesim.aero/de/docs/advanced/setup/traffic-rights/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/setup/traffic-rights/</guid><description>Verkehrsrechte # Wie ihr sicher schnell feststellt, treten eure Fluggesellschaften in AirlineSim primär als nationale, nicht globale Einheiten auf. Luftverkehrsabkommen zwischen einzelnen Ländern regeln die Beförderung von Passagieren in der realen Welt und auch AirlineSim bildet dies, wenn auch in leicht vereinfachter Form, ab.
-Was sind Verkehrsrechte? # Unter Verkehrsrechten verstehen wir die Regeln, die bestimmen, ob ihr Passagiere zwischen zwei Zielen befördern könnt. Eure Rechte, einen bestimmten Markt zu bedienen, werden durch das Land bestimmt, in dem sich eure Holding befindet.</description></item><item><title>Zahlungen</title><link>https://handbook.airlinesim.aero/de/docs/faqs/payments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/faqs/payments/</guid><description>Zahlungen # In diesem Artikel sammeln wir Fragen und Antworten zu den wichtigsten Themen rund um den Bezahlvorgang bei AirlineSim.
-Eine Zahlungsmethode fehlt - was jetzt? # Zurzeit bietet euch AirlineSim fünf verschiedene Zahlungsmöglichkeiten:
-Kredit- oder Debitkarte (Visa, MasterCard, American Express) PayPal paysafecard Online-Überweisung Vorkasse Alle von Steam angebotenen Bezahlmethoden (wenn über Steam gespielt wird) Welche Zahlungsmethoden im individuellen Fall zur Verfügung stehen, hängt von eurem Land und dem gewählten Credit-Paket ab.</description></item><item><title>Einstellungen</title><link>https://handbook.airlinesim.aero/de/docs/account-management/account-settings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/account-management/account-settings/</guid><description>Einstellungen # Um auf die Einstellungen eures Kontos zuzugreifen, meldet euch über die AirlineSim-Website an und klickt auf Accounteinstellungen. Hier könnt ihr die E-Mail-Adresse, das Passwort und die Benachrichtigungen eures Kontos anpassen.
-Änderung der E-Mail-Adresse # Um die E-Mail-Adresse des Kontos anzupassen, gebt eure neue E-Mail-Adresse in die erforderlichen Felder ein und klickt anschließend auf &amp;ldquo;Adresse ändern&amp;rdquo;. Da eine gültige E-Mail-Adresse benötigt wird, müssen Änderungen durch die Eingabe eines Codes bestätigt werden, der an die neue Adresse geschickt wird.</description></item><item><title>Flugbewertung</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/flight-rating-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/bookings/flight-rating-system/</guid><description>Flugbewertung # Das Flight Rating System (FRS) wurde entwickelt, um eine detaillierte Qualitätsbewertung einzelner Flüge zu ermöglichen. Außerdem helfen die Bewertungen dabei, den Einfluss eines Fluges auf das Image der Airline zu berechnen.
-Die Bewertung kann über die Inventory- oder Flugnummern-Seite im Commercial-Tab aufgerufen werden. Um die Übersicht der Fluginformationen aufzurufen, klickt einfach auf den kleinen weißen Pfeil neben dem Flug eurer Wahl.
-Die Bewertungen eines Fluges können im Tab “Flugbewertung” überprüft werden und bestehen aus zwei separaten Komponenten, den Produkt- und den Imagefaktoren.</description></item><item><title>Handbuch-Beiträge</title><link>https://handbook.airlinesim.aero/de/docs/faqs/contributing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/faqs/contributing/</guid><description>Zum AirlineSim-Handbuch beitragen # Wenn ihr selbst zum Handbuch beitragen möchtet, hilft euch das Readme-Dokument auf unserer GitHub-Seite weiter. Bei Fragen könnt ihr euch zudem gerne jederzeit an uns wenden! Unsere Kontaktmöglichkeiten findet ihr hier.</description></item><item><title>Immediate Delivery Programm</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/immediate-delivery-program/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/immediate-delivery-program/</guid><description>Immediate Delivery Programm # Vielleicht ist euch nach der Gründung eures Unternehmens bereits die neue Nachricht in eurem Postfach aufgefallen. Immer wenn ihr einen Betrieb in einer neuen Spielwelt erstellt, heißt euch die Aircraft Trade and Leasing Organization (ATO) zum Immediate Delivery Programm (IDP) willkommen.
-Das IDP ist dazu gedacht, euer neues Unternehmen für den Wettbewerb fit zu machen und erlaubt es euch, neue Flugzeuge zu leasen, ohne Lieferzeiten abzuwarten!</description></item><item><title>Operations-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/operations-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/operations-tab/</guid><description>Operations-Tab # Der Operations-Tab ist in Flug- und Bodenbetrieb unterteilt.
-Flight Operations # Flottenverwaltung # Auf der Seite Flottenmanagement werden eure erworbenen Flugzeuge angezeigt. Ihr könnt sie organisieren, indem ihr sie verschiedenen Flotten zuordnet.
-Eine neue Flotte kann über die Schaltfläche “Flotte anlegen” oben rechts erstellt werden. Auf der linken Seite findet ihr eine Liste eurer bestehenden Flotten sowie die Option, diese zu löschen. Wenn eine Flotte gelöscht wird, werden alle ihre Flugzeuge auf die Standardflotte übertragen.</description></item><item><title>Spielwelten</title><link>https://handbook.airlinesim.aero/de/docs/about/game-worlds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/game-worlds/</guid><description>Spielwelten # Nach dem Login zeigt das Dashboard eine Liste mit den zur Verfügung stehenden Spielwelten an. Die Anzahl der möglichen Spielwelten pro Konto ist nicht begrenzt, allerdings werden für jeden aktiven Server Credits berechnet.
-Kurzzeit-Spielwelten # Wie der Name schon sagt, haben Kurzzeit-Spielwelten eine begrenzte Laufzeit. Meist stehen sie 8 - 10 Monate zur Verfügung, bevor die nächste Iteration startet. Welche Welten derzeit verfügbar sind, zeigt die untenstehende Tabelle.</description></item><item><title>Verleasen und Verkaufen</title><link>https://handbook.airlinesim.aero/de/docs/advanced/finances/leasing-and-selling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/finances/leasing-and-selling/</guid><description>Verleasen und Verkaufen # Wenn ihr Flugzeuge aus eurem Besitz auf dem Flugzeugmarkt verleasen oder verkaufen möchtet, navigiert einfach zur Flottenverwaltung (Operations-Tab) und klickt auf das kleine Buchsymbol neben dem gewünschten Modell. So könnt ihr euer Flugzeug zum Verkauf oder zum Leasing anbieten.
-In beiden Fällen werden euch die verfügbaren Preisoptionen angezeigt, unter anderem der Startpreis und die Bietfrist. Denkt daran, dass die Einstellungen des Flugzeugs, der Flugplan und die Sitzplätze entfernt werden, sobald ihr das Angebot aktiviert.</description></item><item><title>Aufbau der Flotte</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/building-your-fleet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/building-your-fleet/</guid><description>Aufbau der Flotte # Um eure Airline startklar zu machen, schauen wir uns nun an, wie ihr eure ersten Flugzeuge leasen oder kaufen könnt. Aufgrund der großen Auswahl an verfügbaren Maschinen solltet ihr euch zunächst überlegen, welcher Flugzeugtyp am besten zu eurem Betrieb passt!
-Auswahl der Flugzeugtypen # Zunächst kann es hilfreich sein, über die geplanten Zielflughäfen eurer Airline nachzudenken. Mit ein paar möglichen Routen im Hinterkopf solltet ihr euch bereits ein besseres Bild von eurer zukünftigen Flotte machen können.</description></item><item><title>Börsengänge</title><link>https://handbook.airlinesim.aero/de/docs/advanced/finances/initial-public-offerings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/finances/initial-public-offerings/</guid><description>Börsengänge (Initial Public Offerings) # In einigen Spielwelten ist es möglich, einen Börsengang (Initial Public Offering / IPO) durchzuführen. Frühestens zwei Wochen nach der Gründung eines Unternehmens könnt ihr eine Notierung an der AirlineSim-Börse beantragen und mit dem öffentlichen Aktienhandel beginnen.
-Grundregeln # Anbei noch ein paar allgemeine Regeln und Tipps zu Börsengängen und -geschäften, die besonders dazu dienen, neue IPOs zu schützen und die Einhaltung der Spielregeln sicherzustellen:</description></item><item><title>Management-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/management-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/management-tab/</guid><description>Management-Tab # Das Management-Menü setzt sich aus den Abschnitten Einkauf, Human Resources, Investments und Finance zusammen.
-Einkauf # Flugzeughersteller # Auf dieser Seite seht ihr eine Liste aller verfügbaren Flugzeugtypen, gruppiert nach Hersteller und Kategorie (Props, Regio Jets, Narrow- und Wide-Bodies). Wenn ihr auf ein Flugzeugmodell klickt, erhaltet ihr eine Übersicht der zugehörigen Varianten sowie einige allgemeine Informationen wie deren Kapazitäten, Geschwindigkeit und Reichweite.
-Wählt ihr eine der Varianten aus, öffnet sich das Datenblatt des Flugzeugs, das alle relevanten Details des Modells enthält (z.</description></item><item><title>Steam-Release</title><link>https://handbook.airlinesim.aero/de/docs/faqs/steam/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/faqs/steam/</guid><description>Steam-Release # In diesem Artikel erfahrt ihr alles, was ihr über die Veröffentlichung von AirlineSim auf Steam wissen müsst. Die AirlineSim-Store-Seite auf Steam erreicht ihr hier.
-Warum habt ihr euch dazu entschieden, AirlineSim auf Steam zu veröffentlichen? # Eines unserer Ziele im Hinblick auf den Steam-Release ist es, eine neue Plattform für AirlineSim zu erkunden, über die wir Spieler*innen auf der ganzen Welt erreichen und eine solide Grundlage für die zukünftige Entwicklung unseres Spiels schaffen können.</description></item><item><title>Zahlungssystem</title><link>https://handbook.airlinesim.aero/de/docs/about/payment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/payment/</guid><description>Zahlungssystem # AirlineSim verwendet ein Zahlungsmodell, das auf Fairness, Transparenz und Benutzerfreundlichkeit ausgerichtet ist.
-Hier erfahrt ihr alles, was ihr über Credits, Creditverbrauch, Preise, Zahlungsmethoden sowie die Premium-Features des Spiels wissen müsst. Bei Fragen zum Zahlungsvorgang werft gerne einen Blick auf unsere Zahlungs-FAQ.
-Motivation # AirlineSim ist ein sehr &amp;ldquo;nischiges&amp;rdquo; Spiel (= vergleichsweise wenige aktive Spieler*innen). Zudem ist es als ernsthafte Wirtschaftssimulation gedacht, auf deren Servern aufwendige Simulationsmodelle laufen, die sehr ressourcenintensiv sind (= hohe Betriebskosten).</description></item><item><title>Datenbank-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/database-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/database-tab/</guid><description>Datenbank-Tab # Über die Registerkarte Datenbank könnt ihr auf wichtige Spielressourcen wie verschiedene Verzeichnisse, das Online Reservation System (ORS) und die Spielregeln zugreifen.
-Verzeichnisse # Länder # In diesem Bereich findet ihr eine Liste aller im Spiel verfügbaren Länder. Wählt ihr ein Land aus, gelangt ihr zu dessen Informationsseite, auf der ihr Details zu den unterzeichneten Verträgen, der Möglichkeit für ausländische Investments und den Flughäfen einsehen könnt.
-Unternehmen # Hier könnt ihr alle Unternehmen einsehen, die in eurer Spielwelt registriert sind.</description></item><item><title>Erstellung von Routen</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/creating-routes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/creating-routes/</guid><description>Erstellung von Routen # Nun, da ihr euer erstes Flugzeug erworben habt, können wir mit der Planung der Flugrouten beginnen! Nach den vorigen Schritten habt ihr vielleicht schon eine grobe Idee, wo es hingehen soll, daher widmen wir uns jetzt den Details.
-Suche nach Flughafeninformationen # Wenn ihr euch für einen bestimmten Flughafen interessiert, könnt ihr nach ihm suchen, indem ihr dessen Namen oder IATA-Code in die Suchleiste am oberen Bildschirmrand eingebt.</description></item><item><title>Insolvenz und Kredite</title><link>https://handbook.airlinesim.aero/de/docs/advanced/finances/bankruptcy-and-loans/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/finances/bankruptcy-and-loans/</guid><description>Insolvenz und Kredite # Zahlungsunfähigkeit # Zahlungsunfähigkeit oder Insolvenz bedeutet, dass eine natürliche oder juristische Person nicht in der Lage ist, ihre Rechnungen aus eigener Kraft zu bezahlen, d. h. das regelmäßige Einkommen reicht nicht aus, um die laufenden Kosten zu decken. In den meisten Fällen ist auch das Kreditlimit erreicht. Dies führt oft dazu, dass das Unternehmen aufgegeben und die Geschäftstätigkeit eingestellt wird.
-Info
-In AirlineSim gibt es keinen Überziehungskredit, aus dem Leasingraten oder Gehälter bezahlt werden können, sodass die Liquidität eures Unternehmens durch den Kontostand bestimmt wird.</description></item><item><title>Support</title><link>https://handbook.airlinesim.aero/de/docs/about/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/support/</guid><description>Support # Wenn ihr Fragen zum Spiel habt, könnt ihr über die folgenden Kanälen Hilfe finden.
-Forum # Als eine der wichtigsten Community-Plattformen bietet das Forum eine Vielzahl an Kategorien, in denen ihr Fragen stellen, über das Spiel diskutieren und viele hilfreiche Informationen finden könnt! Wenn ihr einen neuen Post verfasst, schaut am besten zunächst, ob es bereits ähnliche Threads gibt, wählt einen passenden Titel für euren Beitrag und achtet auf einen respektvollen Umgang mit anderen.</description></item><item><title>Personalverwaltung</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/hiring-staff/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/hiring-staff/</guid><description>Personalverwaltung # Eure Routenplanung steht? Dann können wir uns jetzt dem Personal zuwenden!
-Einstellung von Piloten # Ein Flugzeug braucht Piloten, um zu fliegen, also sollten diese zuerst eingestellt oder ausgebildet werden. Einige Besatzungsmitglieder werden zwar bereits standardmäßig hinzugefügt, wenn ihr Piloten aber manuell einstellen möchtet, zeigen wir euch hier, wie das geht.
-Wählt dafür im Management-Tab das Untermenü “Crew Management”. Auf der linken Seite seht ihr eine Liste der beschäftigten und benötigten Piloten, gruppiert nach Flugzeugkategorie.</description></item><item><title>Support-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/support-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/support-tab/</guid><description>Support-Tab # Solltet ihr im Zusammenhang mit dem Spiel auf Probleme stoßen oder Ideen für Verbesserungen haben, hilft euch dieser Tab, den richtigen Support-Kanal zu finden. In unserem Support-Artikel findet ihr alle weiteren Details.</description></item><item><title>Community-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/community-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/community-tab/</guid><description>Community-Tab # Ihr möchtet euch mit anderen Mitgliedern der Community austauschen oder euch über die neuesten Spielupdates informieren? Dann findet ihr in diesem Tab alle Links, die ihr braucht.
-Ob über den AirlineSim-Blog, das Forum, unseren Discord-Server oder Twitter und Facebook - es gibt viele Möglichkeiten, um auf dem Laufenden zu bleiben und Teil der Community zu werden!
-Außerdem findet ihr hier einen Link zu unserem zweiten Titel Prosperous Universe, einer browserbasierten Wirtschaftssimulation, bei der ihr euch auf eine Reise ins Weltall begebt…</description></item><item><title>Serviceprofile</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/service-profiles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/service-profiles/</guid><description>Festlegung von Serviceprofilen # Kekse oder Kaviar? # Erinnert ihr euch noch an die Zeit, als auf jedem Flug kostenlose Getränke und eine Zeitung angeboten wurden? Das kostete die Airlines zwar nicht viel, aber Passagiere wussten den Service zu schätzen.
-Auch unsere virtuellen Fluggäste wollen verwöhnt werden! Zum Glück ist ein guter Bordservice - Getränke, Mahlzeiten, Zeitungen usw. - nicht so teuer, und die höhere Bewertung ist es auf jeden Fall wert.</description></item><item><title>Kabinenkonfiguration</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/cabin-configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/cabin-configuration/</guid><description>Kabinenkonfiguration # Bevor ihr euch in die Lüfte schwingt, müssen wir euer Flugzeug noch mit einer Kabine ausstatten und die Sitzanordnung konfigurieren - unabhängig davon, ob ihr neue oder gebrauchte Maschinen besitzt.
-Info
-Dieser Schritt entfällt, wenn ihr ein Frachtflugzeug betreiben wollt, denn in all euren neuen Flugzeugen ist bereits eine Standardkonfiguration installiert (wenn auch nicht die beste). Verwendung des Kabineneditors # Im Untermenü “Kabinenkonfigurationen” des Commercial-Tabs findet ihr eine Übersicht eurer bisher erstellten Konfigurationen sowie die Möglichkeit, eine neue zu erstellen.</description></item><item><title>Private Nachrichten</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/private-messages/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/private-messages/</guid><description>Private Nachrichten # Über dieses Menü könnt ihr eure gesendeten sowie empfangenen Nachrichten im Spiel einsehen.
-Die Nachrichten bestehen aus verschiedenen Postfächern, die jeweils ihren eigenen Posteingang und Postausgang haben. Hier könnt ihr auf empfangene Nachrichten antworten, sie als gelesen bzw. ungelesen markieren und löschen.
-Wenn ihr eine neue Nachricht senden möchtet, ruft die entsprechende Firma oder das Profil der Unternehmensleitung auf und klickt auf die Schaltfläche “Nachricht senden / Diesem Benutzer eine Nachricht schicken…” oben rechts.</description></item><item><title>Einstellungen</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/settings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/settings/</guid><description>Einstellungen # Account # Ihr Profil # Dieser Abschnitt enthält Angaben wie den Usernamen, den Status (Testphase / Premium) sowie die Liste der Holdings und Unternehmen in der Spielwelt.
-Ihre Holdings # Auf dieser Seite werden euer täglicher Credit-Verbrauch sowie der aktuelle Kontostand angezeigt. Auf der rechten Seite seht ihr außerdem eine Liste eurer aktiven Holdings.
-Einstellungen / Spielwelten # Über diesen Menüpunkt gelangt ihr zurück zum Dashboard der Accountverwaltung, das euch auch angezeigt wird, wenn ihr euch über die AirlineSim-Website einloggt.</description></item><item><title>Kabinen- und Crew-Zuweisung</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/assigning-cabin-and-crew/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/assigning-cabin-and-crew/</guid><description>Kabinen- und Crew-Zuweisung # Nachdem ihr die Kabinen eingerichtet habt und eure Crew eingestellt wurde, könnt ihr diese nun eurem Flugzeug zuweisen.
-Geht hierfür zum Operations-Tab, klickt auf “Flottenverwaltung” und wählt die Flotte aus, die das gewünschte Flugzeug enthält. Im Moment ist das wahrscheinlich die Standardflotte, zu der alle gekauften und geleasten Flugzeuge hinzugefügt werden.
-Wählt nun das betreffende Flugzeug aus, indem ihr die kleine Box links davon anklickt. Dadurch erhaltet ihr Zugriff auf das Menü “Aktionen”, in dem ihr Kabine und Besatzung festlegen könnt.</description></item><item><title>Wartung</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/maintenance/</guid><description>Wartung # Wartung buchen # Ihr habt ein Flugzeug und die erste Routenplanung, Service, Personal sowie die Kabinenkonfiguration stehen auch - Zeit abzuheben? Noch nicht ganz, denn ihr braucht noch einen Wartungsanbieter! Ohne Reparaturen wird euer Flugzeug nicht sehr lange fliegen&amp;hellip;
-Im Menü “Wartung” (Operations-Tab) habt ihr die Möglichkeit, eine Firma mit der Wartung eures Flugzeugs zu beauftragen. Jede der Optionen hat bestimmte Vor- und Nachteile, da die Anbieter in Bezug auf Preis, Qualität und Geschwindigkeit der Wartung unterschiedlich abschneiden.</description></item><item><title>Flugplanung</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/scheduling-flights/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/scheduling-flights/</guid><description>Flugplanung # Nach der Auswahl eines Wartungsunternehmens ist es nun endlich an der Zeit, euer Flugzeug in Betrieb zu nehmen! Je nach eurem Standort, den Zielen eurer Airline und der vorhandenen Konkurrenz kann das recht einfach oder etwas kompliziert sein.
-In diesem Guide geht es vor allem darum, einen einfachen Flugplan zu erstellen, aber viele der fortgeschritteneren Konzepte sollten nach dem Lesen weitgehend selbstverständlich sein.
-Vorbereitung des Flugplans # Bevor wir loslegen, solltet ihr euch überlegen, wie ihr euren Flugplan einrichten wollt.</description></item><item><title>Herzlichen Glückwunsch!</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/congratulations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/congratulations/</guid><description>Herzlichen Glückwunsch! # Hiermit habt ihr das Tutorial erfolgreich abgeschlossen! Mit eurer neuen Airline seid ihr nun in der Lage, euch den täglichen Herausforderungen des Luftfahrtgeschäfts zu stellen. Experimentiert dabei ruhig mit verschiedenen Ideen und Geschäftsansätzen! Wenn ihr weitere Hilfe braucht, schaut euch gerne mal die folgenden Abschnitte des Handbuchs an oder besucht unseren Support-Artikel. Viel Spaß beim Spielen!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Handbuch on AirlineSim Handbuch</title><link>https://handbook.airlinesim.aero/de/</link><description>Recent content in Handbuch on AirlineSim Handbuch</description><generator>Hugo</generator><language>de</language><atom:link href="https://handbook.airlinesim.aero/de/index.xml" rel="self" type="application/rss+xml"/><item><title>Allgemein</title><link>https://handbook.airlinesim.aero/de/docs/faqs/general/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/faqs/general/</guid><description>&lt;h1 id="allgemein">
+ Allgemein
+ &lt;a class="anchor" href="#allgemein">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="worum-geht-es-bei-airlinesim">
+ Worum geht es bei AirlineSim?
+ &lt;a class="anchor" href="#worum-geht-es-bei-airlinesim">#&lt;/a>
+&lt;/h2>
+&lt;p>AirlineSim ist eine browserbasierte Wirtschaftssimulation, in der ihr eure eigene Airline gründen und auf einem virtuellen Markt in Echtzeit um Passagiere konkurrieren könnt. Weitere Details findet ihr unter &lt;a href="https://handbook.airlinesim.aero/de/docs/about/concept/">Spielkonzept&lt;/a>.&lt;/p>
+&lt;h2 id="wie-viel-kostet-das-spiel">
+ Wie viel kostet das Spiel?
+ &lt;a class="anchor" href="#wie-viel-kostet-das-spiel">#&lt;/a>
+&lt;/h2>
+&lt;p>Für AirlineSim verwenden wir ein Pay-to-Play-Bezahlmodell, das den Kauf von Credits erfordert, um auf das Spiel zuzugreifen. Wenn ihr AirlineSim zum ersten Mal spielt, erhaltet ihr 60 kostenlose Credits, die euch eine Probezeit von etwa zwei Wochen ermöglichen! Weitere Informationen zu den Preisen gibt es in unserem Artikel zum &lt;a href="https://handbook.airlinesim.aero/de/docs/about/payment/">Bezahlmodell&lt;/a>.&lt;/p></description></item><item><title>Allianzen</title><link>https://handbook.airlinesim.aero/de/docs/advanced/alliances-and-interlining/alliances/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/alliances-and-interlining/alliances/</guid><description>&lt;h1 id="allianzen">
+ Allianzen
+ &lt;a class="anchor" href="#allianzen">#&lt;/a>
+&lt;/h1>
+&lt;p>Ihr möchtet im Spiel Verbindungen zu anderen Mitgliedern der Community aufbauen, wisst aber nicht genau wie? Dann kommt vielleicht eine Allianz für euch infrage. Was es damit auf sich hat, fragt ihr euch?&lt;/p>
+&lt;p>Allianzen sind geschäftliche Kooperationsvereinbarungen zwischen einer Reihe von Unternehmen. Sie verleihen dem Spiel einen Hauch von Realität und bieten euch eine großartige Möglichkeit, AirlineSim zusammen mit anderen zu genießen. Die Ziele einer Allianz, ihre Mitgliedschaftskriterien und andere Formalitäten werden von ihren Mitgliedern intern festgelegt.&lt;/p></description></item><item><title>Einführung</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/introduction/</guid><description>&lt;h1 id="die-erste-airline">
+ Die erste Airline
+ &lt;a class="anchor" href="#die-erste-airline">#&lt;/a>
+&lt;/h1>
+&lt;p>Ihr seid neu bei AirlineSim und möchtet wissen, wie ihr am besten durchstartet? Dann seid ihr hier genau richtig!&lt;/p>
+&lt;p>Dieses Tutorial begleitet euch auf den ersten Schritten im Spiel - von der Gründung eures neuen Unternehmens und dem Aufbau der Flotte bis hin zur Konfiguration der Flugzeugkabinen und Flugpläne.&lt;/p>
+&lt;p>Bereit, loszulegen? Dann auf zur Firmengründung!&lt;/p></description></item><item><title>Firmenübersicht</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/company-overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/company-overview/</guid><description>&lt;h1 id="firmenübersicht">
+ Firmenübersicht
+ &lt;a class="anchor" href="#firmen%c3%bcbersicht">#&lt;/a>
+&lt;/h1>
+&lt;p>Wenn ihr den Mauszeiger über den Namen eures Unternehmens oben links auf dem Bildschirm bewegt, erhaltet ihr verschiedene Optionen zu eurer Firma.&lt;/p>
+&lt;h2 id="übersicht">
+ Übersicht
+ &lt;a class="anchor" href="#%c3%bcbersicht">#&lt;/a>
+&lt;/h2>
+&lt;p>Das Dashboard ist in sieben Abschnitte (auch Widgets genannt) unterteilt - Unternehmen, anstehende Termine, Notizblock, Aktien, Finanzrating, Image und Tochterunternehmen - und ist daher praktisch, wenn ihr schnell Informationen zu eurer Firma abrufen wollt.&lt;/p>
+&lt;h3 id="unternehmen">
+ Unternehmen
+ &lt;a class="anchor" href="#unternehmen">#&lt;/a>
+&lt;/h3>
+&lt;p>Das Widget “Unternehmen” zeigt das Logo (falls ihr eins hochgeladen habt) sowie die wichtigsten Informationen zu eurer Firma an (Name, Code, Hauptsitz, Land, Airline-Rating, Flottengröße und Anzahl der Angestellten). Mit einem Klick auf “Infoseite” gelangt ihr zur &lt;a href="#unternehmen-1">Unternehmensseite der Firma&lt;/a>.&lt;/p></description></item><item><title>Holdings vs. Tochtergesellschaften</title><link>https://handbook.airlinesim.aero/de/docs/advanced/setup/holdings-vs-subsidiaries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/setup/holdings-vs-subsidiaries/</guid><description>&lt;h1 id="holdings-vs-tochtergesellschaften">
+ Holdings vs. Tochtergesellschaften
+ &lt;a class="anchor" href="#holdings-vs-tochtergesellschaften">#&lt;/a>
+&lt;/h1>
+&lt;p>Zu Beginn des Spiels erstellt ihr eine Holding in einem Land eurer Wahl und erhaltet ein Startkapital von 10 Millionen AS$ (bitte beachtet, dass die Höhe des Startkapitals je nach Spielwelt variieren kann). Mit diesem Kapital könnt ihr dann Flugzeuge erwerben und mit eurem neuen Unternehmen durchstarten. Ihr könnt das Geld (oder Teile davon) aber auch für die Gründung einer Tochtergesellschaft verwenden. In diesem Fall können Flottenaufbau und Flugbetrieb über die Tochtergesellschaft laufen. Worin besteht also der Unterschied?&lt;/p></description></item><item><title>Ladefaktoren</title><link>https://handbook.airlinesim.aero/de/docs/advanced/finances/load-factors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/finances/load-factors/</guid><description>&lt;h1 id="ladefaktoren">
+ Ladefaktoren
+ &lt;a class="anchor" href="#ladefaktoren">#&lt;/a>
+&lt;/h1>
+&lt;p>Ein Flugzeug, das halb leer fliegt, verliert Geld. Achtet also darauf, eure Flugzeuge so voll wie möglich zu halten. Wenn ihr nicht genug Nutzlast habt, braucht ihr ein weiteres Flugzeug, das Gewinn macht, um die Verluste auszugleichen. Das bedeutet jedoch, dass ihr Geld in zwei Flugzeuge investieren müsst und das Nettoergebnis trotzdem gleich Null ist.&lt;/p>
+&lt;blockquote class="book-hint info">
+ &lt;strong>Beispiel&lt;/strong>&lt;br>
+Nehmen wir an, ihr habt ein Flugzeug mit 100 Sitzplätzen und der Punkt, ab dem ihr die Kosten decken könnt, liegt bei etwa 70%. Das bedeutet, dass ihr mit 70 Passagieren gerade so überleben könnt, mit 80 Passagieren 10% Gewinn erzielt, mit 90 Passagieren 20% und mit einem vollbesetzten Flugzeug 30%.
+&lt;/blockquote>
+
+&lt;p>Jede Strecke und jedes Flugzeug ist anders, dennoch ist es wichtig, sich hohe Ziele zu setzen. Versucht daher, eure durchschnittliche Auslastung bei 90% oder höher zu halten.&lt;/p></description></item><item><title>Online Reservation System</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/online-reservation-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/bookings/online-reservation-system/</guid><description>&lt;h1 id="online-reservation-system">
+ Online Reservation System
+ &lt;a class="anchor" href="#online-reservation-system">#&lt;/a>
+&lt;/h1>
+&lt;p>Das Online Reservation System (ORS) ist eines der Kernfeatures des Spiels. Es generiert täglich eine Vielzahl von Verbindungen und verteilt die Passagiere auf die Flüge der Spielenden.&lt;/p>
+&lt;p>&lt;img src="online_reservation_system_01.PNG" alt="Verbindungssuche" title="Verbindungssuche"/>&lt;/p>
+&lt;p>Die Flüge werden drei Tage vor ihrem Abflug in das ORS aufgenommen. Nehmen wir mal an, ihr aktiviert einen Flugplan am Montagmorgen und der erste Flug soll um 11 Uhr abheben. In diesem Fall müsst ihr bis 11 Uhr warten, bevor euer erster Flug in der Flugliste erscheint. Wenn ihr den Flugplan mit einer dreitägigen Verzögerung aktiviert, erscheint er erst am Donnerstagmorgen.&lt;/p></description></item><item><title>Registrierung</title><link>https://handbook.airlinesim.aero/de/docs/account-management/account-creation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/account-management/account-creation/</guid><description>&lt;h1 id="registrierung">
+ Registrierung
+ &lt;a class="anchor" href="#registrierung">#&lt;/a>
+&lt;/h1>
+&lt;p>Bevor ihr loslegt, müsst ihr ein Konto anlegen. Besucht dazu einfach die &lt;a href="https://www.airlinesim.aero/de">AirlineSim-Website&lt;/a> und klickt auf die Login-Schaltfläche. Anschließend geht ihr auf &amp;ldquo;Jetzt registrieren&amp;rdquo; und wählt einen Anzeigenamen (ohne Sonder- / Leerzeichen), gebt eine gültige E-Mail-Adresse ein und erstellt ein Passwort für euer Konto.&lt;/p>
+&lt;blockquote class="book-hint info">
+ &lt;strong>Info&lt;/strong>&lt;br>
+Manchmal kann es zu Problemen kommen, wenn Registrierungs-Mails an Hotmail- oder MSN-Adressen gesendet werden. Versucht, wenn möglich, eine andere E-Mail-Adresse für die Registrierung zu verwenden. Falls ihr euch bereits mit einer Hotmail- oder MSN-Adresse bei AirlineSim registriert habt, wendet euch einfach an den &lt;a href="https://www.airlinesim.aero/blog/de/pages/support/">Support&lt;/a>.
+&lt;/blockquote>
+
+&lt;p>Auch ein Login über Facebook ist möglich.&lt;/p></description></item><item><title>Spielkonzept</title><link>https://handbook.airlinesim.aero/de/docs/about/concept/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/concept/</guid><description>&lt;h1 id="spielkonzept">
+ Spielkonzept
+ &lt;a class="anchor" href="#spielkonzept">#&lt;/a>
+&lt;/h1>
+&lt;p>Bei AirlineSim handelt es sich um eine browserbasierte Wirtschaftssimulation, die es Spielenden ermöglicht, ihre eigene Airline zu betreiben und auf einem virtuellen Echtzeitmarkt um Passagiere zu konkurrieren.&lt;/p>
+&lt;p>Realistische Management-Tools helfen beim Aufbau der Flugzeugflotte, der Einrichtung der Kabinen sowie der Erstellung von Flugplänen. Auch die aktuelle Marktlage lässt sich anhand der Tools analysieren, sodass Preise und Servicelevel bei Bedarf angepasst werden können.&lt;/p>
+&lt;p>Es geht jedoch nicht nur um den Wettbewerb: Von Allianzen über Interline-Abkommen bis hin zum Verleasen von Flugzeugen bietet das Spiel vielfältige Möglichkeiten, dauerhafte Verbindungen mit anderen Airlines aufzubauen.&lt;/p></description></item><item><title>Wartungskategorien</title><link>https://handbook.airlinesim.aero/de/docs/advanced/fleet/maintenance-categories/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/fleet/maintenance-categories/</guid><description>&lt;h1 id="wartungskategorien">
+ Wartungskategorien
+ &lt;a class="anchor" href="#wartungskategorien">#&lt;/a>
+&lt;/h1>
+&lt;p>Jeder Flugzeugtyp in AirlineSim hat eine eigene Wartungskategorie, die angibt, mit welchen anderen Modellen er zusammen gewartet werden kann, z.B. ein Airbus A318 mit einem A319, A320 oder A321. Flugzeuge der gleichen Kategorie haben aufgrund technischer Ähnlichkeiten oft auch ähnliche Anforderungen in Bezug auf die Wartung. Welcher Kategorie ein Flugzeug angehört, könnt ihr überprüfen, indem ihr einen Blick auf dessen Datenblatt werft (Abschnitt “Technische Daten”).&lt;/p>
+&lt;p>&lt;img src="wartung_02.PNG" alt="Überprüfen der Wartungskategorie" title="Überprüfen der Wartungskategorie"/>&lt;/p></description></item><item><title>Aufkommensberechnung</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/demand/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/bookings/demand/</guid><description>&lt;h1 id="aufkommensberechnung">
+ Aufkommensberechnung
+ &lt;a class="anchor" href="#aufkommensberechnung">#&lt;/a>
+&lt;/h1>
+&lt;p>Damit ihr besser nachvollziehen könnt, wie die Nachfrage in AirlineSim funktioniert, findet ihr hier ein kleines Q&amp;amp;A.&lt;/p>
+&lt;h2 id="spielt-die-tageszeit-bei-flügen-eine-rolle">
+ Spielt die Tageszeit bei Flügen eine Rolle?
+ &lt;a class="anchor" href="#spielt-die-tageszeit-bei-fl%c3%bcgen-eine-rolle">#&lt;/a>
+&lt;/h2>
+&lt;p>Nein, die Passagiere werden alle Abflug- und Ankunftszeiten gleich behandeln. Die Gesamtreisezeit beeinflusst jedoch die Flugbewertung.&lt;/p>
+&lt;h2 id="schwankt-die-passagiernachfrage-saisonal">
+ Schwankt die Passagiernachfrage saisonal?
+ &lt;a class="anchor" href="#schwankt-die-passagiernachfrage-saisonal">#&lt;/a>
+&lt;/h2>
+&lt;p>Nein, saisonale Schwankungen spielen für die Nachfrage derzeit keine Rolle.&lt;/p>
+&lt;h2 id="ist-es-den-fluggästen-wichtig-an-welchem-tag-sie-fliegen">
+ Ist es den Fluggästen wichtig, an welchem Tag sie fliegen?
+ &lt;a class="anchor" href="#ist-es-den-flugg%c3%a4sten-wichtig-an-welchem-tag-sie-fliegen">#&lt;/a>
+&lt;/h2>
+&lt;p>Die Fluggäste buchen nur Flüge innerhalb der nächsten drei Tage, aber sie buchen jeden dieser Tage, wenn einige Tage voll oder nicht verfügbar sind. Sind keine Flüge verfügbar, nehmen die Passagiere keine Buchung vor - sie müssen dann mit dem Auto fahren oder schwimmen!&lt;/p></description></item><item><title>Commercial-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/commercial-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/commercial-tab/</guid><description>&lt;h1 id="commercial-tab">
+ Commercial-Tab
+ &lt;a class="anchor" href="#commercial-tab">#&lt;/a>
+&lt;/h1>
+&lt;p>Das Menü des Commercial-Tabs besteht aus den Abschnitten Network Planning, Sales &amp;amp; Distribution, Product &amp;amp; Customer Service sowie Business Development.&lt;/p>
+&lt;h2 id="network-planning">
+ Network Planning
+ &lt;a class="anchor" href="#network-planning">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="flugplanung">
+ Flugplanung
+ &lt;a class="anchor" href="#flugplanung">#&lt;/a>
+&lt;/h3>
+&lt;p>&lt;img src="flugplanung_02.PNG" alt="Auswahl eines Flughafenpaares" title="Auswahl eines Flughafenpaares"/>&lt;/p>
+&lt;p>Auf dieser Seite könnt ihr die Flugpläne für eine bestimmte Strecke verwalten. Nach der Auswahl eines Flughafenpaares auf der linken Seite erhaltet ihr Informationen über zugehörige Flugnummern und Produktbewertungen.&lt;/p>
+&lt;p>Im Textfeld unterhalb des Seitentitels könnt ihr schnell zu einem anderen Flughafenpaar wechseln. Der Code muss das Format AAABBB haben, wobei AAA und BBB die IATA-Flughafencodes der jeweiligen Flughäfen sind.&lt;/p></description></item><item><title>Deaktivierung</title><link>https://handbook.airlinesim.aero/de/docs/account-management/account-deactivation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/account-management/account-deactivation/</guid><description>&lt;h1 id="deaktivierung">
+ Deaktivierung
+ &lt;a class="anchor" href="#deaktivierung">#&lt;/a>
+&lt;/h1>
+&lt;p>Wenn ihr euer Konto schließen möchtet, sendet uns bitte ein &lt;a href="https://www.airlinesim.aero/blog/de/pages/support/">Support-Ticket&lt;/a> per E-Mail, damit wir das Konto für euch deaktivieren können.&lt;/p>
+&lt;blockquote class="book-hint danger">
+ &lt;strong>Warnung&lt;/strong>&lt;br>
+Eine Kontodeaktivierung betrifft sowohl euer AirlineSim- als auch euer Prosperous Universe-Profil.
+&lt;/blockquote>
+
+&lt;p>Falls ihr das Konto nur aus einer AirlineSim-Spielwelt entfernen möchtet, klickt einfach auf Einstellungen (oben rechts in eurer aktiven Spielwelt) und wählt die Option &amp;ldquo;Spielwelt deaktivieren&amp;rdquo;. Dadurch werden alle Holdings und Tochtergesellschaften des Kontos unwiderruflich gelöscht. Bitte lest daher die Details, die euch beim Deaktivierungsvorgang angezeigt werden, sorgfältig durch, bevor ihr fortfahrt. Euer zentrales Benutzerkonto bleibt hiervon unberührt.&lt;/p></description></item><item><title>Entwicklung</title><link>https://handbook.airlinesim.aero/de/docs/about/development/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/development/</guid><description>&lt;h1 id="entwicklung">
+ Entwicklung
+ &lt;a class="anchor" href="#entwicklung">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="airlinesim">
+ AirlineSim
+ &lt;a class="anchor" href="#airlinesim">#&lt;/a>
+&lt;/h2>
+&lt;p>Die Entwicklung von AirlineSim begann bereits im Januar 2002. Fünf Jahre später wurde simulogics gegründet und was als Hobby begann, entwickelte sich bald zu einem vollwertigen Spielprojekt. Im Laufe der Jahre gab es viele Fortschritte, beispielsweise neue Spielwelten, Verbesserungen im Spiel und nicht zuletzt eine stetig wachsende Community.&lt;/p>
+&lt;h2 id="airlinesim-technology-demonstrator">
+ AirlineSim Technology Demonstrator
+ &lt;a class="anchor" href="#airlinesim-technology-demonstrator">#&lt;/a>
+&lt;/h2>
+&lt;p>Im Dezember 2021 kündigte das Team ein Projekt namens AirlineSim Technology Demonstrator (ASTD) an. Dieser Prototyp soll zeigen, wie das Spiel auf Basis der aktuell verfügbaren technologischen Möglichkeiten aussehen könnte und bildet somit die Grundlage für die zukünftige Entwicklung von AirlineSim.&lt;/p></description></item><item><title>Firmengründung</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/company-setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/company-setup/</guid><description>&lt;h1 id="firmengründung">
+ Firmengründung
+ &lt;a class="anchor" href="#firmengr%c3%bcndung">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="planung-der-unternehmensstruktur">
+ Planung der Unternehmensstruktur
+ &lt;a class="anchor" href="#planung-der-unternehmensstruktur">#&lt;/a>
+&lt;/h2>
+&lt;p>Nach der Erstellung eures AirlineSim-Kontos und der Auswahl einer Spielwelt kann es zunächst hilfreich sein, die Struktur eures Unternehmens zu planen - insbesondere wenn der Server &lt;a href="https://handbook.airlinesim.aero/de/docs/advanced/finances/initial-public-offerings/">Börsengänge (IPOs)&lt;/a> unterstützt.&lt;/p>
+&lt;p>Zwar kann die erste Holding bereits für den regulären Flugbetrieb verwendet werden, für einen Börsengang eignet sie sich jedoch nicht. Möchtet ihr mit eurer Firma an die Börse gehen, müsst ihr zuerst ein Tochterunternehmen gründen.&lt;/p></description></item><item><title>Interlining</title><link>https://handbook.airlinesim.aero/de/docs/advanced/alliances-and-interlining/interlining/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/alliances-and-interlining/interlining/</guid><description>&lt;h1 id="interlining">
+ Interlining
+ &lt;a class="anchor" href="#interlining">#&lt;/a>
+&lt;/h1>
+&lt;p>Eine weitere Möglichkeit euch mit anderen zu vernetzen ist das Interlining. Hierbei geht es um Vereinbarungen zwischen Airlines in Bezug auf Passagiertransfers, insbesondere die Möglichkeit für Passagiere, zwischen Flügen umzusteigen, die von Fluggesellschaften mit Interlining-Vereinbarungen durchgeführt werden.&lt;/p>
+&lt;p>In der Realität ist dies eine ziemlich komplizierte Angelegenheit, aber in AirlineSim wird ein vereinfachtes Modell verwendet.&lt;/p>
+&lt;h2 id="einrichtung-von-interlining-abkommen">
+ Einrichtung von Interlining-Abkommen
+ &lt;a class="anchor" href="#einrichtung-von-interlining-abkommen">#&lt;/a>
+&lt;/h2>
+&lt;p>Damit Passagiere zwischen Flügen von zwei verschiedenen Airlines umsteigen können, muss ein Interlining-Abkommen abgeschlossen werden. Diese Verträge umfassen derzeit das gesamte Streckennetz der beteiligten Fluggesellschaften, es gibt also keine Einschränkungen hinsichtlich bestimmter Flughäfen oder Strecken.&lt;/p></description></item><item><title>Ticketpreise</title><link>https://handbook.airlinesim.aero/de/docs/advanced/finances/ticket-prices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/finances/ticket-prices/</guid><description>&lt;h1 id="ticketpreise">
+ Ticketpreise
+ &lt;a class="anchor" href="#ticketpreise">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="wie-viel-zahlen-passagiere">
+ Wie viel zahlen Passagiere?
+ &lt;a class="anchor" href="#wie-viel-zahlen-passagiere">#&lt;/a>
+&lt;/h2>
+&lt;p>Die Antwort hierauf ist eigentlich recht einfach: Seid ihr die einzige Airline in der Region, werden Passagiere viel Geld bezahlen, um eure Flüge zu buchen. Gefallen wird ihnen das vielleicht nicht, zahlen werden sie aber trotzdem. Da ihr aber wahrscheinlich selten die einzig verfügbare Airline seid, sind hier ein paar Faustregeln, die euch bei der Wahl der Ticketpreise helfen sollen.&lt;/p>
+&lt;p>&lt;img src="preise_01.PNG" alt="Flugpreis-Menü (Commercial-Tab)" title="Flugpreis-Menü (Commercial-Tab)"/>&lt;/p></description></item><item><title>Treibstoffverbrauch</title><link>https://handbook.airlinesim.aero/de/docs/advanced/fleet/fuel-consumption/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/fleet/fuel-consumption/</guid><description>&lt;h1 id="treibstoffverbrauch">
+ Treibstoffverbrauch
+ &lt;a class="anchor" href="#treibstoffverbrauch">#&lt;/a>
+&lt;/h1>
+&lt;p>Treibstoff ist nicht billig. Jeder Dollar, den ihr für Treibstoff bezahlt, verringert euren Gewinn, daher ist es wichtig, das richtige Flugzeug für die richtige Route auszuwählen.&lt;/p>
+&lt;p>&lt;img src="treibstoffpreise_01.PNG" alt="Preisdiagramm für Treibstoff (Menü “Märkte &amp;amp; Börsen”)" title="Preisdiagramm für Treibstoff"/>&lt;/p>
+&lt;p>Im Spiel sind die beiden wichtigsten Faktoren für den Treibstoffverbrauch der Treibstoff pro Flug und der Treibstoff pro Kilometer.&lt;/p>
+&lt;p>Der Treibstoff pro Flug (oder pro Zyklus) wird für das Rollen / Taxiing, den Start, den Aufstieg auf Reiseflughöhe und die Landung verbraucht. Der Treibstoff pro Kilometer deckt die Strecke zwischen den Flughäfen ab, solange diese kürzer ist als die Mindestreichweite des Flugzeugs. Weiter zu fliegen bedeutet, mehr Treibstoff zu transportieren (und zu verbrauchen) und weniger Passagiere zu befördern.&lt;/p></description></item><item><title>Verkehrsrechte</title><link>https://handbook.airlinesim.aero/de/docs/advanced/setup/traffic-rights/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/setup/traffic-rights/</guid><description>&lt;h1 id="verkehrsrechte">
+ Verkehrsrechte
+ &lt;a class="anchor" href="#verkehrsrechte">#&lt;/a>
+&lt;/h1>
+&lt;p>Wie ihr sicher schnell feststellt, treten eure Fluggesellschaften in AirlineSim primär als nationale, nicht globale Einheiten auf. Luftverkehrsabkommen zwischen einzelnen Ländern regeln die Beförderung von Passagieren in der realen Welt und auch AirlineSim bildet dies, wenn auch in leicht vereinfachter Form, ab.&lt;/p>
+&lt;h2 id="was-sind-verkehrsrechte">
+ Was sind Verkehrsrechte?
+ &lt;a class="anchor" href="#was-sind-verkehrsrechte">#&lt;/a>
+&lt;/h2>
+&lt;p>Unter Verkehrsrechten verstehen wir die Regeln, die bestimmen, ob ihr Passagiere zwischen zwei Zielen befördern könnt. Eure Rechte, einen bestimmten Markt zu bedienen, werden durch das Land bestimmt, in dem sich eure Holding befindet. Bei Tochtergesellschaften richten sich die Rechte in der Regel ebenfalls nach dem Sitz der Holding (oder nach der Gesamtzahl der gehaltenen Aktien, wenn eure Fluggesellschaft ein börsennotiertes Unternehmen ist).&lt;/p></description></item><item><title>Zahlungen</title><link>https://handbook.airlinesim.aero/de/docs/faqs/payments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/faqs/payments/</guid><description>&lt;h1 id="zahlungen">
+ Zahlungen
+ &lt;a class="anchor" href="#zahlungen">#&lt;/a>
+&lt;/h1>
+&lt;p>In diesem Artikel sammeln wir Fragen und Antworten zu den wichtigsten Themen rund um den Bezahlvorgang bei AirlineSim.&lt;/p>
+&lt;h2 id="eine-zahlungsmethode-fehlt---was-jetzt">
+ Eine Zahlungsmethode fehlt - was jetzt?
+ &lt;a class="anchor" href="#eine-zahlungsmethode-fehlt---was-jetzt">#&lt;/a>
+&lt;/h2>
+&lt;p>Zurzeit bietet euch AirlineSim fünf verschiedene Zahlungsmöglichkeiten:&lt;/p>
+&lt;ul>
+&lt;li>Kredit- oder Debitkarte (Visa, MasterCard, American Express)&lt;/li>
+&lt;li>PayPal&lt;/li>
+&lt;li>paysafecard&lt;/li>
+&lt;li>Online-Überweisung&lt;/li>
+&lt;li>Vorkasse&lt;/li>
+&lt;li>Alle von Steam angebotenen Bezahlmethoden (wenn über Steam gespielt wird)&lt;/li>
+&lt;/ul>
+&lt;p>Welche Zahlungsmethoden im individuellen Fall zur Verfügung stehen, hängt von eurem Land und dem gewählten Credit-Paket ab. Wenn eine Zahlungsmethode nicht angezeigt wird, könnt ihr versuchen, eine andere Paketgröße auszuwählen.&lt;/p></description></item><item><title>Einstellungen</title><link>https://handbook.airlinesim.aero/de/docs/account-management/account-settings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/account-management/account-settings/</guid><description>&lt;h1 id="einstellungen">
+ Einstellungen
+ &lt;a class="anchor" href="#einstellungen">#&lt;/a>
+&lt;/h1>
+&lt;p>Um auf die Einstellungen eures Kontos zuzugreifen, meldet euch über die &lt;a href="https://www.airlinesim.aero/de">AirlineSim-Website&lt;/a> an und klickt auf Accounteinstellungen. Hier könnt ihr die E-Mail-Adresse, das Passwort und die Benachrichtigungen eures Kontos anpassen.&lt;/p>
+&lt;h2 id="änderung-der-e-mail-adresse">
+ Änderung der E-Mail-Adresse
+ &lt;a class="anchor" href="#%c3%a4nderung-der-e-mail-adresse">#&lt;/a>
+&lt;/h2>
+&lt;p>&lt;img src="accounteinstellungen_01.PNG" alt="Anpassen der E-Mail-Adresse" title="Anpassen der E-Mail-Adresse"/>&lt;/p>
+&lt;p>Um die E-Mail-Adresse des Kontos anzupassen, gebt eure neue E-Mail-Adresse in die erforderlichen Felder ein und klickt anschließend auf &amp;ldquo;Adresse ändern&amp;rdquo;. Da eine gültige E-Mail-Adresse benötigt wird, müssen Änderungen durch die Eingabe eines Codes bestätigt werden, der an die neue Adresse geschickt wird.&lt;/p></description></item><item><title>Flugbewertung</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/flight-rating-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/bookings/flight-rating-system/</guid><description>&lt;h1 id="flugbewertung">
+ Flugbewertung
+ &lt;a class="anchor" href="#flugbewertung">#&lt;/a>
+&lt;/h1>
+&lt;p>Das Flight Rating System (FRS) wurde entwickelt, um eine detaillierte Qualitätsbewertung einzelner Flüge zu ermöglichen. Außerdem helfen die Bewertungen dabei, den Einfluss eines Fluges auf das Image der Airline zu berechnen.&lt;/p>
+&lt;p>Die Bewertung kann über die Inventory- oder Flugnummern-Seite im Commercial-Tab aufgerufen werden. Um die Übersicht der Fluginformationen aufzurufen, klickt einfach auf den kleinen weißen Pfeil neben dem Flug eurer Wahl.&lt;/p>
+&lt;p>&lt;img src="FRS_01.PNG" alt="FRS-Übersicht" title="FRS-Übersicht"/>&lt;/p>
+&lt;p>Die Bewertungen eines Fluges können im Tab “Flugbewertung” überprüft werden und bestehen aus zwei separaten Komponenten, den Produkt- und den Imagefaktoren. Beide sind zusammen mit dem Einfluss, den der Flug auf das Airline-Image haben wird, aufgelistet.&lt;/p></description></item><item><title>Handbuch-Beiträge</title><link>https://handbook.airlinesim.aero/de/docs/faqs/contributing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/faqs/contributing/</guid><description>&lt;h1 id="zum-airlinesim-handbuch-beitragen">
+ Zum AirlineSim-Handbuch beitragen
+ &lt;a class="anchor" href="#zum-airlinesim-handbuch-beitragen">#&lt;/a>
+&lt;/h1>
+&lt;p>Wenn ihr selbst zum Handbuch beitragen möchtet, hilft euch das Readme-Dokument auf unserer &lt;a href="https://github.com/simulogics/airlinesim-docs">GitHub-Seite&lt;/a> weiter. Bei Fragen könnt ihr euch zudem gerne jederzeit an uns wenden! Unsere Kontaktmöglichkeiten findet ihr &lt;a href="https://handbook.airlinesim.aero/de/docs/about/support/">hier&lt;/a>.&lt;/p></description></item><item><title>Immediate Delivery Programm</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/immediate-delivery-program/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/immediate-delivery-program/</guid><description>&lt;h1 id="immediate-delivery-programm">
+ Immediate Delivery Programm
+ &lt;a class="anchor" href="#immediate-delivery-programm">#&lt;/a>
+&lt;/h1>
+&lt;p>Vielleicht ist euch nach der Gründung eures Unternehmens bereits die neue Nachricht in eurem Postfach aufgefallen. Immer wenn ihr einen Betrieb in einer neuen Spielwelt erstellt, heißt euch die Aircraft Trade and Leasing Organization (ATO) zum Immediate Delivery Programm (IDP) willkommen.&lt;/p>
+&lt;p>Das IDP ist dazu gedacht, euer neues Unternehmen für den Wettbewerb fit zu machen und erlaubt es euch, neue Flugzeuge zu leasen, ohne Lieferzeiten abzuwarten! Die einzige Voraussetzung ist, dass eure Ausgaben für Leasing-Kautionen im Rahmen der 10 Millionen AS$ Startkapital bleiben.&lt;/p></description></item><item><title>Operations-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/operations-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/operations-tab/</guid><description>&lt;h1 id="operations-tab">
+ Operations-Tab
+ &lt;a class="anchor" href="#operations-tab">#&lt;/a>
+&lt;/h1>
+&lt;p>Der Operations-Tab ist in Flug- und Bodenbetrieb unterteilt.&lt;/p>
+&lt;h2 id="flight-operations">
+ Flight Operations
+ &lt;a class="anchor" href="#flight-operations">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="flottenverwaltung">
+ Flottenverwaltung
+ &lt;a class="anchor" href="#flottenverwaltung">#&lt;/a>
+&lt;/h3>
+&lt;p>Auf der Seite Flottenmanagement werden eure erworbenen Flugzeuge angezeigt. Ihr könnt sie organisieren, indem ihr sie verschiedenen Flotten zuordnet.&lt;/p>
+&lt;p>&lt;img src="flotte_01.PNG" alt="Flottenliste" title="Flottenliste"/>&lt;/p>
+&lt;p>Eine neue Flotte kann über die Schaltfläche “Flotte anlegen” oben rechts erstellt werden. Auf der linken Seite findet ihr eine Liste eurer bestehenden Flotten sowie die Option, diese zu löschen. Wenn eine Flotte gelöscht wird, werden alle ihre Flugzeuge auf die Standardflotte übertragen.&lt;/p></description></item><item><title>Spielwelten</title><link>https://handbook.airlinesim.aero/de/docs/about/game-worlds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/game-worlds/</guid><description>&lt;h1 id="spielwelten">
+ Spielwelten
+ &lt;a class="anchor" href="#spielwelten">#&lt;/a>
+&lt;/h1>
+&lt;p>Nach dem Login zeigt das Dashboard eine Liste mit den zur Verfügung stehenden Spielwelten an. Die Anzahl der möglichen Spielwelten pro Konto ist nicht begrenzt, allerdings werden für jeden aktiven Server &lt;a href="https://handbook.airlinesim.aero/de/docs/about/payment/">Credits&lt;/a> berechnet.&lt;/p>
+&lt;h2 id="kurzzeit-spielwelten">
+ Kurzzeit-Spielwelten
+ &lt;a class="anchor" href="#kurzzeit-spielwelten">#&lt;/a>
+&lt;/h2>
+&lt;p>Wie der Name schon sagt, haben Kurzzeit-Spielwelten eine begrenzte Laufzeit. Meist stehen sie 8 - 10 Monate zur Verfügung, bevor die nächste Iteration startet. Welche Welten derzeit verfügbar sind, zeigt die untenstehende Tabelle.&lt;/p></description></item><item><title>Verleasen und Verkaufen</title><link>https://handbook.airlinesim.aero/de/docs/advanced/finances/leasing-and-selling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/finances/leasing-and-selling/</guid><description>&lt;h1 id="verleasen-und-verkaufen">
+ Verleasen und Verkaufen
+ &lt;a class="anchor" href="#verleasen-und-verkaufen">#&lt;/a>
+&lt;/h1>
+&lt;p>Wenn ihr Flugzeuge aus eurem Besitz auf dem Flugzeugmarkt verleasen oder verkaufen möchtet, navigiert einfach zur Flottenverwaltung (Operations-Tab) und klickt auf das kleine Buchsymbol neben dem gewünschten Modell. So könnt ihr euer Flugzeug zum Verkauf oder zum Leasing anbieten.&lt;/p>
+&lt;p>In beiden Fällen werden euch die verfügbaren Preisoptionen angezeigt, unter anderem der Startpreis und die Bietfrist. Denkt daran, dass die Einstellungen des Flugzeugs, der Flugplan und die Sitzplätze entfernt werden, sobald ihr das Angebot aktiviert. Einen Überblick eurer angebotenen Maschinen erhaltet ihr unter “Ihre Angebote” auf der Seite “Flugzeugmarkt” (Management-Tab).&lt;/p></description></item><item><title>Aufbau der Flotte</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/building-your-fleet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/building-your-fleet/</guid><description>&lt;h1 id="aufbau-der-flotte">
+ Aufbau der Flotte
+ &lt;a class="anchor" href="#aufbau-der-flotte">#&lt;/a>
+&lt;/h1>
+&lt;p>Um eure Airline startklar zu machen, schauen wir uns nun an, wie ihr eure ersten Flugzeuge leasen oder kaufen könnt. Aufgrund der großen Auswahl an verfügbaren Maschinen solltet ihr euch zunächst überlegen, welcher Flugzeugtyp am besten zu eurem Betrieb passt!&lt;/p>
+&lt;h2 id="auswahl-der-flugzeugtypen">
+ Auswahl der Flugzeugtypen
+ &lt;a class="anchor" href="#auswahl-der-flugzeugtypen">#&lt;/a>
+&lt;/h2>
+&lt;p>&lt;img src="plane.jpg" alt="Ein Airbus A350 XWB" title="Ein Airbus A350 XWB"/>&lt;/p>
+&lt;p>Zunächst kann es hilfreich sein, über die geplanten Zielflughäfen eurer Airline nachzudenken. Mit ein paar möglichen Routen im Hinterkopf solltet ihr euch bereits ein besseres Bild von eurer zukünftigen Flotte machen können.&lt;/p></description></item><item><title>Börsengänge</title><link>https://handbook.airlinesim.aero/de/docs/advanced/finances/initial-public-offerings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/finances/initial-public-offerings/</guid><description>&lt;h1 id="börsengänge-initial-public-offerings">
+ Börsengänge (Initial Public Offerings)
+ &lt;a class="anchor" href="#b%c3%b6rseng%c3%a4nge-initial-public-offerings">#&lt;/a>
+&lt;/h1>
+&lt;p>In einigen Spielwelten ist es möglich, einen Börsengang (Initial Public Offering / IPO) durchzuführen. Frühestens zwei Wochen nach der Gründung eines Unternehmens könnt ihr eine Notierung an der AirlineSim-Börse beantragen und mit dem öffentlichen Aktienhandel beginnen.&lt;/p>
+&lt;h2 id="grundregeln">
+ Grundregeln
+ &lt;a class="anchor" href="#grundregeln">#&lt;/a>
+&lt;/h2>
+&lt;p>Anbei noch ein paar allgemeine Regeln und Tipps zu Börsengängen und -geschäften, die besonders dazu dienen, neue IPOs zu schützen und die Einhaltung der Spielregeln sicherzustellen:&lt;/p></description></item><item><title>Management-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/management-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/management-tab/</guid><description>&lt;h1 id="management-tab">
+ Management-Tab
+ &lt;a class="anchor" href="#management-tab">#&lt;/a>
+&lt;/h1>
+&lt;p>Das Management-Menü setzt sich aus den Abschnitten Einkauf, Human Resources, Investments und Finance zusammen.&lt;/p>
+&lt;h2 id="einkauf">
+ Einkauf
+ &lt;a class="anchor" href="#einkauf">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="flugzeughersteller">
+ Flugzeughersteller
+ &lt;a class="anchor" href="#flugzeughersteller">#&lt;/a>
+&lt;/h3>
+&lt;p>Auf dieser Seite seht ihr eine Liste aller verfügbaren Flugzeugtypen, gruppiert nach Hersteller und Kategorie (Props, Regio Jets, Narrow- und Wide-Bodies). Wenn ihr auf ein Flugzeugmodell klickt, erhaltet ihr eine Übersicht der zugehörigen Varianten sowie einige allgemeine Informationen wie deren Kapazitäten, Geschwindigkeit und Reichweite.&lt;/p>
+&lt;p>Wählt ihr eine der Varianten aus, öffnet sich das Datenblatt des Flugzeugs, das alle relevanten Details des Modells enthält (z. B. den Neupreis, Produktionszeitraum und -rate sowie die Routenbeschränkungen, Nutzlast, Reichweite, Lärm- und Wartungskategorie, Performance usw.). Außerdem könnt ihr hier Leasing- / Kaufoptionen neuer Flugzeuge prüfen oder Angebote für gebrauchte Flugzeuge einsehen (falls vorhanden).&lt;/p></description></item><item><title>Steam-Release</title><link>https://handbook.airlinesim.aero/de/docs/faqs/steam/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/faqs/steam/</guid><description>&lt;h1 id="steam-release">
+ Steam-Release
+ &lt;a class="anchor" href="#steam-release">#&lt;/a>
+&lt;/h1>
+&lt;p>In diesem Artikel erfahrt ihr alles, was ihr über die Veröffentlichung von AirlineSim auf Steam wissen müsst. Die AirlineSim-Store-Seite auf Steam erreicht ihr &lt;a href="https://store.steampowered.com/app/2715810/AirlineSim/">hier&lt;/a>.&lt;/p>
+&lt;h2 id="warum-habt-ihr-euch-dazu-entschieden-airlinesim-auf-steam-zu-veröffentlichen">
+ Warum habt ihr euch dazu entschieden, AirlineSim auf Steam zu veröffentlichen?
+ &lt;a class="anchor" href="#warum-habt-ihr-euch-dazu-entschieden-airlinesim-auf-steam-zu-ver%c3%b6ffentlichen">#&lt;/a>
+&lt;/h2>
+&lt;p>Eines unserer Ziele im Hinblick auf den Steam-Release ist es, eine neue Plattform für AirlineSim zu erkunden, über die wir Spieler*innen auf der ganzen Welt erreichen und eine solide Grundlage für die zukünftige Entwicklung unseres Spiels schaffen können.&lt;/p></description></item><item><title>Zahlungssystem</title><link>https://handbook.airlinesim.aero/de/docs/about/payment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/payment/</guid><description>&lt;h1 id="zahlungssystem">
+ Zahlungssystem
+ &lt;a class="anchor" href="#zahlungssystem">#&lt;/a>
+&lt;/h1>
+&lt;p>AirlineSim verwendet ein Zahlungsmodell, das auf Fairness, Transparenz und Benutzerfreundlichkeit ausgerichtet ist.&lt;/p>
+&lt;p>Hier erfahrt ihr alles, was ihr über Credits, Creditverbrauch, Preise, Zahlungsmethoden sowie die Premium-Features des Spiels wissen müsst. Bei Fragen zum Zahlungsvorgang werft gerne einen Blick auf unsere &lt;a href="https://handbook.airlinesim.aero/de/docs/faqs/payments/">Zahlungs-FAQ&lt;/a>.&lt;/p>
+&lt;h2 id="motivation">
+ Motivation
+ &lt;a class="anchor" href="#motivation">#&lt;/a>
+&lt;/h2>
+&lt;p>AirlineSim ist ein sehr &amp;ldquo;nischiges&amp;rdquo; Spiel (= vergleichsweise wenige aktive Spieler*innen). Zudem ist es als ernsthafte Wirtschaftssimulation gedacht, auf deren Servern aufwendige Simulationsmodelle laufen, die sehr ressourcenintensiv sind (= hohe Betriebskosten).&lt;/p></description></item><item><title>Datenbank-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/database-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/database-tab/</guid><description>&lt;h1 id="datenbank-tab">
+ Datenbank-Tab
+ &lt;a class="anchor" href="#datenbank-tab">#&lt;/a>
+&lt;/h1>
+&lt;p>Über die Registerkarte Datenbank könnt ihr auf wichtige Spielressourcen wie verschiedene Verzeichnisse, das Online Reservation System (ORS) und die Spielregeln zugreifen.&lt;/p>
+&lt;h2 id="verzeichnisse">
+ Verzeichnisse
+ &lt;a class="anchor" href="#verzeichnisse">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="länder">
+ Länder
+ &lt;a class="anchor" href="#l%c3%a4nder">#&lt;/a>
+&lt;/h3>
+&lt;p>&lt;img src="laender_01.PNG" alt="Länder-Quicklinks" title="Länder-Quicklinks"/>&lt;/p>
+&lt;p>In diesem Bereich findet ihr eine Liste aller im Spiel verfügbaren Länder. Wählt ihr ein Land aus, gelangt ihr zu dessen Informationsseite, auf der ihr Details zu den unterzeichneten Verträgen, der Möglichkeit für ausländische Investments und den Flughäfen einsehen könnt.&lt;/p></description></item><item><title>Erstellung von Routen</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/creating-routes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/creating-routes/</guid><description>&lt;h1 id="erstellung-von-routen">
+ Erstellung von Routen
+ &lt;a class="anchor" href="#erstellung-von-routen">#&lt;/a>
+&lt;/h1>
+&lt;p>Nun, da ihr euer erstes Flugzeug erworben habt, können wir mit der Planung der Flugrouten beginnen! Nach den vorigen Schritten habt ihr vielleicht schon eine grobe Idee, wo es hingehen soll, daher widmen wir uns jetzt den Details.&lt;/p>
+&lt;h2 id="suche-nach-flughafeninformationen">
+ Suche nach Flughafeninformationen
+ &lt;a class="anchor" href="#suche-nach-flughafeninformationen">#&lt;/a>
+&lt;/h2>
+&lt;p>&lt;img src="flughafen_02.PNG" alt="Flughafen-Details" title="Flughafen-Details"/>&lt;/p>
+&lt;p>Wenn ihr euch für einen bestimmten Flughafen interessiert, könnt ihr nach ihm suchen, indem ihr dessen Namen oder IATA-Code in die Suchleiste am oberen Bildschirmrand eingebt. Auf der Informationsseite des Flughafens findet ihr viele Details, zunächst konzentrieren wir uns aber nur auf den Abschnitt “Informationen&amp;quot;.&lt;/p></description></item><item><title>Insolvenz und Kredite</title><link>https://handbook.airlinesim.aero/de/docs/advanced/finances/bankruptcy-and-loans/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/finances/bankruptcy-and-loans/</guid><description>&lt;h1 id="insolvenz-und-kredite">
+ Insolvenz und Kredite
+ &lt;a class="anchor" href="#insolvenz-und-kredite">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="zahlungsunfähigkeit">
+ Zahlungsunfähigkeit
+ &lt;a class="anchor" href="#zahlungsunf%c3%a4higkeit">#&lt;/a>
+&lt;/h2>
+&lt;p>Zahlungsunfähigkeit oder Insolvenz bedeutet, dass eine natürliche oder juristische Person nicht in der Lage ist, ihre Rechnungen aus eigener Kraft zu bezahlen, d. h. das regelmäßige Einkommen reicht nicht aus, um die laufenden Kosten zu decken. In den meisten Fällen ist auch das Kreditlimit erreicht. Dies führt oft dazu, dass das Unternehmen aufgegeben und die Geschäftstätigkeit eingestellt wird.&lt;/p>
+&lt;blockquote class="book-hint info">
+ &lt;strong>Info&lt;/strong>&lt;br>
+In AirlineSim gibt es keinen Überziehungskredit, aus dem Leasingraten oder Gehälter bezahlt werden können, sodass die Liquidität eures Unternehmens durch den Kontostand bestimmt wird.
+&lt;/blockquote>
+
+&lt;p>Wenn ihr nicht in der Lage seid, die Leasingrate eines Flugzeugs zu zahlen, gilt euer Unternehmen zu diesem Zeitpunkt als zahlungsunfähig. In diesem Fall wird der Leasingvertrag sofort gekündigt, das Flugzeug zurückgegeben und die Kaution (abzüglich der Leasingrate) auf euer Bankkonto zurückerstattet.&lt;/p></description></item><item><title>Support</title><link>https://handbook.airlinesim.aero/de/docs/about/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/support/</guid><description>&lt;h1 id="support">
+ Support
+ &lt;a class="anchor" href="#support">#&lt;/a>
+&lt;/h1>
+&lt;p>Wenn ihr Fragen zum Spiel habt, könnt ihr über die folgenden Kanälen Hilfe finden.&lt;/p>
+&lt;h2 id="forum">
+ Forum
+ &lt;a class="anchor" href="#forum">#&lt;/a>
+&lt;/h2>
+&lt;p>Als eine der wichtigsten Community-Plattformen bietet das &lt;a href="https://forums.airlinesim.aero/">Forum&lt;/a> eine Vielzahl an Kategorien, in denen ihr Fragen stellen, über das Spiel diskutieren und viele hilfreiche Informationen finden könnt! Wenn ihr einen neuen Post verfasst, schaut am besten zunächst, ob es bereits ähnliche Threads gibt, wählt einen passenden Titel für euren Beitrag und achtet auf einen respektvollen Umgang mit anderen.&lt;/p></description></item><item><title>Personalverwaltung</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/hiring-staff/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/hiring-staff/</guid><description>&lt;h1 id="personalverwaltung">
+ Personalverwaltung
+ &lt;a class="anchor" href="#personalverwaltung">#&lt;/a>
+&lt;/h1>
+&lt;p>Eure Routenplanung steht? Dann können wir uns jetzt dem Personal zuwenden!&lt;/p>
+&lt;h2 id="einstellung-von-piloten">
+ Einstellung von Piloten
+ &lt;a class="anchor" href="#einstellung-von-piloten">#&lt;/a>
+&lt;/h2>
+&lt;p>Ein Flugzeug braucht Piloten, um zu fliegen, also sollten diese zuerst eingestellt oder ausgebildet werden. Einige Besatzungsmitglieder werden zwar bereits standardmäßig hinzugefügt, wenn ihr Piloten aber manuell einstellen möchtet, zeigen wir euch hier, wie das geht.&lt;/p>
+&lt;p>Wählt dafür im Management-Tab das Untermenü “Crew Management”. Auf der linken Seite seht ihr eine Liste der beschäftigten und benötigten Piloten, gruppiert nach Flugzeugkategorie. Da eure Piloten nicht den ganzen Tag arbeiten können, ist die Anzahl der benötigten Piloten höher als tatsächlich für einen Flug erforderlich. Wenn das Flugzeug beispielsweise 20 Stunden pro Tag fliegt, benötigt ihr drei Crews, um es zu betreiben, und eine vierte Besatzung, um Piloten im Krankheitsfall oder im Urlaub zu ersetzen.&lt;/p></description></item><item><title>Support-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/support-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/support-tab/</guid><description>&lt;h1 id="support-tab">
+ Support-Tab
+ &lt;a class="anchor" href="#support-tab">#&lt;/a>
+&lt;/h1>
+&lt;p>Solltet ihr im Zusammenhang mit dem Spiel auf Probleme stoßen oder Ideen für Verbesserungen haben, hilft euch dieser Tab, den richtigen Support-Kanal zu finden. In unserem &lt;a href="https://handbook.airlinesim.aero/de/docs/about/support/">Support-Artikel&lt;/a> findet ihr alle weiteren Details.&lt;/p></description></item><item><title>Community-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/community-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/community-tab/</guid><description>&lt;h1 id="community-tab">
+ Community-Tab
+ &lt;a class="anchor" href="#community-tab">#&lt;/a>
+&lt;/h1>
+&lt;p>Ihr möchtet euch mit anderen Mitgliedern der Community austauschen oder euch über die neuesten Spielupdates informieren? Dann findet ihr in diesem Tab alle Links, die ihr braucht.&lt;/p>
+&lt;p>Ob über den &lt;a href="https://www.airlinesim.aero/blog/de/">AirlineSim-Blog&lt;/a>, das &lt;a href="https://forums.airlinesim.aero/">Forum&lt;/a>, unseren &lt;a href="https://discord.com/invite/5K2Axks">Discord-Server&lt;/a> oder &lt;a href="https://twitter.com/airlinesim">Twitter&lt;/a> und &lt;a href="https://www.facebook.com/airlinesim">Facebook&lt;/a> - es gibt viele Möglichkeiten, um auf dem Laufenden zu bleiben und Teil der Community zu werden!&lt;/p>
+&lt;p>Außerdem findet ihr hier einen Link zu unserem zweiten Titel &lt;a href="https://prosperousuniverse.com/">Prosperous Universe&lt;/a>, einer browserbasierten Wirtschaftssimulation, bei der ihr euch auf eine Reise ins Weltall begebt…&lt;/p></description></item><item><title>Serviceprofile</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/service-profiles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/service-profiles/</guid><description>&lt;h1 id="festlegung-von-serviceprofilen">
+ Festlegung von Serviceprofilen
+ &lt;a class="anchor" href="#festlegung-von-serviceprofilen">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="kekse-oder-kaviar">
+ Kekse oder Kaviar?
+ &lt;a class="anchor" href="#kekse-oder-kaviar">#&lt;/a>
+&lt;/h2>
+&lt;p>Erinnert ihr euch noch an die Zeit, als auf jedem Flug kostenlose Getränke und eine Zeitung angeboten wurden? Das kostete die Airlines zwar nicht viel, aber Passagiere wussten den Service zu schätzen.&lt;/p>
+&lt;p>Auch unsere virtuellen Fluggäste wollen verwöhnt werden! Zum Glück ist ein guter Bordservice - Getränke, Mahlzeiten, Zeitungen usw. - nicht so teuer, und die höhere Bewertung ist es auf jeden Fall wert.&lt;/p></description></item><item><title>Kabinenkonfiguration</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/cabin-configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/cabin-configuration/</guid><description>&lt;h1 id="kabinenkonfiguration">
+ Kabinenkonfiguration
+ &lt;a class="anchor" href="#kabinenkonfiguration">#&lt;/a>
+&lt;/h1>
+&lt;p>Bevor ihr euch in die Lüfte schwingt, müssen wir euer Flugzeug noch mit einer Kabine ausstatten und die Sitzanordnung konfigurieren - unabhängig davon, ob ihr neue oder gebrauchte Maschinen besitzt.&lt;/p>
+&lt;blockquote class="book-hint info">
+ &lt;strong>Info&lt;/strong>&lt;br>
+Dieser Schritt entfällt, wenn ihr ein Frachtflugzeug betreiben wollt, denn in all euren neuen Flugzeugen ist bereits eine Standardkonfiguration installiert (wenn auch nicht die beste).
+&lt;/blockquote>
+
+&lt;h2 id="verwendung-des-kabineneditors">
+ Verwendung des Kabineneditors
+ &lt;a class="anchor" href="#verwendung-des-kabineneditors">#&lt;/a>
+&lt;/h2>
+&lt;p>Im Untermenü “Kabinenkonfigurationen” des Commercial-Tabs findet ihr eine Übersicht eurer bisher erstellten Konfigurationen sowie die Möglichkeit, eine neue zu erstellen. Gebt hierfür einfach im Menü auf der rechten Seite einen Namen ein, wählt den Flugzeugtyp, für den die Kabine gestaltet werden soll, und klickt auf “Neue Konfiguration anlegen”.&lt;/p></description></item><item><title>Private Nachrichten</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/private-messages/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/private-messages/</guid><description>&lt;h1 id="private-nachrichten">
+ Private Nachrichten
+ &lt;a class="anchor" href="#private-nachrichten">#&lt;/a>
+&lt;/h1>
+&lt;p>Über dieses Menü könnt ihr eure gesendeten sowie empfangenen Nachrichten im Spiel einsehen.&lt;/p>
+&lt;p>Die Nachrichten bestehen aus verschiedenen Postfächern, die jeweils ihren eigenen Posteingang und Postausgang haben. Hier könnt ihr auf empfangene Nachrichten antworten, sie als gelesen bzw. ungelesen markieren und löschen.&lt;/p>
+&lt;p>Wenn ihr eine neue Nachricht senden möchtet, ruft die entsprechende Firma oder das Profil der Unternehmensleitung auf und klickt auf die Schaltfläche “Nachricht senden / Diesem Benutzer eine Nachricht schicken…” oben rechts.&lt;/p></description></item><item><title>Einstellungen</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/settings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/settings/</guid><description>&lt;h1 id="einstellungen">
+ Einstellungen
+ &lt;a class="anchor" href="#einstellungen">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="account">
+ Account
+ &lt;a class="anchor" href="#account">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="ihr-profil">
+ Ihr Profil
+ &lt;a class="anchor" href="#ihr-profil">#&lt;/a>
+&lt;/h3>
+&lt;p>Dieser Abschnitt enthält Angaben wie den Usernamen, den Status (Testphase / Premium) sowie die Liste der Holdings und Unternehmen in der Spielwelt.&lt;/p>
+&lt;h3 id="ihre-holdings">
+ Ihre Holdings
+ &lt;a class="anchor" href="#ihre-holdings">#&lt;/a>
+&lt;/h3>
+&lt;p>Auf dieser Seite werden euer täglicher Credit-Verbrauch sowie der aktuelle Kontostand angezeigt. Auf der rechten Seite seht ihr außerdem eine Liste eurer aktiven Holdings.&lt;/p>
+&lt;h3 id="einstellungen--spielwelten">
+ Einstellungen / Spielwelten
+ &lt;a class="anchor" href="#einstellungen--spielwelten">#&lt;/a>
+&lt;/h3>
+&lt;p>Über diesen Menüpunkt gelangt ihr zurück zum Dashboard der Accountverwaltung, das euch auch angezeigt wird, wenn ihr euch über die &lt;a href="https://www.airlinesim.aero/de/">AirlineSim-Website&lt;/a> einloggt. Hier könnt ihr die verfügbaren Spielwelten sehen, Credits kaufen und Accounteinstellungen wie E-Mail-Adresse, Passwort und Benachrichtigungen anpassen.&lt;/p></description></item><item><title>Kabinen- und Crew-Zuweisung</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/assigning-cabin-and-crew/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/assigning-cabin-and-crew/</guid><description>&lt;h1 id="kabinen--und-crew-zuweisung">
+ Kabinen- und Crew-Zuweisung
+ &lt;a class="anchor" href="#kabinen--und-crew-zuweisung">#&lt;/a>
+&lt;/h1>
+&lt;p>Nachdem ihr die Kabinen eingerichtet habt und eure Crew eingestellt wurde, könnt ihr diese nun eurem Flugzeug zuweisen.&lt;/p>
+&lt;p>Geht hierfür zum Operations-Tab, klickt auf “Flottenverwaltung” und wählt die Flotte aus, die das gewünschte Flugzeug enthält. Im Moment ist das wahrscheinlich die Standardflotte, zu der alle gekauften und geleasten Flugzeuge hinzugefügt werden.&lt;/p>
+&lt;p>&lt;img src="flotte_03.PNG" alt="Sitzplätze und Besatzung zuweisen" title="Sitzplätze und Besatzung zuweisen"/>&lt;/p>
+&lt;p>Wählt nun das betreffende Flugzeug aus, indem ihr die kleine Box links davon anklickt. Dadurch erhaltet ihr Zugriff auf das Menü “Aktionen”, in dem ihr Kabine und Besatzung festlegen könnt. Eine Kabinenkonfiguration kann mehreren Flugzeugen der gleichen Modellvariante gleichzeitig zugewiesen werden. Auch hier gilt wieder eine Ausnahme für Frachtmaschinen.&lt;/p></description></item><item><title>Wartung</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/maintenance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/maintenance/</guid><description>&lt;h1 id="wartung">
+ Wartung
+ &lt;a class="anchor" href="#wartung">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="wartung-buchen">
+ Wartung buchen
+ &lt;a class="anchor" href="#wartung-buchen">#&lt;/a>
+&lt;/h2>
+&lt;p>Ihr habt ein Flugzeug und die erste Routenplanung, Service, Personal sowie die Kabinenkonfiguration stehen auch - Zeit abzuheben? Noch nicht ganz, denn ihr braucht noch einen Wartungsanbieter! Ohne Reparaturen wird euer Flugzeug nicht sehr lange fliegen&amp;hellip;&lt;/p>
+&lt;p>&lt;img src="wartung_03.PNG" alt="Auswahl eines Wartungspartners" title="Auswahl eines Wartungspartners"/>&lt;/p>
+&lt;p>Im Menü “Wartung” (Operations-Tab) habt ihr die Möglichkeit, eine Firma mit der Wartung eures Flugzeugs zu beauftragen. Jede der Optionen hat bestimmte Vor- und Nachteile, da die Anbieter in Bezug auf Preis, Qualität und Geschwindigkeit der Wartung unterschiedlich abschneiden.&lt;/p></description></item><item><title>Flugplanung</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/scheduling-flights/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/scheduling-flights/</guid><description>&lt;h1 id="flugplanung">
+ Flugplanung
+ &lt;a class="anchor" href="#flugplanung">#&lt;/a>
+&lt;/h1>
+&lt;p>Nach der Auswahl eines Wartungsunternehmens ist es nun endlich an der Zeit, euer Flugzeug in Betrieb zu nehmen! Je nach eurem Standort, den Zielen eurer Airline und der vorhandenen Konkurrenz kann das recht einfach oder etwas kompliziert sein.&lt;/p>
+&lt;p>In diesem Guide geht es vor allem darum, einen einfachen Flugplan zu erstellen, aber viele der fortgeschritteneren Konzepte sollten nach dem Lesen weitgehend selbstverständlich sein.&lt;/p>
+&lt;h2 id="vorbereitung-des-flugplans">
+ Vorbereitung des Flugplans
+ &lt;a class="anchor" href="#vorbereitung-des-flugplans">#&lt;/a>
+&lt;/h2>
+&lt;p>Bevor wir loslegen, solltet ihr euch überlegen, wie ihr euren Flugplan einrichten wollt. Schauen wir, was es zu beachten gibt!&lt;/p></description></item><item><title>Herzlichen Glückwunsch!</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/congratulations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/congratulations/</guid><description>&lt;h1 id="herzlichen-glückwunsch">
+ Herzlichen Glückwunsch!
+ &lt;a class="anchor" href="#herzlichen-gl%c3%bcckwunsch">#&lt;/a>
+&lt;/h1>
+&lt;p>Hiermit habt ihr das Tutorial erfolgreich abgeschlossen! Mit eurer neuen Airline seid ihr nun in der Lage, euch den täglichen Herausforderungen des Luftfahrtgeschäfts zu stellen. Experimentiert dabei ruhig mit verschiedenen Ideen und Geschäftsansätzen! Wenn ihr weitere Hilfe braucht, schaut euch gerne mal die folgenden Abschnitte des Handbuchs an oder besucht unseren &lt;a href="https://handbook.airlinesim.aero/de/docs/about/support/">Support-Artikel&lt;/a>. Viel Spaß beim Spielen!&lt;/p></description></item></channel></rss>

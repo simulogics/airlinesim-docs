@@ -1,5 +1,5 @@
 baseURL = "https://handbook.airlinesim.aero/"
-languageCode = "en-us"
+languageCode = "en-US"
 title = "AirlineSim Handbook"
 theme = "hugo-book"
 
@@ -24,7 +24,7 @@ contentDir = 'content.de'
 
 # (Optional) Theme is intended for documentation use, therefore it doesn't render taxonomy.
 # You can remove related files with config below
-disableKinds = ['taxonomy', 'taxonomyTerm']
+disableKinds = ['taxonomy']
 
 [params]
 # (Optional, default light) Sets color theme: light, dark or auto.

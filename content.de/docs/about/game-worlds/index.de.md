@@ -45,7 +45,7 @@ Die folgende Liste zeigt alle derzeit verfügbaren Kurzzeit- und Langzeit-Spielw
 | Bleriot VII | Sep. 2024 | 26. Mai 2025 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, Standard-Slots |
 | Domination VII | Jul. 2023 | 24. März 2025 | 4 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Alle Länder investitionsoffen, doppeltes Startkapital, Standard-Slots |
 | Otto XII | Aug. 2024 | 21. Apr. 2025 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, doppelte Slots |
-| Yeager IX | Mai 2024 | 18. Nov. 2024 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, doppelte Slots |
+| Yeager X | Nov. 2024 | 23. Jun. 2025 | 4 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, doppelte Slots |
 | Junkers VI | Mai 2024 | 27. Jan. 2025 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, Standard-Slots |
 | Quimby XV | Apr. 2024 | 02. Dez. 2024 | 4 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, doppelte Slots |
 

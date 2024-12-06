@@ -7,9 +7,11 @@ weight: 3
 
 After logging into your account, the Dashboard will show a variety of game worlds for you to choose from. The amount of game worlds that you can join isn't limited, so feel free to try out as many as you like. Keep in mind that [credits]({{< relref "docs/about/payment/index.md" >}}) will be deducted from your account for every active game world.
 
+You can find a list of all currently available game worlds, including their respective configurations, on [our website](https://www.airlinesim.aero/worlds).
+
 ## Short-Term Game Worlds
 
-As the name suggests, short-term game worlds have a limited runtime and usually last for about 8 to 10 months before starting over in a new iteration. You can find out which worlds are currently available in the table below.
+As the name suggests, short-term game worlds have a limited runtime and usually last for about 8 to 10 months before starting over in a new iteration.
 
 {{< hint info >}}
 **Info**  
@@ -18,7 +20,7 @@ Short-term game worlds consume 4 credits per day for your first holding and 2 cr
 
 ## Long-Term Game Worlds
 
-On the other hand, long-term game worlds run continuously with no specific end date. The currently active servers can be found in the table down below as well.
+On the other hand, long-term game worlds run continuously with no specific end date.
 
 {{< hint info >}}
 **Info**  
@@ -27,56 +29,12 @@ Long-term game worlds consume 6 credits per day for your first holding and 4 cre
 
 ## Medium-Term Game Worlds
 
-This type of game world is a hybdrid between short- and long-term servers, both in terms of duration and costs.
+This type of game world is a hybrid between short- and long-term servers, both in terms of duration and costs.
 
 {{< hint info >}}
 **Info**  
 Medium-term game worlds consume 5 credits per day for your first holding.
 {{< /hint >}}
-
-## Detailed Configurations
-
-Here is a list of all currently available short-term and long-term game worlds along with some of their configuration details. Please remember that even if a game world allows having multiple holdings, you must only use one account (more information on that can be found in our game rules).
-
-### Short-Term Game Worlds
-
-| Game World | Opened | Ends | First Holding | Additional Holding | Standard pricing formula | Turnarounds | ORS Version | Remarks |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Bleriot VII | Sep 2024 | 26 May 2025 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, single slots |
-| Domination VII | Jul 2023 | 24 Mar 2025 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | all countries open for investment, doubled starting funds, single slots |
-| Otto XII | Aug 2024 | 21 Apr 2025 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, double slots |
-| Yeager X | Nov 2024 | 23 Jun 2025 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | only current aircraft, double slots |
-| Junkers VI | May 2024 | 27 Jan 2025 | 4 credits | 2 credits | Ver. 3 | dynamic | Ver. 2 | only current aircraft, single slots |
-| Quimby XV | Apr 2024 | 02 Dec 2024 | 4 credits | -- | Ver. 3 | dynamic | Ver. 2 | only current aircraft, double slots |
-
-### Long-Term Game Worlds
-
-| Game World | Opened | Ends | First Holding | Additional Holding | Standard pricing formula | Turnarounds | ORS Version | Remarks |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Yeouido | Jun 2023 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 2 | only current aircraft, standard slots |
-| Limatambo | Dec 2020 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 2 | only current aircraft, standard slots |
-| Xiguan | Dec 2018 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 1 | only current aircraft, standard slots |
-| Hoover | Dec 2017 | -- | 6 credits | -- | Ver. 3 | dynamic | Ver. 1 | only current aircraft, standard slots |
-| Riem | Mar 2015 | -- | 6 credits | 4 credits | Ver. 2 | static | Ver. 1 | advanced game world due to reduced demand, IPOs possible, standard slots |
-| Ellinikon | Aug 2014 | -- | 6 credits | 4 credits | Ver. 2 | static | Ver. 1 | IPOs possible, standard slots |
-| Aspern | Nov 2013 | -- | 6 credits | -- | Ver. 1 | static | Ver. 1 | IPOs possible, only current aircraft, standard slots |
-| Gatow | Feb 2013 | -- | 6 credits | -- | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
-| Pearls | Jun 2012 | -- | 6 credits | -- | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
-| Meigs | Mar 2012 | -- | 6 credits | -- | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
-| Stapleton | Jul 2011 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
-| Fornebu | Sep 2010 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
-| Tempelhof | Aug 2010 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
-| Croydon | Nov 2009 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
-| Nicosia | Aug 2009 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
-| Devau | Feb 2008 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
-| Idlewild | Oct 2007 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
-| Kaitak | Aug 2007 | -- | 6 credits | 4 credits | Ver. 1 | static | Ver. 1 | IPOs possible, standard slots |
-
-### Medium-Term Game Worlds
-
-| Game World | Opened | Ends | First Holding | Additional Holding | Standard pricing formula | Turnarounds | ORS Version | Remarks |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Tristar | Mar 2024 | 15 Mar 2027 | 5 credits | -- | Ver. 3 | dynamic | Ver. 2 | only current aircraft, single slots |
 
 ## Exclusive Game Worlds
 
@@ -122,8 +80,6 @@ An exclusive game world costs 360€ (including VAT) per 30 days. We require a n
 
 ### Where can I order my own game world?
 
-![Ordering a Custom Server](exclusive_01.png "Ordering a Custom Server")
+After logging in you can order an exclusive game world right from the [exclusive game worlds page](https://airlinesim.aero/de/account/worlds/order).
 
-You can place your order directly by logging into your account, navigating to the Dashboard and selecting Exclusive Game Worlds.
-
-Once your purchase has been completed, we will set up your game world within 5 business days. If you have any questions concerning your order, please contact [support](https://www.airlinesim.aero/blog/pages/support/).
+Once your purchase has been completed, we will set up your game world within 5 business days. If you have any questions concerning your order, please contact [support]({{< relref "docs/about/support.md" >}}).

@@ -5,7 +5,7 @@ weight: 5
 
 # Support
 
-Wenn ihr Fragen zum Spiel habt, könnt ihr über die folgenden Kanälen Hilfe finden.
+Wenn ihr Fragen zum Spiel habt, könnt ihr über die folgenden Kanäle Hilfe finden.
 
 ## Forum
 
@@ -17,7 +17,7 @@ Auch auf unserem [Discord-Server](https://discord.com/invite/5K2Axks) könnt ihr
 
 ## Support-Tickets
 
-Bei Anliegen rund um das Spiel könnt ihr euch außerdem jederzeit über support@airlinesim.de direkt an das AirlineSim-Team wenden. Falls ihr Fragen zur Bezahlung habt, wendet euch bitte an payment@simulogics.net. Weitere Informationen zum Support findet ihr auf unserer [Website](https://www.airlinesim.aero/blog/de/pages/support/).
+Bei Anliegen rund um das Spiel könnt ihr euch außerdem jederzeit über support@airlinesim.de direkt an das AirlineSim-Team wenden. Falls ihr Fragen zur Bezahlung habt, wendet euch bitte an payment@simulogics.net.
 
 Wenn ihr euch per E-Mail an den Support wendet oder eine Airline direkt im Spiel meldet, wird ein Ticket erstellt und ihr erhaltet eine Benachrichtigung mit der entsprechenden Ticketnummer. Sobald wir euer Ticket erhalten haben, bemühen wir uns, euch so schnell wie möglich zu antworten. Bitte beachtet, dass die Antwortzeiten je nach Art der Anfrage variieren können.
 

@@ -7,9 +7,11 @@ weight: 3
 
 Nach dem Login zeigt das Dashboard eine Liste mit den zur Verfügung stehenden Spielwelten an. Die Anzahl der möglichen Spielwelten pro Konto ist nicht begrenzt, allerdings werden für jeden aktiven Server [Credits]({{< relref "docs/about/payment/index.de.md" >}}) berechnet.
 
+Eine Liste aller derzeit verfügbaren Spielwelten, inklusive der jeweiligen Konfigurationen, findet sich auf [unserer Webseite](https://www.airlinesim.aero/de/worlds).
+
 ## Kurzzeit-Spielwelten
 
-Wie der Name schon sagt, haben Kurzzeit-Spielwelten eine begrenzte Laufzeit. Meist stehen sie 8 - 10 Monate zur Verfügung, bevor die nächste Iteration startet. Welche Welten derzeit verfügbar sind, zeigt die untenstehende Tabelle.
+Wie der Name schon sagt, haben Kurzzeit-Spielwelten eine begrenzte Laufzeit. Meist stehen sie 8 - 10 Monate zur Verfügung, bevor die nächste Iteration startet.
 
 {{< hint info >}}
 **Info**  
@@ -18,7 +20,7 @@ Auf Kurzzeit-Spielwelten verbraucht die erste Holding 4 Credits am Tag. Für jed
 
 ## Langzeit-Spielwelten
 
-Im Gegensatz zu zeitlich begrenzten Servern haben Langzeit-Spielwelten kein bestimmtes Enddatum. Die aktuell verfügbaren Welten befinden sich ebenfalls in der Tabelle weiter unten.
+Im Gegensatz zu zeitlich begrenzten Servern haben Langzeit-Spielwelten kein bestimmtes Enddatum.
 
 {{< hint info >}}
 **Info**  
@@ -33,50 +35,6 @@ Bei dieser Art von Spielwelt handelt es sich um eine Mischung aus Kurz- und Lang
 **Info**  
 Auf mittelfristigen Spielwelten verbraucht die erste Holding 5 Credits am Tag.
 {{< /hint >}}
-
-## Spielwelt-Konfigurationen
-
-Die folgende Liste zeigt alle derzeit verfügbaren Kurzzeit- und Langzeit-Spielwelten sowie einige ihrer Konfigurationsdetails. Bitte beachtet, dass nur ein AirlineSim-Konto verwendet werden darf, auch wenn eine Spielwelt das Erstellen mehrerer Holdings erlaubt (weitere Informationen dazu gibt es in unseren Spielregeln).
-
-### Kurzzeit-Spielwelten
-
-| Spielwelt | Start | Ende | Erste Holding | Zusätzliche Holding | Standard-Preisformel | Turnarounds | ORS-Version | Bemerkungen |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Bleriot VII | Sep. 2024 | 26. Mai 2025 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, Standard-Slots |
-| Domination VII | Jul. 2023 | 24. März 2025 | 4 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Alle Länder investitionsoffen, doppeltes Startkapital, Standard-Slots |
-| Otto XII | Aug. 2024 | 21. Apr. 2025 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, doppelte Slots |
-| Yeager X | Nov. 2024 | 23. Jun. 2025 | 4 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, doppelte Slots |
-| Junkers VI | Mai 2024 | 27. Jan. 2025 | 4 Credits | 2 Credits | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, Standard-Slots |
-| Quimby XV | Apr. 2024 | 02. Dez. 2024 | 4 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, doppelte Slots |
-
-### Langzeit-Spielwelten
-
-| Spielwelt | Start | Ende | Erste Holding | Zusätzliche Holding | Standard-Preisformel | Turnarounds | ORS-Version | Bemerkungen |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Yeouido | Jun. 2023 | -- | 6 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, Standard-Slots |
-| Limatambo | Dez. 2020 | -- | 6 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, Standard-Slots |
-| Xiguan | Dez. 2018 | -- | 6 Credits | -- | Ver. 3 | dynamisch | Ver. 1 | Nur aktuelle Flugzeugtypen, Standard-Slots |
-| Hoover | Dez. 2017 | -- | 6 Credits | -- | Ver. 3 | dynamisch | Ver. 1 | Nur aktuelle Flugzeugtypen, Standard-Slots |
-| Riem | März 2015 | -- | 6 Credits | 4 Credits | Ver. 2 | statisch | Ver. 1 | Fortgeschrittene Spielwelt durch reduziertes Aufkommen, IPOs möglich, Standard-Slots |
-| Ellinikon | Aug. 2014 | -- | 6 Credits | 4 Credits | Ver. 2 | statisch | Ver. 1 | IPOs möglich, Standard-Slots |
-| Aspern | Nov. 2013 | -- | 6 Credits | -- | Ver. 1 | statisch | Ver. 1 | IPOs möglich, nur aktuelle Flugzeugtypen, Standard-Slots |
-| Gatow | Feb. 2013 | -- | 6 Credits | -- | Ver. 1 | statisch | Ver. 1 | IPOs möglich, Standard-Slots |
-| Pearls | Jun. 2012 | -- | 6 Credits | -- | Ver. 1 | statisch | Ver. 1 | IPOs möglich, Standard-Slots |
-| Meigs | März 2012 | -- | 6 Credits | -- | Ver. 1 | statisch | Ver. 1 | IPOs möglich, Standard-Slots |
-| Stapleton | Jul. 2011 | -- | 6 Credits | 4 Credits | Ver. 1 | statisch | Ver. 1 | IPOs möglich, Standard-Slots |
-| Fornebu | Sept. 2010 | -- | 6 Credits | 4 Credits | Ver. 1 | statisch | Ver. 1 | IPOs möglich, Standard-Slots |
-| Tempelhof | Aug. 2010 | -- | 6 Credits | 4 Credits | Ver. 1 | statisch | Ver. 1 | IPOs möglich, Standard-Slots |
-| Croydon | Nov. 2009 | -- | 6 Credits | 4 Credits | Ver. 1 | statisch | Ver. 1 | IPOs möglich, Standard-Slots |
-| Nicosia | Aug. 2009 | -- | 6 Credits | 4 Credits | Ver. 1 | statisch | Ver. 1 | IPOs möglich, Standard-Slots |
-| Devau | Feb. 2008 | -- | 6 Credits | 4 Credits | Ver. 1 | statisch | Ver. 1 | IPOs möglich, Standard-Slots |
-| Idlewild | Okt. 2007 | -- | 6 Credits | 4 Credits | Ver. 1 | statisch | Ver. 1 | IPOs möglich, Standard-Slots |
-| Kaitak | Aug. 2007 | -- | 6 Credits | 4 Credits | Ver. 1 | statisch | Ver. 1 | IPOs möglich, Standard-Slots |
-
-### Mittelfristige Spielwelten
-
-| Spielwelt | Start | Ende | Erste Holding | Zusätzliche Holding | Standard-Preisformel | Turnarounds | ORS-Version | Bemerkungen |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Tristar | März 2024 | 15. März 2027 | 5 Credits | -- | Ver. 3 | dynamisch | Ver. 2 | Nur aktuelle Flugzeugtypen, Standard-Slots |
 
 ## Exklusive Spielwelten
 
@@ -122,8 +80,6 @@ Eine exklusive Spielwelt kostet 360€ (inkl. MwSt.) für 30 Tage. Für die erst
 
 ### Wo kann ich meine eigene Spielwelt bestellen?
 
-![Einen eigenen Server bestellen](exklusiv_01.PNG "Einen eigenen Server bestellen")
+Bestellungen könnt ihr direkt in eurem AirlineSim-Account vornehmen. Nach dem Login stehen unter dem Menüpunkt ["Exklusive Spielwelten"](https://www.airlinesim.aero/de/account/worlds/order) alle notwendigen Informationen zur Verfügung.
 
-Bestellungen könnt ihr direkt in eurem AirlineSim-Account vornehmen. Nach dem Login stehen unter dem Menüpunkt "Exklusive Spielwelten" alle notwendigen Informationen zur Verfügung.
-
-Sobald der Kauf abgeschlossen ist, wird die Spielwelt innerhalb von 5 Werktagen durch das AirlineSim-Team eingerichtet. Falls Fragen zur Bestellung aufkommen, könnt ihr euch jederzeit an den [Support](https://www.airlinesim.aero/blog/de/pages/support/) wenden.
+Sobald der Kauf abgeschlossen ist, wird die Spielwelt innerhalb von 5 Werktagen durch das AirlineSim-Team eingerichtet. Falls Fragen zur Bestellung aufkommen, könnt ihr euch jederzeit an den [Support]({{< relref "docs/about/support.md" >}}) wenden.

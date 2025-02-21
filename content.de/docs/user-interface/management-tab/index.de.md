@@ -35,10 +35,10 @@ Mit Ausnahme der Pilotinnen und Piloten werden alle Crew-Mitglieder bei Bedarf a
 
 Möchtet ihr Personal entlassen, gebt die Anzahl der Angestellten in die Spalte “Personal entlassen” ein.
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Wichtig**
 Wenn ihr Arbeitsverträge kündigt, müsst ihr eine Abfindung in Höhe von mehreren Wochen des ausstehenden Gehalts zahlen.
-{{< /hint >}}
+{{% /hint %}}
 
 ### Crew Management
 

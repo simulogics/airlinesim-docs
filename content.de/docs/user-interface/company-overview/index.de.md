@@ -19,10 +19,10 @@ Das Widget “Unternehmen” zeigt das Logo (falls ihr eins hochgeladen habt) so
 
 Dieses Widget zeigt euch die festen Ausgaben und Einnahmen der nächsten drei Tage (basierend auf Verträgen und vergangenen Ereignissen wie Flugzeugauslieferungen). Der Wochenabschluss ist der Zeitpunkt, an dem die finanzielle Periode zurückgesetzt wird und die Angestellten bezahlt werden.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**
 Diese Ereignisse gehören nicht zu den direkten Kosten eines Fluges. Um die Liste zu erweitern, klickt auf “Alle Termine ansehen” oder öffnet das Menü “Cash Flow” im Management-Tab.
-{{< /hint >}}
+{{% /hint %}}
 
 ### Notizblock
 
@@ -104,10 +104,10 @@ Im Abschnitt zur Benutzeroberfläche könnt ihr die visuelle Darstellung des Spi
 
 Unterhalb der Einstellungen habt ihr die Möglichkeit, ein neues Unternehmen zu gründen oder ein bestehendes zu liquidieren.
 
-{{< hint danger >}}
+{{% hint danger %}}
 **Warnung**
 Wenn ihr euch für eine Liquidation entscheidet, werden alle Daten des Unternehmens unwiderruflich gelöscht. Alle Assets werden verkauft, Gebäude werden abgerissen, bestehende Minderheitsbeteiligungen gehen an AirlineSim und Mehrheitsbeteiligungen führen zur Löschung des Tochterunternehmens. Aktionärinnen und Aktionäre erhalten die verbleibenden Werte geteilt durch ihren Anteil.
-{{< /hint >}}
+{{% /hint %}}
 
 Bitte beachtet, dass ein Reset nur für Holdings (d. h. Unternehmen, die direkt zu eurem Konto gehören) möglich ist.
 

@@ -33,10 +33,10 @@ In the beginning, it's recommendable to select a country with little competition
 
 When joining a game world that has already been running for some time, it can't hurt to take a look at the available slots of your desired airport. 
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 You can look up the slot distribution for a specific airport by typing its name into the game's search bar and navigating to the Slots tab of the airport's info page.
-{{< /hint >}}
+{{% /hint %}}
 
 If you see a lot of orange and red, you may want to find another hub since slots are needed for landing and take off and play an important role in creating your flight schedule.
 
@@ -60,10 +60,10 @@ This is an example for a country which can be open to foreign investors. At firs
 
 However, if it's open to investors, every airline in the world can use it to create a subsidiary. What seemed like a quiet place in the beginning may become more competitive as big airlines start looking for places to expand their business.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 Whether or not a country accepts foreign investments depends on the game world. You can check by navigating to the Countries section of the Database tab, selecting a country and reviewing what it says under Unrestricted Market Access.
-{{< /hint >}}
+{{% /hint %}}
 
 ## Creating Holdings and Subsidiaries
 
@@ -73,10 +73,10 @@ If you want to create another enterprise, just hover over the drop-down menu tha
 
 Next, you can specify if you want to found another holding or if you'd like create a subsidiary of your existing holding.
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Important**  
 Please note: Not every game world supports running multiple holdings. In doubt, check out the world's configuration here or on our [blog](https://www.airlinesim.aero/blog/). If multiple holdings are allowed, keep in mind that cooperation between them is forbidden by our game rules.
-{{< /hint >}}
+{{% /hint %}}
 
 When setting up a subsidiary, you have to decide how much starting capital it will receive from your holding, the minimum being 3 million AS$. Consider how much you want to invest as you will not have the opportunity to transfer any more money from the holding to the company or vice versa, except through a dividend paid to your holding and outside investors after an IPO.
 

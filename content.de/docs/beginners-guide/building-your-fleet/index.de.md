@@ -123,10 +123,10 @@ Möchtet ihr gebrauchte Maschinen bestellen, wählt auf der Infoseite des Flugze
 
 Flugzeuge vom Gebrauchtmarkt könnt ihr entweder über einen Sofortkauf erwerben oder über eine Auktion. Als Zahlungsmethode stehen euch auch hier Bargeld, Kredite und Leasing zur Verfügung. Auch wenn es etwas mehr Zeit in Anspruch nehmen kann, ist es oft ratsam, ein Gebot für eine Auktion abzugeben, da ihr Flugzeuge auf diesem Weg meist viel günstiger erwerben könnt.
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Wichtig**  
 Gebt ihr im Rahmen einer Auktion ein Gebot ab, bleibt euer Geld gebunden, bis die Auktion beendet ist. Denkt daran, dass der Auktions-Timer jedes Mal zurückgesetzt wird, wenn ein weiteres Gebot abgegeben wird.
-{{< /hint >}}
+{{% /hint %}}
 
 Auf dem Markt wird jedes Flugzeug zusammen mit zusätzlichen Informationen aufgeführt:
 

@@ -9,6 +9,11 @@ defaultContentLanguage = "en"
 # Force to have /en/my-page and /fr/my-page routes, even for default language.
 defaultContentLanguageInSubdir = true
 
+# Needed for mermaid/katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+
 [languages]
 [languages.en]
 languageName = "English"

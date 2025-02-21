@@ -52,19 +52,19 @@ Derzeit betragen die üblichen Kosten:
 
 Wenn euch die Credits ausgehen, werden die Holdings und Unternehmen eures Kontos gesperrt, bis ihr euer Guthaben auffüllt. Während dieser Zeit werden weiterhin Credits zum normalen Tagessatz abgezogen, was bedeutet, dass euer Guthaben zunehmend negativ wird. Damit soll verhindert werden, dass Unternehmen einen unfairen Vorteil erlangen, indem sie einen Account aufgeben, mehrere Wochen später aber zu ihm zurückkehren, ohne für ihr Wachstum und die in der Zwischenzeit belegten Spielressourcen zahlen zu müssen.
 
-{{< hint info >}}
+{{% hint info %}}
 **Beispiel**
 Wenn ein Konto eine Holding in einer Kurzzeitspielwelt besitzt und die Credits ausgehen, hat es nach 5 Tagen ein Guthaben von -20 Credits. Diese müssen bezahlt werden, bevor der Zugriff auf das Spiel wiederhergestellt wird.
-{{< /hint >}}
+{{% /hint %}}
 
 Wenn das Guthaben eines Kontos länger als 28 Tage negativ bleibt, werden **alle Holdings und Airlines** dieses Kontos **auf allen Spielwelten** gelöscht, um blockierte Spielressourcen wie Slots und Flugzeuge freizugeben, die anderen Spieler*innen sonst nicht zugänglich wären. Das AirlineSim-Konto selbst bleibt aktiv und das Guthaben wird automatisch auf die anfänglichen 60 Credits aufgefüllt, wodurch euer Konto effektiv auf seinen ursprünglichen Status zurückgesetzt wird. Wenn es zuvor Premiumstatus hatte, bleibt dieser auch nach dem Zurücksetzen erhalten.
 
 Bitte beachtet, dass die Kulanzperiode von 28 Tagen für Premiumkonten gilt, für die zuvor Credits erworben wurden. Bei Testkonten dauert es nach Auslaufen der Credits 7 Tage, bis die Airlines gelöscht werden.
 
-{{< hint danger >}}
+{{% hint danger %}}
 **Achtung!**
 Bitte beachtet, dass automatische Löschungen aufgrund eines negativen Guthabens **alle Spielwelten** betreffen, in denen ein Konto Holdings hat, **auch kostenlose**!
-{{< /hint >}}
+{{% /hint %}}
 
 ## Kostenlos Spielen: Kostenlose vs. Premium-Konten
 
@@ -102,10 +102,10 @@ Eine vollständige und aktuelle Liste aller Preise und der jeweiligen Mengenraba
 
 Um Credits für AirlineSim zu kaufen, loggt euch einfach in euer Konto ein und klickt auf Credits kaufen. Hier könnt ihr die gewünschte Paketgröße auswählen, optional einen Gutscheincode eingeben (aktuell nur außerhalb von Steam) und eure Zahlungsart auswählen.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**
 Aktuell sind beim Checkout folgende Zahlungsarten möglich: Kredit- oder Debitkarte (Visa, MasterCard, American Express), PayPal, paysafecard, Online-Überweisung und Vorkasse. Beim Spielen über Steam stehen euch alle von Steam angebotenen Zahlungsarten zur Verfügung.
-{{< /hint >}}
+{{% /hint %}}
 
 Bitte beachtet: Welche Zahlungsmethoden tatsächlich verfügbar sind, kann sowohl von dem Land abhängen, aus dem ihr bezahlt, als auch von der gewählten Paketgröße.
 

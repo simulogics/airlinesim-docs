@@ -33,10 +33,10 @@ Diese Seite bietet euch einen Überblick zur aktuellen Marktsituation für das a
 
 Der Bereich “Marktanteile” stellt den Marktanteil an Passagier- und Frachtverkehr dar, den ihr und die anderen Airlines kontrolliert. Oberhalb des Diagramms könnt ihr zwischen den Daten verschiedener Kalenderwochen umschalten.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 Der Hauptzweck der Seite Marktanalyse besteht darin, die Konkurrenz im Auge zu behalten und neue Märkte zu bewerten. Um eure eigene Auslastung zu überwachen, könnt ihr die Seite [Inventory](#inventory) or [Auslastungsüberwachung](#auslastungsüberwachung) verwenden.
-{{< /hint >}}
+{{% /hint %}}
 
 Bitte beachtet, dass die Verfügbarkeitswerte anderer Airlines (Tabelle “Aktuelle Verfügbarkeit”) bis 9 gehen: Ist die Restkapazität des jeweiligen Fluges und der Klasse höher als 9, wird 9 angezeigt. Andernfalls stellt der Wert die tatsächliche Restkapazität dar.
 

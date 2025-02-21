@@ -33,10 +33,10 @@ This page offers an overview of the current market situation for the selected ai
 
 The Market Share section shows, quite simply, the market share of passenger and cargo transport you and competing airlines control. Above the chart, you can switch between the data for different weeks.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 The primary purpose of the Market Analysis page is to keep an eye on the competition and to evaluate new markets. To monitor your own loads, you can use the [Inventory](#inventory) or [Load Monitoring](#load-monitoring) page.
-{{< /hint >}}
+{{% /hint %}}
 
 Keep in mind that the flight availability of other airlines will only contain values up to 9: If the remaining capacity of the respective flight and class is higher than 9, 9 will be displayed. Otherwise, the value represents the actual remaining capacity.
 

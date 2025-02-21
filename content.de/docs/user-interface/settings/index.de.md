@@ -31,7 +31,7 @@ Die Einstellungen, die hier angezeigt werden, ähneln den Optionen, die ihr in d
 
 Über diese Option könnt ihr euer Konto aus der Spielwelt entfernen.
 
-{{< hint danger >}}
+{{% hint danger %}}
 **Warnung** 
 Dadurch werden alle Holdings und Tochtergesellschaften eures Kontos unwiderruflich gelöscht. Bitte lest daher die Informationen auf der Seite sorgfältig durch, bevor ihr fortfahrt. Euer zentrales Benutzerkonto bleibt hiervon unberührt.
-{{< /hint >}}
+{{% /hint %}}

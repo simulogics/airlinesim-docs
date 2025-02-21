@@ -36,10 +36,10 @@ Except for pilots, all employees are hired automatically when needed. However, y
 
 If you need to dismiss employees, enter the number of staff members into the text field of the Redundant Personnel column.
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Important**  
 Canceling work contracts requires you to make a redundancy payment equal to several weeks of default salary.
-{{< /hint >}}
+{{% /hint %}}
 
 ### Crew Management
 

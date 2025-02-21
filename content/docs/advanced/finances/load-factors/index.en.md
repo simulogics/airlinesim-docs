@@ -7,10 +7,10 @@ weight: 1
                   
 A plane that flies half empty loses money, so make sure to keep your planes as full as possible. If you don't have enough payload, you need another plane making profit in order to cover for the losses. However, this means that you invested money in two planes and the net result is still zero.
 
-{{< hint info >}}
+{{% hint info %}}
 **Example**  
 Let's say that you have a plane with 100 seats and the point where you break even is at around 70%. This means that 70 passengers will allow you to barely survive, 80 passengers will give you a 10% profit, 90 passengers will provide a 20% profit and a full plane will give you a profit of 30%. 
-{{< /hint >}}
+{{% /hint %}}
 
 Every route and plane is different, but the numbers above are pretty close, so it's important to aim high. Try to keep your average load factor at around 90% or above.
 

@@ -31,7 +31,7 @@ The settings that show up here are quite similar to the options you get in the G
 
 This option lets you remove your account from the game world.
 
-{{< hint danger >}}
+{{% hint danger %}}
 **Warning**  
 This will irreversibly delete all of your account's holdings and subsidiaries, so please read the details provided on the page carefully before proceeding. Your central user account remains unaffected by this.
-{{< /hint >}}
+{{% /hint %}}

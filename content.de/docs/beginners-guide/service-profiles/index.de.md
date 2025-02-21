@@ -31,9 +31,9 @@ Eine Formel für die besten und günstigsten Einstellungen gibt es nicht. Die Wa
 
 Wenn ihr fertig seid, könnt ihr zurück zur Übersicht gehen und eines der verfügbaren Serviceprofile als Standard festlegen. Dadurch wird es automatisch auf alle neuen Flüge angewendet, die ihr erstellt, vorausgesetzt, es gelten keine Entfernungsbeschränkungen für sie.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 Einige Mahlzeiten erfordern Flüge mit einer Reichweite von mindestens 800 oder 1.500 km. Wenn euer Standard-Serviceprofil eines dieser Profile enthält, wird es nicht auf kürzere Flüge angewendet, sodass diese Strecken kein Serviceprofil erhalten. Es kann also hilfreich sein, verschiedene Serviceprofile für Kurz- und Langstreckenflüge zu erstellen.
-{{< /hint >}}
+{{% /hint %}}
 
 Ihr könnt Serviceprofile auch manuell zuweisen, zum Beispiel bei der Erstellung von Flugnummern oder auf der Inventory-Seite im Commercial-Tab.

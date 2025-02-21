@@ -31,10 +31,10 @@ Am Anfang ist es empfehlenswert, ein Land mit wenig Konkurrenz zu wählen, damit
 
 Was die Stadt angeht, kann es sinnvoll sein, die Hauptstadt eines Landes zu wählen, da diese meist ein beliebtes Ziel für Passagiere ist. Tretet ihr einer Spielwelt bei, die bereits seit einiger Zeit läuft, kann es zudem nicht schaden, einen Blick auf die verfügbaren Flughafenslots eurer gewünschten Stadt zu werfen.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 Die Slot-Verteilung eines bestimmten Flughafens findet ihr, wenn ihr dessen Namen in die Suchleiste am oberen Bildschirmrand eingebt, die Seite des Flughafens aufruft und zum Slotanzeige-Tab wechselt.
-{{< /hint >}}
+{{% /hint %}}
 
 Tauchen in der Slotanzeige viele orangefarbene und rote Felder auf, solltet ihr überlegen, ob ihr euch einen anderen Hub sucht, da Slots für Landungen und Starts benötigt werden und eine wichtige Rolle bei der Erstellung eures Flugplans spielen.
 
@@ -56,10 +56,10 @@ Mexiko bietet einen anständigen Binnenmarkt, da es viele Flughäfen gibt und nu
 
 Pakistan ist ein Beispiel für ein Land, das für ausländische Investitionen offen sein kann. Vielleicht denkt ihr zunächst, ihr hättet ein Land mit gutem Binnenmarkt und wenig regionaler Konkurrenz gefunden - ist das Land jedoch investitionsoffen, kann jede Airline der Welt dort eine Tochtergesellschaft gründen. Was anfangs wie ein ruhiger Ort schien, kann sich somit schnell zu einem wettbewerbsintensiven Land entwickeln, sobald große Airlines beginnen, dort zu expandieren.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 Ob ein Land ausländische Investitionen akzeptiert oder nicht, hängt von der Spielwelt ab. Was genau für welches Land gilt, findet ihr heraus, indem ihr im Datenbank-Tab zum Abschnitt Länder navigiert, ein Land auswählt und schaut, was bei "Politischen Informationen" vermerkt ist.
-{{< /hint >}}
+{{% /hint %}}
 
 ## Erstellen von Holdings und Tochtergesellschaften
 
@@ -69,10 +69,10 @@ Wenn ihr ein weiteres Unternehmen gründen möchtet, wechselt einfach zum Dropdo
 
 Auf der folgenden Seite könnt ihr dann angeben, ob eine weitere Holding oder eine Tochtergesellschaft eurer bestehenden Holding eingerichtet werden soll. 
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Wichtig**  
 Bitte beachtet: Nicht jede Spielwelt unterstützt das Erstellen mehrerer Holdings. Schaut euch im Zweifelsfall nochmal die Konfiguration der Welt an, z. B. hier oder auf unserem [Blog](https://www.airlinesim.aero/blog/de/). Sind mehrere Holdings erlaubt, denkt außerdem bitte daran, dass die Kooperation zwischen euren Holdings nicht zulässig ist.
-{{< /hint >}}
+{{% /hint %}}
 
 Wenn ihr eine Tochtergesellschaft gründet, müsst ihr entscheiden, wie viel Startkapital sie von der Holding erhalten soll - der Mindestbetrag liegt bei 3 Millionen AS$. Überlegt euch gut, wie viel ihr investieren möchtet, denn ihr werdet nach der Gründung keine Möglichkeit mehr haben, Geld von der Holding an das Tochterunternehmen zu transferieren (und umgekehrt), mit der Ausnahme von Dividenden, die nach einem Börsengang an eure Holding und externe Investorinnen und Investoren gezahlt werden.
 

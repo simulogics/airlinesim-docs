@@ -52,19 +52,19 @@ Currently, the typical costs are as follows:
 
 If you run out of credits, your account's holdings and companies will be locked until you top up your balance. Credits will still be subtracted at the normal daily rate during this period, meaning your balance will become increasingly negative. The intention here is to prevent companies from gaining an unfair advantage by abandoning accounts and returning to them several weeks later, having avoided paying for their growth and the in-game resources they occupied in the meantime.
 
-{{< hint info >}}
+{{% hint info %}}
 **Example**  
 If an account owns one holding in a short-term game world and runs out of credits, it will have a balance of -20 credits after 5 days. These must be paid before access to the game is restored.
-{{< /hint >}}
+{{% /hint %}}
 
 If an account's credits balance stays negative for more than 28 days, **all holdings and airlines** of that account will be deleted **in all game worlds** in order to free blocked in-game resources like slots and aircraft that would otherwise remain inaccessible to other players. The AirlineSim account itself will remain active and its credit balance will be automatically topped up to the initial 60 credits, effectively resetting your account to its initial state. If it had premium status before, it will keep it beyond the reset. 
 
 Please keep in mind that the grace period of 28 days applies to premium accounts which have previously purchased credits. For trial accounts, it takes 7 days after running out of credits until the airlines are deleted.
 
-{{< hint danger >}}
+{{% hint danger %}}
 **Danger!**  
 Note that automatic deletions due to a negative credit balance affect **all game worlds** an account has holdings in, **including free ones**!
-{{< /hint >}}
+{{% /hint %}}
 
 ## Playing for Free: Free vs. Premium Accounts
 
@@ -102,10 +102,10 @@ You can find a full, up-to-date list of all prices and the respective bulk disco
 
 In order to buy credits for AirlineSim, simply log into your account and click on Buy Credits. Here you can choose your desired package size, optionally enter a voucher code (currently only outside of Steam) and select your payment method.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 Currently, the following payment methods can be used during checkout: Credit or Debit Card (Visa, MasterCard, American Express), PayPal, paysafecard, Online Bank Transfer and Prepayment. If playing through Steam, all payment methods offered by Steam are available.
-{{< /hint >}}
+{{% /hint %}}
 
 Please note: Which payment methods are actually available might depend on both the country you are paying from and the selected package size.
 

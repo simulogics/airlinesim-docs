@@ -17,10 +17,10 @@ Im Menü “Wartung” (Operations-Tab) habt ihr die Möglichkeit, eine Firma mi
 * **Qualität**: Hier wird der Wartungsstandard angegeben. Seid vorsichtig: Ein Anbieter von geringerer Qualität wird euer Flugzeug möglicherweise nie zu 100 % instand setzen.
 * **Effizienz**: Dieser Wert gibt den Umfang der Wartungsarbeiten an, die in einer bestimmten Zeitspanne durchgeführt werden: Ein effizienter Anbieter erledigt mehr Arbeit in kürzerer Zeit als ein ineffizienter. Dennoch kann es sein, dass sich der Preis nicht lohnt, vor allem wenn euer Flugzeug länger am Boden bleibt.
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Wichtig**
 Wenn ihr euch einmal für einen Wartungsbetrieb entschieden habt, könnt ihr ihn zwei Wochen lang nicht mehr wechseln.
-{{< /hint >}}
+{{% /hint %}}
 
 Bei der Auswahl eines Wartungsanbieters ist es empfehlenswert, nicht zuerst auf den Preis zu achten. Wählt stattdessen den Anbieter, der am besten zu euren Betriebsplänen passt.
 

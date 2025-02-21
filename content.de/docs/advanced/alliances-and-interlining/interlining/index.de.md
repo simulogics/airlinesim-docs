@@ -19,10 +19,10 @@ Um ein Interlining-Angebot zu verschicken, könnt ihr entweder das Menü "Interl
 
 Sobald euer Angebot durch das andere Unternehmen bestätigt wird, werden eure beiden Streckennetze sofort miteinander verknüpft und Passagiere und Fracht können zwischen den Flügen beider Firmen transferiert werden.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 Beim Interlining gelten dieselben Regeln wie für Transfers zwischen euren eigenen Flügen. Beachtet also die Mindesttransferzeiten der Flughäfen und lasst die Passagiere nicht länger als acht Stunden warten (die maximale Wartezeit hängt vom Server ab, kann also in zukünftigen Spielwelten länger sein).
-{{< /hint >}}
+{{% /hint %}}
 
 ## Tipps zur Auswahl des Partner-Unternehmens
 
@@ -34,14 +34,14 @@ Bevor ihr eine Interlining-Vereinbarung annehmt, solltet ihr prüfen, wo eure Pa
 
 Warum ist das wichtig? Routen mit Anschlussflügen erhalten immer eine niedrigere Bewertung als Direktflüge. Wenn die Flüge der Partner-Airline (oder eure eigenen) eine niedrige Bewertung haben, werden die kombinierten Flüge möglicherweise gar nicht im ORS angezeigt. In diesem Fall werden die Fluggäste andere Wege bevorzugen, um von A nach B nach C zu fliegen.
 
-{{< hint info >}}
+{{% hint info %}}
 **Beispiel**  
 Nehmen wir an, ihr seid in Istanbul ansässig und sucht einen Interlining-Partner in London. Wenn eure beiden Airlines nur die großen europäischen Hauptstädte anfliegen, werdet ihr keine Passagiere gewinnen.
 
 Wenn eure Partner-Firma jedoch Inlands- und Regionalflüge durchführt, werdet ihr auf euren Flügen nach London zusätzliche Passagiere erhalten, die einen Anschlussflug nach Aberdeen oder Glasgow nehmen.
 
 Umgekehrt werdet ihr Fluggäste gewinnen, die eure Inlandsflüge von Ankara nach Istanbul nutzen und dann einen Anschlussflug nach London nehmen.
-{{< /hint >}}
+{{% /hint %}}
 
 Der Standort eurer Partner-Airline ist weniger wichtig, aber in der Regel bietet ein Hub, der weit von eurem Standort entfernt ist, viele verschiedene Ziele. Ihr könnt aber auch einen Vertrag mit Unternehmen abschließen, die denselben Hub wie ihr nutzen.
 

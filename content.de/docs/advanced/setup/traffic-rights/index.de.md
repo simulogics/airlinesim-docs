@@ -11,10 +11,10 @@ Wie ihr sicher schnell feststellt, treten eure Fluggesellschaften in AirlineSim 
 
 Unter Verkehrsrechten verstehen wir die Regeln, die bestimmen, ob ihr Passagiere zwischen zwei Zielen befördern könnt. Eure Rechte, einen bestimmten Markt zu bedienen, werden durch das Land bestimmt, in dem sich eure Holding befindet. Bei Tochtergesellschaften richten sich die Rechte in der Regel ebenfalls nach dem Sitz der Holding (oder nach der Gesamtzahl der gehaltenen Aktien, wenn eure Fluggesellschaft ein börsennotiertes Unternehmen ist).
 
-{{< hint info >}}
+{{% hint info %}}
 **Beispiel** 
 Wenn eure Holding ihren Sitz in Manila hat, darf auch die Tochtergesellschaft Inlandsflüge zwischen zwei beliebigen Flughäfen auf den Philippinen durchführen, jedoch beispielsweise keine Inlandsflüge in China anbieten.
-{{< /hint >}}
+{{% /hint %}}
 
 ## Moment - ich kann Flüge in China doch problemlos hinzufügen!
 
@@ -54,10 +54,10 @@ Der globale Luftfrachtmarkt ist vollkommen frei, da der Umgang mit Fracht im Spi
 
 Es gibt mehrere Länder auf der Welt, die ausländische Investitionen zulassen. Für diese Länder gelten die oben genannten Regeln wie für alle anderen, aber im Gegensatz zu Ländern, die keine ausländischen Investitionen zulassen, können ausländische Unternehmen dort Unternehmen gründen, Airlines betreiben und alle Rechte genießen, die auch inländischen Unternehmen gewährt werden.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 Ob ein Land ausländische Investitionen zulässt oder nicht, hängt von der Spielwelt ab. Im Länder-Menü des Datenbank-Tabs findet ihr eine Übersicht aller vorhandenen Länder. Mit Klick auf ein Land könnt ihr dessen Informationsseite aufrufen und im Abschnitt "Politische Informationen" auf der rechten Seite nachsehen, ob das Land investitionsoffen ist oder nicht.
-{{< /hint >}}
+{{% /hint %}}
 
 Hier findet ihr eine Übersicht über die verschiedenen Listen investitionsoffener Länder, die im Spiel verwendet werden. Neue Spielwelten verwenden derzeit die Liste C.
 
@@ -130,7 +130,7 @@ Es gibt bestimmte Länderpaare, zwischen denen aus politischen Gründen keine Re
 
 Wie bei Inlandsflügen in fremden Ländern können Flüge auf verbotenen Routen zwar eingeplant werden, die Flugzeuge werden aber auch hier leer bleiben.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 Auf unserer Spielwelt Devau gibt es keine Beschränkungen zwischen Flughäfen, da die Spielwelt eine spezielle Konfiguration ohne Verkehrsbünde verwendet.
-{{< /hint >}}
+{{% /hint %}}

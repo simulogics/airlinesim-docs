@@ -7,10 +7,10 @@ weight: 8
 
 Bevor ihr euch in die Lüfte schwingt, müssen wir euer Flugzeug noch mit einer Kabine ausstatten und die Sitzanordnung konfigurieren - unabhängig davon, ob ihr neue oder gebrauchte Maschinen besitzt.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 Dieser Schritt entfällt, wenn ihr ein Frachtflugzeug betreiben wollt, denn in all euren neuen Flugzeugen ist bereits eine Standardkonfiguration installiert (wenn auch nicht die beste).
-{{< /hint >}}
+{{% /hint %}}
 
 ## Verwendung des Kabineneditors
 

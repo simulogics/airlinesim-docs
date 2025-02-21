@@ -35,7 +35,7 @@ The list groups employees by their position: Pilots, cabin crew, administrative 
 
 Bear in mind that the automated system only hires necessary personnel - it doesn't fire them if you don't need them anymore. In order to discharge crew members, enter the desired number of employees into the field in the Redundant Personnel column and select Lay-Off.
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Important**  
 Firing personnel isn't free - you will have to make a one-off redundancy payment equal to several weeks of default salary, so it's worth thinking about whether your reasons for dismissing staff involve short or long periods of time.
-{{< /hint >}}
+{{% /hint %}}

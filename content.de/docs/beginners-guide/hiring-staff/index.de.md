@@ -35,7 +35,7 @@ Sortiert ist das Personal nach Position (Piloten, Kabinencrew, Verwaltungsperson
 
 Beachtet bitte, dass das System nur notwendiges Personal einstellt und nicht entlässt, falls ihr es nicht mehr braucht. Hierzu müsst ihr manuell die gewünschte Anzahl an Crewmitgliedern in das Feld “Personal entlassen” eingeben und eure Auswahl mit "entlassen" bestätigen.
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Wichtig**
 Die Entlassung von Personal ist nicht kostenlos - ihr müsst eine einmalige Abfindung in Höhe von mehreren Wochen des Default-Gehalts zahlen. Es lohnt sich also, darüber nachzudenken, ob ihr die Entscheidung zur Entlassung von Personal in Hinblick auf kurze oder lange Zeiträume getroffen habt.
-{{< /hint >}}
+{{% /hint %}}

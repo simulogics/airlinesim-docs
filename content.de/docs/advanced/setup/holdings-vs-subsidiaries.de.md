@@ -15,9 +15,9 @@ Zwar ermöglicht euch eine solche Kapitalspritze ein schnelleres Wachstum, aller
 
 Da eure Holding 80% der Aktien besitzt, gehen 80% der Dividenden an eure Holding. Mit dieser könnt ihr Aktien zurückkaufen, sobald sie verfügbar werden, oder weitere Aktien aus dem 80%-Anteil an die Öffentlichkeit verkaufen. Es ist nicht möglich, Geld zwischen einer Holding und einer Tochtergesellschaft zu verschieben, auch nicht, wenn ihr 100% der Aktien eurer Tochtergesellschaft besitzt.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 Wenn ihr Aktien einer anderen Airline kauft, erhaltet ihr detaillierte Informationen über deren Geschäftstätigkeit, sodass es interessant sein kann, einige Aktien der Konkurrenz zu erwerben.
-{{< /hint >}}
+{{% /hint %}}
 
 Abgesehen von Börsengängen kann die Gründung einer Tochtergesellschaft interessant sein, wenn ihr mehr als drei [Wartungskategorien]({{< relref "docs/advanced/fleet/maintenance-categories/index.de.md" >}}) in eurer Flotte habt oder ein eigenes Unternehmen für Interkontinentalflüge oder Fracht aufbauen möchtet. Wenn eure Holding Flugzeuge kauft und sie an die Tochtergesellschaft verleast, könnt ihr sogar einen Teil eures Gewinns an die Holding abführen.

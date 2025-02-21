@@ -9,10 +9,10 @@ weight: 5
 
 Inability to pay or insolvency means that a natural person or legal entity isn't able to pay for bills through their own cash flow, meaning the regular income isn't sufficient to cover the regular costs. In most cases, the credit limit is used up as well. This often results in giving up the company and ceasing commercial operations.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 In AirlineSim, there is no overdraft credit to pay leasing installments or salaries from, so your company's liquidity is determined by the balance of your bank account.
-{{< /hint >}}
+{{% /hint %}}
 
 If you're unable to pay the leasing rate of an aircraft, your enterprise is considered unable to pay at that specific moment. In that case, the leasing contract will be immediately terminated, the aircraft returned and the security deposit (minus the leasing rate) refunded to your bank account.
 

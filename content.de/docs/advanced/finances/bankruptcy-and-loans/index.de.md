@@ -9,10 +9,10 @@ weight: 5
 
 Zahlungsunfähigkeit oder Insolvenz bedeutet, dass eine natürliche oder juristische Person nicht in der Lage ist, ihre Rechnungen aus eigener Kraft zu bezahlen, d. h. das regelmäßige Einkommen reicht nicht aus, um die laufenden Kosten zu decken. In den meisten Fällen ist auch das Kreditlimit erreicht. Dies führt oft dazu, dass das Unternehmen aufgegeben und die Geschäftstätigkeit eingestellt wird.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 In AirlineSim gibt es keinen Überziehungskredit, aus dem Leasingraten oder Gehälter bezahlt werden können, sodass die Liquidität eures Unternehmens durch den Kontostand bestimmt wird.
-{{< /hint >}}
+{{% /hint %}}
 
 Wenn ihr nicht in der Lage seid, die Leasingrate eines Flugzeugs zu zahlen, gilt euer Unternehmen zu diesem Zeitpunkt als zahlungsunfähig. In diesem Fall wird der Leasingvertrag sofort gekündigt, das Flugzeug zurückgegeben und die Kaution (abzüglich der Leasingrate) auf euer Bankkonto zurückerstattet.
 

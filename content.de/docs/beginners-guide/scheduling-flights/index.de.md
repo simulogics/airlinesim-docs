@@ -29,10 +29,10 @@ In Bezug auf Flugpläne und Wartung gibt es einige Dinge zu beachten: Zunächst 
 
 Sind für ein Flugzeug keine Flüge eingeplant, liegt das Wartungsverhältnis bei 100%. Nach der Planung des ersten Rückfluges werdet ihr feststellen, dass der Wert steigt, allerdings könnt ihr ihn durch die Planung weiterer Flüge wieder auf 100% senken.
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Wichtig** 
 Ein Wartungsverhältnis unter 100% bedeutet, dass der Flugplan dem Reparatur-Team nicht genügend Zeit für die Wartung lässt, was zu einer täglichen Verschlechterung des Flugzeugzustands führt. Fällt die Quote unter 50%, erhält das Flugzeug ein Flugverbot und darf bis zur Reparatur keine Flüge mehr durchführen. Gebuchte Flüge werden storniert und die Passagiere erhalten eine Rückerstattung.
-{{< /hint >}}
+{{% /hint %}}
 
 Um das zu verhindern, solltet ihr wöchentliche Wartungsfenster einplanen (je nach Alter, Modell und Flugplan des Flugzeugs). Für Kurz- und Mittelstreckenflüge solltet ihr tägliche Wartungsfenster vorsehen. Passagiere wissen ein gut gewartetes Flugzeug zu schätzen, sodass ihr auch bessere Bewertungen und mehr Buchungen erhaltet.
 
@@ -46,10 +46,10 @@ Jeder Flughafen, der Transfers anbietet, hat eine Mindesttransferzeit, die ihr a
 
 Wenn ihr euch euren Flugplan später anseht, werdet ihr merken, dass er sowohl Flug- als auch Turnaroundzeiten anzeigt. Die Turnaroundzeit umfasst alle Aktivitäten, die stattfinden, nachdem ein Flugzeug angekommen ist und bevor es wieder abflugbereit ist. Die genaue Dauer für eine bestimmte Strecke könnt ihr dem Performance-Check-Tool entnehmen.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 Unvollständige Turnarounds aufgrund von Zeitmangel zwischen den Flügen führen zu Verzögerungen in eurem Flugbetrieb. Lasst ihr etwas mehr Puffer zwischen den Flügen ist euer Geschäft zudem weniger anfällig für Verspätungen, die durch zufällige Störungen im Flug- und Bodenbetrieb verursacht werden.
-{{< /hint >}}
+{{% /hint %}}
 
 ### Das Puzzle zusammensetzen
 
@@ -79,10 +79,10 @@ So fügt ihr einen neuen Flug hinzu:
 * Wählt den Zielflughafen.
 * Klickt auf “Neue Flugnummer anlegen”.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info** 
 Wenn der Start- oder Zielflughafen eurer Wahl nicht aufgeführt ist, stellt sicher, dass ihr eine Station an diesem Flughafen eröffnet habt.
-{{< /hint >}}
+{{% /hint %}}
 
 Nachdem ihr die neue Flugnummer angelegt habt, erscheint der Bereich “Flugplanung”.
 
@@ -114,10 +114,10 @@ Wenn ihr mit den Einstellungen zufrieden seid, klickt einfach auf “Neue Flugnu
 
 Wie zuvor erscheint das Menü zur Flugplanung. Wenn alle Felder mit grünen Häkchen versehen sind, könnt ihr die Planungsdaten übernehmen.
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Wichtig** 
 Wie bereits erwähnt, solltet ihr darauf achten, dass zwischen euren Flügen ein ausreichendes Zeitfenster liegt. Ist das Flugzeug zum Zeitpunkt des geplanten Abflugs noch nicht bereit, wird der Flug rot und im Abschnitt “Zeitfenster” erscheinen rote Kreuze. Passt eure Abflugzeiten daher immer entsprechend an, um Überschneidungen zu vermeiden.
-{{< /hint >}}
+{{% /hint %}}
 
 Sobald ihr den Rückflug erfolgreich eingeplant habt, werden die Flüge gelb. Das bedeutet, dass der Plan korrekt erstellt wurde und dass keine Flüge fehlen oder Fehler enthalten.
 
@@ -127,10 +127,10 @@ Wenn ihr mit euren geplanten Routen zufrieden seid, ist es an der Zeit, dem [Onl
 
 Erinnert ihr euch an die gelben Flüge im Flugplan? Das bedeutet, dass ihr die Slots erfolgreich blockiert habt, aber noch niemand die Verbindungen buchen kann. Um Buchungen zu erhalten, müssen eure Flüge zuerst aktiviert werden!
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Wichtig**  
 Ohne Aktivierung werden die Flüge nach ein paar Tagen gelöscht, um eine Blockierung von Slots zu verhindern.
-{{< /hint >}}
+{{% /hint %}}
 
 Die Aktivierung eures Flugplans könnt ihr im Dropdown-Menü “Flugplanaktion auswählen” unterhalb des Flugplans vornehmen. Hier könnt ihr auswählen, ob der Flugplan sofort freigegeben werden soll oder mit einer Verzögerung von drei Tagen.
 

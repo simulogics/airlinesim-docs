@@ -19,10 +19,10 @@ The Company widget displays the logo (if you uploaded one) as well as the most i
 
 In the Upcoming Events widget, you can see your fixed expenses and income of the next three days based on contracts and terminated events like aircraft deliveries. The week-end closing is the time when your financial period resets and when staff are paid.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 These events don't belong to the direct costs of a flight. To extend the list, click on View Complete Financial Schedule or select Cash Flow in the Management tab.
-{{< /hint >}}
+{{% /hint %}}
 
 ### Notepad
 
@@ -104,10 +104,10 @@ In this section, you can adjust the game's visuals by choosing between a Dark, L
 
 Underneath the settings, you have the option to create a new enterprise or to liquidate your current one.
 
-{{< hint danger >}}
+{{% hint danger %}}
 **Warning**
 If you choose a liquidation, all data of your enterprise will be irreversibly removed. All assets will be sold, buildings will be demolished, existing minority stakes will go to AirlineSim and majority stakes will lead to the deletion of the daughter enterprise. The shareholder will receive the remaining values divided by their share.
-{{< /hint >}}
+{{% /hint %}}
 
 Keep in mind that a reset is only possible for holdings (i.e. enterprises which belong to your account directly).
 

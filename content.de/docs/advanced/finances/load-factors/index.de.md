@@ -7,10 +7,10 @@ weight: 1
 
 Ein Flugzeug, das halb leer fliegt, verliert Geld. Achtet also darauf, eure Flugzeuge so voll wie möglich zu halten. Wenn ihr nicht genug Nutzlast habt, braucht ihr ein weiteres Flugzeug, das Gewinn macht, um die Verluste auszugleichen. Das bedeutet jedoch, dass ihr Geld in zwei Flugzeuge investieren müsst und das Nettoergebnis trotzdem gleich Null ist.
 
-{{< hint info >}}
+{{% hint info %}}
 **Beispiel**  
 Nehmen wir an, ihr habt ein Flugzeug mit 100 Sitzplätzen und der Punkt, ab dem ihr die Kosten decken könnt, liegt bei etwa 70%. Das bedeutet, dass ihr mit 70 Passagieren gerade so überleben könnt, mit 80 Passagieren 10% Gewinn erzielt, mit 90 Passagieren 20% und mit einem vollbesetzten Flugzeug 30%.
-{{< /hint >}}
+{{% /hint %}}
 
 Jede Strecke und jedes Flugzeug ist anders, dennoch ist es wichtig, sich hohe Ziele zu setzen. Versucht daher, eure durchschnittliche Auslastung bei 90% oder höher zu halten.
 

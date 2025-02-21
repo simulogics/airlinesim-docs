@@ -31,10 +31,10 @@ When it comes to flight plans and maintenance, there are a few things to conside
 
 If the aircraft has no scheduled flights, the maintenance ratio is at 100%. After planning the first return flight, you may notice that the maintenance ratio has a higher value, however this can be lowered back to 100% by scheduling more flights.
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Important**  
 A maintenance ratio below 100% means that the schedule doesn't leave enough time for the technicians to do repairs, which leads to a daily decrease of the aircraft's condition. Once it drops below 50%, the plane will be grounded and is not allowed to operate flights until it has been repaired. Booked flights will be canceled and passengers refunded.
-{{< /hint >}}
+{{% /hint %}}
 
 In order to prevent that, make sure to include weekly maintenance windows (depending on your aircraft's age, model and schedule). For short- and medium-haul schedules, you should allow daily maintenance. Customers appreciate a well maintained aircraft, so you'll also get better ratings and more bookings.
 
@@ -48,10 +48,10 @@ Every airport that offers transfers has a minimum transfer time, which can be ch
 
 When you look at your flight schedule, you can see that it displays both flight and turnaround times. The turnaround consists of all the activities that take place after a plane has arrived and before it's ready for departure again. The exact duration for a specific route can be viewed using the Performance Check Tool.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 Incomplete turnarounds due to a lack of time between flights will lead to delays in your flight operations. It also can't hurt to leave some extra buffer between flights so your operations become less prone to cascading delays caused by random disturbances affecting flight and ground operations.
-{{< /hint >}}
+{{% /hint %}}
 
 ### Putting the Puzzle Together
 
@@ -81,10 +81,10 @@ To add a new flight:
 * Pick an arrival airport.
 * Click on Create New Flight Number.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 If the departure or arrival airport of your choice isn't listed, make sure you open a station (branch office) at this airport.
-{{< /hint >}}
+{{% /hint %}}
 
 After creating a new flight number, the flight planning section will appear.
 
@@ -116,10 +116,10 @@ If you're happy with the settings, you can schedule the return flight by clickin
 
 Like before, the flight planning menu appears. After making sure all fields have green check marks, you can apply the schedule settings.
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Important**  
 As mentioned previously, make sure to leave a sufficient time window between your flights. If your departure time is set before the time the airplane is ready, the flight turns red and the time window section displays red crosses. In that case, adjust your departure times to avoid overlapping flights.
-{{< /hint >}}
+{{% /hint %}}
 
 Once you've successfully scheduled the return trip, your flights turn yellow. This indicates that the plan has been set up correctly and that there are no missing or broken flights.  
 
@@ -129,10 +129,10 @@ Now that your first schedule is ready, it's time to allow the [Online Reservatio
 
 Remember those yellow flight plan boxes? That means you have successfully blocked the slots, but no one can book the connections yet. In order to get bookings, your flights need to be activated first!
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Important**  
 Without activation, the flights will be deleted after a few days to prevent slot blocking.
-{{< /hint >}}
+{{% /hint %}}
 
 You can activate your flight plan by navigating to the Select Flight Plan Operation menu below your schedule. You can choose between activating the flight plan right away or applying a three day delay.
 

@@ -17,10 +17,10 @@ In the Operations tab, select Maintenance and choose a maintenance company servi
 * **Quality**: This indicates the maintenance standard. Be careful: A low-quality provider may never get your aircraft to 100% condition.
 * **Efficiency**: This stands for the amount of maintenance that is achieved in a specific time span. A very efficient provider will get more work done in less time compared to an inefficient one; still, it may not be worth the price, especially if your aircraft spends a long time on the ground.
 
-{{< hint warning >}}
+{{% hint warning %}}
 **Important**  
 Once you have selected a maintenance company, you won't be able to change it for two weeks.
-{{< /hint >}}
+{{% /hint %}}
 
 When thinking about maintenance, try to avoid looking at the price first. Instead, choose a provider that suits your planned operations.
 

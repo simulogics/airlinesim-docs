@@ -22,19 +22,19 @@ Short-term game worlds consume 4 credits per day for your first holding and 2 cr
 
 On the other hand, long-term game worlds run continuously with no specific end date.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 Long-term game worlds consume 6 credits per day for your first holding and 4 credits per day for every additional holding.
-{{< /hint >}}
+{{% /hint %}}
 
 ## Medium-Term Game Worlds
 
 This type of game world is a hybrid between short- and long-term servers, both in terms of duration and costs.
 
-{{< hint info >}}
+{{% hint info %}}
 **Info**  
 Medium-term game worlds consume 5 credits per day for your first holding.
-{{< /hint >}}
+{{% /hint %}}
 
 ## Exclusive Game Worlds
 

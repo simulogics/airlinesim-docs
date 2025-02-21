@@ -16,7 +16,16 @@
  &lt;a class="anchor" href="#allianzen">#&lt;/a>
 &lt;/h1>
 &lt;p>Ihr möchtet im Spiel Verbindungen zu anderen Mitgliedern der Community aufbauen, wisst aber nicht genau wie? Dann kommt vielleicht eine Allianz für euch infrage. Was es damit auf sich hat, fragt ihr euch?&lt;/p>
-&lt;p>Allianzen sind geschäftliche Kooperationsvereinbarungen zwischen einer Reihe von Unternehmen. Sie verleihen dem Spiel einen Hauch von Realität und bieten euch eine großartige Möglichkeit, AirlineSim zusammen mit anderen zu genießen. Die Ziele einer Allianz, ihre Mitgliedschaftskriterien und andere Formalitäten werden von ihren Mitgliedern intern festgelegt.&lt;/p></description></item><item><title>Einführung</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/introduction/</guid><description>&lt;h1 id="die-erste-airline">
+&lt;p>Allianzen sind geschäftliche Kooperationsvereinbarungen zwischen einer Reihe von Unternehmen. Sie verleihen dem Spiel einen Hauch von Realität und bieten euch eine großartige Möglichkeit, AirlineSim zusammen mit anderen zu genießen. Die Ziele einer Allianz, ihre Mitgliedschaftskriterien und andere Formalitäten werden von ihren Mitgliedern intern festgelegt.&lt;/p></description></item><item><title>Einführung</title><link>https://handbook.airlinesim.aero/de/docs/advanced/exclusive-game-worlds/intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/exclusive-game-worlds/intro/</guid><description>&lt;h1 id="einführung-in-exklusive-spielwelten">
+ Einführung in Exklusive Spielwelten
+ &lt;a class="anchor" href="#einf%c3%bchrung-in-exklusive-spielwelten">#&lt;/a>
+&lt;/h1>
+&lt;h3 id="was-ist-eine-exklusive-spielwelt">
+ Was ist eine exklusive Spielwelt?
+ &lt;a class="anchor" href="#was-ist-eine-exklusive-spielwelt">#&lt;/a>
+&lt;/h3>
+&lt;p>Aufgrund steigender Nachfrage bietet AirlineSim seit einiger Zeit neben den öffentlichen Servern auch private Spielwelten an, die individuell konfiguriert werden können.&lt;/p>
+&lt;p>Technisch gesehen funktionieren exklusive Spielwelten genau wie die öffentlichen Server und bieten somit die gleichen Möglichkeiten zur Anpassung. Daten- und Spielupdates werden ebenfalls normal durchgeführt. Im Gegensatz zu öffentlichen Welten kann die Konfiguration exklusiver Server jedoch frei nach Wunsch gestaltet werden!&lt;/p></description></item><item><title>Einführung</title><link>https://handbook.airlinesim.aero/de/docs/beginners-guide/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/beginners-guide/introduction/</guid><description>&lt;h1 id="die-erste-airline">
  Die erste Airline
  &lt;a class="anchor" href="#die-erste-airline">#&lt;/a>
 &lt;/h1>
@@ -46,11 +55,8 @@
 &lt;/h1>
 &lt;p>Ein Flugzeug, das halb leer fliegt, verliert Geld. Achtet also darauf, eure Flugzeuge so voll wie möglich zu halten. Wenn ihr nicht genug Nutzlast habt, braucht ihr ein weiteres Flugzeug, das Gewinn macht, um die Verluste auszugleichen. Das bedeutet jedoch, dass ihr Geld in zwei Flugzeuge investieren müsst und das Nettoergebnis trotzdem gleich Null ist.&lt;/p>
 &lt;blockquote class="book-hint info">
- &lt;strong>Beispiel&lt;/strong>&lt;br>
-Nehmen wir an, ihr habt ein Flugzeug mit 100 Sitzplätzen und der Punkt, ab dem ihr die Kosten decken könnt, liegt bei etwa 70%. Das bedeutet, dass ihr mit 70 Passagieren gerade so überleben könnt, mit 80 Passagieren 10% Gewinn erzielt, mit 90 Passagieren 20% und mit einem vollbesetzten Flugzeug 30%.
-&lt;/blockquote>
-
-&lt;p>Jede Strecke und jedes Flugzeug ist anders, dennoch ist es wichtig, sich hohe Ziele zu setzen. Versucht daher, eure durchschnittliche Auslastung bei 90% oder höher zu halten.&lt;/p></description></item><item><title>Online Reservation System</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/online-reservation-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/bookings/online-reservation-system/</guid><description>&lt;h1 id="online-reservation-system">
+&lt;p>&lt;strong>Beispiel&lt;/strong>&lt;br>
+Nehmen wir an, ihr habt ein Flugzeug mit 100 Sitzplätzen und der Punkt, ab dem ihr die Kosten decken könnt, liegt bei etwa 70%. Das bedeutet, dass ihr mit 70 Passagieren gerade so überleben könnt, mit 80 Passagieren 10% Gewinn erzielt, mit 90 Passagieren 20% und mit einem vollbesetzten Flugzeug 30%.&lt;/p></description></item><item><title>Online Reservation System</title><link>https://handbook.airlinesim.aero/de/docs/advanced/bookings/online-reservation-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/bookings/online-reservation-system/</guid><description>&lt;h1 id="online-reservation-system">
  Online Reservation System
  &lt;a class="anchor" href="#online-reservation-system">#&lt;/a>
 &lt;/h1>
@@ -62,11 +68,8 @@ Nehmen wir an, ihr habt ein Flugzeug mit 100 Sitzplätzen und der Punkt, ab dem 
 &lt;/h1>
 &lt;p>Bevor ihr loslegt, müsst ihr ein Konto anlegen. Besucht dazu einfach die &lt;a href="https://www.airlinesim.aero/de">AirlineSim-Website&lt;/a> und klickt auf die Login-Schaltfläche. Anschließend geht ihr auf &amp;ldquo;Jetzt registrieren&amp;rdquo; und wählt einen Anzeigenamen (ohne Sonder- / Leerzeichen), gebt eine gültige E-Mail-Adresse ein und erstellt ein Passwort für euer Konto.&lt;/p>
 &lt;blockquote class="book-hint info">
- &lt;strong>Info&lt;/strong>&lt;br>
-Manchmal kann es zu Problemen kommen, wenn Registrierungs-Mails an Hotmail- oder MSN-Adressen gesendet werden. Versucht, wenn möglich, eine andere E-Mail-Adresse für die Registrierung zu verwenden. Falls ihr euch bereits mit einer Hotmail- oder MSN-Adresse bei AirlineSim registriert habt, wendet euch einfach an den &lt;a href="https://www.airlinesim.aero/blog/de/pages/support/">Support&lt;/a>.
-&lt;/blockquote>
-
-&lt;p>Auch ein Login über Facebook ist möglich.&lt;/p></description></item><item><title>Spielkonzept</title><link>https://handbook.airlinesim.aero/de/docs/about/concept/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/concept/</guid><description>&lt;h1 id="spielkonzept">
+&lt;p>&lt;strong>Info&lt;/strong>&lt;br>
+Manchmal kann es zu Problemen kommen, wenn Registrierungs-Mails an Hotmail- oder MSN-Adressen gesendet werden. Versucht, wenn möglich, eine andere E-Mail-Adresse für die Registrierung zu verwenden. Falls ihr euch bereits mit einer Hotmail- oder MSN-Adresse bei AirlineSim registriert habt, wendet euch einfach an den &lt;a href="https://www.airlinesim.aero/blog/de/pages/support/">Support&lt;/a>.&lt;/p></description></item><item><title>Spielkonzept</title><link>https://handbook.airlinesim.aero/de/docs/about/concept/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/concept/</guid><description>&lt;h1 id="spielkonzept">
  Spielkonzept
  &lt;a class="anchor" href="#spielkonzept">#&lt;/a>
 &lt;/h1>
@@ -96,7 +99,11 @@ Manchmal kann es zu Problemen kommen, wenn Registrierungs-Mails an Hotmail- oder
  Ist es den Fluggästen wichtig, an welchem Tag sie fliegen?
  &lt;a class="anchor" href="#ist-es-den-flugg%c3%a4sten-wichtig-an-welchem-tag-sie-fliegen">#&lt;/a>
 &lt;/h2>
-&lt;p>Die Fluggäste buchen nur Flüge innerhalb der nächsten drei Tage, aber sie buchen jeden dieser Tage, wenn einige Tage voll oder nicht verfügbar sind. Sind keine Flüge verfügbar, nehmen die Passagiere keine Buchung vor - sie müssen dann mit dem Auto fahren oder schwimmen!&lt;/p></description></item><item><title>Commercial-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/commercial-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/commercial-tab/</guid><description>&lt;h1 id="commercial-tab">
+&lt;p>Die Fluggäste buchen nur Flüge innerhalb der nächsten drei Tage, aber sie buchen jeden dieser Tage, wenn einige Tage voll oder nicht verfügbar sind. Sind keine Flüge verfügbar, nehmen die Passagiere keine Buchung vor - sie müssen dann mit dem Auto fahren oder schwimmen!&lt;/p></description></item><item><title>Batch Commands</title><link>https://handbook.airlinesim.aero/de/docs/advanced/exclusive-game-worlds/batch-commands/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/advanced/exclusive-game-worlds/batch-commands/</guid><description>&lt;h1 id="batch-commands">
+ Batch Commands
+ &lt;a class="anchor" href="#batch-commands">#&lt;/a>
+&lt;/h1>
+&lt;p>Leider ist dieser Teil der Dokumentation gegenwärtig noch nicht auf Deutsch verfügbar.&lt;/p></description></item><item><title>Commercial-Tab</title><link>https://handbook.airlinesim.aero/de/docs/user-interface/commercial-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/user-interface/commercial-tab/</guid><description>&lt;h1 id="commercial-tab">
  Commercial-Tab
  &lt;a class="anchor" href="#commercial-tab">#&lt;/a>
 &lt;/h1>
@@ -117,10 +124,9 @@ Manchmal kann es zu Problemen kommen, wenn Registrierungs-Mails an Hotmail- oder
 &lt;/h1>
 &lt;p>Wenn ihr euer Konto schließen möchtet, sendet uns bitte ein &lt;a href="https://www.airlinesim.aero/blog/de/pages/support/">Support-Ticket&lt;/a> per E-Mail, damit wir das Konto für euch deaktivieren können.&lt;/p>
 &lt;blockquote class="book-hint danger">
- &lt;strong>Warnung&lt;/strong>&lt;br>
-Eine Kontodeaktivierung betrifft sowohl euer AirlineSim- als auch euer Prosperous Universe-Profil.
+&lt;p>&lt;strong>Warnung&lt;/strong>&lt;br>
+Eine Kontodeaktivierung betrifft sowohl euer AirlineSim- als auch euer Prosperous Universe-Profil.&lt;/p>
 &lt;/blockquote>
-
 &lt;p>Falls ihr das Konto nur aus einer AirlineSim-Spielwelt entfernen möchtet, klickt einfach auf Einstellungen (oben rechts in eurer aktiven Spielwelt) und wählt die Option &amp;ldquo;Spielwelt deaktivieren&amp;rdquo;. Dadurch werden alle Holdings und Tochtergesellschaften des Kontos unwiderruflich gelöscht. Bitte lest daher die Details, die euch beim Deaktivierungsvorgang angezeigt werden, sorgfältig durch, bevor ihr fortfahrt. Euer zentrales Benutzerkonto bleibt hiervon unberührt.&lt;/p></description></item><item><title>Entwicklung</title><link>https://handbook.airlinesim.aero/de/docs/about/development/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/development/</guid><description>&lt;h1 id="entwicklung">
  Entwicklung
  &lt;a class="anchor" href="#entwicklung">#&lt;/a>
@@ -338,11 +344,8 @@ Eine Kontodeaktivierung betrifft sowohl euer AirlineSim- als auch euer Prosperou
 &lt;/h2>
 &lt;p>Zahlungsunfähigkeit oder Insolvenz bedeutet, dass eine natürliche oder juristische Person nicht in der Lage ist, ihre Rechnungen aus eigener Kraft zu bezahlen, d. h. das regelmäßige Einkommen reicht nicht aus, um die laufenden Kosten zu decken. In den meisten Fällen ist auch das Kreditlimit erreicht. Dies führt oft dazu, dass das Unternehmen aufgegeben und die Geschäftstätigkeit eingestellt wird.&lt;/p>
 &lt;blockquote class="book-hint info">
- &lt;strong>Info&lt;/strong>&lt;br>
-In AirlineSim gibt es keinen Überziehungskredit, aus dem Leasingraten oder Gehälter bezahlt werden können, sodass die Liquidität eures Unternehmens durch den Kontostand bestimmt wird.
-&lt;/blockquote>
-
-&lt;p>Wenn ihr nicht in der Lage seid, die Leasingrate eines Flugzeugs zu zahlen, gilt euer Unternehmen zu diesem Zeitpunkt als zahlungsunfähig. In diesem Fall wird der Leasingvertrag sofort gekündigt, das Flugzeug zurückgegeben und die Kaution (abzüglich der Leasingrate) auf euer Bankkonto zurückerstattet.&lt;/p></description></item><item><title>Support</title><link>https://handbook.airlinesim.aero/de/docs/about/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/support/</guid><description>&lt;h1 id="support">
+&lt;p>&lt;strong>Info&lt;/strong>&lt;br>
+In AirlineSim gibt es keinen Überziehungskredit, aus dem Leasingraten oder Gehälter bezahlt werden können, sodass die Liquidität eures Unternehmens durch den Kontostand bestimmt wird.&lt;/p></description></item><item><title>Support</title><link>https://handbook.airlinesim.aero/de/docs/about/support/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/de/docs/about/support/</guid><description>&lt;h1 id="support">
  Support
  &lt;a class="anchor" href="#support">#&lt;/a>
 &lt;/h1>
@@ -386,10 +389,9 @@ In AirlineSim gibt es keinen Überziehungskredit, aus dem Leasingraten oder Geh�
 &lt;/h1>
 &lt;p>Bevor ihr euch in die Lüfte schwingt, müssen wir euer Flugzeug noch mit einer Kabine ausstatten und die Sitzanordnung konfigurieren - unabhängig davon, ob ihr neue oder gebrauchte Maschinen besitzt.&lt;/p>
 &lt;blockquote class="book-hint info">
- &lt;strong>Info&lt;/strong>&lt;br>
-Dieser Schritt entfällt, wenn ihr ein Frachtflugzeug betreiben wollt, denn in all euren neuen Flugzeugen ist bereits eine Standardkonfiguration installiert (wenn auch nicht die beste).
+&lt;p>&lt;strong>Info&lt;/strong>&lt;br>
+Dieser Schritt entfällt, wenn ihr ein Frachtflugzeug betreiben wollt, denn in all euren neuen Flugzeugen ist bereits eine Standardkonfiguration installiert (wenn auch nicht die beste).&lt;/p>
 &lt;/blockquote>
-
 &lt;h2 id="verwendung-des-kabineneditors">
  Verwendung des Kabineneditors
  &lt;a class="anchor" href="#verwendung-des-kabineneditors">#&lt;/a>

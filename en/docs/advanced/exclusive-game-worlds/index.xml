@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Exclusive Game Worlds on AirlineSim Handbook</title><link>https://handbook.airlinesim.aero/en/docs/advanced/exclusive-game-worlds/</link><description>Recent content in Exclusive Game Worlds on AirlineSim Handbook</description><generator>Hugo</generator><language>en</language><atom:link href="https://handbook.airlinesim.aero/en/docs/advanced/exclusive-game-worlds/index.xml" rel="self" type="application/rss+xml"/><item><title>Intro</title><link>https://handbook.airlinesim.aero/en/docs/advanced/exclusive-game-worlds/intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/advanced/exclusive-game-worlds/intro/</guid><description>&lt;h1 id="intro-to-exclusive-game-worlds">
+ Intro to exclusive game worlds
+ &lt;a class="anchor" href="#intro-to-exclusive-game-worlds">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="what-is-an-exclusive-game-world">
+ What is an exclusive game world?
+ &lt;a class="anchor" href="#what-is-an-exclusive-game-world">#&lt;/a>
+&lt;/h2>
+&lt;p>AirlineSim was created for use with public game worlds, but due to popular demand, we&amp;rsquo;re also offering private game worlds that allow individual configurations.&lt;/p>
+&lt;p>On a technical level, exclusive game worlds are identical to their public counterparts which means that they share the same customization options and restrictions. Data changes and updates are applied normally as well. However, the settings of exclusive game worlds can be configured according to your liking!&lt;/p></description></item><item><title>Batch Commands</title><link>https://handbook.airlinesim.aero/en/docs/advanced/exclusive-game-worlds/batch-commands/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/advanced/exclusive-game-worlds/batch-commands/</guid><description>&lt;h1 id="batch-commands">
+ Batch Commands
+ &lt;a class="anchor" href="#batch-commands">#&lt;/a>
+&lt;/h1>
+&lt;p>There are certain reoccurring tasks specific to exclusive game worlds, like adding funds to an airline or generating a
+new batch of used aircraft. Individually, these are easy to manage. But once there are a lot of them to execute at once,
+like after game world setup or when handing out fresh funds to all players in a world, these quickly become tedious.&lt;/p>
+&lt;p>This is where &lt;em>batch commands&lt;/em> come in: As the name suggests, these allow to execute many commands in a single batch.
+This decreases the chance for errors and the workload both for game world owners and AirlineSim support staff.&lt;/p></description></item></channel></rss>

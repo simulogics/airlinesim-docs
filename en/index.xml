@@ -40,7 +40,16 @@
  Holdings vs. Subsidiaries
  &lt;a class="anchor" href="#holdings-vs-subsidiaries">#&lt;/a>
 &lt;/h1>
-&lt;p>When you start out with a new company, you create a holding in the country of your choice and receive a capital of 10 million AS$ (please note that the amount of starting capital can vary depending on the game world). Using that, you can acquire planes and become an operational enterprise. However, you can also use your funds (or parts of them) to create a subsidiary. In that case, your subsidiary can lease or buy planes and operate your airline. So what&amp;rsquo;s the difference?&lt;/p></description></item><item><title>Introduction</title><link>https://handbook.airlinesim.aero/en/docs/beginners-guide/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/beginners-guide/introduction/</guid><description>&lt;h1 id="your-first-airline">
+&lt;p>When you start out with a new company, you create a holding in the country of your choice and receive a capital of 10 million AS$ (please note that the amount of starting capital can vary depending on the game world). Using that, you can acquire planes and become an operational enterprise. However, you can also use your funds (or parts of them) to create a subsidiary. In that case, your subsidiary can lease or buy planes and operate your airline. So what&amp;rsquo;s the difference?&lt;/p></description></item><item><title>Intro</title><link>https://handbook.airlinesim.aero/en/docs/advanced/exclusive-game-worlds/intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/advanced/exclusive-game-worlds/intro/</guid><description>&lt;h1 id="intro-to-exclusive-game-worlds">
+ Intro to exclusive game worlds
+ &lt;a class="anchor" href="#intro-to-exclusive-game-worlds">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="what-is-an-exclusive-game-world">
+ What is an exclusive game world?
+ &lt;a class="anchor" href="#what-is-an-exclusive-game-world">#&lt;/a>
+&lt;/h2>
+&lt;p>AirlineSim was created for use with public game worlds, but due to popular demand, we&amp;rsquo;re also offering private game worlds that allow individual configurations.&lt;/p>
+&lt;p>On a technical level, exclusive game worlds are identical to their public counterparts which means that they share the same customization options and restrictions. Data changes and updates are applied normally as well. However, the settings of exclusive game worlds can be configured according to your liking!&lt;/p></description></item><item><title>Introduction</title><link>https://handbook.airlinesim.aero/en/docs/beginners-guide/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/beginners-guide/introduction/</guid><description>&lt;h1 id="your-first-airline">
  Your First Airline
  &lt;a class="anchor" href="#your-first-airline">#&lt;/a>
 &lt;/h1>
@@ -52,11 +61,8 @@
 &lt;/h1>
 &lt;p>A plane that flies half empty loses money, so make sure to keep your planes as full as possible. If you don&amp;rsquo;t have enough payload, you need another plane making profit in order to cover for the losses. However, this means that you invested money in two planes and the net result is still zero.&lt;/p>
 &lt;blockquote class="book-hint info">
- &lt;strong>Example&lt;/strong>&lt;br>
-Let&amp;rsquo;s say that you have a plane with 100 seats and the point where you break even is at around 70%. This means that 70 passengers will allow you to barely survive, 80 passengers will give you a 10% profit, 90 passengers will provide a 20% profit and a full plane will give you a profit of 30%.
-&lt;/blockquote>
-
-&lt;p>Every route and plane is different, but the numbers above are pretty close, so it&amp;rsquo;s important to aim high. Try to keep your average load factor at around 90% or above.&lt;/p></description></item><item><title>Maintenance Categories</title><link>https://handbook.airlinesim.aero/en/docs/advanced/fleet/maintenance-categories/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/advanced/fleet/maintenance-categories/</guid><description>&lt;h1 id="maintenance-categories">
+&lt;p>&lt;strong>Example&lt;/strong>&lt;br>
+Let&amp;rsquo;s say that you have a plane with 100 seats and the point where you break even is at around 70%. This means that 70 passengers will allow you to barely survive, 80 passengers will give you a 10% profit, 90 passengers will provide a 20% profit and a full plane will give you a profit of 30%.&lt;/p></description></item><item><title>Maintenance Categories</title><link>https://handbook.airlinesim.aero/en/docs/advanced/fleet/maintenance-categories/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/advanced/fleet/maintenance-categories/</guid><description>&lt;h1 id="maintenance-categories">
  Maintenance Categories
  &lt;a class="anchor" href="#maintenance-categories">#&lt;/a>
 &lt;/h1>
@@ -73,11 +79,16 @@ Let&amp;rsquo;s say that you have a plane with 100 seats and the point where you
 &lt;/h1>
 &lt;p>Before accessing the game, you need to set up an account by selecting the Login button on the &lt;a href="https://www.airlinesim.aero/en/">AirlineSim website&lt;/a>. Next, just hit Sign Up Now and choose a display name (no special characters or spaces), a valid permanent email address and a password for your account.&lt;/p>
 &lt;blockquote class="book-hint info">
- &lt;strong>Info&lt;/strong>&lt;br>
-Sometimes, problems may occur when sending registration emails to Hotmail or MSN addresses. Try to use an alternative email address for registration, if possible. In case you already used a Hotmail or MSN address to register with AirlineSim, please contact &lt;a href="https://www.airlinesim.aero/blog/pages/support/">support&lt;/a>.
-&lt;/blockquote>
-
-&lt;p>It’s also possible to play AirlineSim by signing up using Facebook.&lt;/p></description></item><item><title>Commercial Tab</title><link>https://handbook.airlinesim.aero/en/docs/user-interface/commercial-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/user-interface/commercial-tab/</guid><description>&lt;h1 id="commercial-tab">
+&lt;p>&lt;strong>Info&lt;/strong>&lt;br>
+Sometimes, problems may occur when sending registration emails to Hotmail or MSN addresses. Try to use an alternative email address for registration, if possible. In case you already used a Hotmail or MSN address to register with AirlineSim, please contact &lt;a href="https://www.airlinesim.aero/blog/pages/support/">support&lt;/a>.&lt;/p></description></item><item><title>Batch Commands</title><link>https://handbook.airlinesim.aero/en/docs/advanced/exclusive-game-worlds/batch-commands/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/advanced/exclusive-game-worlds/batch-commands/</guid><description>&lt;h1 id="batch-commands">
+ Batch Commands
+ &lt;a class="anchor" href="#batch-commands">#&lt;/a>
+&lt;/h1>
+&lt;p>There are certain reoccurring tasks specific to exclusive game worlds, like adding funds to an airline or generating a
+new batch of used aircraft. Individually, these are easy to manage. But once there are a lot of them to execute at once,
+like after game world setup or when handing out fresh funds to all players in a world, these quickly become tedious.&lt;/p>
+&lt;p>This is where &lt;em>batch commands&lt;/em> come in: As the name suggests, these allow to execute many commands in a single batch.
+This decreases the chance for errors and the workload both for game world owners and AirlineSim support staff.&lt;/p></description></item><item><title>Commercial Tab</title><link>https://handbook.airlinesim.aero/en/docs/user-interface/commercial-tab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/user-interface/commercial-tab/</guid><description>&lt;h1 id="commercial-tab">
  Commercial Tab
  &lt;a class="anchor" href="#commercial-tab">#&lt;/a>
 &lt;/h1>
@@ -107,10 +118,9 @@ Sometimes, problems may occur when sending registration emails to Hotmail or MSN
 &lt;/h1>
 &lt;p>If you ever decide to close your account, please send a &lt;a href="https://www.airlinesim.aero/blog/pages/support/">support ticket&lt;/a> via email so we can deactivate the account for you.&lt;/p>
 &lt;blockquote class="book-hint danger">
- &lt;strong>Warning&lt;/strong>&lt;br>
-An account deactivation affects both your AirlineSim and Prosperous Universe account.
+&lt;p>&lt;strong>Warning&lt;/strong>&lt;br>
+An account deactivation affects both your AirlineSim and Prosperous Universe account.&lt;/p>
 &lt;/blockquote>
-
 &lt;p>In case you only want to remove your account from an AirlineSim game world, just navigate to the world&amp;rsquo;s Settings tab and click on Deactivation. This will irreversibly delete all of your account&amp;rsquo;s holdings and subsidiaries, so please read the details provided on the page carefully before proceeding. Your central user account remains unaffected by this.&lt;/p></description></item><item><title>Demand Calculation</title><link>https://handbook.airlinesim.aero/en/docs/advanced/bookings/demand/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/advanced/bookings/demand/</guid><description>&lt;h1 id="demand-calculation">
  Demand Calculation
  &lt;a class="anchor" href="#demand-calculation">#&lt;/a>
@@ -302,11 +312,8 @@ Clicking on an aircraft model gives you a summary of its related variants and so
 &lt;/h2>
 &lt;p>Inability to pay or insolvency means that a natural person or legal entity isn&amp;rsquo;t able to pay for bills through their own cash flow, meaning the regular income isn&amp;rsquo;t sufficient to cover the regular costs. In most cases, the credit limit is used up as well. This often results in giving up the company and ceasing commercial operations.&lt;/p>
 &lt;blockquote class="book-hint info">
- &lt;strong>Info&lt;/strong>&lt;br>
-In AirlineSim, there is no overdraft credit to pay leasing installments or salaries from, so your company&amp;rsquo;s liquidity is determined by the balance of your bank account.
-&lt;/blockquote>
-
-&lt;p>If you&amp;rsquo;re unable to pay the leasing rate of an aircraft, your enterprise is considered unable to pay at that specific moment. In that case, the leasing contract will be immediately terminated, the aircraft returned and the security deposit (minus the leasing rate) refunded to your bank account.&lt;/p></description></item><item><title>Creating Routes</title><link>https://handbook.airlinesim.aero/en/docs/beginners-guide/creating-routes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/beginners-guide/creating-routes/</guid><description>&lt;h1 id="creating-routes">
+&lt;p>&lt;strong>Info&lt;/strong>&lt;br>
+In AirlineSim, there is no overdraft credit to pay leasing installments or salaries from, so your company&amp;rsquo;s liquidity is determined by the balance of your bank account.&lt;/p></description></item><item><title>Creating Routes</title><link>https://handbook.airlinesim.aero/en/docs/beginners-guide/creating-routes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/beginners-guide/creating-routes/</guid><description>&lt;h1 id="creating-routes">
  Creating Routes
  &lt;a class="anchor" href="#creating-routes">#&lt;/a>
 &lt;/h1>
@@ -375,15 +382,8 @@ In AirlineSim, there is no overdraft credit to pay leasing installments or salar
 &lt;/h1>
 &lt;p>Before you can hit the skies, you need to equip your aircraft with a cabin and configure its seat layout - regardless of whether you own new or used machines. Let&amp;rsquo;s see how it&amp;rsquo;s done!&lt;/p>
 &lt;blockquote class="book-hint info">
- &lt;strong>Info&lt;/strong>&lt;br>
-This step does not apply if you want to operate cargo aircraft. Though it&amp;rsquo;s not the best, there is a default configuration already installed in all of your new aircraft.
-&lt;/blockquote>
-
-&lt;h2 id="using-the-cabin-editor">
- Using the Cabin Editor
- &lt;a class="anchor" href="#using-the-cabin-editor">#&lt;/a>
-&lt;/h2>
-&lt;p>Go to the Commercial tab and select Cabin Configurations. This page shows all of your existing setups. In order to create a new one, pick a name, choose which aircraft type it should apply to and click on Create New Configuration.&lt;/p></description></item><item><title>Private Messages</title><link>https://handbook.airlinesim.aero/en/docs/user-interface/private-messages/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/user-interface/private-messages/</guid><description>&lt;h1 id="private-messages">
+&lt;p>&lt;strong>Info&lt;/strong>&lt;br>
+This step does not apply if you want to operate cargo aircraft. Though it&amp;rsquo;s not the best, there is a default configuration already installed in all of your new aircraft.&lt;/p></description></item><item><title>Private Messages</title><link>https://handbook.airlinesim.aero/en/docs/user-interface/private-messages/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://handbook.airlinesim.aero/en/docs/user-interface/private-messages/</guid><description>&lt;h1 id="private-messages">
  Private Messages
  &lt;a class="anchor" href="#private-messages">#&lt;/a>
 &lt;/h1>

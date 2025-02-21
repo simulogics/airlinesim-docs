@@ -18,6 +18,11 @@ Batch commands are simply a list of commands followed by one or more parameters.
 tabs or semicolons. As such, batch commands are best prepared in a regular spreadsheet. Ideally, this is a Google
 Sheet so you can just share the respective link with support.
 
+{{% hint info %}}
+**Info**  
+Currently, support staff has to execute the batch commands for you. In the future, we plan to offer an interface which allows game world owners to execute batch commands themselves.
+{{% /hint %}}
+
 Here's an example:
 
 ```
@@ -28,7 +33,10 @@ add_user    BatchUse
 As you'd expect, this batch will remove 1,000,000 ASD from `Batch Airlines` and activate the user `BatchUser` in the
 respective game world.
 
-**Important:** All values referencing a particular resource, like usernames or aircraft types, need to be **exact**. AirlineSim cannot and will not "guess" what the closest match might be.
+{{% hint warning %}}
+**Important**  
+All values referencing a particular resource, like usernames or aircraft types, need to be **exact**. AirlineSim cannot and will not "guess" what the closest match might be.
+{{% /hint %}}
 
 ## Available commands
 
@@ -36,6 +44,11 @@ Below you can find a reference of all currently implemented commands. Values wra
 need to be replaced with the respective value.
 
 ### Add User
+
+{{% hint warning %}}
+**Important**  
+Technically, this command requires account management admin privileges. So once we introduce an interface for game world admins to execute batch commands by themselves, this command likely won't be available.
+{{% /hint %}}
 
 ```
 add_user    {DISPLAY_NAME}

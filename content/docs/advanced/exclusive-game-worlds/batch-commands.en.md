@@ -88,12 +88,12 @@ This command generates the given amount of aircraft for the given type.
 Note that for initial setup or reset of game worlds, it is easier to generate the (initial) set of used aircraft using a custom aircraft availabilities sheet. Support will help you with setting this up.
 
 ```
-generate_aircraft    {AIRCRAFT_TYPE} {AMOUNT} [{COMPANY_NAME}]
+generate_aircraft    {AIRCRAFT_TYPE} {AMOUNT} [{RECEIVER_NAME}]
 ```
 
 - `{AIRCRAFT_TYPE}` is the _exact_ name of the aircraft type to create aircraft of.
 - `{AMOUNT}` is the amount of aircraft to generate.
-- (optional) `{COMPANY_NAME}` is the _exact_ name of the company to add the aircraft to.
+- (optional) `{RECEIVER_NAME}` is the _exact_ name of the company to place the aircraft with.
 
 {{% hint info %}}
 **Info**  

@@ -41,7 +41,7 @@ All values referencing a particular resource, like usernames or aircraft types, 
 ## Available commands
 
 Below you can find a reference of all currently implemented commands. Values wrapped in curly braces (like `{THIS}`)
-need to be replaced with the respective value.
+are parameters and need to be replaced with the respective value. Parameters in brackets (like `[{THIS}]`) are optional.
 
 ### Add User
 
@@ -88,8 +88,14 @@ This command generates the given amount of aircraft for the given type.
 Note that for initial setup or reset of game worlds, it is easier to generate the (initial) set of used aircraft using a custom aircraft availabilities sheet. Support will help you with setting this up.
 
 ```
-generate_aircraft    {AIRCRAFT_TYPE} {AMOUNT}
+generate_aircraft    {AIRCRAFT_TYPE} {AMOUNT} [{COMPANY_NAME}]
 ```
 
 - `{AIRCRAFT_TYPE}` is the _exact_ name of the aircraft type to create aircraft of.
-- `{AMOUNT}` is the amount of aircraft to generate. 
+- `{AMOUNT}` is the amount of aircraft to generate.
+- (optional) `{COMPANY_NAME}` is the _exact_ name of the company to add the aircraft to.
+
+{{% hint info %}}
+**Info**  
+Rather than placing the generated aircraft with one of the official AirlineSim aircraft trading companies, you can optionally specify a company that will receive them instead. The production dates will still be distributed among the production period of the respective type. Consequently, for the receiving company, this transaction will be booked as "miscellaneous earnings" in the amount of the factory price, followed by immediate depreciation according to the generated aircraft's age.
+{{% /hint %}}

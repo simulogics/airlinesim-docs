@@ -97,5 +97,5 @@ generate_aircraft    {AIRCRAFT_TYPE} {AMOUNT} [{RECEIVER_NAME}]
 
 {{% hint info %}}
 **Info**  
-Rather than placing the generated aircraft with one of the official AirlineSim aircraft trading companies, you can optionally specify a company that will receive them instead. The production dates will still be distributed among the production period of the respective type. Consequently, for the receiving company, this transaction will be booked as "miscellaneous earnings" in the amount of the factory price, followed by immediate depreciation according to the generated aircraft's age.
+Instead of assigning the generated aircraft to one of the official AirlineSim aircraft trading companies, you can optionally specify a different company to receive them. The production dates will still be spread across the type’s designated production period. As a result, the receiving company will record the transaction as miscellaneous income equal to the aircraft’s factory price, followed by immediate depreciation based on the generated aircraft’s age.
 {{% /hint %}}

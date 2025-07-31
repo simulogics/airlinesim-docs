@@ -60,7 +60,7 @@ Hier könnt ihr ein Logo für euer Unternehmen hochladen. Das Logo wird in der F
 
 ### Kleines Logo
 
-Ihr könnt zudem eine kleinere Version eures Logos hinzufügen, die im gesamten Spiel angezeigt wird (z. B. auf Ankunfts- und Abflugtafeln). Dieses Bild muss eine Größe von 120 x 23 Pixeln haben. Bitte stellt sicher, dass es auch unseren Logo-Richtlinien entspricht (verfügbar unter Datenbank > Namensregeln in jeder Spielwelt) und bedenkt, dass das Design vom Moderationsteam genehmigt werden muss, bevor es aktiviert wird.
+Ihr könnt zudem eine kleinere Version eures Logos hinzufügen, die im gesamten Spiel angezeigt wird (z. B. auf Ankunfts- und Abflugtafeln). Dieses Bild muss eine Größe von 120 x 23 Pixeln haben. Bitte stellt sicher, dass es auch unseren Logo-Richtlinien entspricht (verfügbar unter Datenbank > Namensregeln in jeder Spielwelt).
 
 ## Spieleinstellungen
 

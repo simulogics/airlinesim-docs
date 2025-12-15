@@ -27,6 +27,12 @@ title = "AirlineSim Handbuch"
 weight = 2
 contentDir = 'content.de'
 
+[languages.zh-CN]
+languageName = "简体中文（社区翻译）"
+title = "AirlineSim 手册"
+weight = 3
+contentDir = 'content.zh-CN'
+
 # (Optional) Theme is intended for documentation use, therefore it doesn't render taxonomy.
 # You can remove related files with config below
 disableKinds = ['taxonomy']
